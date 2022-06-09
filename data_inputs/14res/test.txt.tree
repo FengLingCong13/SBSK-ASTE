@@ -1,0 +1,8533 @@
+The	DT	NP
+bread	NN	NP
+is	VBZ	VP
+top	JJ	VP	NP
+notch	NN	VP	NP
+as	RB	VP	ADJP
+well	RB	VP	ADJP
+.	.
+
+I	PRP	NP
+have	VBP	VP
+to	TO	VP	VP
+say	VB	VP	VP	VP
+they	PRP	VP	VP	VP	SBAR	NP
+have	VBP	VP	VP	VP	SBAR	VP
+one	CD	VP	VP	VP	SBAR	VP	NP	NP
+of	IN	VP	VP	VP	SBAR	VP	NP	PP
+the	DT	VP	VP	VP	SBAR	VP	NP	PP	NP	NP
+fastest	JJS	VP	VP	VP	SBAR	VP	NP	PP	NP	NP
+delivery	NN	VP	VP	VP	SBAR	VP	NP	PP	NP	NP
+times	NNS	VP	VP	VP	SBAR	VP	NP	PP	NP	NP
+in	IN	VP	VP	VP	SBAR	VP	NP	PP	NP	PP
+the	DT	VP	VP	VP	SBAR	VP	NP	PP	NP	PP	NP
+city	NN	VP	VP	VP	SBAR	VP	NP	PP	NP	PP	NP
+.	.
+
+Food	NNP	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+fresh	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+hot	JJ	VP	ADJP	ADJP
+ready	JJ	VP	ADJP	ADJP
+to	TO	VP	VP
+eat	VB	VP	VP	VP
+!	.
+
+Did	VBD	SQ
+I	PRP	SQ	NP
+mention	VB	SQ	VP
+that	IN	SQ	VP	SBAR
+the	DT	SQ	VP	SBAR	NP
+coffee	NN	SQ	VP	SBAR	NP
+is	VBZ	SQ	VP	SBAR	VP
+OUTSTANDING	NNP	SQ	VP	SBAR	VP	NP
+?	.	SQ
+
+Certainly	RB	ADVP
+not	RB	NP	NP
+the	DT	NP	NP
+best	JJS	NP	NP
+sushi	NN	NP	NP
+in	IN	NP	PP
+New	NNP	NP	PP	NP
+York	NNP	NP	PP	NP
+,	,
+however	RB	ADVP
+,	,
+it	PRP	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+fresh	JJ	VP	ADJP
+,	,
+and	CC
+the	DT	NP
+place	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP	ADJP
+clean	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+sterile	JJ	VP	ADJP	ADJP
+.	.
+
+I	PRP	NP
+trust	VBP	VP
+the	DT	VP	NP
+people	NNS	VP	NP
+at	IN	VP	PP
+Go	NNP	VP	PP	NP
+Sushi	NNP	VP	PP	NP
+,	,
+it	PRP	NP
+never	RB	ADVP
+disappoints	VBZ	VP
+.	.
+
+Straight-forward	JJ	NP	NP
+,	,	NP
+no	DT	NP	NP	NP
+surprises	NNS	NP	NP	NP
+,	,	NP	NP
+very	RB	NP	NP	NP	ADJP
+decent	JJ	NP	NP	NP	ADJP
+Japanese	JJ	NP	NP	NP
+food	NN	NP	NP	NP
+.	.	NP
+
+BEST	RB	NP	NP	ADJP
+spicy	JJ	NP	NP	ADJP
+tuna	NN	NP	NP
+roll	NN	NP	NP	NP
+,	,	NP	NP
+great	JJ	NP	NP	NP
+asian	JJ	NP	NP	NP
+salad	NN	NP	NP	NP
+.	.	NP
+
+Try	VB	VP
+the	DT	VP	NP	NP
+rose	NN	VP	NP	NP	NX
+roll	NN	VP	NP	NP	NX
+(	-LRB-	VP	NP	PRN
+not	RB	VP	NP	PRN	PP
+on	IN	VP	NP	PRN	PP
+menu	NN	VP	NP	PRN	PP	NP
+)	-RRB-	VP	NP	PRN
+.	.
+
+I	PRP	NP
+love	VBP	VP
+the	DT	VP	NP	NP
+drinks	NNS	VP	NP	NP
+,	,	VP	NP
+esp	NN	VP	NP	NP
+lychee	NN	VP	NP	NP
+martini	NN	VP	NP	NP
+,	,
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+also	RB	VP	ADVP
+VERY	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+While	IN	SBAR
+there	EX	SBAR	NP
+'s	VBZ	SBAR	VP
+a	DT	SBAR	VP	NP
+decent	JJ	SBAR	VP	NP
+menu	NN	SBAR	VP	NP
+,	,
+it	PRP	NP
+should	MD	VP
+n't	RB	VP
+take	VB	VP	VP
+ten	CD	VP	VP	NP-TMP
+minutes	NNS	VP	VP	NP-TMP
+to	TO	VP	VP	VP
+get	VB	VP	VP	VP	VP
+your	PRP$	VP	VP	VP	VP	NP	NP
+drinks	NNS	VP	VP	VP	VP	NP	NP
+and	CC	VP	VP	VP	VP	NP
+45	CD	VP	VP	VP	VP	NP	NP
+for	IN	VP	VP	VP	VP	PP
+a	DT	VP	VP	VP	VP	PP	NP
+dessert	NN	VP	VP	VP	VP	PP	NP
+pizza	NN	VP	VP	VP	VP	PP	NP
+.	.
+
+Once	RB	SBAR
+we	PRP	SBAR	NP
+sailed	VBD	SBAR	VP	VP
+,	,	SBAR	VP	VP
+the	DT	SBAR	VP	VP	NP
+top-notch	JJ	SBAR	VP	VP	NP
+food	NN	SBAR	VP	VP	NP
+and	CC	SBAR	VP
+live	VB	SBAR	VP	VP
+entertainment	NN	SBAR	VP	VP	NP
+sold	VBD	VP
+us	PRP	VP	NP
+on	IN	VP	PP
+a	DT	VP	PP	NP
+unforgettable	JJ	VP	PP	NP
+evening	NN	VP	PP	NP
+.	.
+
+Our	PRP$	NP	NP	NP
+waiter	NN	NP	NP	NP
+was	VBD	NP	NP	SBAR	VP
+horrible	JJ	NP	NP	SBAR	VP	ADJP
+;	:	NP
+so	RB	NP
+rude	JJ	NP	NP	NP
+and	CC	NP	NP
+disinterested	JJ	NP	NP	NP
+.	.	NP
+
+The	DT	NP	NP
+sangria	NN	NP	NP	NP
+'s	POS	NP	NP	NP
+-	:	NP
+watered	VBN	NP	NP	NP
+down	RP	NP	NP	ADVP
+.	.	NP
+
+menu	NN	NP	NP
+-	:	NP
+uneventful	JJ	NP	NP	ADJP
+,	,	NP	NP	ADJP
+small	JJ	NP	NP	ADJP
+.	.	NP
+
+Anytime	RB	ADVP	ADVP
+and	CC	ADVP
+everytime	RB	ADVP	ADVP
+I	PRP	NP
+find	VBP	VP
+myself	PRP	VP	NP
+in	IN	VP	PP
+the	DT	VP	PP	NP	NP
+neighborhood	NN	VP	PP	NP	NP
+I	PRP	VP	PP	NP	SBAR	NP
+will	MD	VP	PP	NP	SBAR	VP
+go	VB	VP	PP	NP	SBAR	VP	VP
+to	TO	VP	PP	NP	SBAR	VP	VP	PP
+Sushi	NNP	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	NP
+Rose	NNP	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	NP
+for	IN	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	PP
+fresh	JJ	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	PP	NP
+sushi	NN	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	PP	NP
+and	CC	VP	PP	NP	SBAR	VP	VP	PP	NP
+great	JJ	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	NP
+portions	NNS	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	NP
+all	DT	VP	PP	NP	SBAR	VP	VP	PP	NP	NP	NP
+at	IN	VP	PP	NP	SBAR	VP	VP	PP
+a	DT	VP	PP	NP	SBAR	VP	VP	PP	NP
+reasonable	JJ	VP	PP	NP	SBAR	VP	VP	PP	NP
+price	NN	VP	PP	NP	SBAR	VP	VP	PP	NP
+.	.
+
+Great	JJ	NP	NP
+food	NN	NP	NP
+but	CC	NP	PP
+the	DT	NP	PP	NP
+service	NN	NP	PP	NP
+was	VBD	VP
+dreadful	JJ	VP	ADJP
+!	.
+
+The	DT	NP	NP
+portions	NNS	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP	NP
+food	NN	NP	PP	NP	NP
+that	WDT	NP	PP	NP	SBAR	WHNP
+came	VBD	NP	PP	NP	SBAR	VP
+out	RP	NP	PP	NP	SBAR	VP	PRT
+were	VBD	VP
+mediocre	JJ	VP	ADJP
+.	.
+
+From	IN	PP
+the	DT	PP	NP
+beginning	NN	PP	NP
+,	,
+we	PRP	NP
+were	VBD	VP
+met	VBN	VP	VP
+by	IN	VP	VP	PP
+friendly	JJ	VP	VP	PP	NP
+staff	NN	VP	VP	PP	NP
+memebers	NNS	VP	VP	PP	NP
+,	,
+and	CC
+the	DT	NP	NP
+convenient	JJ	NP	NP
+parking	NN	NP	NP
+at	IN	NP	PP
+Chelsea	NNP	NP	PP	NP
+Piers	NNP	NP	PP	NP
+made	VBD	VP
+it	PRP	VP	NP
+easy	JJ	VP	ADJP
+for	IN	VP	SBAR
+us	PRP	VP	SBAR	NP
+to	TO	VP	SBAR	VP
+get	VB	VP	SBAR	VP	VP
+to	TO	VP	SBAR	VP	VP	PP
+the	DT	VP	SBAR	VP	VP	PP	NP
+boat	NN	VP	SBAR	VP	VP	PP	NP
+.	.
+
+Desserts	NNS	NP
+are	VBP	VP
+almost	RB	VP	ADJP
+incredible	JJ	VP	ADJP
+:	:
+my	PRP$	NP
+personal	JJ	NP
+favorite	NN	NP
+is	VBZ	VP
+their	PRP$	VP	NP	NP
+Tart	NNP	VP	NP	NP
+of	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+Day	NN	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+extremely	RB	VP	ADJP
+tasty	JJ	VP	ADJP
+,	,	VP
+creatively	RB	VP	VP	ADVP
+presented	VBN	VP	VP
+and	CC
+the	DT	NP
+wine	NN	NP
+excellent	JJ	ADJP
+.	.
+
+THE	DT	NP	NP	NP
+LASAGNA	NNP	NP	NP	NP
+WAS	NNP	NP	NP	NP
+PROBABLY	NNP	NP	NP	NP
+THE	DT	NP	NP	NP
+BEST	NNS	NP	NP	NP
+I	PRP	NP	SBAR	NP
+HAVE	VBP	NP	SBAR	VP
+TASTED	VBN	NP	SBAR	VP	VP
+.	.	NP
+
+Harumi	NNP	NP
+Sushi	NNP	NP
+has	VBZ	VP
+the	DT	VP	NP	NP
+freshest	JJS	VP	NP	NP	ADJP
+and	CC	VP	NP	NP	ADJP
+most	RBS	VP	NP	NP	ADJP	ADJP
+delicious	JJ	VP	NP	NP	ADJP	ADJP
+array	NN	VP	NP	NP
+of	IN	VP	NP	PP
+sushi	NN	VP	NP	PP	NP	NP
+in	IN	VP	NP	PP	NP	PP
+NYC	NNP	VP	NP	PP	NP	PP	NP
+.	.
+
+I	PRP	NP
+highly	RB	ADVP
+recommend	VB	VP
+it	PRP	VP	NP
+for	IN	VP	PP	PP
+not	RB	VP	PP	PP	FRAG	CONJP
+just	RB	VP	PP	PP	FRAG	CONJP
+its	PRP$	VP	PP	PP	FRAG	NP
+superb	JJ	VP	PP	PP	FRAG	NP
+cuisine	NN	VP	PP	PP	FRAG	NP
+,	,	VP	PP
+but	CC	VP	PP	CONJP
+also	RB	VP	PP	CONJP
+for	IN	VP	PP	PP
+its	PRP$	VP	PP	PP	NP
+friendly	JJ	VP	PP	PP	NP
+owners	NNS	VP	PP	PP	NP
+and	CC	VP	PP	PP	NP
+staff	NN	VP	PP	PP	NP
+.	.
+
+If	IN	SBAR
+you	PRP	SBAR	NP
+'re	VBP	SBAR	VP
+craving	NN	SBAR	VP	NP	NP	NP
+some	DT	SBAR	VP	NP	NP	NP
+serious	JJ	SBAR	VP	NP	NP	NP
+indian	JJ	SBAR	VP	NP	NP	NP
+food	NN	SBAR	VP	NP	NP	NP
+and	CC	SBAR	VP	NP
+desire	NN	SBAR	VP	NP	NP	NP
+a	DT	SBAR	VP	NP	NP	NP
+cozy	JJ	SBAR	VP	NP	NP	NP
+ambiance	NN	SBAR	VP	NP	NP	NP
+,	,
+this	DT	NP
+is	VBZ	VP
+quiet	JJ	VP	NP	ADJP
+and	CC	VP	NP	ADJP
+exquisite	JJ	VP	NP	ADJP
+choice	NN	VP	NP
+.	.
+
+I	PRP	NP
+definitely	RB	ADVP
+enjoyed	VBD	VP
+the	DT	VP	NP
+food	NN	VP	NP
+as	RB	VP	ADVP
+well	RB	VP	ADVP
+.	.
+
+It	PRP	NP
+was	VBD	VP
+pleasantly	RB	VP	ADJP
+uncrowded	JJ	VP	ADJP
+,	,
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+delightful	JJ	VP	ADJP
+,	,
+the	DT	NP
+garden	NN	NP
+adorable	JJ	ADJP
+,	,
+the	DT	NP	NP
+food	NN	NP	NP
+(	-LRB-	NP	PRN
+from	IN	NP	PRN	PP
+appetizers	NNS	NP	PRN	PP	NP	NP
+to	TO	NP	PRN	PP	NP	PP
+entrees	NNS	NP	PRN	PP	NP	PP	NP
+)	-RRB-	NP	PRN
+was	VBD	VP
+delectable	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+surprisingly	RB	VP	ADJP
+good	JJ	VP	ADJP
+,	,
+and	CC
+the	DT	NP
+decor	NN	NP
+is	VBZ	VP
+nice	JJ	VP	ADJP
+.	.
+
+How	WRB	FRAG	SBAR	WHADJP
+pretentious	JJ	FRAG	SBAR	WHADJP	ADJP	ADJP
+and	CC	FRAG	SBAR	WHADJP	ADJP	ADJP
+inappropriate	JJ	FRAG	SBAR	WHADJP	ADJP	ADJP
+for	IN	FRAG	SBAR	WHADJP	ADJP	PP
+MJ	NNP	FRAG	SBAR	WHADJP	ADJP	PP	NP
+Grill	NNP	FRAG	SBAR	WHADJP	ADJP	PP	NP
+to	TO	FRAG	SBAR	VP
+claim	VB	FRAG	SBAR	VP	VP
+that	IN	FRAG	SBAR	VP	VP	SBAR
+it	PRP	FRAG	SBAR	VP	VP	SBAR	NP
+provides	VBZ	FRAG	SBAR	VP	VP	SBAR	VP
+power	NN	FRAG	SBAR	VP	VP	SBAR	VP	NP	NP
+lunch	NN	FRAG	SBAR	VP	VP	SBAR	VP	NP	NP
+and	CC	FRAG	SBAR	VP	VP	SBAR	VP	NP
+dinners	NNS	FRAG	SBAR	VP	VP	SBAR	VP	NP	NP
+!	.	FRAG
+
+Two	CD	NP	NP	NP
+wasted	VBN	NP	NP	VP
+steaks	NNS	NP	NP	VP	NP
+--	:	NP
+what	WP	NP	NP	NP
+a	DT	NP	NP	NP
+crime	NN	NP	NP	NP
+!	.	NP
+
+The	DT	NP
+staff	NN	NP
+should	MD	VP
+be	VB	VP	VP
+a	DT	VP	VP	ADJP	ADVP	NP
+bit	NN	VP	VP	ADJP	ADVP	NP
+more	RBR	VP	VP	ADJP	ADVP
+friendly	JJ	VP	VP	ADJP
+.	.
+
+I	PRP	NP
+think	VBP	VP
+the	DT	VP	SBAR	NP
+meatball	NN	VP	SBAR	NP
+parm	NN	VP	SBAR	NP
+is	VBZ	VP	SBAR	VP
+good	JJ	VP	SBAR	VP	ADJP
+.	.
+
+If	IN	SBAR
+you	PRP	SBAR	NP
+want	VBP	SBAR	VP
+good	JJ	SBAR	VP	ADJP
+tasting	NN	SBAR	VP	ADJP
+,	,
+well	RB	ADJP
+seasoned	JJ	ADJP
+latin	NN	ADJP	SBAR	NP
+food	NN	ADJP	SBAR	NP
+eat	VB	ADJP	SBAR	VP
+at	IN	ADJP	SBAR	VP	PP
+Cabana	NNP	ADJP	SBAR	VP	PP	NP
+and	CC
+you	PRP	NP
+ca	MD	VP
+n't	RB	VP
+go	VB	VP	VP
+wrong	JJ	VP	VP	ADJP
+.	.
+
+Definitely	RB	ADVP
+try	VB	VP
+the	DT	VP	NP
+taglierini	NNS	VP	NP
+with	IN	VP	PP
+truffles	NNS	VP	PP	NP
+-	:
+it	PRP	NP
+was	VBD	VP
+incredible	JJ	VP	ADJP
+.	.
+
+Also	RB	ADVP
+,	,
+the	DT	NP
+staff	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP	ADJP
+attentive	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+really	RB	VP	ADJP	ADJP
+personable	JJ	VP	ADJP	ADJP
+.	.
+
+The	DT	NP
+gnocchi	NN	NP
+literally	RB	ADVP
+melts	VBZ	VP
+in	IN	VP	PP
+your	PRP$	VP	PP	NP
+mouth	NN	VP	PP	NP
+!	.
+
+Had	VBD	SINV
+a	DT	SINV	NP	NP
+great	JJ	SINV	NP	NP
+experience	NN	SINV	NP	NP
+at	IN	SINV	NP	PP
+Trio	NNP	SINV	NP	PP	NP
+...	:
+staff	NN	NP
+was	VBD	VP
+pleasant	JJ	VP	ADJP
+;	:
+food	NN	NP
+was	VBD	VP
+tasty	JJ	VP	ADJP
+and	CC	VP	ADJP
+large	JJ	VP	ADJP
+in	IN	VP	PP
+portion	NN	VP	PP	NP
+size	NN	VP	PP	NP
+-	:
+I	PRP	NP
+would	MD	VP
+highly	RB	VP	ADVP
+recommend	VB	VP	VP
+the	DT	VP	VP	NP	NP
+portobello/gorgonzola/sausage	NN	VP	VP	NP	NP
+appetizer	NN	VP	VP	NP	NP
+and	CC	VP	VP	NP
+the	DT	VP	VP	NP	NP
+lobster	NN	VP	VP	NP	NP
+risotto	NN	VP	VP	NP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+good	JJ	VP	ADJP
+,	,	VP
+the	DT	VP	NP	NP
+teriyaki	NN	VP	NP	NP
+I	PRP	VP	NP	SBAR	NP
+recommend	VBP	VP	NP	SBAR	VP
+.	.
+
+Meal	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+expensive	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+what	WP	VP	ADJP	PP	SBAR	WHNP
+you	PRP	VP	ADJP	PP	SBAR	NP
+get	VBP	VP	ADJP	PP	SBAR	VP
+.	.
+
+Try	VB	VP
+the	DT	VP	NP	NP	NP
+Peanut	NNP	VP	NP	NP	NP
+Butter	NN	VP	NP	NP	NP
+Sorbet	NNP	VP	NP	NP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP	NP
+pizza	NN	VP	NP	NP	NP
+with	IN	VP	NP	NP	PP
+soy	NN	VP	NP	NP	PP	NP
+cheese	NN	VP	NP	NP	PP	NP
+!	.
+
+Good	JJ	SBARQ	WHNP	WHNP
+food	NN	SBARQ	WHNP	NP
+at	IN	SBARQ	WHNP	NP	PP
+the	DT	SBARQ	WHNP	NP	PP	NP	NP
+right	JJ	SBARQ	WHNP	NP	PP	NP	NP
+price	NN	SBARQ	WHNP	NP	PP	NP	NP
+,	,	SBARQ	WHNP	NP	PP	NP
+what	WDT	SBARQ	WHNP	NP	PP	NP	SBAR	WHNP
+more	RBR	SBARQ	WHNP	NP	PP	NP	SBAR	ADJP
+can	MD	SBARQ	SQ
+you	PRP	SBARQ	SQ	NP
+ask	VB	SBARQ	SQ	VP
+for	IN	SBARQ	SQ	VP	PP
+.	.	SBARQ
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+top	JJ	VP	NP
+notch	NN	VP	NP
+,	,	PRN
+the	DT	PRN	NP
+service	NN	PRN	NP
+is	VBZ	PRN	VP
+attentive	JJ	PRN	VP	ADJP
+,	,	PRN
+and	CC
+the	DT	NP
+atmosphere	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+food	NN	NP	NP
+,	,	NP
+great	JJ	NP	NP
+waitstaff	NN	NP	NP
+,	,	NP
+great	JJ	NP	NP
+atmosphere	NN	NP	NP
+,	,	NP
+and	CC	NP
+best	JJS	NP	NP	NP
+of	IN	NP	NP	PP
+all	DT	NP	NP	PP	NP
+GREAT	JJ	NP	NP	PP	NP
+beer	NN	NP	NP	PP	NP
+!	.	NP
+
+this	DT	NP
+is	VBZ	VP
+still	RB	VP	ADVP
+one	CD	VP	NP	NP
+of	IN	VP	NP	PP
+my	PRP$	VP	NP	PP	NP
+most	RBS	VP	NP	PP	NP
+favorite	JJ	VP	NP	PP	NP
+restaurants	NNS	VP	NP	PP	NP
+in	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP	NP
+area	NN	VP	NP	PP	NP	NP
+the	DT	VP	NP	PP	NP	SBAR	NP
+food	NN	VP	NP	PP	NP	SBAR	NP
+is	VBZ	VP	NP	PP	NP	SBAR	VP	VP
+inexpensive	JJ	VP	NP	PP	NP	SBAR	VP	VP	ADJP
+but	CC	VP	NP	PP	NP	SBAR	VP	VP	ADJP
+very	RB	VP	NP	PP	NP	SBAR	VP	VP	ADJP
+good	JJ	VP	NP	PP	NP	SBAR	VP	VP	ADJP
+(	-LRB-	VP	NP	PP	NP	SBAR	VP	PRN
+kimono	NN	VP	NP	PP	NP	SBAR	VP	PRN	NP
+shrimp	NN	VP	NP	PP	NP	SBAR	VP	PRN	NP
+special	NN	VP	NP	PP	NP	SBAR	VP	PRN	NP
+was	VBD	VP	NP	PP	NP	SBAR	VP	PRN	VP
+excellent	JJ	VP	NP	PP	NP	SBAR	VP	PRN	VP	ADJP
+)	-RRB-	VP	NP	PP	NP	SBAR	VP	PRN
+and	CC	VP	NP	PP	NP	SBAR	VP
+has	VBZ	VP	NP	PP	NP	SBAR	VP	VP
+a	DT	VP	NP	PP	NP	SBAR	VP	VP	NP
+great	JJ	VP	NP	PP	NP	SBAR	VP	VP	NP
+atmosphere	NN	VP	NP	PP	NP	SBAR	VP	VP	NP
+.	.
+
+The	DT	NP
+menu	NN	NP
+is	VBZ	VP
+interesting	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+quite	RB	VP	ADJP
+reasonably	RB	VP	ADJP	ADJP
+priced	VBN	VP	ADJP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+delicious	JJ	VP	ADJP
+and	CC
+clearly	RB	ADVP
+fresh	JJ	NP
+ingredients	NNS	NP
+were	VBD	VP
+used	VBN	VP	VP
+.	.
+
+This	DT	NP
+made	VBD	VP
+it	PRP	VP	NP
+obvious	JJ	VP	ADJP
+that	IN	VP	ADJP	SBAR
+the	DT	VP	ADJP	SBAR	NP
+food	NN	VP	ADJP	SBAR	NP
+was	VBD	VP	ADJP	SBAR	VP
+n't	RB	VP	ADJP	SBAR	VP
+cooked	VBN	VP	ADJP	SBAR	VP	VP
+fresh	JJ	VP	ADJP	SBAR	VP	VP	ADJP
+;	:
+it	PRP	NP
+was	VBD	VP
+obviously	RB	VP	ADVP
+made	VBN	VP	VP	VP
+before	IN	VP	VP	VP	PP
+hand	NN	VP	VP	VP	PP	NP
+and	CC	VP	VP
+then	RB	VP	VP	VP	ADVP
+reheated	VBN	VP	VP	VP
+.	.
+
+Appetizer	NN	NP
+are	VBP	VP
+excellent	JJ	VP	ADJP
+here	RB	VP	ADVP
+;	:
+you	PRP	NP
+can	MD	VP
+make	VB	VP	VP
+a	DT	VP	VP	NP	NP
+great	JJ	VP	VP	NP	NP	ADJP
+(	-LRB-	VP	VP	NP	NP	PRN
+and	CC	VP	VP	NP	NP	PRN
+inexpensive	JJ	VP	VP	NP	NP	PRN	ADJP
+)	-RRB-	VP	VP	NP	NP	PRN
+meal	NN	VP	VP	NP	NP
+out	IN	VP	VP	NP	PP	ADVP
+of	IN	VP	VP	NP	PP
+them	PRP	VP	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+spicy	JJ	NP
+mussels	NNS	NP
+are	VBP	VP
+a	DT	VP	NP
+highlight	NN	VP	NP
+.	.
+
+Also	RB	ADVP
+get	VB	VP	VP
+the	DT	VP	VP	NP
+Onion	NNP	VP	VP	NP
+Rings	NNP	VP	VP	NP
+--	:	VP
+best	JJS	VP	NP	NP
+we	PRP	VP	NP	SBAR	NP
+'ve	VBP	VP	NP	SBAR	VP
+ever	RB	VP	NP	SBAR	VP	ADVP
+had	VBN	VP	NP	SBAR	VP	VP
+.	.
+
+However	RB	ADVP
+,	,
+being	VBG	VP
+foodies	NNS	VP	NP
+,	,
+we	PRP	NP
+were	VBD	VP
+utterly	RB	VP	ADJP
+disappointed	VBN	VP	ADJP
+with	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+food	NN	VP	ADJP	PP	NP
+.	.
+
+Huge	JJ	NP	NP
+portions	NNS	NP	NP
+,	,	NP
+great	JJ	NP	NP	NP	ADJP
+and	CC	NP	NP	NP	ADJP
+attentive	JJ	NP	NP	NP	ADJP
+service	NN	NP	NP	NP
+,	,	NP	NP
+and	CC	NP	NP
+pretty	RB	NP	NP	NP	ADJP
+good	JJ	NP	NP	NP	ADJP
+prices	NNS	NP	NP	NP
+.	.	NP
+
+I	PRP	NP
+was	VBD	VP
+highly	RB	VP	ADJP
+disappointed	VBN	VP	ADJP
+by	IN	VP	ADJP	PP
+their	PRP$	VP	ADJP	PP	NP
+service	NN	VP	ADJP	PP	NP
+and	CC	VP	ADJP	PP	NP
+food	NN	VP	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+complained	VBD	VP	VP
+to	TO	VP	VP	PP
+the	DT	VP	VP	PP	NP
+waiter	NN	VP	VP	PP	NP
+and	CC	VP
+then	RB	VP	VP	PP
+to	TO	VP	VP	PP	PP
+the	DT	VP	VP	PP	PP	NP
+manager	NN	VP	VP	PP	PP	NP
+,	,	VP	VP	PP
+but	CC	VP	VP	PP
+the	DT	VP	VP	PP	PP	NP	NP
+intensity	NN	VP	VP	PP	PP	NP	NP
+of	IN	VP	VP	PP	PP	NP	PP
+rudeness	NN	VP	VP	PP	PP	NP	PP	NP	NP
+from	IN	VP	VP	PP	PP	NP	PP	NP	PP
+them	PRP	VP	VP	PP	PP	NP	PP	NP	PP	NP
+just	RB	VP	VP	ADVP
+went	VBD	VP	VP
+up	RB	VP	VP	PRT
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+and	CC
+the	DT	NP
+milkshakes	NNS	NP
+are	VBP	VP
+even	RB	VP	ADVP
+better	RBR	VP	ADVP
+!	.
+
+the	DT	NP
+mushroom	NN	NP
+barley	NN	NP
+soup	NN	NP
+is	VBZ	VP
+amazing	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+'m	VBP	VP
+glad	JJ	VP	ADJP
+I	PRP	VP	ADJP	SBAR	NP
+did	VBD	VP	ADJP	SBAR	VP
+as	IN	VP	ADJP	SBAR	VP	SBAR
+the	DT	VP	ADJP	SBAR	VP	SBAR	NP
+food	NN	VP	ADJP	SBAR	VP	SBAR	NP
+was	VBD	VP	ADJP	SBAR	VP	SBAR	VP
+very	RB	VP	ADJP	SBAR	VP	SBAR	VP	ADJP
+good	JJ	VP	ADJP	SBAR	VP	SBAR	VP	ADJP
+and	CC
+the	DT	NP
+staff	NN	NP
+was	VBD	VP
+friendly	JJ	VP	ADJP
+,	,	VP	ADJP
+courteous	JJ	VP	ADJP
+and	CC	VP	ADJP
+efficient	JJ	VP	ADJP
+.	.
+
+Their	PRP$	NP
+duck	NN	NP
+here	RB	ADVP
+is	VBZ	VP
+also	RB	VP	ADVP
+absolutely	RB	VP	ADJP
+delicious	JJ	VP	ADJP
+.	.
+
+While	IN	SBAR
+it	PRP	SBAR	NP
+was	VBD	SBAR	VP
+large	JJ	SBAR	VP	ADJP	ADJP
+and	CC	SBAR	VP	ADJP
+a	DT	SBAR	VP	ADJP	ADJP	NP
+bit	NN	SBAR	VP	ADJP	ADJP	NP
+noisy	JJ	SBAR	VP	ADJP	ADJP
+,	,
+the	DT	NP
+drinks	NNS	NP
+were	VBD	VP
+fantastic	JJ	VP	ADJP
+,	,
+and	CC
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+superb	JJ	VP	ADJP
+.	.
+
+One	CD	FRAG	NP
+caveat	NN	FRAG	NP
+:	:	FRAG
+Some	DT	FRAG	NP	NP
+of	IN	FRAG	NP	PP
+the	DT	FRAG	NP	PP	NP
+curried	JJ	FRAG	NP	PP	NP
+casseroles	NNS	FRAG	NP	PP	NP
+can	MD	FRAG	VP
+be	VB	FRAG	VP	VP
+a	DT	FRAG	VP	VP	ADJP	NP
+trifle	RB	FRAG	VP	VP	ADJP	NP
+harsh	JJ	FRAG	VP	VP	ADJP
+.	.	FRAG
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+almost	RB	VP	ADJP
+always	RB	VP	ADJP
+EXCELLENT	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+pleasantly	RB	VP	ADJP
+surprised	VBN	VP	ADJP
+at	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+taste	NN	VP	ADJP	PP	NP
+.	.
+
+A	DT	NP
+nice	JJ	NP
+space	NN	NP
+,	,
+as	RB	ADVP
+long	RB	ADVP
+as	IN	ADVP	SBAR
+it	PRP	ADVP	SBAR	NP
+does	VBZ	ADVP	SBAR	VP
+n't	RB	ADVP	SBAR	VP
+get	VB	ADVP	SBAR	VP	VP
+too	RB	ADVP	SBAR	VP	VP	UCP	ADJP
+crowded	JJ	ADVP	SBAR	VP	VP	UCP	ADJP
+and	CC	ADVP	SBAR	VP	VP	UCP
+a	DT	ADVP	SBAR	VP	VP	UCP	NP	NP
+singleminded	JJ	ADVP	SBAR	VP	VP	UCP	NP	NP
+devotion	NN	ADVP	SBAR	VP	VP	UCP	NP	NP
+to	TO	ADVP	SBAR	VP	VP	UCP	NP	PP
+its	PRP$	ADVP	SBAR	VP	VP	UCP	NP	PP	NP
+chosen	VBN	ADVP	SBAR	VP	VP	UCP	NP	PP	NP
+cuisine	NN	ADVP	SBAR	VP	VP	UCP	NP	PP	NP
+make	VBP	VP
+Mare	NNP	VP	NP
+a	DT	VP	NP	NP
+great	JJ	VP	NP	NP
+choice	NN	VP	NP	NP
+for	IN	VP	NP	PP
+seafood	NN	VP	NP	PP	NP
+lovers	NNS	VP	NP	PP	NP
+.	.
+
+they	PRP	NP
+really	RB	ADVP
+provide	VBP	VP
+a	DT	VP	NP
+relaxing	NN	VP	NP
+,	,	VP	NP
+laid-back	JJ	VP	NP
+atmosphere	NN	VP	NP
+.	.
+
+This	DT	NP
+particular	JJ	NP
+location	NN	NP
+certainly	RB	ADVP
+uses	VBZ	VP
+substandard	JJ	VP	NP
+meats	NNS	VP	NP
+.	.
+
+The	DT	NP
+Management	NN	NP
+was	VBD	VP
+less	JJR	VP	ADJP	ADJP
+than	IN	VP	ADJP	PP
+accomodating	VBG	VP	ADJP	PP	VP
+.	.
+
+The	DT	NP
+ambience	NN	NP
+is	VBZ	VP	VP
+also	RB	VP	VP	ADVP
+more	RBR	VP	VP	ADJP
+laid-back	JJ	VP	VP	ADJP
+and	CC	VP
+relaxed	VBN	VP	VP
+.	.
+
+the	DT	NP
+teas	NNS	NP
+are	VBP	VP
+great	JJ	VP	ADJP
+and	CC
+all	PDT	NP
+the	DT	NP
+sweets	NNS	NP
+are	VBP	VP
+homemade	NN	VP	NP
+.	.
+
+mojitos	NNS	NP	NP
+and	CC	NP
+the	DT	NP	NP
+service	NN	NP	NP
+are	VBP	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+part	NN	VP	NP	NP
+in	IN	VP	NP	PP
+there	EX	VP	NP	PP	NP
+
+Sandwiches	NNS	NP	NP
+,	,	NP	NP
+burgers	NNS	NP	NP
+and	CC	NP	NP
+salads	NNS	NP	NP
+,	,	NP
+like	IN	NP	PP
+the	DT	NP	PP	NP
+lemon-dressed	JJ	NP	PP	NP
+cobb	NN	NP	PP	NP
+,	,	NP
+are	VBP	VP
+classic	JJ	VP	NP
+successes	NNS	VP	NP
+.	.
+
+The	DT	NP
+design	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+intimate	JJ	VP	ADJP
+and	CC	VP	ADJP
+romantic	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+wonderful	JJ	VP	ADJP
+and	CC	VP	ADJP
+imaginative	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+staff	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+sharp	JJ	VP	ADJP
+and	CC
+they	PRP	NP
+look	VBP	VP
+good	JJ	VP	ADJP
+too	RB	VP	ADJP
+.	.
+
+The	DT	NP
+worst	JJS	NP
+though	IN	ADVP
+was	VBD	VP
+the	DT	VP	NP
+taste	NN	VP	NP
+.	.
+
+The	DT	NP	NP
+fajita	NN	NP	NP
+we	PRP	NP	SBAR	NP
+tried	VBD	NP	SBAR	VP
+was	VBD	VP	VP
+tasteless	JJ	VP	VP	ADJP
+and	CC	VP
+burned	JJ	VP	VP
+and	CC
+the	DT	NP
+mole	NN	NP
+sauce	NN	NP
+was	VBD	VP
+way	RB	VP	ADVP
+too	RB	VP	ADJP
+sweet	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+atmosphere	NN	NP
+is	VBZ	VP
+warm	JJ	VP	ADJP
+,	,	VP	ADJP
+comfortable	JJ	VP	ADJP
+,	,	VP	ADJP
+artsy	JJ	VP	ADJP
+and	CC	VP	ADJP
+sexy	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+(	-LRB-	VP	PRN
+big	JJ	VP	PRN	NP	NP
+selection	NN	VP	PRN	NP	NP
+,	,	VP	PRN	NP
+reasonable	JJ	VP	PRN	NP	NP
+prices	NNS	VP	PRN	NP	NP
+)	-RRB-	VP	PRN
+and	CC
+the	DT	NP
+drinks	NNS	NP
+are	VBP	VP
+really	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+did	VBD	VP
+take	VB	VP	VP
+a	DT	VP	VP	NP-TMP
+few	JJ	VP	VP	NP-TMP
+extra	JJ	VP	VP	NP-TMP
+minutes	NNS	VP	VP	NP-TMP
+to	TO	VP	VP	VP
+come	VB	VP	VP	VP	VP
+,	,
+but	CC
+the	DT	NP	NP	NP
+cute	JJ	NP	NP	NP
+waiters	NNS	NP	NP	NP
+'	POS	NP	NP	NP
+jokes	NNS	NP	NP
+and	CC	NP
+friendliness	NN	NP	NP
+made	VBD	VP
+up	RP	VP	PRT
+for	IN	VP	PP
+it	PRP	VP	PP	NP
+.	.
+
+Most	RBS	ADVP
+importantly	RB	ADVP
+,	,
+it	PRP	NP
+is	VBZ	VP
+reasonably	RB	VP	ADJP
+priced	VBN	VP	ADJP
+.	.
+
+The	DT	NP	NP
+selection	NN	NP	NP
+of	IN	NP	PP
+food	NN	NP	PP	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+(	-LRB-	PRN
+I	PRP	PRN	NP
+'m	VBP	PRN	VP
+not	RB	PRN	VP
+used	VBN	PRN	VP	VP
+to	TO	PRN	VP	VP	PP
+having	VBG	PRN	VP	VP	PP	VP
+much	JJ	PRN	VP	VP	PP	VP	NP
+choice	NN	PRN	VP	VP	PP	VP	NP
+at	IN	PRN	VP	VP	PP	VP	PP
+restaurants	NNS	PRN	VP	VP	PP	VP	PP	NP
+)	-RRB-	PRN
+,	,
+and	CC
+the	DT	NP
+atmosphere	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+Only	RB	NP
+suggestion	NN	NP
+is	VBZ	VP
+that	IN	VP	SBAR
+you	PRP	VP	SBAR	NP
+skip	VBP	VP	SBAR	VP
+the	DT	VP	SBAR	VP	NP
+dessert	NN	VP	SBAR	VP	NP
+,	,
+it	PRP	NP
+was	VBD	VP	VP
+overpriced	VBN	VP	VP	VP
+and	CC	VP
+fell	VBD	VP	VP
+short	RB	VP	VP	ADVP
+on	IN	VP	VP	PP
+taste	NN	VP	VP	PP	NP
+.	.
+
+Food	NNP	NP
+was	VBD	VP
+decent	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+but	CC	VP	ADJP
+not	RB	VP	ADJP	ADJP
+great	JJ	VP	ADJP	ADJP
+.	.
+
+it	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+hidden	JJ	VP	NP	NP
+delight	NN	VP	NP	NP
+complete	JJ	VP	NP	ADJP
+with	IN	VP	NP	ADJP	PP
+a	DT	VP	NP	ADJP	PP	NP	NP
+quaint	JJ	VP	NP	ADJP	PP	NP	NP
+bar	NN	VP	NP	ADJP	PP	NP	NP
+and	CC	VP	NP	ADJP	PP	NP
+good	JJ	VP	NP	ADJP	PP	NP	NP
+food	NN	VP	NP	ADJP	PP	NP	NP
+.	.
+
+The	DT	NP
+waiters	NNS	NP
+ALWAYS	RB	ADVP
+look	VBP	VP	VP
+angry	JJ	VP	VP	ADJP
+and	CC	VP
+even	RB	VP	ADVP
+ignore	VB	VP	VP
+their	PRP$	VP	VP	NP
+high-tipping	JJ	VP	VP	NP
+regulars	NNS	VP	VP	NP
+.	.
+
+the	DT	NP
+atmosphere	NN	NP
+is	VBZ	VP	VP
+very	RB	VP	VP	ADJP
+nice	JJ	VP	VP	ADJP
+,	,	VP
+and	CC	VP
+a	DT	VP	VP	NP
+welcome	JJ	VP	VP	NP
+escape	NN	VP	VP	NP
+from	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP
+rest	NN	VP	VP	PP	NP	NP
+of	IN	VP	VP	PP	NP	PP
+the	DT	VP	VP	PP	NP	PP	NP
+SI	NNP	VP	VP	PP	NP	PP	NP
+mall	NN	VP	VP	PP	NP	PP	NP
+.	.
+
+Yes	UH	SINV	INTJ
+,	,	SINV
+they	PRP	SINV	NP
+'re	VBP	SINV	VP
+a	DT	SINV	VP	ADJP	ADVP	NP
+bit	NN	SINV	VP	ADJP	ADVP	NP
+more	RBR	SINV	VP	ADJP	ADVP
+expensive	JJ	SINV	VP	ADJP
+then	RB	SINV	VP	PP
+typical	JJ	SINV	VP	PP	ADJP
+,	,	SINV
+but	CC	SINV
+then	RB	SINV	FRAG
+again	RB	SINV	FRAG	ADVP
+,	,	SINV
+so	RB	SINV	ADVP
+is	VBZ	SINV	VP
+their	PRP$	SINV	NP
+food	NN	SINV	NP
+.	.	SINV
+
+I	PRP	NP
+can	MD	VP
+say	VB	VP	VP
+that	IN	VP	VP	SBAR
+the	DT	VP	VP	SBAR	NP
+wraps	VBZ	VP	VP	SBAR	VP
+,	,
+burgers	NNS	NP
+and	CC	NP
+salads	NNS	NP
+were	VBD	VP
+all	DT	VP	ADJP
+fresh	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+tasty	JJ	VP	ADJP	ADJP
+and	CC
+the	DT	NP	NP
+mango	NN	NP	NP
+margareta	NN	NP	NP
+at	IN	NP	PP
+$	$	NP	PP	NP
+9	CD	NP	PP	NP
+was	VBD	VP
+WELL	RB	VP	NP	ADJP
+WORTH	JJ	VP	NP	ADJP
+the	DT	VP	NP
+money	NN	VP	NP
+.	.
+
+The	DT	NP	NP
+service	NN	NP	NP
+we	PRP	NP	SBAR	NP
+experienced	VBD	NP	SBAR	VP
+was	VBD	VP
+friendly	JJ	VP	ADJP
+and	CC	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+Our	PRP$	NP
+waiter	NN	NP
+was	VBD	VP
+friendly	JJ	VP	ADJP
+and	CC
+it	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP
+shame	NN	VP	NP
+that	IN	VP	SBAR
+he	PRP	VP	SBAR	NP
+didnt	VB	VP	SBAR	VP
+have	VBP	VP	SBAR	VP	SBAR	VP
+a	DT	VP	SBAR	VP	SBAR	VP	NP
+supportive	JJ	VP	SBAR	VP	SBAR	VP	NP	ADJP
+staff	NN	VP	SBAR	VP	SBAR	VP	NP
+to	TO	VP	SBAR	VP	SBAR	VP	NP	VP
+work	VB	VP	SBAR	VP	SBAR	VP	NP	VP	VP
+with	IN	VP	SBAR	VP	SBAR	VP	NP	VP	VP	PP
+.	.
+
+The	DT	NP	NP
+folding	JJ	NP	NP
+chair	NN	NP	NP
+I	PRP	NP	SBAR	NP
+was	VBD	NP	SBAR	VP
+seated	VBN	NP	SBAR	VP	VP
+at	IN	NP	SBAR	VP	VP	PP
+was	VBD	VP
+uncomfortable	JJ	VP	ADJP
+.	.
+
+Service	NNP	NP
+was	VBD	VP
+among	IN	VP	PP
+the	DT	VP	PP	NP	NP
+best	JJS	VP	PP	NP	NP
+I	PRP	VP	PP	NP	SBAR	NP
+have	VBP	VP	PP	NP	SBAR	VP
+ever	RB	VP	PP	NP	SBAR	VP	ADVP
+had	VBN	VP	PP	NP	SBAR	VP	VP
+in	IN	VP	PP	NP	SBAR	VP	VP	PP
+NYC	NNP	VP	PP	NP	SBAR	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+fettucino	NN	NP
+alfredo	NN	NP
+was	VBD	VP
+amazing	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+good	JJ	VP	ADJP
+and	CC
+I	PRP	NP
+was	VBD	VP
+pleasantly	RB	VP	ADJP
+surprised	VBN	VP	ADJP
+to	TO	VP	ADJP	VP
+see	VB	VP	ADJP	VP	VP
+so	RB	VP	ADJP	VP	VP	NP	ADJP
+many	JJ	VP	ADJP	VP	VP	NP	ADJP
+vegan	JJ	VP	ADJP	VP	VP	NP
+options	NNS	VP	ADJP	VP	VP	NP
+.	.
+
+Be	VB	VP
+sure	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+try	VB	VP	ADJP	VP	VP
+the	DT	VP	ADJP	VP	VP	NP	NP
+Smoked	NNP	VP	ADJP	VP	VP	NP	NP
+Trout	NNP	VP	ADJP	VP	VP	NP	NP
+...	:	VP	ADJP	VP	VP	NP
+Lamb	NNP	VP	ADJP	VP	VP	NP	NP	NP
+Chops	NNP	VP	ADJP	VP	VP	NP	NP	NP
+,	,	VP	ADJP	VP	VP	NP	NP
+Veal	NNP	VP	ADJP	VP	VP	NP	NP	NP
+Chops	NNP	VP	ADJP	VP	VP	NP	NP	NP
+,	,	VP	ADJP	VP	VP	NP	NP
+Rabbit	NNP	VP	ADJP	VP	VP	NP	NP	NP
+,	,	VP	ADJP	VP	VP	NP	NP
+the	DT	VP	ADJP	VP	VP	NP	NP	NP
+potato	NN	VP	ADJP	VP	VP	NP	NP	NP
+gratin	NN	VP	ADJP	VP	VP	NP	NP	NP
+,	,	VP	ADJP	VP	VP	NP	NP
+on	IN	VP	ADJP	VP	VP	NP	NP	PP	PP
+and	CC	VP	ADJP	VP	VP	NP	NP	PP
+on	IN	VP	ADJP	VP	VP	NP	NP	PP	PP
+and	CC	VP	ADJP	VP	VP	NP	NP	PP	PP
+on	IN	VP	ADJP	VP	VP	NP	NP	PP	PP
+...	:
+
+Even	RB	SBAR
+when	WRB	SBAR	WHADVP
+the	DT	SBAR	NP
+chef	NN	SBAR	NP
+is	VBZ	SBAR	VP
+not	RB	SBAR	VP
+in	IN	SBAR	VP	PP
+the	DT	SBAR	VP	PP	NP
+house	NN	SBAR	VP	PP	NP
+,	,
+the	DT	NP
+food	NN	NP
+and	CC	NP
+service	NN	NP
+are	VBP	VP
+right	JJ	VP	ADJP
+on	IN	VP	ADJP	PP
+target	NN	VP	ADJP	PP	NP
+.	.
+
+Everything	NN	NP	NP
+from	IN	NP	PP
+the	DT	NP	PP	NP	NP
+eggs	NNS	NP	PP	NP	NP
+benedict	NN	NP	PP	NP	NP
+to	TO	NP	PP	NP	PP
+the	DT	NP	PP	NP	PP	NP	NP
+mussels	NNS	NP	PP	NP	PP	NP	NP
+and	CC	NP	PP	NP	PP	NP
+even	RB	NP	PP	NP	PP	NP	NP
+the	DT	NP	PP	NP	PP	NP	NP
+hamburger	NN	NP	PP	NP	PP	NP	NP
+were	VBD	VP
+done	VBN	VP	UCP	VP
+well	RB	VP	UCP	VP	ADVP
+and	CC	VP	UCP
+very	RB	VP	UCP	ADJP
+tasty	JJ	VP	UCP	ADJP
+.	.
+
+The	DT	NP
+waiters	NNS	NP
+were	VBD	VP
+very	RB	VP	ADJP	ADJP
+professional	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+courteous	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+attentive	JJ	VP	ADJP	ADJP
+.	.
+
+The	DT	NP
+falafal	NN	NP
+was	VBD	VP
+rather	RB	VP	ADVP
+over	IN	VP	ADVP
+cooked	VBN	VP	VP
+and	CC	VP	VP
+dried	VBN	VP	VP
+but	CC
+the	DT	NP
+chicken	NN	NP
+was	VBD	VP
+fine	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+highly	RB	ADVP
+recommend	VB	VP
+the	DT	VP	NP
+grand	JJ	VP	NP
+marnier	NN	VP	NP
+shrimp	NN	VP	NP
+,	,
+it	PRP	NP
+'s	VBZ	VP
+insanely	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+We	PRP	NP
+been	VBN	VP
+there	RB	VP	ADVP
+and	CC
+we	PRP	NP
+really	RB	ADVP
+enjoy	VBP	VP
+the	DT	VP	NP
+food	NN	VP	NP
+,	,
+was	VBD	VP
+areally	RB	VP	NP	ADJP
+great	JJ	VP	NP	ADJP
+food	NN	VP	NP
+,	,
+and	CC
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+really	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+starving	VBG	VP	VP
+and	CC
+the	DT	NP
+small	JJ	NP
+portions	NNS	NP
+were	VBD	VP
+driving	VBG	VP	VP
+me	PRP	VP	VP	NP
+crazy	JJ	VP	VP	ADJP
+!	.
+
+The	DT	NP
+wait	NN	NP
+staff	NN	NP
+was	VBD	VP
+loud	JJ	VP	ADJP
+and	CC	VP	ADJP
+inconsiderate	JJ	VP	ADJP
+.	.
+
+However	RB	ADVP
+,	,
+the	DT	NP	NP
+food	NN	NP	NP
+and	CC	NP	NP
+service	NN	NP	NP
+and	CC	NP	ADVP
+dramatically	RB	NP	ADVP
+lacking	VBG	VP
+.	.
+
+The	DT	NP
+sushi	NN	NP
+is	VBZ	VP
+cut	VBN	VP	VP
+in	IN	VP	VP	PP
+blocks	NNS	VP	VP	PP	NP	NP
+bigger	JJR	VP	VP	PP	NP	ADJP
+than	IN	VP	VP	PP	NP	ADJP	PP
+my	PRP$	VP	VP	PP	NP	ADJP	PP	NP
+cell	NN	VP	VP	PP	NP	ADJP	PP	NP
+phone	NN	VP	VP	PP	NP	ADJP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+,	,
+my	PRP$	NP
+soup	NN	NP
+always	RB	ADVP
+arrives	VBZ	VP
+nice	JJ	VP	ADJP
+and	CC	VP	ADJP
+hot	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+had	VBD	VP
+been	VBN	VP	VP
+awhile	RB	VP	VP	ADVP
+and	CC
+I	PRP	NP
+forgot	VBD	VP
+just	RB	VP	SBAR	WHADVP
+how	WRB	VP	SBAR	WHADVP
+delicious	JJ	VP	SBAR	NP
+crepes	NNS	VP	SBAR	NP
+can	MD	VP	SBAR	VP
+be	VB	VP	SBAR	VP	VP
+.	.
+
+Montparnasse	NNP	NP	NP	NP
+'s	POS	NP	NP	NP
+desserts	NNS	NP	NP
+--	:	NP	PRN
+especially	RB	NP	PRN	NP	NP
+the	DT	NP	PRN	NP	NP
+silken	JJ	NP	PRN	NP	NP
+creme	NN	NP	PRN	NP	NP
+brulee	NN	NP	PRN	NP	NP
+and	CC	NP	PRN	NP	NP
+paper	NN	NP	PRN	NP	NP
+--	:	NP	PRN	NP
+thin	JJ	NP	PRN	NP	NP
+apple	NN	NP	PRN	NP	NP
+tart	JJ	NP	PRN	NP	NP
+--	:	NP	PRN
+are	VBP	VP
+good	JJ	VP	ADJP
+enough	RB	VP	ADJP	ADVP
+on	IN	VP	ADJP	ADVP	PP
+their	PRP$	VP	ADJP	ADVP	PP	NP
+own	JJ	VP	ADJP	ADVP	PP	NP
+to	TO	VP	ADJP	VP
+make	VB	VP	ADJP	VP	VP
+the	DT	VP	ADJP	VP	VP	NP
+restaurant	NN	VP	ADJP	VP	VP	NP
+worth	IN	VP	ADJP	VP	VP	PP
+the	DT	VP	ADJP	VP	VP	PP	NP
+trip	NN	VP	ADJP	VP	VP	PP	NP
+.	.
+
+i	LS	NP
+had	VBD	VP
+a	DT	VP	NP
+delicious	JJ	VP	NP	ADJP
+shrimp	NN	VP	NP
+creole	NN	VP	NP
+.	.
+
+The	DT	NP
+chicken	NN	NP
+dinner	NN	NP
+was	VBD	VP
+real	JJ	VP	ADVP
+good	JJ	VP	ADJP
+.	.
+
+but	CC
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+delicious	JJ	VP	ADJP
+.	.
+
+Try	VB	VP
+the	DT	VP	NP	NP
+ribs	NNS	VP	NP	NP
+,	,	VP	NP
+sizzling	VBG	VP	NP	NP	NP
+beef	NN	VP	NP	NP	NP
+and	CC	VP	NP	NP
+couple	NN	VP	NP	NP	NP
+it	PRP	VP	NP
+with	IN	VP	PP
+coconut	NN	VP	PP	NP
+rice	NN	VP	PP	NP
+.	.
+
+The	DT	NP
+avocado	NN	NP
+salad	NN	NP
+is	VBZ	VP
+a	DT	VP	NP
+personal	JJ	VP	NP
+fave	NN	VP	NP
+.	.
+
+And	CC
+,	,
+the	DT	NP
+honey	NN	NP
+BBQ	NN	NP
+rib	NN	NP
+tips	NNS	NP
+are	VBP	VP
+yummy	JJ	VP	ADJP
+!	.
+
+The	DT	NP	NP
+BEST	NNP	NP	NP
+Chinese	NNP	NP	NP
+food	NN	NP	NP
+Uptown	NNP	NP	NP
+!	.	NP
+
+Service	NNP	NP
+is	VBZ	VP
+known	VBN	VP	VP
+for	IN	VP	VP	PP
+bending	VBG	VP	VP	PP	VP
+over	IN	VP	VP	PP	VP	ADVP
+backwards	RB	VP	VP	PP	VP	ADVP
+to	TO	VP	VP	PP	VP	VP
+make	VB	VP	VP	PP	VP	VP	VP
+everyone	NN	VP	VP	PP	VP	VP	VP	NP
+happy	JJ	VP	VP	PP	VP	VP	VP	ADJP
+.	.
+
+The	DT	NP
+staff	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+.	.
+
+Waiters	NNS	NP
+are	VBP	VP
+very	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+and	CC
+the	DT	NP
+pasta	NN	NP
+is	VBZ	VP
+out	IN	VP	ADJP
+of	IN	VP	ADJP	PP
+this	DT	VP	ADJP	PP	NP
+world	NN	VP	ADJP	PP	NP
+.	.
+
+Great	JJ	NP	NP
+wine	NN	NP	NP
+list	NN	NP	NP
+and	CC	NP	NP
+great	JJ	NP	NP
+cocktail	NN	NP	NP
+menu	NN	NP	NP
+.	.	NP
+
+The	DT	NP
+crab	NN	NP
+cakes	NNS	NP
+are	VBP	VP
+delicious	JJ	VP	ADJP
+and	CC
+the	DT	NP
+BBQ	NNP	NP
+rib	NN	NP
+was	VBD	VP
+perfect	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+wonderful	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+artfully	RB	VP	ADJP
+done	VBN	VP	ADJP	ADJP	ADJP
+and	CC	VP	ADJP	ADJP
+simply	RB	VP	ADJP	ADJP	ADJP
+delicious	JJ	VP	ADJP	ADJP	ADJP
+.	.
+
+Tiny	NNP	NP	NP
+restaurant	NN	NP	NP
+with	IN	NP	PP
+very	RB	NP	PP	NP	ADJP
+fast	JJ	NP	PP	NP	ADJP
+service	NN	NP	PP	NP
+.	.	NP
+
+My	PRP$	NP	NP
+husband	NN	NP	NP
+and	CC	NP
+I	PRP	NP	NP
+have	VBP	VP
+been	VBN	VP	VP
+there	RB	VP	VP	ADVP
+at	IN	VP	VP	NP-TMP	QP
+least	JJS	VP	VP	NP-TMP	QP
+6	CD	VP	VP	NP-TMP	QP
+times	NNS	VP	VP	NP-TMP
+and	CC
+we	PRP	NP
+'ve	VBP	VP
+always	RB	VP	ADVP
+been	VBN	VP	VP
+given	VBN	VP	VP	VP
+the	DT	VP	VP	VP	NP-TMP	NP
+highest	JJS	VP	VP	VP	NP-TMP	NP
+service	NN	VP	VP	VP	NP-TMP	NP
+and	CC	VP	VP	VP	NP-TMP
+often	RB	VP	VP	VP	NP-TMP	ADVP
+free	JJ	VP	VP	VP	NP-TMP	NP
+desserts	NNS	VP	VP	VP	NP-TMP	NP
+.	.
+
+A	DT	NP	NP
+beautiful	JJ	NP	NP
+atmosphere	NN	NP	NP
+,	,	NP
+perfect	JJ	NP	NP	NP
+for	IN	NP	NP	PP
+drinks	NNS	NP	NP	PP	NP
+and/or	CC	NP	NP	PP	NP
+appetizers	NNS	NP	NP	PP	NP
+.	.	NP
+
+They	PRP	NP
+make	VBP	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+pizza	NN	VP	NP	NP
+in	IN	VP	NP	PP
+New	NNP	VP	NP	PP	NP
+Jersey	NNP	VP	NP	PP	NP
+.	.
+
+What	WP	SBAR	WHNP
+a	DT	SBAR	FRAG	NP
+difference	NN	SBAR	FRAG	NP
+,	,
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+comforting	JJ	VP	ADJP
+and	CC
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+better	JJR	VP	ADJP
+than	IN	VP	PP
+average	NN	VP	PP	NP
+,	,
+but	CC
+what	WP	NP	SBAR	WHNP
+really	RB	NP	SBAR	ADVP
+standed	VBD	NP	SBAR	VP
+out	RP	NP	SBAR	VP	PRT
+was	VBD	VP
+such	JJ	VP	PP
+a	DT	VP	PP	NP
+dynamic	JJ	VP	PP	NP
+and	CC	VP	PP	NP
+extensive	JJ	VP	PP	NP
+beer	NN	VP	PP	NP
+list	NN	VP	PP	NP
+.	.
+
+Not	RB
+to	TO	VP
+be	VB	VP	VP
+overlooked	VBN	VP	VP	VP
+,	,
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+.	.
+
+this	DT	NP	NP
+without	IN	NP	PP
+question	NN	NP	PP	NP
+is	VBZ	VP
+one	CD	VP	NP	NP
+of	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP	NP
+worst	JJS	VP	NP	PP	NP	NP
+hotdogs	NNS	VP	NP	PP	NP	NP
+i	FW	VP	NP	PP	NP	SBAR	NP
+have	VBP	VP	NP	PP	NP	SBAR	VP
+ever	RB	VP	NP	PP	NP	SBAR	VP	ADVP
+had	VBN	VP	NP	PP	NP	SBAR	VP	VP
+.	.
+
+The	DT	NP
+staff	NN	NP
+is	VBZ	VP
+unbelievably	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+,	,
+and	CC
+I	PRP	NP
+dream	VBP	VP
+about	IN	VP	PP
+their	PRP$	VP	PP	NP	NP
+Saag	NNP	VP	PP	NP	NP
+gosht	NN	VP	PP	NP	NP
+...	:	VP	PP	NP
+so	RB	VP	PP	NP	ADJP
+good	JJ	VP	PP	NP	ADJP
+.	.
+
+I	PRP	NP
+also	RB	ADVP
+recommend	VBP	VP
+the	DT	VP	NP
+garlic	JJ	VP	NP
+knots	NNS	VP	NP
+.	.
+
+Best	JJS	NP	NP
+Indian	JJ	NP	NP
+food	NN	NP	NP
+I	PRP	NP	SBAR	NP
+have	VBP	NP	SBAR	VP
+ever	RB	NP	SBAR	VP	ADVP
+eaten	VBN	NP	SBAR	VP	VP
+.	.	NP
+
+This	DT	NP
+place	NN	NP
+has	VBZ	VP
+the	DT	VP	NP
+best	JJS	VP	NP
+pizza	NN	VP	NP
+.	.
+
+The	DT	NP
+music	NN	NP
+which	WDT	NP	SBAR	WHNP
+is	VBZ	NP	SBAR	VP
+sometimes	RB	NP	SBAR	VP	ADVP
+a	DT	NP	SBAR	VP	ADJP	NP
+little	JJ	NP	SBAR	VP	ADJP	NP
+too	RB	NP	SBAR	VP	ADJP
+heavy	JJ	NP	SBAR	VP	ADJP
+for	IN	NP	SBAR	VP	PP
+my	PRP$	NP	SBAR	VP	PP	NP
+taste	NN	NP	SBAR	VP	PP	NP
+.	.	NP
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+always	RB	VP	ADJP	ADJP
+informative	JJ	VP	ADJP	ADJP
+without	IN	VP	PP
+an	DT	VP	PP	NP
+air	NN	VP	PP	NP
+.	.
+
+The	DT	NP
+sushi	NN	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+fresh	JJ	VP	ADJP
+and	CC	VP	ADJP
+yummy	JJ	VP	ADJP
+and	CC
+the	DT	NP
+menu	NN	NP
+is	VBZ	VP
+pretty	RB	VP	ADJP
+varied	VBN	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+-	:
+sushi	NN	NP
+was	VBD	VP
+good	JJ	VP	ADJP
+,	,
+but	CC
+the	DT	NP
+cooked	VBN	NP
+food	NN	NP
+amazed	VBD	VP
+us	PRP	VP	NP
+.	.
+
+their	PRP$	NP
+dinner	NN	NP
+specials	NNS	NP
+are	VBP	VP
+fantastic	JJ	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+food	NN	NP	NP
+,	,	NP
+great	JJ	NP	NP	NP
+drinks	NNS	NP	NP	NP
+,	,	NP	NP
+nice	JJ	NP	NP	NP
+dining	NN	NP	NP	NP
+atmosphere	NN	NP	NP	NP
+.	.	NP
+
+Food	NNP	NP
+portion	NN	NP
+was	VBD	VP
+SMALL	NNP	VP	UCP	NP
+and	CC	VP	UCP
+below	IN	VP	UCP	PP
+average	NN	VP	UCP	PP	NP
+.	.
+
+Sit	NNP	NP	NP
+back	RB	NP	PP	ADVP
+in	IN	NP	PP
+one	CD	NP	PP	NP
+of	IN	NP	PP
+those	DT	NP	PP	NP
+comfortable	JJ	NP	PP	NP
+chairs	NNS	NP	PP	NP
+.	.	NP
+
+My	PRP$	NP
+favs	NNS	NP
+here	RB	ADVP
+are	VBP	VP
+the	DT	VP	NP	NP
+Tacos	NNP	VP	NP	NP
+Pastor	NNP	VP	NP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP
+Tostada	NNP	VP	NP	NP
+de	IN	VP	NP	NP
+Tinga	NNP	VP	NP	NP
+...	:
+
+The	DT	NP	NP
+bartenders	NNS	NP	NP
+and	CC	NP
+the	DT	NP	NP
+managers	NNS	NP	NP
+are	VBP	VP
+really	RB	VP	ADJP
+nice	JJ	VP	ADJP
+and	CC
+the	DT	NP
+decor	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+comfy	JJ	VP	ADJP
+and	CC	VP	ADJP
+laid-back	JJ	VP	ADJP
+,	,	VP
+all	PDT	VP	NP	NP
+the	DT	VP	NP	NP
+while	NN	VP	NP	NP
+being	VBG	VP	NP	VP
+trendy	JJ	VP	NP	VP	ADJP
+.	.
+
+For	IN	PP
+a	DT	PP	NP
+savory	JJ	PP	NP
+take	NN	PP	NP
+on	IN	PP
+the	DT	PP	NP
+soup	NN	PP	NP
+and	CC	PP	NP
+sandwich	NN	PP	NP
+meal	NN	PP	NP
+,	,
+try	VBP	VP
+the	DT	VP	NP
+hot	JJ	VP	NP	ADJP
+and	CC	VP	NP	ADJP
+sour	JJ	VP	NP	ADJP
+soup	NN	VP	NP
+.	.
+
+This	DT	NP
+bar	NN	NP
+has	VBZ	VP
+it	PRP	VP	NP	NP
+all	DT	VP	NP	ADVP
+-	:	VP	NP
+great	JJ	VP	NP	NP
+drinks	NNS	VP	NP	NP
+,	,	VP	NP
+cool	JJ	VP	NP	NP
+atmosphere	NN	VP	NP	NP
+,	,	VP	NP
+excellent	JJ	VP	NP	NP
+service	NN	VP	NP	NP
+and	CC	VP	NP
+delicious	JJ	VP	NP	NP
+food	NN	VP	NP	NP
+.	.
+
+Also	RB	ADVP
+,	,
+the	DT	NP	NP
+chick	NN	NP	NP
+peas	NNS	NP	NP
+with	IN	NP	PP
+shrimp	NN	NP	PP	NP	NP
+(	-LRB-	NP	PP	NP	PRN
+appetizer	NN	NP	PP	NP	PRN	NP
+)	-RRB-	NP	PP	NP	PRN
+is	VBZ	VP
+divine	JJ	VP	ADJP
+.	.
+
+Finally	RB	ADVP
+,	,
+I	PRP	NP
+got	VBD	VP
+sick	JJ	VP	NP	ADJP	ADJP
+of	IN	VP	NP	ADJP	ADJP	PP
+the	DT	VP	NP	ADJP	ADJP	PP	NP	NP
+bad	JJ	VP	NP	ADJP	ADJP	PP	NP	NP
+service	NN	VP	NP	ADJP	ADJP	PP	NP	NP
+,	,	VP	NP	ADJP	ADJP	PP	NP
+obnoxious	JJ	VP	NP	ADJP	ADJP	PP	NP	NP
+smirks	NNS	VP	NP	ADJP	ADJP	PP	NP	NP
+,	,	VP	NP	ADJP	ADJP	PP	NP
+and	CC	VP	NP	ADJP
+snotty	JJ	VP	NP	ADJP	ADJP
+back	RB	VP	NP	ADJP	ADJP	PRT
+talk	NN	VP	NP
+.	.
+
+We	PRP	NP
+ordered	VBD	VP
+lamb	NN	VP	NP	NP
+which	WDT	VP	NP	SBAR	WHNP
+was	VBD	VP	NP	SBAR	VP
+perfectly	RB	VP	NP	SBAR	VP	VP	VP	ADVP
+cooked	VBN	VP	NP	SBAR	VP	VP	VP
+and	CC	VP	NP	SBAR	VP	VP
+tasted	VBN	VP	NP	SBAR	VP	VP	VP
+awesome	JJ	VP	NP	SBAR	VP	VP	VP	ADJP
+.	.
+
+i	LS	VP
+especially	RB	VP	ADVP
+like	IN	VP	PP
+their	PRP$	VP	PP	NP	NP
+soft	JJ	VP	PP	NP	NP
+shell	NN	VP	PP	NP	NP
+crab	NN	VP	PP	NP	NP
+sandwich	NN	VP	PP	NP	NP
+with	IN	VP	PP	NP	PP
+fries	NNS	VP	PP	NP	PP	NP
+.	.
+
+if	IN	SBAR
+you	PRP	SBAR	NP
+'re	VBP	SBAR	VP
+looking	VBG	SBAR	VP	VP
+for	IN	SBAR	VP	VP	PP
+authentic	JJ	SBAR	VP	VP	PP	NP
+hong	JJ	SBAR	VP	VP	PP	NP
+kong-style	JJ	SBAR	VP	VP	PP	NP
+food	NN	SBAR	VP	VP	PP	NP
+,	,	SBAR
+look	VBP	VP
+no	DT	VP	ADVP
+further	RB	VP	ADVP
+.	.
+
+good	JJ	FRAG	NP	NP
+food	NN	FRAG	NP	NP
+good	JJ	FRAG	NP	NP
+wine	NN	FRAG	NP	NP
+that	WDT	FRAG	NP	SBAR	WHNP
+'s	VBZ	FRAG	NP	SBAR	VP
+it	PRP	FRAG	NP	SBAR	VP	NP
+.	.	FRAG
+
+The	DT	NP
+staff	NN	NP
+was	VBD	VP
+extremely	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+and	CC	VP	ADJP
+pleasant	JJ	VP	ADJP
+.	.
+
+While	IN	SBAR
+their	PRP$	SBAR	NP
+kitchen	NN	SBAR	NP
+food	NN	SBAR	NP
+is	VBZ	SBAR	VP
+delicious	JJ	SBAR	VP	ADJP
+,	,
+their	PRP$	NP
+Sushi	NNP	NP
+is	VBZ	VP
+out	IN	VP	ADJP
+of	IN	VP	ADJP	PP
+this	DT	VP	ADJP	PP	NP
+world	NN	VP	ADJP	PP	NP
+.	.
+
+everything	NN	NP
+is	VBZ	VP
+scrumptious	JJ	VP	ADJP
+,	,	VP
+from	IN	VP	PP
+the	DT	VP	PP	NP	NP
+excellent	JJ	VP	PP	NP	NP
+service	NN	VP	PP	NP	NP
+by	IN	VP	PP	NP	PP
+cute	JJ	VP	PP	NP	PP	NP
+waitresses	NNS	VP	PP	NP	PP	NP
+,	,	VP
+to	TO	VP	PP
+the	DT	VP	PP	NP
+extremely	RB	VP	PP	NP
+lush	JJ	VP	PP	NP
+atmosphere	NN	VP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+traditional	JJ	VP	NP
+,	,	VP	NP
+simple	JJ	VP	NP
+italian	JJ	VP	NP
+food	NN	VP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+all-around	JJ	VP	UCP	ADJP
+good	JJ	VP	UCP	ADJP
+,	,	VP	UCP
+with	IN	VP	UCP	PP
+the	DT	VP	UCP	PP	NP	NP
+rolls	NNS	VP	UCP	PP	NP	NP
+usually	RB	VP	UCP	PP	NP	ADJP
+excellent	JJ	VP	UCP	PP	NP	ADJP
+and	CC	VP	UCP
+the	DT	VP	UCP	NP	NP
+sushi/sashimi	NN	VP	UCP	NP	NP
+not	RB	VP	UCP	NP	PP
+quite	RB	VP	UCP	NP	PP
+on	IN	VP	UCP	NP	PP
+the	DT	VP	UCP	NP	PP	NP
+same	JJ	VP	UCP	NP	PP	NP
+level	NN	VP	UCP	NP	PP	NP
+.	.
+
+(	-LRB-
+The	DT	NP
+sashimi	NN	NP
+is	VBZ	VP
+cut	VBN	VP	VP
+a	DT	VP	VP	NP	QP
+little	JJ	VP	VP	NP	QP
+thinly	RB	VP	VP	NP
+.	.
+
+In	IN	PP
+addition	NN	PP	NP	NP
+to	TO	PP	NP	PP
+great	JJ	PP	NP	PP	NP
+hot	JJ	PP	NP	PP	NP
+dogs	NNS	PP	NP	PP	NP
+,	,
+DOTP	NN	NP
+has	VBZ	VP
+wonderful	JJ	VP	NP	NP	NP
+breakfast	NN	VP	NP	NP	NP
+sandwiches	NNS	VP	NP	NP	NP
+that	WDT	VP	NP	NP	SBAR	WHNP
+feature	VBP	VP	NP	NP	SBAR	VP
+,	,	VP	NP
+in	IN	VP	NP	CONJP
+addition	NN	VP	NP	CONJP
+to	TO	VP	NP	CONJP
+great	JJ	VP	NP	NP	NP
+things	NNS	VP	NP	NP	NP
+like	IN	VP	NP	NP	PP
+tator	NN	VP	NP	NP	PP	NP
+tots	NNS	VP	NP	NP	PP	NP
+and	CC
+English	JJ	NP	NP
+muffins	NNS	NP	NP
+,	,	NP
+a	DT	NP	NP
+delicious	JJ	NP	NP	ADJP
+NJ-based	JJ	NP	NP	ADJP
+pork	NN	NP	NP
+product	NN	NP	NP
+know	VBP	VP
+to	TO	VP	PP
+us	PRP	VP	PP	NP
+Jersey	NNP	VP	PP	NP
+girls	NNS	VP	PP	NP
+and	CC	VP	PP	NP
+boys	NNS	VP	PP	NP
+as	IN	VP	PP
+Taylor	NNP	VP	PP	NP
+ham	NN	VP	PP	NP
+.	.
+
+Well	RB	INTJ
+,	,
+it	PRP	NP
+happened	VBD	VP
+because	IN	VP	PP
+of	IN	VP	PP
+a	DT	VP	PP	NP	NP
+graceless	JJ	VP	PP	NP	NP
+manager	NN	VP	PP	NP	NP
+and	CC	VP	PP	NP
+a	DT	VP	PP	NP	NP	NP
+rude	JJ	VP	PP	NP	NP	NP
+bartender	NN	VP	PP	NP	NP	NP
+who	WP	VP	PP	NP	NP	SBAR	WHNP
+had	VBD	VP	PP	NP	NP	SBAR	VP	VP
+us	PRP	VP	PP	NP	NP	SBAR	VP	VP	NP
+waiting	VBG	VP	PP	NP	NP	SBAR	VP	VP	VP
+20	CD	VP	PP	NP	NP	SBAR	VP	VP	VP	NP	NP
+minutes	NNS	VP	PP	NP	NP	SBAR	VP	VP	VP	NP	NP
+for	IN	VP	PP	NP	NP	SBAR	VP	VP	VP	NP	PP
+drinks	NNS	VP	PP	NP	NP	SBAR	VP	VP	VP	NP	PP	NP
+,	,	VP	PP	NP	NP	SBAR	VP
+and	CC	VP	PP	NP	NP	SBAR	VP
+then	RB	VP	PP	NP	NP	SBAR	VP	ADVP
+tells	VBZ	VP	PP	NP	NP	SBAR	VP	VP
+us	PRP	VP	PP	NP	NP	SBAR	VP	VP	NP
+to	TO	VP	PP	NP	NP	SBAR	VP	VP	PP
+chill	NN	VP	PP	NP	NP	SBAR	VP	VP	PP	NP
+out	RP	VP	PP	NP	NP	SBAR	VP	VP	ADVP
+.	.
+
+Not	RB	SINV	CONJP
+only	RB	SINV	CONJP
+is	VBZ	SINV
+the	DT	SINV	NP
+service	NN	SINV	NP
+great	JJ	SINV	ADJP
+,	,
+but	CC
+forming	VBG	VP
+conversation	NN	VP	NP
+around	IN	VP	PP
+a	DT	VP	PP	NP
+table	NN	VP	PP	NP
+is	VBZ	VP
+so	RB	VP	NP	NP	ADJP
+easy	JJ	VP	NP	NP	ADJP
+beacuse	NN	VP	NP	NP
+the	DT	VP	NP	SBAR	NP
+atmosphere	NN	VP	NP	SBAR	NP
+can	MD	VP	NP	SBAR	VP
+be	VB	VP	NP	SBAR	VP	VP
+both	CC	VP	NP	SBAR	VP	VP	ADVP
+romantic	JJ	VP	NP	SBAR	VP	VP	ADJP
+and	CC	VP	NP	SBAR	VP	VP	ADJP
+comfortable	JJ	VP	NP	SBAR	VP	VP	ADJP
+.	.
+
+When	WRB	SBAR	WHADVP
+the	DT	SBAR	NP
+dish	NN	SBAR	NP
+arrived	VBD	SBAR	VP
+it	PRP	NP
+was	VBD	VP
+blazing	VBG	VP	VP
+with	IN	VP	VP	PP
+green	JJ	VP	VP	PP	NP
+chillis	NN	VP	VP	PP	NP
+,	,	VP	VP
+definitely	RB	VP	VP	ADVP
+not	RB	VP	VP	FRAG
+edible	JJ	VP	VP	FRAG	ADJP
+by	IN	VP	VP	FRAG	ADJP	PP
+a	DT	VP	VP	FRAG	ADJP	PP	NP
+human	JJ	VP	VP	FRAG	ADJP	PP	NP
+.	.
+
+The	DT	NP	NP	NP
+absolute	JJ	NP	NP	NP
+worst	JJS	NP	NP	NP
+service	NN	NP	NP	NP
+I	PRP	NP	NP	SBAR	NP
+'ve	VBP	NP	NP	SBAR	VP
+ever	RB	NP	NP	SBAR	VP	ADVP
+experienced	VBN	NP	NP	SBAR	VP	VP
+and	CC	NP
+the	DT	NP	NP
+food	NN	NP	NP
+was	VBD	VP
+below	IN	VP	PP
+average	NN	VP	PP	NP	NP
+(	-LRB-	VP	PP	NP	PRN
+when	WRB	VP	PP	NP	PRN	SBAR	WHADVP
+they	PRP	VP	PP	NP	PRN	SBAR	NP
+actually	RB	VP	PP	NP	PRN	SBAR	ADVP
+gave	VBD	VP	PP	NP	PRN	SBAR	VP
+people	NNS	VP	PP	NP	PRN	SBAR	VP	NP
+the	DT	VP	PP	NP	PRN	SBAR	VP	NP	NP
+meals	NNS	VP	PP	NP	PRN	SBAR	VP	NP	NP
+they	PRP	VP	PP	NP	PRN	SBAR	VP	NP	SBAR	NP
+ordered	VBD	VP	PP	NP	PRN	SBAR	VP	NP	SBAR	VP
+)	-RRB-	VP	PP	NP	PRN
+.	.
+
+Be	VB	VP
+sure	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+accompany	VB	VP	ADJP	VP	VP
+your	PRP$	VP	ADJP	VP	VP	NP
+food	NN	VP	ADJP	VP	VP	NP
+with	IN	VP	ADJP	VP	VP	PP
+one	CD	VP	ADJP	VP	VP	PP	NP	NP
+of	IN	VP	ADJP	VP	VP	PP	NP	PP
+their	PRP$	VP	ADJP	VP	VP	PP	NP	PP	NP
+fresh	JJ	VP	ADJP	VP	VP	PP	NP	PP	NP
+juice	NN	VP	ADJP	VP	VP	PP	NP	PP	NP
+concoctions	NNS	VP	ADJP	VP	VP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+and	CC
+the	DT	NP
+prices	NNS	NP
+are	VBP	VP
+reasonable	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+place	NN	NP
+is	VBZ	VP
+clean	JJ	VP	ADJP
+,	,
+and	CC
+if	IN	SBAR
+you	PRP	SBAR	NP
+like	IN	SBAR	PP
+soul	NN	SBAR	PP	NP
+food	NN	SBAR	PP	NP
+,	,
+then	RB	NP
+this	DT	NP
+is	VBZ	VP
+the	DT	VP	NP
+place	NN	VP	NP
+to	TO	VP	NP	VP
+be	VB	VP	NP	VP	VP
+!	.
+
+They	PRP	NP
+have	VBP	VP
+a	DT	VP	NP	NP
+very	RB	VP	NP	NP	ADJP
+good	JJ	VP	NP	NP	ADJP
+chicken	NN	VP	NP	NP
+with	IN	VP	NP	PP
+avocado	NN	VP	NP	PP	NP	NP
+and	CC	VP	NP	PP	NP	NP
+good	JJ	VP	NP	PP	NP	NP
+tuna	NN	VP	NP	PP	NP	NP
+as	RB	VP	NP	PP	NP	ADVP
+well	RB	VP	NP	PP	NP	ADVP
+.	.
+
+But	CC
+the	DT	NP
+meals	NNS	NP
+were	VBD	VP
+terrible	JJ	VP	ADJP
+.	.
+
+My	PRP$	NP
+chicken	NN	NP
+was	VBD	VP
+completely	RB	VP	ADJP
+dried	VBN	VP	ADJP
+out	RP	VP	ADJP	PRT
+and	CC
+on	IN	PP
+the	DT	PP	NP	NP
+cold	JJ	PP	NP	NP
+side	NN	PP	NP	NP
+and	CC	PP	NP
+the	DT	PP	NP	NP
+sauce	NN	PP	NP	NP
+was	VBD	VP
+not	RB	VP
+very	RB	VP	ADJP
+flavorful	JJ	VP	ADJP
+.	.
+
+Malted	NNP	NP
+Milk	NN	NP
+Ball	NNP	NP
+Gelato	NNP	NP
+-	:
+have	VBP	VP
+you	PRP	VP	NP
+ever	RB	VP	ADVP
+in	IN	VP	PP
+your	PRP$	VP	PP	NP	NP	NP
+life	NN	VP	PP	NP	NP	NP
+heard	VBD	VP	PP	NP	NP	SBAR	VP
+of	IN	VP	PP	NP	PP
+anything	NN	VP	PP	NP	PP	NP
+so	RB	VP	PP	NP	ADJP
+ridiculously	RB	VP	PP	NP	ADJP
+wonderful	JJ	VP	PP	NP	ADJP
+?	.
+
+Way	NN	NP	NP
+too	RB	NP	NP	NP	ADJP
+much	JJ	NP	NP	NP	ADJP
+money	NN	NP	NP	NP
+for	IN	NP	NP	PP
+such	JJ	NP	NP	PP	NP
+a	DT	NP	NP	PP	NP
+terrible	JJ	NP	NP	PP	NP
+meal	NN	NP	NP	PP	NP
+.	.	NP
+
+However	RB	ADVP
+,	,
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+absolutely	RB	VP	ADJP
+horrible	JJ	VP	ADJP
+.	.
+
+A	DT	NP
+con	NN	NP
+was	VBD	VP
+the	DT	VP	NP
+slow	JJ	VP	NP
+bar	NN	VP	NP
+service	NN	VP	NP
+.	.
+
+Dessert	NN	NP
+was	VBD	VP
+also	RB	VP	ADVP
+to	TO	VP	VP
+die	VB	VP	VP	VP
+for	IN	VP	VP	VP	PP
+!	.
+
+BTW	NNP	NP	NP
+,	,	NP
+the	DT	NP	NP
+service	NN	NP	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+unattractive	JJ	NP	ADJP
+lighting	NN	NP
+made	VBD	VP
+me	PRP	VP	NP
+want	VB	VP	VP
+to	TO	VP	VP	PP
+gag	NN	VP	VP	PP	NP
+,	,
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+overpriced	VBN	VP	VP
+,	,
+there	EX	NP
+was	VBD	VP
+the	DT	VP	VP	NP
+most	RBS	VP	VP	NP	ADJP
+awful	JJ	VP	VP	NP	ADJP
+disco	NN	VP	VP	NP
+pop	NN	VP	VP	NP
+duo	NN	VP	VP	NP
+performing-and	JJ	VP	VP	ADJP
+my	PRP$	VP	VP	ADJP	SBAR	NP
+escargot	NN	VP	VP	ADJP	SBAR	NP
+looked	VBD	VP	VP	ADJP	SBAR	VP
+like	IN	VP	VP	ADJP	SBAR	VP	SBAR
+it	PRP	VP	VP	ADJP	SBAR	VP	SBAR	NP
+might	MD	VP	VP	ADJP	SBAR	VP	SBAR	VP
+crawl	VB	VP	VP	ADJP	SBAR	VP	SBAR	VP	VP
+off	RP	VP	VP	ADJP	SBAR	VP	SBAR	VP	VP	PRT
+the	DT	VP	VP	ADJP	SBAR	VP	SBAR	VP	VP	NP
+plate	NN	VP	VP	ADJP	SBAR	VP	SBAR	VP	VP	NP
+.	.
+
+it	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP
+cozy	JJ	VP	NP
+place	NN	VP	NP
+to	TO	VP	NP	VP
+go	VB	VP	NP	VP	VP
+with	IN	VP	NP	VP	VP	PP
+a	DT	VP	NP	VP	VP	PP	NP	NP
+couple	NN	VP	NP	VP	VP	PP	NP	NP
+of	IN	VP	NP	VP	VP	PP	NP	PP
+friends	NNS	VP	NP	VP	VP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+great	JJ	VP	ADJP
+,	,
+and	CC
+the	DT	NP
+owner	NN	NP
+walks	VBZ	VP
+around	IN	VP	PRT
+to	TO	VP	VP
+make	VB	VP	VP	VP
+sure	JJ	VP	VP	VP	ADJP
+you	PRP	VP	VP	VP	ADJP	SBAR	NP
+enjoy	VBP	VP	VP	VP	ADJP	SBAR	VP
+.	.
+
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+delicious	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+highly	RB	VP	ADJP	ADJP
+recommended	VBN	VP	ADJP	ADJP
+.	.
+
+So	RB	ADVP
+for	IN	ADVP	PP
+a	DT	ADVP	PP	NP	NP
+filling	NN	ADVP	PP	NP	NP
+and	CC	ADVP	PP	NP
+healthy	JJ	ADVP	PP	NP	NP
+meal	NN	ADVP	PP	NP	NP
+give	VB	VP
+it	PRP	VP	NP
+a	DT	VP	NP
+go	NN	VP	NP
+.	.
+
+Since	IN	SBAR
+I	PRP	SBAR	NP
+cook	VBP	SBAR	VP
+for	IN	SBAR	VP	PP
+a	DT	SBAR	VP	PP	NP
+living	NN	SBAR	VP	PP	NP
+,	,
+I	PRP	NP
+'m	VBP	VP
+very	RB	VP	ADJP
+fussy	JJ	VP	ADJP
+about	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP	NP
+food	NN	VP	ADJP	PP	NP	NP
+I	PRP	VP	ADJP	PP	NP	SBAR	NP
+eat	VBP	VP	ADJP	PP	NP	SBAR	VP
+in	IN	VP	ADJP	PP	NP	SBAR	VP	PP
+restaurants	NNS	VP	ADJP	PP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+outstanding	JJ	VP	ADJP
+.	.
+
+We	PRP	NP
+always	RB	ADVP
+enjoy	VBP	VP
+the	DT	VP	NP
+pizza	NN	VP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+pretty	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+Yum	NNP	NP	NP
+,	,	NP
+the	DT	NP	NP
+chicken	NN	NP	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+here	RB	VP	ADVP
+.	.
+
+The	DT	NP
+food	NN	NP
+here	RB	ADVP
+was	VBD	VP
+great	JJ	VP	ADJP
+,	,	VP
+a	DT	VP	NP	NP
+treat	NN	VP	NP	NP
+from	IN	VP	NP	PP
+beginning	VBG	VP	NP	PP	VP
+to	TO	VP	NP	PP	VP	VP
+end	VB	VP	NP	PP	VP	VP	VP
+.	.
+
+The	DT	NP	NP	NP
+host	NN	NP	NP	NP
+(	-LRB-	NP	NP	PRN
+owner	NN	NP	NP	PRN	NP
+)	-RRB-	NP	NP	PRN
+and	CC	NP
+servers	NNS	NP	NP
+are	VBP	VP
+personable	JJ	VP	UCP	ADJP
+and	CC	VP	UCP
+caring	NN	VP	UCP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+just	RB	VP	NP
+everything	NN	VP	NP	NP
+...	:	VP	NP
+the	DT	VP	NP	NP	NP
+food	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+the	DT	VP	NP	NP	NP
+atmosphere	NN	VP	NP	NP	NP
+...	:	VP	NP
+the	DT	VP	NP	NP	NP
+incrediby	JJ	VP	NP	NP	NP
+kind	NN	VP	NP	NP	NP
+and	CC	VP	NP	NP
+gracious	JJ	VP	NP	NP	NP
+hostess	NN	VP	NP	NP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+good	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+We	PRP	NP
+were	VBD	VP
+wondering	VBG	VP	VP
+why	WRB	VP	VP	SBAR	WHADVP
+they	PRP	VP	VP	SBAR	NP
+were	VBD	VP	VP	SBAR	VP
+there	EX	VP	VP	SBAR	VP	NP
+to	TO	VP	VP	SBAR	VP	VP
+make	VB	VP	VP	SBAR	VP	VP	VP
+our	PRP$	VP	VP	SBAR	VP	VP	VP	NP
+dining	NN	VP	VP	SBAR	VP	VP	VP	NP
+experience	NN	VP	VP	SBAR	VP	VP	VP	NP
+miserable	JJ	VP	VP	SBAR	VP	VP	VP	ADJP
+?	.
+
+This	DT	NP
+place	NN	NP
+has	VBZ	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+Indian	JJ	VP	NP	NP
+food	NN	VP	NP	NP
+in	IN	VP	NP	PP
+New	NNP	VP	NP	PP	NP	NP
+York	NNP	VP	NP	PP	NP	NP
+,	,	VP	NP	PP	NP
+hands	NNS	VP	NP	PP	NP	ADVP	NP
+down	RB	VP	NP	PP	NP	ADVP
+.	.
+
+The	DT	NP
+waiters	NNS	NP
+are	VBP	VP
+very	RB	VP	UCP	FRAG	ADJP
+friendly	JJ	VP	UCP	FRAG	ADJP
+and	CC	VP	UCP	FRAG	ADJP
+helpful	JJ	VP	UCP	FRAG	ADJP
+and	CC	VP	UCP
+if	IN	VP	UCP	SBAR
+you	PRP	VP	UCP	SBAR	NP
+frequent	JJ	VP	UCP	SBAR	ADJP
+they	PRP	VP	UCP	SBAR	ADJP	SBAR	NP
+will	MD	VP	UCP	SBAR	ADJP	SBAR	VP
+remember	VB	VP	UCP	SBAR	ADJP	SBAR	VP	VP
+you	PRP	VP	UCP	SBAR	ADJP	SBAR	VP	VP	NP
+.	.
+
+Intimate	JJ	NP	NP	NP	ADJP
+but	CC	NP	NP	NP	ADJP
+charming	JJ	NP	NP	NP	ADJP
+interior	NN	NP	NP	NP
+with	IN	NP	NP	PP
+extremely	RB	NP	NP	PP	NP	ADJP
+friendly	JJ	NP	NP	PP	NP	ADJP
+and	CC	NP	NP	PP	NP	ADJP
+attentive	JJ	NP	NP	PP	NP	ADJP
+service	NN	NP	NP	PP	NP
+.	.	NP
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+as	IN	VP	PP
+creative	JJ	VP	PP	NP
+as	IN	VP	SBAR
+the	DT	VP	SBAR	NP	NP
+decor	NN	VP	SBAR	NP	NP
+and	CC	VP	SBAR	NP
+both	DT	VP	SBAR	NP	NP
+worked	VBD	VP	SBAR	VP
+.	.
+
+The	DT	NP
+menu	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+,	,	VP
+with	IN	VP	PP
+a	DT	VP	PP	NP
+good	JJ	VP	PP	NP
+selection	NN	VP	PP	NP
+,	,
+and	CC
+everything	NN	NP	NP
+that	IN	NP	SBAR
+I	PRP	NP	SBAR	NP
+have	VBP	NP	SBAR	VP
+tried	VBN	NP	SBAR	VP	VP
+is	VBZ	VP
+absolutely	RB	VP	ADJP
+delicious	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+sauce	NN	NP
+is	VBZ	VP
+zesty	JJ	VP	ADJP
+and	CC	VP	ADJP
+flavorful	JJ	VP	ADJP
+and	CC
+the	DT	NP
+crust	NN	NP
+is	VBZ	VP
+nice	JJ	VP	ADJP
+and	CC	VP	ADJP
+crispy	JJ	VP	ADJP
+.	.
+
+This	DT	NP
+place	NN	NP
+has	VBZ	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+sushi	NN	VP	NP	NP
+in	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+city	NN	VP	NP	PP	NP
+.	.
+
+They	PRP	NP
+have	VBP	VP
+an	DT	VP	NP	NP
+excellent	JJ	VP	NP	NP
+selection	NN	VP	NP	NP
+(	-LRB-	VP	NP	PRN
+the	DT	VP	NP	PRN	NP	NP
+rolls	NNS	VP	NP	PRN	NP	NP
+with	IN	VP	NP	PRN	NP	PP
+crab	NN	VP	NP	PRN	NP	PP	NP
+are	VBP	VP	NP	PRN	VP
+really	RB	VP	NP	PRN	VP	ADJP
+great	JJ	VP	NP	PRN	VP	ADJP
+)	-RRB-	VP	NP	PRN
+.	.
+
+Everyone	NN	NP	NP	NP
+who	WP	NP	NP	SBAR	WHNP
+works	VBZ	NP	NP	SBAR	VP
+there	EX	NP	NP	SBAR	VP	NP
+(	-LRB-	NP	PRN
+the	DT	NP	PRN	NP	NP
+host	NN	NP	PRN	NP	NP
+,	,	NP	PRN	NP
+the	DT	NP	PRN	NP	NP
+bartender	NN	NP	PRN	NP	NP
+,	,	NP	PRN	NP
+the	DT	NP	PRN	NP	NP
+servers	NNS	NP	PRN	NP	NP
+)	-RRB-	NP	PRN
+is	VBZ	VP
+so	RB	VP	ADJP
+helpful	JJ	VP	ADJP
+.	.
+
+And	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+fantastic	JJ	VP	ADJP
+.	.
+
+Favourites	NNS	NP
+include	VBP	VP	VP
+:	:	VP
+potato	NN	VP	NP	NP
+spinach	NN	VP	NP	NP
+gnocchi	NNS	VP	NP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP
+lamb	NN	VP	NP	NP
+.	.
+
+But	CC
+regulars	NNS	NP
+know	VBP	VP
+that	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+sandwiches	NNS	VP	SBAR	NP
+are	VBP	VP	SBAR	VP
+the	DT	VP	SBAR	VP	NP
+real	JJ	VP	SBAR	VP	NP
+star	NN	VP	SBAR	VP	NP
+here	RB	VP	SBAR	VP	ADVP
+.	.
+
+The	DT	NP	NP
+skillfully	NNP	NP	NP
+chosen	VBN	NP	NP
+Portuguese	NNP	NP	NP
+cheese	NN	NP	NP
+cart	NN	NP	NP
+paired	VBN	NP	VP
+with	IN	NP	VP	PP
+quality	NN	NP	VP	PP	NP
+port	NN	NP	VP	PP	NP
+provides	VBZ	VP
+the	DT	VP	NP	NP
+perfect	JJ	VP	NP	NP
+Iberian	NNP	VP	NP	NP
+ending	VBG	VP	NP	VP
+.	.
+
+My	PRP$	NP
+friend	NN	NP
+had	VBD	VP
+a	DT	VP	NP
+burger	NN	VP	NP
+and	CC
+I	PRP	NP
+had	VBD	VP
+these	DT	VP	NP
+wonderful	JJ	VP	NP
+blueberry	JJ	VP	NP
+pancakes	NNS	VP	NP
+.	.
+
+We	PRP	NP
+were	VBD	VP	VP
+so	RB	VP	VP	ADJP
+happy	JJ	VP	VP	ADJP
+with	IN	VP	VP	PP
+our	PRP$	VP	VP	PP	NP
+food	NN	VP	VP	PP	NP
+and	CC	VP
+were	VBD	VP	VP
+even	RB	VP	VP	VP	ADVP
+more	RBR	VP	VP	VP	ADVP
+thrilled	VBN	VP	VP	VP
+when	WRB	VP	VP	VP	SBAR	WHADVP
+we	PRP	VP	VP	VP	SBAR	NP
+saw	VBD	VP	VP	VP	SBAR	VP
+the	DT	VP	VP	VP	SBAR	VP	NP
+bill	NN	VP	VP	VP	SBAR	VP	NP
+.	.
+
+All	DT	NP
+toppings	NNS	NP
+are	VBP	VP
+so	RB	VP	ADJP
+fresh	JJ	VP	ADJP
+you	PRP	VP	ADJP	SBAR	NP
+'d	MD	VP	ADJP	SBAR	VP
+think	VB	VP	ADJP	SBAR	VP	VP
+they	PRP	VP	ADJP	SBAR	VP	VP	NP
+had	VBD	VP	ADJP	SBAR	VP	VP	VP
+their	PRP$	VP	ADJP	SBAR	VP	VP	VP	NP
+own	JJ	VP	ADJP	SBAR	VP	VP	VP	NP
+vegetable	NN	VP	ADJP	SBAR	VP	VP	VP	NP
+garden	NN	VP	ADJP	SBAR	VP	VP	VP	NP
+and	CC	VP	ADJP	SBAR	VP	VP
+the	DT	VP	ADJP	SBAR	VP	VP	NP
+crust	NN	VP	ADJP	SBAR	VP	VP	NP
+is	VBZ	VP	ADJP	SBAR	VP	VP	VP
+so	RB	VP	ADJP	SBAR	VP	VP	VP	ADJP
+perfect	JJ	VP	ADJP	SBAR	VP	VP	VP	ADJP
+,	,	VP	ADJP	SBAR	VP	VP	VP
+that	IN	VP	ADJP	SBAR	VP	VP	VP	SBAR
+one	CD	VP	ADJP	SBAR	VP	VP	VP	SBAR	NP
+actually	RB	VP	ADJP	SBAR	VP	VP	VP	SBAR	ADVP
+thinks	VBZ	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP
+of	IN	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP	PP
+how	WRB	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP	PP	SBAR	WHADVP
+it	PRP	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP	PP	SBAR	NP
+was	VBD	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP	PP	SBAR	VP
+made	VBN	VP	ADJP	SBAR	VP	VP	VP	SBAR	VP	PP	SBAR	VP	VP
+.	.
+
+We	PRP	NP
+'ve	VBP	VP
+always	RB	VP	ADVP
+gotten	VBN	VP	VP
+amazing	JJ	VP	VP	NP
+service	NN	VP	VP	NP
+and	CC
+we	PRP	NP
+love	VBP	VP
+the	DT	VP	NP
+food	NN	VP	NP
+.	.
+
+The	DT	NP
+waitstaff	NN	NP
+is	VBZ	VP	VP
+solicitous	JJ	VP	VP	ADJP
+and	CC	VP	VP	ADJP
+friendly	JJ	VP	VP	ADJP
+and	CC	VP
+always	RB	VP	ADVP
+seems	VBZ	VP	VP
+glad	JJ	VP	VP	ADJP
+to	TO	VP	VP	ADJP	VP
+see	VB	VP	VP	ADJP	VP	VP
+us	PRP	VP	VP	ADJP	VP	VP	NP
+,	,
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+wonderful	JJ	VP	ADJP
+,	,	VP
+if	IN	VP	SBAR
+not	RB	VP	SBAR
+stunningly	RB	VP	SBAR	ADJP
+creative	JJ	VP	SBAR	ADJP
+.	.
+
+I	PRP	NP
+'m	VBP	VP
+in	IN	VP	PP
+love	NN	VP	PP	NP	NP
+with	IN	VP	PP	NP	PP
+the	DT	VP	PP	NP	PP	NP
+lobster	NN	VP	PP	NP	PP	NP
+ravioli	NN	VP	PP	NP	PP	NP
+!	.
+
+We	PRP	NP
+came	VBD	VP
+across	IN	VP	PP
+this	DT	VP	PP	NP	NP
+restaurant	NN	VP	PP	NP	NP
+by	IN	VP	PP	NP	PP
+accident	NN	VP	PP	NP	PP	NP
+while	IN	VP	SBAR
+at	IN	VP	SBAR	UCP	PP
+a	DT	VP	SBAR	UCP	PP	NP
+DUMBO	JJ	VP	SBAR	UCP	PP	NP
+art	NN	VP	SBAR	UCP	PP	NP
+festival	NN	VP	SBAR	UCP	PP	NP
+and	CC	VP	SBAR	UCP
+thoroughly	RB	VP	SBAR	UCP	ADVP
+enjoyed	VBN	VP	SBAR	UCP	VP
+our	PRP$	VP	SBAR	UCP	VP	NP
+meal	NN	VP	SBAR	UCP	VP	NP
+.	.
+
+Service	NNP	NP
+is	VBZ	VP
+excellent	JJ	VP	NP	NP
+,	,	VP	NP
+no	DT	VP	NP	NP
+wait	NN	VP	NP	NP
+,	,
+and	CC
+you	PRP	NP
+get	VBP	VP
+a	DT	VP	NP	NP
+lot	NN	VP	NP	NP
+for	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+price	NN	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+thought	VBD	VP
+the	DT	VP	SBAR	NP
+food	NN	VP	SBAR	NP
+is	VBZ	VP	SBAR	VP
+n't	RB	VP	SBAR	VP
+cheap	JJ	VP	SBAR	VP	ADJP
+at	IN	VP	SBAR	VP	ADJP	PP
+all	DT	VP	SBAR	VP	ADJP	PP	NP	NP
+compared	VBN	VP	SBAR	VP	ADJP	PP	NP	PP
+to	TO	VP	SBAR	VP	ADJP	PP	NP	PP	PP
+Chinatown	NNP	VP	SBAR	VP	ADJP	PP	NP	PP	PP	NP
+.	.
+
+Coffee	NNP	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+better	JJR	VP	NP	NP
+deal	NN	VP	NP	NP
+than	IN	VP	NP	PP
+overpriced	JJ	VP	NP	PP	NP
+Cosi	NNP	VP	NP	PP	NP
+sandwiches	NNS	VP	NP	PP	NP
+.	.
+
+)	-RRB-
+It	PRP	NP
+'s	VBZ	VP
+not	RB	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+Japanese	JJ	VP	NP	NP
+restaurant	NN	VP	NP	NP
+in	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+East	NNP	VP	NP	PP	NP
+Village	NNP	VP	NP	PP	NP
+,	,
+but	CC
+it	PRP	NP
+'s	VBZ	VP
+a	DT	VP	NP	NP	NP
+pretty	RB	VP	NP	NP	NP	ADJP
+solid	JJ	VP	NP	NP	NP	ADJP
+one	CD	VP	NP	NP	NP
+for	IN	VP	NP	NP	PP
+its	PRP$	VP	NP	NP	PP	NP
+modest	JJ	VP	NP	NP	PP	NP
+prices	NNS	VP	NP	NP	PP	NP
+,	,	VP	NP
+and	CC	VP	NP
+worth	JJ	VP	NP	NP	ADJP
+repeat	NN	VP	NP	NP
+visits	NNS	VP	NP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+so	RB	VP	ADJP	ADJP
+good	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+so	RB	VP	ADJP	ADJP
+popular	JJ	VP	ADJP	ADJP
+that	IN	VP	SBAR
+waiting	VBG	VP	SBAR	NP
+can	MD	VP	SBAR	VP
+really	RB	VP	SBAR	VP	ADVP
+be	VB	VP	SBAR	VP	VP
+a	DT	VP	SBAR	VP	VP	NP
+nightmare	NN	VP	SBAR	VP	VP	NP
+.	.
+
+First	NNP	NP	NP
+walking	VBG	NP	VP
+in	IN	NP	VP	PP
+the	DT	NP	VP	PP	NP
+place	NN	NP	VP	PP	NP
+seemed	VBD	VP
+to	TO	VP	VP
+have	VB	VP	VP	VP
+great	JJ	VP	VP	VP	NP
+ambience	NN	VP	VP	VP	NP
+.	.
+
+Even	RB	SBAR
+for	IN	SBAR	PP
+two	CD	SBAR	PP	NP
+very	RB	SBAR	PP	NP	ADJP
+hungry	JJ	SBAR	PP	NP	ADJP
+people	NNS	SBAR	PP	NP
+there	EX	SBAR	NP
+is	VBZ	SBAR	VP
+plenty	NN	SBAR	VP	NP	NP
+of	IN	SBAR	VP	NP	PP
+food	NN	SBAR	VP	NP	PP	NP
+left	VBD	VP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+taken	VBN	VP	VP	VP	VP
+home	NN	VP	VP	VP	VP	ADVP
+(	-LRB-	VP	VP	VP	VP	PRN
+it	PRP	VP	VP	VP	VP	PRN	NP
+reheats	VBZ	VP	VP	VP	VP	PRN	VP
+really	RB	VP	VP	VP	VP	PRN	VP	PP	ADVP
+well	RB	VP	VP	VP	VP	PRN	VP	PP
+also	RB	VP	VP	VP	VP	PRN	VP	PP	ADVP
+)	-RRB-	VP	VP	VP	VP	PRN
+.	.
+
+Then	RB
+they	PRP	NP
+somehow	RB	VP	ADVP
+made	VBD	VP
+a	DT	VP	NP
+dry	JJ	VP	NP	ADJP
+and	CC	VP	NP	ADJP
+burnt	JJ	VP	NP	ADJP
+crust	NN	VP	NP
+,	,	VP
+around	IN	VP	PP
+a	DT	VP	PP	NP
+raw	JJ	VP	PP	NP
+and	CC	VP	PP	NP
+cold	JJ	VP	PP	NP
+inside	NN	VP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+just	RB	VP	ADVP
+good	JJ	VP	NP
+food	NN	VP	NP
+,	,
+nothing	NN	NP
+more	JJR	ADJP
+and	CC
+that	DT	NP
+'s	VBZ	VP
+all	DT	VP	NP	NP
+we	PRP	VP	NP	SBAR	NP
+want	VBP	VP	NP	SBAR	VP
+!	.
+
+Average	JJ	NP
+cake	NN	NP
+thats	NNS	NP
+been	VBN	VP
+courted	VBN	VP	VP
+by	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP	NP
+LOT	NN	VP	VP	PP	NP	NP
+of	IN	VP	VP	PP	NP	PP
+hype	NN	VP	VP	PP	NP	PP	NP
+.	.
+
+My	PRP$	NP	NP
+wife	NN	NP	NP
+and	CC	NP
+I	PRP	NP	NP
+recently	RB	ADVP
+visited	VBD	VP	VP
+the	DT	VP	VP	NP
+bistro	NN	VP	VP	NP
+for	IN	VP	VP	PP
+dinner	NN	VP	VP	PP	NP
+and	CC	VP
+had	VBD	VP	VP
+a	DT	VP	VP	NP
+wonderful	JJ	VP	VP	NP
+experience	NN	VP	VP	NP
+.	.
+
+THE	DT	NP
+SERVICE	NNP	NP
+IS	VBZ	VP
+PERFECT	NNP	VP	NP	NP
+TOO	NNP	VP	NP	NP
+NOTHING	NNP	VP	NP	NP
+WRONG	NNP	VP	NP	NP
+IN	IN	VP	NP	PP
+THIS	DT	VP	NP	PP	NP
+ITALIAN/FRENCH	NN	VP	NP	PP	NP
+RESTAURANT	NN	VP	NP	PP	NP
+
+The	DT	NP
+$	$	NP	ADJP
+72	CD	NP	ADJP
+Delmonico	NNP	NP
+steak	NN	NP
+had	VBD	VP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+sent	VBN	VP	VP	VP	VP
+back	RB	VP	VP	VP	VP	ADVP
+because	IN	VP	VP	VP	VP	SBAR
+it	PRP	VP	VP	VP	VP	SBAR	NP
+was	VBD	VP	VP	VP	VP	SBAR	VP
+not	RB	VP	VP	VP	VP	SBAR	VP
+cooked	VBN	VP	VP	VP	VP	SBAR	VP	VP
+to	TO	VP	VP	VP	VP	SBAR	VP	VP	PP
+order	NN	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+really	RB	VP	ADJP
+fast	JJ	VP	ADJP
+and	CC	VP	ADJP
+friendly	JJ	VP	ADJP
+,	,
+and	CC
+the	DT	NP
+value	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+We	PRP	NP
+were	VBD	VP
+very	RB	VP	ADJP
+impressed	JJ	VP	ADJP
+with	IN	VP	PP
+the	DT	VP	PP	NP
+food	NN	VP	PP	NP
+and	CC	VP	PP	NP
+value	NN	VP	PP	NP
+.	.
+
+You	PRP	NP
+must	MD	VP
+try	VB	VP	VP
+the	DT	VP	VP	NP
+garlic	JJ	VP	VP	NP
+soup	NN	VP	VP	NP
+!	.
+
+Casablanca	NNP	NP	NP
+servces	NNS	NP	NP
+delicious	JJ	NP	ADJP
+falafel	NN	NP	ADJP	NP-TMP	NP
+,	,	NP	ADJP	NP-TMP
+tabouleh	NN	NP	ADJP	NP-TMP	NP
+,	,	NP	ADJP	NP-TMP
+humus	NN	NP	ADJP	NP-TMP	NP
+and	CC	NP	ADJP	NP-TMP
+other	JJ	NP	ADJP	NP-TMP	NP
+Mediterranean	JJ	NP	ADJP	NP-TMP	NP
+delights	VBZ	VP
+,	,	VP
+which	WDT	VP	SBAR	WHNP
+are	VBP	VP	SBAR	VP
+all	DT	VP	SBAR	VP	ADJP
+very	RB	VP	SBAR	VP	ADJP
+inexpensive	JJ	VP	SBAR	VP	ADJP
+.	.
+
+The	DT	NP
+pizza	NN	NP
+'s	POS	NP
+are	VBP	VP
+made	VBN	VP	VP
+fresh	JJ	VP	VP	ADJP	ADJP
+,	,	VP	VP	ADJP
+crispy	JJ	VP	VP	ADJP	ADJP
+,	,	VP	VP	ADJP
+and	CC	VP	VP	ADJP
+ready	JJ	VP	VP	ADJP	ADJP
+to	TO	VP	VP	VP
+serve	VB	VP	VP	VP	VP
+.	.
+
+Staff	NN	NP
+is	VBZ	VP
+accomodating	VBG	VP	VP
+make	VB	VP	VP	VP
+sure	JJ	VP	VP	VP	ADJP
+you	PRP	VP	VP	VP	ADJP	SBAR	NP
+are	VBP	VP	VP	VP	ADJP	SBAR	VP
+satified	JJ	VP	VP	VP	ADJP	SBAR	VP	ADJP
+.	.
+
+Reasonably	RB	VP	ADVP
+priced	VBN	VP
+with	IN	VP	PP
+very	RB	VP	PP	NP	ADJP
+fresh	JJ	VP	PP	NP	ADJP
+sushi	NN	VP	PP	NP
+.	.
+
+All	DT	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP
+apetizers	NNS	NP	PP	NP
+are	VBP	VP
+good	JJ	VP	ADJP
+and	CC
+the	DT	NP
+Sangria	NNP	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+The	DT	NP	NP
+one	CD	NP	NP
+positive	JJ	NP	NP
+thing	NN	NP	NP
+I	PRP	NP	SBAR	NP
+can	MD	NP	SBAR	VP
+say	VB	NP	SBAR	VP	VP
+is	VBZ	VP
+that	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+service	NN	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+prompt	JJ	VP	SBAR	VP	ADJP
+,	,
+we	PRP	NP
+got	VBD	VP
+seated	VBN	VP	VP
+right	RB	VP	VP	ADVP
+away	RB	VP	VP	ADVP
+and	CC
+the	DT	NP
+server	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+staff	NN	NP
+greeted	VBD	VP
+me	PRP	VP	NP
+warmly	RB	VP	ADVP
+at	IN	VP	PP
+the	DT	VP	PP	NP
+door	NN	VP	PP	NP
+and	CC
+I	PRP	NP
+was	VBD	VP
+seated	VBN	VP	VP
+promptly	RB	VP	VP	ADVP
+and	CC
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+excellent	JJ	VP	ADJP
+.	.
+
+Service	NNP	NP
+is	VBZ	VP
+usually	RB	VP	ADVP
+pretty	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+Host	NN	NP	NP
+and	CC	NP
+Hostess	NNP	NP	NP
+was	VBD	VP
+quite	RB	VP	ADJP
+rude	JJ	VP	ADJP
+.	.
+
+the	DT	NP
+wait	NN	NP
+staff	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+friendly	JJ	VP	ADJP
+,	,	VP
+if	IN	VP	SBAR
+your	PRP$	VP	SBAR	NP
+not	RB	VP	SBAR	ADJP
+rude	JJ	VP	SBAR	ADJP
+or	CC	VP	SBAR	ADJP
+picky	JJ	VP	SBAR	ADJP
+...	:
+...	:
+.our	JJ	NP	NP
+meal	NN	NP	NP
+at	IN	NP	PP
+Leon	NNP	NP	PP	NP
+last	JJ	NP	PP	NP
+weekend	NN	NP	PP	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+-	:
+.	.
+
+I	PRP	NP
+recommend	VBP	VP
+any	DT	VP	NP	NP
+of	IN	VP	NP	PP
+their	PRP$	VP	NP	PP	NP
+salmon	NN	VP	NP	PP	NP
+dishes	NNS	VP	NP	PP	NP
+...	:	VP	NP	PP
+...	:
+
+The	DT	NP
+foie	NN	NP
+gras	NNS	NP
+was	VBD	VP
+sweet	JJ	VP	ADJP
+and	CC	VP	ADJP
+luscious	JJ	VP	ADJP
+.	.
+
+The	DT	NP	NP
+menu	NN	NP	NP
+,	,	NP
+which	WDT	NP	SBAR	WHNP
+changes	VBZ	NP	SBAR	VP
+seasonally	RB	NP	SBAR	VP	ADVP
+,	,	NP
+shows	VBZ	VP
+both	CC	VP	PP
+regional	JJ	VP	PP	NP
+and	CC	VP	PP	NP
+international	JJ	VP	PP	NP
+influences	NNS	VP	PP	NP
+.	.
+
+but	CC
+their	PRP$	NP
+mac	NN	NP
+cheese	NN	NP
+was	VBD	VP
+YUMMY	NNP	VP	NP
+!	.
+
+jazz	NN	NP
+singer	NN	NP
+had	VBD	VP
+a	DT	VP	NP	NP
+nice	JJ	VP	NP	NP
+voice	NN	VP	NP	NP
++	CC	VP	NP
+she	PRP	VP	NP	NP	NP
+made	VBD	VP	NP	NP	SBAR	VP
+us	PRP	VP	NP	NP	SBAR	VP	SBAR	NP
+all	DT	VP	NP	NP	SBAR	VP	SBAR	ADVP
+get	VBP	VP	NP	NP	SBAR	VP	SBAR	VP
+up	RP	VP	NP	NP	SBAR	VP	SBAR	VP	PRT
+to	TO	VP	NP	NP	SBAR	VP	SBAR	VP	VP
+dance	VB	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP
+to	TO	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP
+shake	VB	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP
+some	DT	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+cals	NNS	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+to	TO	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	VP
+eat	VB	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	VP	VP
+some	DT	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	VP	VP	NP
+more	JJR	VP	NP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	VP	VP	NP
+.	.
+
+They	PRP	NP
+have	VBP	VP
+very	RB	VP	NP	ADJP
+quick	JJ	VP	NP	ADJP
+service	NN	VP	NP
+which	WDT	VP	NP	SBAR	WHNP
+is	VBZ	VP	NP	SBAR	VP
+great	JJ	VP	NP	SBAR	VP	ADJP
+when	WRB	VP	NP	SBAR	VP	SBAR	WHADVP
+you	PRP	VP	NP	SBAR	VP	SBAR	NP
+do	VBP	VP	NP	SBAR	VP	SBAR	VP
+n't	RB	VP	NP	SBAR	VP	SBAR	VP
+have	VB	VP	NP	SBAR	VP	SBAR	VP	VP
+much	JJ	VP	NP	SBAR	VP	SBAR	VP	VP	NP
+time	NN	VP	NP	SBAR	VP	SBAR	VP	VP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+average	JJ	VP	UCP	ADJP
+:	:	VP	UCP
+breakfast	NN	VP	UCP	NP	NP
+food	NN	VP	UCP	NP	NP
+,	,	VP	UCP	NP
+soups	NNS	VP	UCP	NP	NP
+,	,	VP	UCP	NP
+salads	NNS	VP	UCP	NP	NP
+,	,	VP	UCP	NP
+sandwiches	NNS	VP	UCP	NP	NP
+,	,	VP	UCP	NP
+etc	FW	VP	UCP	NP	NP
+.	.
+
+I	PRP	NP
+WAS	VBD	VP
+HIGHLY	RB	VP	ADJP
+DISAPPOINTED	JJ	VP	ADJP
+BY	IN	VP	PP
+THE	DT	VP	PP	NP
+FOOD	NN	VP	PP	NP
+.	.
+
+THE	DT	NP
+BANANA	NNP	NP
+PUDDING	NNP	NP
+THEY	NNP	NP
+SERVE	VB	VP
+HAS	VBZ	VP	VP
+NEVER	RB	VP	VP	ADVP
+SEEN	VBN	VP	VP	VP
+AN	DT	VP	VP	VP	NP
+OVEN	NN	VP	VP	VP	NP
+,	,
+THE	DT	NP
+CRABCAKES	NNS	NP
+ARE	VBP	VP	VP
+WAY	NN	VP	VP	NP	NP
+OVER	IN	VP	VP	NP	PP
+SALTED	JJ	VP	VP	NP	PP	NP	NP
+AND	CC	VP	VP	NP	PP	NP
+DO	NN	VP	VP	NP	PP	NP	NP
+N'T	RB	VP
+GET	VBP	VP	VP
+ME	NN	VP	VP	NP	NP
+STARTED	VBD	VP	VP	NP	SBAR	VP
+ON	IN	VP	VP	NP	PP
+THE	DT	VP	VP	NP	PP	NP	NP
+VERY	RB	VP	VP	NP	PP	NP	NP	ADJP
+GREASY	JJ	VP	VP	NP	PP	NP	NP	ADJP
+MAC	NNP	VP	VP	NP	PP	NP	NP
+AND	CC	VP	VP	NP	PP	NP	NP
+CHEESE	NNP	VP	VP	NP	PP	NP	NP
+.	.
+
+The	DT	NP
+staff	NN	NP
+is	VBZ	VP
+arrogant	JJ	VP	ADJP
+,	,
+the	DT	NP
+prices	NNS	NP
+are	VBP	VP
+way	RB	VP	ADVP
+high	JJ	VP	ADVP
+for	IN	VP	PP
+Brooklyn	NNP	VP	PP	NP
+.	.
+
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+prompt	JJ	VP	ADJP
+friendly	JJ	VP	ADJP
+.	.
+
+This	DT	NP
+is	VBZ	VP
+literally	RB	VP	ADVP
+a	DT	VP	NP	NP
+hot	JJ	VP	NP	NP
+spot	NN	VP	NP	NP
+when	WRB	VP	NP	SBAR	WHADVP
+it	PRP	VP	NP	SBAR	NP
+comes	VBZ	VP	NP	SBAR	VP
+to	TO	VP	NP	SBAR	VP	PP
+the	DT	VP	NP	SBAR	VP	PP	NP
+food	NN	VP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+downstairs	JJ	NP
+bar	NN	NP
+scene	NN	NP
+is	VBZ	VP
+very	RB	VP	UCP	ADJP
+cool	JJ	VP	UCP	ADJP
+and	CC	VP	UCP
+chill	NN	VP	UCP	NP
+...	:
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+definitely	RB	VP	ADVP
+good	JJ	VP	ADJP
+,	,	VP
+but	CC	VP	SBAR
+when	WRB	VP	SBAR	SBAR	WHADVP
+all	DT	VP	SBAR	SBAR	NP
+was	VBD	VP	SBAR	SBAR	VP
+said	VBN	VP	SBAR	SBAR	VP	VP
+and	CC	VP	SBAR	SBAR	VP	VP
+done	VBN	VP	SBAR	SBAR	VP	VP
+,	,	VP	SBAR
+I	PRP	VP	SBAR	NP
+just	RB	VP	SBAR	ADVP
+could	MD	VP	SBAR	VP
+n't	RB	VP	SBAR	VP
+justify	VB	VP	SBAR	VP	VP
+it	PRP	VP	SBAR	VP	VP	NP
+for	IN	VP	SBAR	VP	VP	PP
+the	DT	VP	SBAR	VP	VP	PP	NP
+price	NN	VP	SBAR	VP	VP	PP	NP
+(	-LRB-	VP	SBAR	VP	VP	PRN
+including	VBG	VP	SBAR	VP	VP	PRN	PP
+2	CD	VP	SBAR	VP	VP	PRN	PP	NP	NP
+drinks	NNS	VP	SBAR	VP	VP	PRN	PP	NP	NP
+,	,	VP	SBAR	VP	VP	PRN	PP	NP
+$	$	VP	SBAR	VP	VP	PRN	PP	NP	NP
+100/person	CD	VP	SBAR	VP	VP	PRN	PP	NP	NP
+)	-RRB-	VP	SBAR	VP	VP	PRN
+...	:
+
+If	IN	SBAR
+you	PRP	SBAR	NP
+are	VBP	SBAR	VP
+a	DT	SBAR	VP	NP
+Tequila	NNP	SBAR	VP	NP
+fan	NN	SBAR	VP	NP
+you	PRP	NP
+will	MD	VP
+not	RB	VP
+be	VB	VP	VP
+disappointed	VBN	VP	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+beer	NN	NP	NP
+selection	NN	NP	NP
+too	RB	NP	NP
+,	,	NP
+something	NN	NP	NP	NP
+like	IN	NP	NP	PP
+50	CD	NP	NP	PP	NP
+beers	NNS	NP	NP	PP	NP
+.	.	NP
+
+Not	RB	FRAG
+to	TO	FRAG	VP
+sound	VB	FRAG	VP	VP	VP
+too	RB	FRAG	VP	VP	VP	ADJP
+negative	JJ	FRAG	VP	VP	VP	ADJP
+but	CC	FRAG	VP	VP
+be	VB	FRAG	VP	VP	VP
+wary	JJ	FRAG	VP	VP	VP	ADJP
+of	IN	FRAG	VP	VP	VP	ADJP	PP
+the	DT	FRAG	VP	VP	VP	ADJP	PP	NP
+delivary	JJ	FRAG	VP	VP	VP	ADJP	PP	NP
+.	.	FRAG
+
+I	PRP	NP
+found	VBD	VP
+the	DT	VP	NP
+food	NN	VP	NP
+to	TO	VP	NP	VP
+be	VB	VP	NP	VP	VP
+just	RB	VP	NP	VP	VP	ADJP
+as	RB	VP	NP	VP	VP	ADJP
+good	JJ	VP	NP	VP	VP	ADJP
+as	IN	VP	NP	VP	VP	PP
+its	PRP$	VP	NP	VP	VP	PP	NP	NP
+owner	NN	VP	NP	VP	VP	PP	NP	NP
+,	,	VP	NP	VP	VP	PP	NP
+Da	NN	VP	NP	VP	VP	PP	NP	NP
+Silvano	NNP	VP	NP	VP	VP	PP	NP	NP
+,	,	VP	NP	VP	VP	PP	NP
+just	RB	VP	NP	VP	VP	SBAR
+much	RB	VP	NP	VP	VP	SBAR	ADJP
+less	RBR	VP	NP	VP	VP	SBAR	ADJP
+expensive	JJ	VP	NP	VP	VP	SBAR	ADJP
+.	.
+
+They	PRP	NP
+have	VBP	VP
+homemade	JJ	VP	NP	NP
+pastas	NNS	VP	NP	NP
+of	IN	VP	NP	PP
+all	DT	VP	NP	PP	NP
+kinds	NNS	VP	NP	PP	NP
+--	:
+I	PRP	NP
+recommend	VBP	VP
+the	DT	VP	NP
+gnocchi	NNS	VP	NP
+--	:	VP
+yum	NN	VP	NP
+!	.
+
+My	PRP$	NP
+vegetable	NN	NP
+risotto	NN	NP
+was	VBD	VP	VP
+burnt	JJ	VP	VP	ADJP
+,	,	VP
+and	CC	VP
+infused	VBD	VP	VP
+totally	RB	VP	VP	ADVP
+in	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+burnt	JJ	VP	VP	PP	NP
+flavor	NN	VP	VP	PP	NP
+.	.
+
+The	DT	NP	NP
+main	JJ	NP	NP
+draw	NN	NP	NP
+of	IN	NP	PP
+this	DT	NP	PP	NP
+place	NN	NP	PP	NP
+is	VBZ	VP
+the	DT	VP	NP
+price	NN	VP	NP
+.	.
+
+But	CC
+dinner	NN	NP
+here	RB	ADVP
+is	VBZ	VP
+never	RB	VP	ADVP
+disappointing	JJ	VP	ADJP
+,	,	VP
+even	RB	VP	SBAR
+if	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+prices	NNS	VP	SBAR	NP
+are	VBP	VP	SBAR	VP
+a	DT	VP	SBAR	VP	NP	NP
+bit	NN	VP	SBAR	VP	NP	NP
+over	IN	VP	SBAR	VP	NP	PP
+the	DT	VP	SBAR	VP	NP	PP	NP
+top	NN	VP	SBAR	VP	NP	PP	NP
+.	.
+
+Not	RB	CONJP
+only	RB	CONJP
+did	VBD	SINV	VP
+they	PRP	SINV	VP	SBAR	NP
+have	VBP	SINV	VP	SBAR	VP
+amazing	JJ	SINV	VP	SBAR	VP	ADJP
+,	,	SINV	VP
+sandwiches	NNS	SINV	NP	NP
+,	,	SINV	NP
+soup	NN	SINV	NP	NP	NP
+,	,	SINV	NP	NP
+pizza	NN	SINV	NP	NP	NP
+etc	NN	SINV	NP	NP	NP
+,	,
+but	CC
+their	PRP$	NP
+homemade	NN	NP
+sorbets	NNS	NP
+are	VBP	VP
+out	IN	VP	ADJP
+of	IN	VP	ADJP	PP
+this	DT	VP	ADJP	PP	NP
+world	NN	VP	ADJP	PP	NP
+!	.
+
+the	DT	NP	NP
+homemade	NN	NP	NP
+Guacamole	NNP	NP	NP	NP	NP
+,	,	NP	NP	NP
+the	DT	NP	NP	NP	NP	NP
+unbelievable	JJ	NP	NP	NP	NP	NP
+entree	FW	NP	NP	NP	NP	NP
+,	,	NP	NP	NP
+and	CC	NP	NP
+thee	PRP	NP	NP	NP	NP
+most	RBS	NP	NP	NP	NP	ADJP
+amazing	JJ	NP	NP	NP	NP	ADJP
+deserts	NNS	NP	NP	NP	NP
+.	.	NP
+
+The	DT	NP
+sushi	NN	NP
+is	VBZ	VP
+reasonably	RB	VP	ADJP	ADJP
+priced	VBN	VP	ADJP	ADJP
+and	CC	VP	ADJP
+fresh	JJ	VP	ADJP	ADJP
+.	.
+
+Save	VB	VP
+room	NN	VP	NP
+for	IN	VP	PP
+deserts	NNS	VP	PP	NP
+-	:
+they	PRP	NP
+'re	VBP	VP
+to	TO	VP	VP
+die	VB	VP	VP	VP
+for	IN	VP	VP	VP	PP
+.	.
+
+The	DT	NP
+traditional	JJ	NP
+Italian	JJ	NP
+items	NNS	NP
+are	VBP	VP	VP
+great	JJ	VP	VP	ADJP	ADJP
+-	:	VP	VP	ADJP
+cheap	JJ	VP	VP	ADJP	ADJP
+and	CC	VP
+served	VBD	VP	VP
+in	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+cozy	JJ	VP	VP	PP	NP
+setting	NN	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+a	DT	VP	ADJP	NP
+bit	NN	VP	ADJP	NP
+slow	JJ	VP	ADJP
+and	CC
+the	DT	NP
+portions	NNS	NP
+are	VBP	VP
+a	DT	VP	ADJP	NP
+bit	NN	VP	ADJP	NP
+small	JJ	VP	ADJP
+so	RB	SBAR
+if	IN	SBAR
+you	PRP	SBAR	NP
+are	VBP	SBAR	VP
+hungry	JJ	SBAR	VP	ADJP
+and	CC
+in	IN	PP
+a	DT	PP	NP
+rush	NN	PP	NP
+,	,
+this	DT	NP
+is	VBZ	VP
+not	RB	VP
+the	DT	VP	NP	NP
+place	NN	VP	NP	NP
+for	IN	VP	NP	PP
+you	PRP	VP	NP	PP	NP
+.	.
+
+El	NNP	NP	NP
+Nidos	NNP	NP	NP
+one	CD	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP	NP
+best	JJS	NP	PP	NP	NP
+restaurants	NNS	NP	PP	NP	NP
+in	IN	NP	PP	NP	PP
+New	NNP	NP	PP	NP	PP	NP	NP
+York	NNP	NP	PP	NP	PP	NP	NP
+which	WDT	NP	PP	NP	PP	NP	SBAR	WHNP
+I	PRP	NP	PP	NP	PP	NP	SBAR	NP
+'ve	VBP	NP	PP	NP	PP	NP	SBAR	VP
+ever	RB	NP	PP	NP	PP	NP	SBAR	VP	ADVP
+been	VBN	NP	PP	NP	PP	NP	SBAR	VP	VP
+to	TO	NP	PP	NP	PP	NP	SBAR	VP	VP	PP
+,	,
+has	VBZ	VP
+a	DT	VP	NP	NP	NP
+great	JJ	VP	NP	NP	NP
+variety	NN	VP	NP	NP	NP
+of	IN	VP	NP	NP	PP
+tasty	JJ	VP	NP	NP	PP	ADJP
+,	,	VP	NP
+mouth	NN	VP	NP	NP	NP
+watering	VBG	VP	NP	NP	PP
+pizza	NN	VP	NP	NP	PP	NP
+'s	POS	VP	NP	NP	PP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+pretty	RB	VP	ADJP
+poor	JJ	VP	ADJP
+all	DT	VP	ADVP
+around	RB	VP	ADVP
+,	,
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+well	RB	VP	ADVP
+below	IN	VP	ADVP	PP
+average	JJ	VP	ADVP	PP	ADJP
+relative	JJ	VP	ADJP
+to	TO	VP	PP	PP
+the	DT	VP	PP	PP	NP
+cost	NN	VP	PP	PP	NP
+,	,	VP	PP
+and	CC	VP	PP
+outside	IN	VP	PP	PP
+there	EX	VP	PP	PP	NP
+is	VBZ	VP	PP	PP	VP
+a	DT	VP	PP	PP	VP	NP	NP
+crazy	JJ	VP	PP	PP	VP	NP	NP
+bum	NN	VP	PP	PP	VP	NP	NP
+who	WP	VP	PP	PP	VP	NP	SBAR	WHNP
+harasses	VBZ	VP	PP	PP	VP	NP	SBAR	VP
+every	DT	VP	PP	PP	VP	NP	SBAR	VP	NP	NP
+customer	NN	VP	PP	PP	VP	NP	SBAR	VP	NP	NP
+who	WP	VP	PP	PP	VP	NP	SBAR	VP	NP	SBAR	WHNP
+leaves	VBZ	VP	PP	PP	VP	NP	SBAR	VP	NP	SBAR	VP
+the	DT	VP	PP	PP	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+place	NN	VP	PP	PP	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+.	.
+
+Although	IN	SBAR
+I	PRP	SBAR	NP
+moved	VBD	SBAR	VP
+uptown	JJ	SBAR	VP	ADJP
+I	PRP	NP
+try	VBP	VP
+to	TO	VP	VP	VP
+stop	VB	VP	VP	VP	VP
+in	RP	VP	VP	VP	VP	PRT
+as	RB	VP	VP	VP	VP	ADVP	ADVP
+often	RB	VP	VP	VP	VP	ADVP	ADVP
+as	IN	VP	VP	VP	VP	ADVP	PP
+possible	JJ	VP	VP	VP	VP	ADVP	PP	ADJP
+for	IN	VP	VP	VP	VP	PP
+the	DT	VP	VP	VP	VP	PP	NP
+GREAT	JJ	VP	VP	VP	VP	PP	NP
+cheap	JJ	VP	VP	VP	VP	PP	NP
+food	NN	VP	VP	VP	VP	PP	NP
+and	CC	VP	VP
+to	TO	VP	VP	VP
+pay	VB	VP	VP	VP	VP
+the	DT	VP	VP	VP	VP	NP	NP
+friendly	JJ	VP	VP	VP	VP	NP	NP
+staff	NN	VP	VP	VP	VP	NP	NP
+a	DT	VP	VP	VP	VP	NP	NP
+visit	NN	VP	VP	VP	VP	NP	NP
+.	.
+
+Chef	NN	NP
+Vincenzo	NNP	NP
+,	,
+always	RB	ADVP
+there	RB	ADVP
+if	IN	ADVP	SBAR
+you	PRP	ADVP	SBAR	NP
+need	VBP	ADVP	SBAR	VP
+him	PRP	ADVP	SBAR	VP	NP
+,	,
+is	VBZ	VP
+a	DT	VP	NP	NP
+real	JJ	VP	NP	NP
+talent	NN	VP	NP	NP
+and	CC	VP	NP
+a	DT	VP	NP	NP
+real	JJ	VP	NP	NP
+Roman	NNP	VP	NP	NP
+.	.
+
+If	IN	SBAR
+you	PRP	SBAR	NP
+'re	VBP	SBAR	VP
+looking	VBG	SBAR	VP	VP
+to	TO	SBAR	VP	VP	VP
+taste	VB	SBAR	VP	VP	VP	VP	VP
+some	DT	SBAR	VP	VP	VP	VP	VP	NP
+great	JJ	SBAR	VP	VP	VP	VP	VP	NP
+Indian	JJ	SBAR	VP	VP	VP	VP	VP	NP
+food	NN	SBAR	VP	VP	VP	VP	VP	NP
+and	CC	SBAR	VP	VP	VP	VP
+want	VB	SBAR	VP	VP	VP	VP	VP
+good	JJ	SBAR	VP	VP	VP	VP	VP	NP
+service	NN	SBAR	VP	VP	VP	VP	VP	NP
+,	,
+definitely	RB	ADVP
+visit	VB	VP
+Curry	NNP	VP	NP
+Leaf	NNP	VP	NP
+.	.
+
+You	PRP	NP
+must	MD	VP
+try	VB	VP	VP
+Odessa	NNP	VP	VP	NP	NP
+stew	NN	VP	VP	NP	NP
+or	CC	VP	VP	NP
+Rabbit	NN	VP	VP	NP	NP
+stew	NN	VP	VP	NP	NP
+;	:
+salads	NNS	NP
+-all	RB	ADJP
+good	JJ	ADJP
+;	:
+and	CC
+kompot	NN	NP
+is	VBZ	VP
+soo	NN	VP	NP	NP
+refreshing	JJ	VP	NP	ADJP
+during	IN	VP	NP	ADJP	PP
+the	DT	VP	NP	ADJP	PP	NP	NP
+hot	JJ	VP	NP	ADJP	PP	NP	NP
+summer	NN	VP	NP	ADJP	PP	NP	NP
+day	NN	VP	NP	ADJP	PP	NP	NP
+(	-LRB-	VP	NP	ADJP	PP	NP	PRN
+they	PRP	VP	NP	ADJP	PP	NP	PRN	NP
+make	VBP	VP	NP	ADJP	PP	NP	PRN	VP
+it	PRP	VP	NP	ADJP	PP	NP	PRN	VP	NP
+the	DT	VP	NP	ADJP	PP	NP	PRN	VP	NP	NP
+way	NN	VP	NP	ADJP	PP	NP	PRN	VP	NP	NP
+my	PRP$	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	NP
+mom	NN	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	NP
+does	VBZ	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	VP	VP
+,	,	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	VP
+reminds	VBZ	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	VP	VP
+me	PRP	VP	NP	ADJP	PP	NP	PRN	VP	NP	SBAR	VP	VP	NP
+of	IN	VP	NP	ADJP	PP	NP	PRN	VP	NP	PP
+home	NN	VP	NP	ADJP	PP	NP	PRN	VP	NP	PP	NP	NP
+a	DT	VP	NP	ADJP	PP	NP	PRN	VP	NP	PP	NP	NP
+lot	NN	VP	NP	ADJP	PP	NP	PRN	VP	NP	PP	NP	NP
+)	-RRB-	VP	NP	ADJP	PP	NP	PRN
+.	.
+
+My	PRP$	NP	NP
+daughter	NN	NP	NP
+and	CC	NP
+I	PRP	NP	NP
+left	VBD	VP
+feeling	NN	VP	NP	NP
+satisfied	JJ	VP	NP	ADJP	ADJP
+(	-LRB-	VP	NP	ADJP	PRN
+not	RB	VP	NP	ADJP	PRN	ADJP
+stuffed	VBN	VP	NP	ADJP	PRN	ADJP
+)	-RRB-	VP	NP	ADJP	PRN
+and	CC
+it	PRP	NP
+felt	VBD	VP
+good	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+know	VB	VP	ADJP	VP	VP
+we	PRP	VP	ADJP	VP	VP	SBAR	NP
+had	VBD	VP	ADJP	VP	VP	SBAR	VP
+a	DT	VP	ADJP	VP	VP	SBAR	VP	NP
+healthy	JJ	VP	ADJP	VP	VP	SBAR	VP	NP
+lunch	NN	VP	ADJP	VP	VP	SBAR	VP	NP
+.	.
+
+The	DT	NP	NP
+quality	NN	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP
+meat	NN	NP	PP	NP
+was	VBD	VP
+on	IN	VP	PP
+par	NN	VP	PP	NP	NP
+with	IN	VP	PP	NP	PP
+your	PRP$	VP	PP	NP	PP	NP
+local	JJ	VP	PP	NP	PP	NP
+grocery	NN	VP	PP	NP	PP	NP
+store	NN	VP	PP	NP	PP	NP
+.	.
+
+I	PRP	NP
+recommend	VBP	VP
+the	DT	VP	NP
+black	JJ	VP	NP	ADJP
+roasted	JJ	VP	NP	ADJP
+codfish	NN	VP	NP
+,	,
+it	PRP	NP
+was	VBD	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+dish	NN	VP	NP	NP
+of	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+evening	NN	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+manager	NN	NP
+then	RB	ADVP
+told	VBD	VP
+us	PRP	VP	NP
+we	PRP	VP	SBAR	NP
+could	MD	VP	SBAR	VP
+order	VB	VP	SBAR	VP	VP
+from	IN	VP	SBAR	VP	VP	PP
+whatever	WDT	VP	SBAR	VP	VP	PP	NP
+menu	NN	VP	SBAR	VP	VP	PP	NP
+we	PRP	NP
+wanted	VBD	VP	VP
+but	CC	VP	VP	PP
+by	IN	VP	VP	PP	PP
+that	DT	VP	VP	PP	PP	NP	NP
+time	NN	VP	VP	PP	PP	NP	NP
+we	PRP	VP	VP	PP	PP	NP	SBAR	NP
+were	VBD	VP	VP	PP	PP	NP	SBAR	VP
+so	RB	VP	VP	PP	PP	NP	SBAR	VP	ADJP
+annoyed	JJ	VP	VP	PP	PP	NP	SBAR	VP	ADJP
+with	IN	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP
+the	DT	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP	NP	NP
+waiter	NN	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP	NP	NP
+and	CC	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP	NP
+the	DT	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP	NP	NP
+resturant	NN	VP	VP	PP	PP	NP	SBAR	VP	ADJP	PP	NP	NP
+that	IN	VP	VP	PP	PP	NP	SBAR	VP	SBAR
+we	PRP	VP	VP	PP	PP	NP	SBAR	VP	SBAR	NP
+let	VBP	VP	VP	PP	PP	NP	SBAR	VP	SBAR	VP
+and	CC	VP
+went	VBD	VP	VP
+some	DT	VP	VP	NP
+place	NN	VP	VP	NP
+else	RB	VP	VP	ADJP
+.	.
+
+In	IN	PP
+mi	FW	PP	NP
+burrito	FW	PP	NP
+,	,
+here	RB	ADVP
+was	VBD	VP
+nothing	NN	VP	NP	NP
+but	CC	VP	NP	PP
+dark	JJ	VP	NP	PP	NP
+chicken	NN	VP	NP	PP	NP
+that	WDT	VP	NP	SBAR	WHNP
+had	VBD	VP	NP	SBAR	VP	VP
+that	DT	VP	NP	SBAR	VP	VP	NP	NP
+cooked	VBN	VP	NP	SBAR	VP	VP	NP	VP
+last	JJ	VP	NP	SBAR	VP	VP	NP	VP	NP-TMP
+week	NN	VP	NP	SBAR	VP	VP	NP	VP	NP-TMP
+and	CC	VP	NP	SBAR	VP
+just	RB	VP	NP	SBAR	VP	VP	ADVP
+warmed	VBD	VP	NP	SBAR	VP	VP
+up	RP	VP	NP	SBAR	VP	VP	PRT
+in	IN	VP	NP	SBAR	VP	VP	PP
+a	DT	VP	NP	SBAR	VP	VP	PP	NP
+microwave	NN	VP	NP	SBAR	VP	VP	PP	NP
+taste	NN	VP	NP	SBAR	VP	VP	PP	NP
+.	.
+
+during	IN	PP
+busy	JJ	PP	NP
+hrs	NNS	PP	NP
+,	,
+i	FW	NP
+recommend	VB	VP
+that	IN	VP	SBAR
+you	PRP	VP	SBAR	NP
+make	VBP	VP	SBAR	VP
+a	DT	VP	SBAR	VP	NP
+reservation	NN	VP	SBAR	VP	NP
+.	.
+
+I	PRP	NP
+went	VBD	VP
+to	TO	VP	PP
+Common	NNP	VP	PP	NP
+Stock	NNP	VP	PP	NP
+for	IN	VP	PP
+brunch	NN	VP	PP	NP
+and	CC
+I	PRP	NP
+was	VBD	VP
+so	RB	VP	ADJP
+impressed	JJ	VP	ADJP
+.	.
+
+now	RB	VP	ADVP
+called	VBN	VP
+nikki	JJ	VP	NP
+sushi	NN	VP	NP
+,	,
+sushi	NN	NP
+is	VBZ	VP
+OK	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP	VP
+also	RB	VP	VP	ADVP
+outstanding	JJ	VP	VP	ADJP
+and	CC	VP
+is	VBZ	VP	VP
+served	VBN	VP	VP	VP
+quite	RB	VP	VP	VP	ADVP
+quickly	RB	VP	VP	VP	ADVP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+delicious	JJ	VP	ADJP
+and	CC
+the	DT	NP
+bar	NN	NP
+has	VBZ	VP
+a	DT	VP	NP
+great	JJ	VP	NP
+vibe	NN	VP	NP
+.	.
+
+Simple	JJ	NP	NP
+healthy	JJ	NP	NP
+unglamorous	JJ	NP	NP
+food	NN	NP	NP
+cheap	NN	NP	NP
+.	.	NP
+
+It	PRP	NP
+was	VBD	VP
+such	JJ	VP	PP
+a	DT	VP	PP	NP	NP
+fantastic	JJ	VP	PP	NP	NP	ADJP
+dining	NN	VP	PP	NP	NP
+experience	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+that	IN	VP	PP	NP	SBAR
+I	PRP	VP	PP	NP	SBAR	NP
+returned	VBD	VP	PP	NP	SBAR	VP
+again	RB	VP	PP	NP	SBAR	VP	ADVP
+the	DT	VP	PP	NP	SBAR	VP	NP-TMP
+same	JJ	VP	PP	NP	SBAR	VP	NP-TMP
+week	NN	VP	PP	NP	SBAR	VP	NP-TMP
+.	.
+
+To	TO	VP
+be	VB	VP	VP
+fair	JJ	VP	VP	ADJP
+,	,
+the	DT	NP
+food	NN	NP
+still	RB	ADVP
+is	VBZ	VP
+good	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+quick	JJ	VP	ADJP
+and	CC	VP	ADJP
+attentative	JJ	VP	ADJP
+even	RB	VP	ADVP	ADVP
+though	IN	VP	ADVP	SBAR
+its	PRP$	VP	ADVP	SBAR	NP
+usually	RB	VP	ADVP	SBAR	ADJP
+very	RB	VP	ADVP	SBAR	ADJP
+busy	JJ	VP	ADVP	SBAR	ADJP
+.	.
+
+The	DT	NP
+place	NN	NP
+is	VBZ	VP
+absolutely	RB	VP	ADJP
+adorable	JJ	VP	ADJP
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+delicious	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+'ve	VBP	VP
+had	VBD	VP	VP
+better	JJR	VP	VP	NP	NP
+Japanese	JJ	VP	VP	NP	NP
+food	NN	VP	VP	NP	NP
+at	IN	VP	VP	NP	PP
+a	DT	VP	VP	NP	PP	NP
+mall	NN	VP	VP	NP	PP	NP
+food	NN	VP	VP	NP	PP	NP
+court	NN	VP	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+staff	NN	NP
+members	NNS	NP
+are	VBP	VP	VP
+extremely	RB	VP	VP	ADJP
+friendly	JJ	VP	VP	ADJP
+and	CC	VP
+even	RB	VP	ADVP
+replaced	VBD	VP	VP
+my	PRP$	VP	VP	NP
+drink	NN	VP	VP	NP
+once	RB	VP	VP	ADVP
+when	WRB	VP	VP	SBAR	WHADVP
+I	PRP	VP	VP	SBAR	NP
+dropped	VBD	VP	VP	SBAR	VP
+it	PRP	VP	VP	SBAR	VP	NP
+outside	IN	VP	VP	SBAR	VP	PP
+.	.
+
+Cool	JJ	NP	NP
+atmosphere	NN	NP	NP
+but	CC	NP	PP
+such	PDT	NP	PP	NP
+a	DT	NP	PP	NP
+let	VB	VP
+down	RP	VP	PRT
+.	.
+
+The	DT	NP
+Sashimi	NNP	NP
+portion	NN	NP
+are	VBP	VP
+big	JJ	VP	ADJP
+enough	RB	VP	ADJP
+to	TO	VP	ADJP	VP
+appease	VB	VP	ADJP	VP	VP
+most	JJS	VP	ADJP	VP	VP	NP
+people	NNS	VP	ADJP	VP	VP	NP
+,	,
+but	CC
+I	PRP	NP
+did	VBD	VP
+n't	RB	VP
+like	VB	VP	VP
+the	DT	VP	VP	NP	NP
+fact	NN	VP	VP	NP	NP
+they	PRP	VP	VP	NP	SBAR	NP
+used	VBD	VP	VP	NP	SBAR	VP
+artifical	JJ	VP	VP	NP	SBAR	VP	NP
+lobster	NN	VP	VP	NP	SBAR	VP	NP
+meat	NN	VP	VP	NP	SBAR	VP	NP
+.	.
+
+They	PRP	NP
+have	VBP	VP
+wheat	NN	VP	NP	NP
+crusted	JJ	VP	NP	NP
+pizza	NN	VP	NP	NP
+made	VBN	VP	NP	VP
+with	IN	VP	NP	VP	PP
+really	RB	VP	NP	VP	PP	NP	ADJP
+fresh	JJ	VP	NP	VP	PP	NP	ADJP
+and	CC	VP	NP	VP	PP	NP	ADJP
+yummy	JJ	VP	NP	VP	PP	NP	ADJP
+ingredients	NNS	VP	NP	VP	PP	NP
+.	.
+
+Had	VBD	SBAR	SINV
+a	DT	SBAR	SINV	NP	NP
+lovely	JJ	SBAR	SINV	NP	NP
+dinner	NN	SBAR	SINV	NP	NP
+in	IN	SBAR	SINV	NP	PP
+this	DT	SBAR	SINV	NP	PP	NP
+dedicated	JJ	SBAR	SINV	NP	PP	NP	ADJP
+seafood	NN	SBAR	SINV	NP	PP	NP
+joint	NN	SBAR	SINV	NP	PP	NP
+,	,
+food	NN	NP
+was	VBD	VP
+well-prepared	JJ	VP	ADJP
+and	CC	VP	ADJP
+-presented	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+pleasant	JJ	VP	ADJP
+and	CC	VP	ADJP
+prompt	JJ	VP	ADJP
+.	.
+
+the	DT	NP-TMP	NP
+icing	NN	NP-TMP	NP
+MADE	NN	NP-TMP	NP
+this	DT	NP-TMP	NP
+cake	NN	NP-TMP	NP
+,	,
+it	PRP	NP
+was	VBD	VP
+fluffy	JJ	VP	ADJP
+,	,	VP
+not	RB	VP	SBAR
+ultra	NN	VP	SBAR	FRAG	NP	NP
+sweet	JJ	VP	SBAR	FRAG	NP	ADJP
+,	,	VP	SBAR	FRAG	NP	ADJP
+creamy	JJ	VP	SBAR	FRAG	NP	ADJP
+and	CC	VP	SBAR	FRAG	NP	ADJP
+light	JJ	VP	SBAR	FRAG	NP	ADJP
+.	.
+
+Finally	RB	VP	ADVP
+let	VB	VP
+into	IN	VP	PP
+the	DT	VP	PP	NP
+store	NN	VP	PP	NP
+5	CD	VP	PP	NP
+at	IN	VP	PP
+a	DT	VP	PP	NP
+time	NN	VP	PP	NP
+,	,	VP
+to	TO	VP	VP
+buy	VB	VP	VP	VP
+expensive	JJ	VP	VP	VP	NP
+slices	NNS	VP	VP	VP	NP
+from	IN	VP	VP	VP	PP
+a	DT	VP	VP	VP	PP	NP
+harried	VBN	VP	VP	VP	PP	NP
+staff	NN	VP	VP	VP	PP	NP
+.	.
+
+We	PRP	NP
+ended	VBD	VP
+up	RP	VP	PRT
+having	VBG	VP	VP
+to	TO	VP	VP	VP
+just	RB	VP	VP	VP	VP	ADVP
+leave	VB	VP	VP	VP	VP
+because	IN	VP	VP	VP	VP	SBAR
+we	PRP	VP	VP	VP	VP	SBAR	NP
+were	VBD	VP	VP	VP	VP	SBAR	VP
+essentially	RB	VP	VP	VP	VP	SBAR	VP	ADVP
+being	VBG	VP	VP	VP	VP	SBAR	VP	VP
+ignored	VBN	VP	VP	VP	VP	SBAR	VP	VP	VP
+by	IN	VP	VP	VP	VP	SBAR	VP	VP	VP	PP
+the	DT	VP	VP	VP	VP	SBAR	VP	VP	VP	PP	NP
+wait	NN	VP	VP	VP	VP	SBAR	VP	VP	VP	PP	NP
+staff	NN	VP	VP	VP	VP	SBAR	VP	VP	VP	PP	NP
+--	:	VP	VP	VP	VP	SBAR	VP	VP	VP
+even	RB	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR
+though	IN	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR
+the	DT	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	NP	NP
+rest	NN	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	NP	NP
+of	IN	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	NP	PP
+the	DT	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	NP	PP	NP
+restaurant	NN	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	NP	PP	NP
+was	VBD	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	VP
+largely	RB	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	VP	ADJP
+empty	JJ	VP	VP	VP	VP	SBAR	VP	VP	VP	SBAR	VP	ADJP
+.	.
+
+The	DT	NP
+wine	NN	NP
+list	NN	NP
+is	VBZ	VP	VP
+extensive	JJ	VP	VP	ADJP
+,	,	VP	VP
+well	RB	VP	VP	VP	ADVP
+priced	VBN	VP	VP	VP
+and	CC	VP
+covers	VBZ	VP	VP
+alot	NN	VP	VP	NP	NP
+of	IN	VP	VP	NP	PP
+regions	NNS	VP	VP	NP	PP	NP
+.	.
+
+Go	VB	VP
+here	RB	VP	ADVP
+if	IN	VP	SBAR
+you	PRP	VP	SBAR	NP
+want	VBP	VP	SBAR	VP
+fresh	JJ	VP	SBAR	VP	NP	NP	ADJP
+and	CC	VP	SBAR	VP	NP	NP	ADJP
+tasty	JJ	VP	SBAR	VP	NP	NP	ADJP
+salads	NNS	VP	SBAR	VP	NP	NP
+of	IN	VP	SBAR	VP	NP	PP
+any	DT	VP	SBAR	VP	NP	PP	NP
+type	NN	VP	SBAR	VP	NP	PP	NP
+you	PRP	NP
+can	MD	VP
+imagine	VB	VP	VP
+.	.
+
+Everything	NN	NP	NP
+about	IN	NP	PP
+this	DT	NP	PP	NP
+place	NN	NP	PP	NP
+is	VBZ	VP
+adorable	JJ	VP	ADJP
+-	:
+even	RB	FRAG
+the	DT	FRAG	NP
+bathroom	NN	FRAG	NP
+!	.
+
+Speedy	JJ	NP
+delivers	VBZ	VP
+,	,
+great	JJ	NP	NP
+food	NN	NP	NP
+,	,	NP
+decent	JJ	NP	NP
+prices	NNS	NP	NP
+,	,	NP
+and	CC	NP
+friendly	JJ	NP	NP
+service	NN	NP	NP
+combine	VBP	VP
+to	TO	VP	VP
+ensure	VB	VP	VP	VP
+an	DT	VP	VP	VP	NP
+enjoyable	JJ	VP	VP	VP	NP	ADJP
+repast	NN	VP	VP	VP	NP
+.	.
+
+IT	PRP	NP
+WAS	VBD	VP
+OUR	NNP	VP	NP	NP
+ONLY	NNP	VP	NP	NP
+OPPORTUNITY	NNP	VP	NP	NP
+TO	TO	VP	NP	VP
+VISIT	NNP	VP	NP	VP	NP
+AND	CC	NP
+WANTED	VBD	VP
+AN	DT	VP	NP
+AUTHENTIC	JJ	VP	NP
+ITALIAN	JJ	VP	NP
+MEAL	NN	VP	NP
+.	.
+
+It	PRP	NP
+took	VBD	VP
+100	CD	VP	NP
+years	NNS	VP	NP
+for	IN	VP	PP
+Parisi	NNP	VP	PP	NP
+to	TO	VP	VP
+get	VB	VP	VP	VP
+around	IN	VP	VP	VP	ADVP
+to	TO	VP	VP	VP	ADVP	PP
+making	VBG	VP	VP	VP	ADVP	PP	VP
+pizza	NN	VP	VP	VP	ADVP	PP	VP	NP	NP
+(	-LRB-	VP	VP	VP	ADVP	PP	VP	NP	PRN
+at	IN	VP	VP	VP	ADVP	PP	VP	NP	PRN	ADVP
+least	JJS	VP	VP	VP	ADVP	PP	VP	NP	PRN	ADVP
+I	PRP	VP	VP	VP	ADVP	PP	VP	NP	PRN	NP
+do	VBP	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP
+n't	RB	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP
+think	VB	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP
+they	PRP	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	NP
+ever	RB	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	ADVP
+made	VBD	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	VP
+it	PRP	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	VP	NP
+before	IN	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	VP	PP
+this	DT	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	VP	PP	NP
+year	NN	VP	VP	VP	ADVP	PP	VP	NP	PRN	VP	VP	SBAR	VP	PP	NP
+)	-RRB-	VP	VP	VP	ADVP	PP	VP	NP	PRN
+...	:
+but	CC
+it	PRP	NP
+was	VBD	VP
+worth	JJ	VP	ADJP
+the	DT	VP	ADJP	NP
+wait	NN	VP	ADJP	NP
+.	.
+
+I	PRP	NP
+asked	VBD	VP
+for	IN	VP	PP
+a	DT	VP	PP	NP
+simple	JJ	VP	PP	NP	ADJP
+medium	NN	VP	PP	NP	ADJP
+rare	JJ	VP	PP	NP
+steak	NN	VP	PP	NP
+.	.
+
+Generously	RB	VP	ADVP
+garnished	VBN	VP
+,	,
+organic	JJ	NP
+grilled	JJ	NP
+burgers	NNS	NP
+are	VBP	VP
+the	DT	VP	NP
+most	RBS	VP	NP	ADJP
+popular	JJ	VP	NP	ADJP
+dish	NN	VP	NP
+,	,
+but	CC
+the	DT	NP
+Jerusalem	NNP	NP
+market-style	JJ	NP
+falafel	NN	NP
+wraps	VBZ	VP
+and	CC
+Mediterranean	JJ	NP	NP
+salads	NNS	NP	NP
+--	:	NP	PRN
+layered	JJ	NP	PRN	ADJP
+with	IN	NP	PRN	ADJP	PP
+beets	NNS	NP	PRN	ADJP	PP	NP	NP
+,	,	NP	PRN	ADJP	PP	NP
+goat	NN	NP	PRN	ADJP	PP	NP	NP
+cheese	NN	NP	PRN	ADJP	PP	NP	NP
+and	CC	NP	PRN	ADJP	PP	NP
+walnuts	NNS	NP	PRN	ADJP	PP	NP	NP
+--	:	NP	PRN
+are	VBP	VP
+equally	RB	VP	ADJP
+scrumptious	JJ	VP	ADJP
+.	.
+
+Probably	RB	ADVP
+my	PRP$	PP	NP
+worst	JJS	PP	NP
+dining	NN	PP	NP
+experience	NN	PP	NP
+in	IN	PP
+new	JJ	PP	NP
+york	NN	PP	NP
+,	,
+and	CC
+I	PRP	NP
+'m	VBP	VP
+a	DT	VP	NP
+former	JJ	VP	NP
+waiter	NN	VP	NP
+so	IN
+I	PRP	NP
+know	VBP	VP
+what	WP	VP	SBAR	WHNP
+I	PRP	VP	SBAR	NP
+'m	VBP	VP	SBAR	VP
+talking	VBG	VP	SBAR	VP	VP
+about	RB	VP	SBAR	VP	VP	ADVP
+.	.
+
+Result	NN	NP	NP
+(	-LRB-	NP	PRN
+red	JJ	NP	PRN	NP
+velvet	NN	NP	PRN	NP
+)	-RRB-	NP	PRN
+:	:	NP
+Great	NNP	NP	NP	NP
+texture	NN	NP	NP	NP
+,	,	NP	NP
+soft	JJ	NP	NP	ADJP
+and	CC	NP	NP	ADJP
+velvety	JJ	NP	NP	ADJP
+,	,	NP	NP
+nice	JJ	NP	NP	NP	NP
+hint	NN	NP	NP	NP	NP
+of	IN	NP	NP	NP	PP
+cocoa	NN	NP	NP	NP	PP	NP
+.	.	NP
+
+Their	PRP$	NP	NP
+twist	NN	NP	NP
+on	IN	NP	PP
+pizza	NN	NP	PP	NP
+is	VBZ	VP
+healthy	JJ	VP	ADJP
+,	,	VP	ADJP
+but	CC	VP	ADJP
+full	JJ	VP	ADJP
+of	IN	VP	PP
+flavor	NN	VP	PP	NP
+.	.
+
+The	DT	NP	NP	NP
+lack	NN	NP	NP	NP
+of	IN	NP	NP	PP
+AC	NN	NP	NP	PP	NP
+and	CC	NP
+the	DT	NP	NP	NP
+fact	NN	NP	NP	NP
+that	IN	NP	NP	SBAR
+there	EX	NP	NP	SBAR	NP
+are	VBP	NP	NP	SBAR	VP
+a	DT	NP	NP	SBAR	VP	NP	NP	QP
+million	CD	NP	NP	SBAR	VP	NP	NP	QP
+swarming	JJ	NP	NP	SBAR	VP	NP	NP
+bodies	NNS	NP	NP	SBAR	VP	NP	NP
+(	-LRB-	NP	NP	SBAR	VP	NP	PRN
+although	IN	NP	NP	SBAR	VP	NP	PRN	SBAR
+everyone	NN	NP	NP	SBAR	VP	NP	PRN	SBAR	NP
+is	VBZ	NP	NP	SBAR	VP	NP	PRN	SBAR	VP
+polite	JJ	NP	NP	SBAR	VP	NP	PRN	SBAR	VP	ADJP
+and	CC	NP	NP	SBAR	VP	NP	PRN	SBAR
+no	DT	NP	NP	SBAR	VP	NP	PRN	SBAR	NP
+one	NN	NP	NP	SBAR	VP	NP	PRN	SBAR	NP
+is	VBZ	NP	NP	SBAR	VP	NP	PRN	SBAR	VP
+pushing	VBG	NP	NP	SBAR	VP	NP	PRN	SBAR	VP	VP
+)	-RRB-	NP	NP	SBAR	VP	NP	PRN
+is	VBZ	VP
+a	DT	VP	NP
+slight	JJ	VP	NP
+turn	NN	VP	NP
+off	RP	VP	NP	PRT
+.	.
+
+I	PRP	NP
+love	VBP	VP
+the	DT	VP	NP
+Little	JJ	VP	NP
+Pie	NNP	VP	NP
+Company	NNP	VP	NP
+as	RB	VP	ADVP
+much	RB	VP	ADVP
+as	IN	VP	PP
+anyone	NN	VP	PP	NP	NP
+else	RB	VP	PP	NP	SBAR	WHNP
+who	WP	VP	PP	NP	SBAR	WHNP
+has	VBZ	VP	PP	NP	SBAR	VP	VP
+written	VBN	VP	PP	NP	SBAR	VP	VP	NP
+reviews	NNS	VP	PP	NP	SBAR	VP	VP	NP
+,	,	VP	PP	NP	SBAR	VP
+but	CC	VP	PP	NP	SBAR	VP
+must	MD	VP	PP	NP	SBAR	VP	VP
+discourage	VB	VP	PP	NP	SBAR	VP	VP	VP
+anyone	NN	VP	PP	NP	SBAR	VP	VP	VP	NP
+from	IN	VP	PP	NP	SBAR	VP	VP	VP	PP
+visiting	VBG	VP	PP	NP	SBAR	VP	VP	VP	PP	VP
+the	DT	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	NP
+Grand	NNP	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	NP
+Central	NNP	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	NP
+location	NN	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	NP
+due	JJ	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP
+to	TO	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP
+their	PRP$	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	NP
+RUDE	JJ	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	NP
+service	NN	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	NP
+from	IN	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	PP
+two	CD	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	PP	NP
+sales	NNS	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	PP	NP
+people	NNS	VP	PP	NP	SBAR	VP	VP	VP	PP	VP	ADJP	PP	NP	PP	NP
+.	.
+
+Unfortunately	RB	ADVP
+,	,
+unless	IN	SBAR
+you	PRP	SBAR	NP
+live	VBP	SBAR	VP
+in	IN	SBAR	VP	PP
+the	DT	SBAR	VP	PP	NP
+neighborhood	NN	SBAR	VP	PP	NP
+,	,
+it	PRP	NP
+'s	VBZ	VP	VP
+not	RB	VP	VP
+in	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+convenient	JJ	VP	VP	PP	NP
+location	NN	VP	VP	PP	NP
+but	CC	VP
+is	VBZ	VP	VP
+more	RBR	VP	VP	ADVP
+like	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+hidden	JJ	VP	VP	PP	NP
+treasure	NN	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+--	:	PRN
+though	IN	PRN	SBAR
+mostly	RB	PRN	SBAR	FRAG	ADJP
+deep-fried	JJ	PRN	SBAR	FRAG	ADJP
+--	:	PRN
+is	VBZ	VP
+simple	JJ	VP	ADJP
+and	CC	VP	ADJP
+satisfying	JJ	VP	ADJP
+.	.
+
+Glechik	NNP	NP
+might	MD	VP
+be	VB	VP	VP
+way	RB	VP	VP	ADJP	ADVP
+too	RB	VP	VP	ADJP	ADVP
+tiny	JJ	VP	VP	ADJP
+for	IN	VP	VP	ADJP	PP
+a	DT	VP	VP	ADJP	PP	NP
+restaurant	NN	VP	VP	ADJP	PP	NP
+by	IN	VP	VP	PP
+Russian	JJ	VP	VP	PP	NP
+standards	NNS	VP	VP	PP	NP
+,	,
+but	CC
+it	PRP	NP
+is	VBZ	VP
+cozy	JJ	VP	ADJP
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+simply	RB	VP	ADVP
+GREAT	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+excellent	JJ	VP	ADJP
+-	:
+authentic	JJ	NP
+Italian	JJ	NP
+cuisine	NN	NP
+made	VBD	VP
+absolutely	RB	VP	ADJP
+fresh	JJ	VP	ADJP
+.	.
+
+At	IN	PP
+night	NN	PP	NP	NP
+the	DT	PP	NP	NP
+atmoshere	JJ	PP	NP	NP
+changes	NNS	PP	NP	NP
+turning	VBG	PP	VP
+into	IN	PP	VP	PP
+this	DT	PP	VP	PP	NP
+hidden	JJ	PP	VP	PP	NP
+jewel	NN	PP	VP	PP	NP
+that	WDT	NP
+is	VBZ	VP
+waiting	VBG	VP	VP
+to	TO	VP	VP	VP
+be	VB	VP	VP	VP	VP
+discovered	VBN	VP	VP	VP	VP	VP
+.	.
+
+The	DT	NP-TMP	NP
+other	JJ	NP-TMP	NP
+times	NNS	NP-TMP	NP
+I	PRP	NP-TMP	SBAR	NP
+'ve	VBP	NP-TMP	SBAR	VP
+gone	VBN	NP-TMP	SBAR	VP	VP
+it	PRP	NP-TMP	SBAR	VP	VP	SBAR	NP
+'s	VBZ	NP-TMP	SBAR	VP	VP	SBAR	VP
+romantic	JJ	NP-TMP	SBAR	VP	VP	SBAR	VP	NP
+date	NN	NP-TMP	SBAR	VP	VP	SBAR	VP	NP
+heaven	NN	NP-TMP	SBAR	VP	VP	SBAR	VP	NP
+,	,
+you	PRP	NP
+can	MD	VP
+walk	VB	VP	VP	VP
+in	IN	VP	VP	VP	PP
+get	VB	VP	VP	VP	PP	VP
+a	DT	VP	VP	VP	PP	VP	NP
+booth	NN	VP	VP	VP	PP	VP	NP
+by	IN	VP	VP	VP	PP	VP	PP
+the	DT	VP	VP	VP	PP	VP	PP	NP
+windows	NNS	VP	VP	VP	PP	VP	PP	NP
+,	,	VP	VP
+be	VB	VP	VP	VP
+treated	VBN	VP	VP	VP	VP
+like	IN	VP	VP	VP	VP	PP
+a	DT	VP	VP	VP	VP	PP	NP	NP
+VIP	NN	VP	VP	VP	VP	PP	NP	NP
+in	IN	VP	VP	VP	VP	PP	NP	PP
+a	DT	VP	VP	VP	VP	PP	NP	PP	NP
+not-crowded	JJ	VP	VP	VP	VP	PP	NP	PP	NP
+place	NN	VP	VP	VP	VP	PP	NP	PP	NP
+,	,	VP	VP
+with	IN	VP	VP	PP
+great	JJ	VP	VP	PP	NP
+food	NN	VP	VP	PP	NP
+and	CC	VP	VP	PP	NP
+service	NN	VP	VP	PP	NP
+.	.
+
+I	PRP	NP
+would	MD	VP
+only	RB	VP	ADVP
+go	VB	VP	VP
+for	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP
+coffee	NN	VP	VP	PP	NP	NP
+which	WDT	VP	VP	PP	NP	SBAR	WHNP
+is	VBZ	VP	VP	PP	NP	SBAR	VP
+way	RB	VP	VP	PP	NP	SBAR	VP	ADVP
+better	JJR	VP	VP	PP	NP	SBAR	VP	ADVP
+than	IN	VP	VP	PP	NP	SBAR	VP	PP
+Starbucks	NNP	VP	VP	PP	NP	SBAR	VP	PP	NP	NP
+or	CC	VP	VP	PP	NP	SBAR	VP	PP	NP
+the	DT	VP	VP	PP	NP	SBAR	VP	PP	NP	NP
+like	JJ	VP	VP	PP	NP	SBAR	VP	PP	NP	NP
+.	.
+
+Somewhat	RB	NP	NP	ADJP
+disappointing	JJ	NP	NP	ADJP
+wine	NN	NP	NP
+list	NN	NP	NP	NP
+(	-LRB-	NP	NP
+only	RB	NP	NP	NP	NP
+new	JJ	NP	NP	NP	NP
+vintages	NNS	NP	NP	NP	NP
+.	.	NP
+
+If	IN	PP
+your	PRP$	PP	NP
+looking	VBG	PP	VP
+for	IN	PP	VP	PP
+nasty	JJ	PP	VP	PP	NP	NP
+high	JJ	PP	VP	PP	NP	NP
+priced	VBN	PP	VP	PP	NP	VP
+food	NN	PP	VP	PP	NP	VP	NP
+with	IN	PP	VP	PP	NP	VP	PP
+a	DT	PP	VP	PP	NP	VP	PP	NP	NP
+dash	NN	PP	VP	PP	NP	VP	PP	NP	NP
+of	IN	PP	VP	PP	NP	VP	PP	NP	PP
+ghetto	NN	PP	VP	PP	NP	VP	PP	NP	PP	NP
+scenery	NN	PP	VP	PP	NP	VP	PP	NP	PP	NP
+cheap	JJ	NP-TMP
+BX	NN	NP-TMP
+A	DT	NP	NP
+$	$	NP	NP
+$	$	NP	NP
+this	DT	NP	NP
+is	VBZ	VP
+the	DT	VP	NP
+place	NN	VP	NP
+to	TO	VP	NP	VP
+be	VB	VP	NP	VP	VP
+!	.
+!	.
+
+new	JJ	SBARQ	WHNP	NP
+hamburger	NN	SBARQ	WHNP	NP
+with	IN	SBARQ	WHNP	PP
+special	JJ	SBARQ	WHNP	PP	NP
+sauce	NN	SBARQ	WHNP	PP	NP
+is	VBZ	SBARQ	SQ
+ok	SYM	SBARQ	SQ	PP	X
+-	:	SBARQ	SQ	PP
+at	IN	SBARQ	SQ	PP	PP	ADVP
+least	JJS	SBARQ	SQ	PP	PP	ADVP
+better	JJR	SBARQ	SQ	PP	PP	ADVP
+than	IN	SBARQ	SQ	PP	PP
+big	JJ	SBARQ	SQ	PP	PP	NP
+mac	NN	SBARQ	SQ	PP	PP	NP
+!	.	SBARQ	SQ	PP
+
+Perfectly	RB	FRAG	ADVP
+al	FW	FRAG	NP	NP
+dente	FW	FRAG	NP	NP
+pasta	NN	FRAG	NP	NP
+,	,	FRAG	NP
+not	RB	FRAG	NP	VP
+drowned	VBN	FRAG	NP	VP
+in	IN	FRAG	NP	VP	PP
+sauce	NN	FRAG	NP	VP	PP	NP	NP
+--	:	FRAG	NP	VP	PP	NP
+generous	JJ	FRAG	NP	VP	PP	NP	NP
+portions	NNS	FRAG	NP	VP	PP	NP	NP
+.	.	FRAG
+
+Service	NNP	FRAG	NP
+was	VBD	FRAG	VP
+awful	JJ	FRAG	VP	ADJP
+-	:	FRAG
+mostly	RB	FRAG	FRAG	ADVP
+because	IN	FRAG	FRAG	SBAR
+staff	NN	FRAG	FRAG	SBAR	NP
+were	VBD	FRAG	FRAG	SBAR	VP
+overwhelmed	VBN	FRAG	FRAG	SBAR	VP	VP
+on	IN	FRAG	FRAG	SBAR	VP	VP	PP
+a	DT	FRAG	FRAG	SBAR	VP	VP	PP	NP
+Saturday	NNP	FRAG	FRAG	SBAR	VP	VP	PP	NP
+night	NN	FRAG	FRAG	SBAR	VP	VP	PP	NP
+.	.	FRAG
+
+To	TO	PP
+the	DT	PP	NP	NP
+owners	NNS	PP	NP	NP
+;	:	PP	NP
+good	JJ	PP	NP	NP
+job	NN	PP	NP	NP
+guys	NNS	PP	NP	NP
+,	,
+this	DT	NP
+place	NN	NP
+is	VBZ	VP
+a	DT	VP	NP
+keeper	NN	VP	NP
+!	.
+
+and	CC
+the	DT	NP
+owner	NN	NP
+is	VBZ	VP
+simply	RB	VP	ADVP
+lovely	JJ	VP	ADJP
+and	CC	VP	ADJP
+friendly	JJ	VP	ADJP
+.	.
+
+This	DT	NP
+little	JJ	NP
+place	NN	NP
+is	VBZ	VP
+wonderfully	RB	VP	ADJP
+warm	JJ	VP	ADJP
+welcoming	VBG	VP	VP
+.	.
+
+perfect	JJ	FRAG	ADJP
+for	IN	FRAG	ADJP	PP
+a	DT	FRAG	ADJP	PP	NP
+quick	JJ	FRAG	ADJP	PP	NP
+meal	NN	FRAG	ADJP	PP	NP
+.	.	FRAG
+
+Has	VBZ	VP
+the	DT	VP	NP	NP
+warmth	NN	VP	NP	NP
+of	IN	VP	NP	PP
+a	DT	VP	NP	PP	NP
+family	NN	VP	NP	PP	NP
+local	JJ	VP	NP	PP	NP
+yet	CC	VP	ADVP
+it	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP
+great	JJ	VP	NP
+place	NN	VP	NP
+to	TO	VP	NP	VP
+watch	VB	VP	NP	VP	VP
+sporting	VBG	VP	NP	VP	VP	VP
+events	NNS	VP	NP	VP	VP	VP	NP
+.	.
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+,	,
+and	CC
+they	PRP	NP
+have	VBP	VP
+a	DT	VP	NP	NP
+whole	JJ	VP	NP	NP
+great	JJ	VP	NP	NP
+deal	NN	VP	NP	NP
+for	IN	VP	NP	PP
+birthdays	NNS	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+staff	NN	NP
+is	VBZ	VP
+100	CD	VP	ADJP	NP
+%	NN	VP	ADJP	NP
+Italian	JJ	VP	ADJP
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+as	IN	VP	PP
+authentic	JJ	VP	PP	NP
+as	IN	VP	SBAR
+it	PRP	VP	SBAR	NP
+gets	VBZ	VP	SBAR	VP
+.	.
+
+My	PRP$	NP
+only	JJ	NP
+complaint	NN	NP
+might	MD	VP
+be	VB	VP	VP
+the	DT	VP	VP	NP
+fortune	NN	VP	VP	NP
+cookies	NNS	VP	VP	NP
+-	:
+I	PRP	NP
+'ve	VBP	VP
+never	RB	VP	ADVP
+had	VBN	VP	VP
+a	DT	VP	VP	NP
+cookie	NN	VP	VP	NP
+predict	VBP	VP	VP	VP
+bad	JJ	VP	VP	VP	NP	NP
+luck	NN	VP	VP	VP	NP	NP
+for	IN	VP	VP	VP	NP	PP
+me	PRP	VP	VP	VP	NP	PP	NP
+before	IN	VP	VP	SBAR
+I	PRP	VP	VP	SBAR	NP
+visited	VBD	VP	VP	SBAR	VP
+Kar	NNP	VP	VP	SBAR	VP	NP
+.	.
+
+Good	JJ	NP	NP
+for	IN	NP	PP
+a	DT	NP	PP	NP
+quick	JJ	NP	PP	NP
+sushi	NN	NP	PP	NP
+lunch	NN	NP	PP	NP
+.	.	NP
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+dreadfully	RB	VP	ADJP
+slow	JJ	VP	ADJP
+(	-LRB-	PRN
+the	DT	PRN	NP
+place	NN	PRN	NP
+was	VBD	PRN	VP
+only	RB	PRN	VP	NP
+half	JJ	PRN	VP	NP
+full	JJ	PRN	VP	NP	NP
+)	-RRB-	PRN
+and	CC
+a	DT	NP
+smile	NN	NP
+would	MD	VP
+have	VB	VP	VP
+been	VBN	VP	VP	VP
+nice	JJ	VP	VP	VP	ADJP
+...	:
+
+I	PRP	NP
+went	VBD	VP	VP
+this	DT	VP	VP	NP-TMP
+past	JJ	VP	VP	NP-TMP
+Saturday	NNP	VP	VP	NP-TMP
+and	CC	VP
+had	VBD	VP	VP
+a	DT	VP	VP	NP	NP
+excellent	JJ	VP	VP	NP	NP
+meal	NN	VP	VP	NP	NP
+of	IN	VP	VP	NP	PP
+consisting	VBG	VP	VP	NP	PP	VP
+of	IN	VP	VP	NP	PP	VP	PP
+a	DT	VP	VP	NP	PP	VP	PP	NP	NP
+braised	JJ	VP	VP	NP	PP	VP	PP	NP	NP
+lamb	NN	VP	VP	NP	PP	VP	PP	NP	NP
+shank	NN	VP	VP	NP	PP	VP	PP	NP	NP
+with	IN	VP	VP	NP	PP	VP	PP	NP	PP
+mashed	JJ	VP	VP	NP	PP	VP	PP	NP	PP	NP
+potatoes	NNS	VP	VP	NP	PP	VP	PP	NP	PP	NP
+.	.
+
+I	PRP	NP
+reccomend	VBD	VP
+the	DT	VP	NP	NP
+fried	VBN	VP	NP	NP
+pork	NN	VP	NP	NP
+dumplings	NNS	VP	NP	NP
+,	,	VP	NP
+the	DT	VP	NP	NP
+orange	JJ	VP	NP	NP
+chicken/beef	NN	VP	NP	NP
+,	,	VP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP
+fried	VBN	VP	NP	NP	ADJP
+rice	NN	VP	NP	NP
+.	.
+
+You	PRP	NP
+will	MD	VP
+not	RB	VP
+be	VB	VP	VP
+dissapointed	VBN	VP	VP	VP
+by	IN	VP	VP	VP	PP
+any	DT	VP	VP	VP	PP	NP	NP
+of	IN	VP	VP	VP	PP	NP	PP
+the	DT	VP	VP	VP	PP	NP	PP	NP	NP
+choices	NNS	VP	VP	VP	PP	NP	PP	NP	NP
+in	IN	VP	VP	VP	PP	NP	PP	NP	PP
+the	DT	VP	VP	VP	PP	NP	PP	NP	PP	NP
+menu	NN	VP	VP	VP	PP	NP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+french	JJ	NP
+fries	NNS	NP
+--	:	PRN
+with	IN	PRN	PP
+the	DT	PRN	PP	NP
+kalmata	JJ	PRN	PP	NP
+dip	NN	PRN	PP	NP
+were	VBD	VP
+terrific	JJ	VP	ADJP
+!	.
+
+The	DT	NP	NP
+boutique	NN	NP	NP
+selection	NN	NP	NP
+of	IN	NP	PP
+wines	NNS	NP	PP	NP
+covers	VBZ	VP
+a	DT	VP	NP
+wide	JJ	VP	NP
+variety	NN	VP	NP
+without	IN	VP	PP
+being	VBG	VP	PP	VP
+imposeing	NN	VP	PP	VP	NP
+.	.
+
+They	PRP	NP
+also	RB	ADVP
+have	VBP	VP
+a	DT	VP	NP	NP
+great	JJ	VP	NP	NP
+assortment	NN	VP	NP	NP
+of	IN	VP	NP	PP
+wraps	VBZ	VP	NP	PP	SBAR	VP
+if	IN	VP	NP	PP	SBAR	VP	PP
+your	PRP$	VP	NP	PP	SBAR	VP	PP	NP
+not	RB	VP	NP	PP	SBAR	VP	PP	NP
+in	IN	VP	NP	PP	SBAR	VP	PP
+the	DT	VP	NP	PP	SBAR	VP	PP	NP	NP
+mood	NN	VP	NP	PP	SBAR	VP	PP	NP	NP
+for	IN	VP	NP	PP	SBAR	VP	PP	NP	PP
+traditional	JJ	VP	NP	PP	SBAR	VP	PP	NP	PP	NP
+Mediterranean	JJ	VP	NP	PP	SBAR	VP	PP	NP	PP	NP
+fare	NN	VP	NP	PP	SBAR	VP	PP	NP	PP	NP
+.	.
+
+Fresh	JJ	NP	NP	NP
+veggies	NNS	NP	NP	NP
+,	,	NP	NP
+all	DT	NP	NP	NP	NP
+sorts	NNS	NP	NP	NP	NP
+of	IN	NP	NP	NP	PP
+middle	JJ	NP	NP	NP	PP	NP	NP
+eastern	JJ	NP	NP	NP	PP	NP	NP
+spreads	NNS	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+cheese	NN	NP	NP	NP	PP	NP	NP
+and	CC	NP	NP	NP	PP	NP	NP
+falafel	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+soup	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+fish	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+rice	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+root	NN	NP	NP	NP	PP	NP	NP
+vegetables	NNS	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+a	DT	NP	NP	NP	PP	NP	NP
+rice	NN	NP	NP	NP	PP	NP	NP
+medley	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+some	DT	NP	NP	NP	PP	NP	NP
+spinach	JJ	NP	NP	NP	PP	NP	NP
+thing	NN	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+lamb	NN	NP	NP	NP	PP	NP	NP
+kebabs	NNS	NP	NP	NP	PP	NP	NP
+,	,	NP	NP	NP	PP	NP
+cheese	NN	NP	NP	NP	PP	NP	NP
+baclava	NN	NP	NP	NP	PP	NP	NP
+...	:	NP
+soooo	RB	NP	NP	NP	ADJP
+much	JJ	NP	NP	NP	ADJP
+fooood	NN	NP	NP	NP
+,	,	NP	NP
+and	CC	NP	NP
+all	DT	NP	NP	NP	NP
+of	IN	NP	NP	NP	PP
+it	PRP	NP	NP	NP	PP	NP	NP
+delicious	JJ	NP	NP	NP	PP	NP	ADJP
+.	.	NP
+
+Disappointingly	RB	ADVP
+,	,
+their	PRP$	NP
+wonderful	JJ	NP
+Saketini	NNP	NP
+has	VBZ	VP
+been	VBN	VP	VP
+taken	VBN	VP	VP	VP
+off	RP	VP	VP	VP	PRT
+the	DT	VP	VP	VP	NP
+bar	NN	VP	VP	VP	NP
+menu	NN	VP	VP	VP	NP
+.	.
+
+I	PRP	NP
+would	MD	VP
+definitely	RB	VP	ADVP
+go	VB	VP	VP
+back	RB	VP	VP	ADVP
+--	:	VP	VP
+if	IN	VP	VP	ADVP
+only	RB	VP	VP	ADVP
+for	IN	VP	VP	PP
+some	DT	VP	VP	PP	NP	NP
+of	IN	VP	VP	PP	NP	PP
+those	DT	VP	VP	PP	NP	PP	NP	NP
+exotic	JJ	VP	VP	PP	NP	PP	NP	NP
+martinis	NNS	VP	VP	PP	NP	PP	NP	NP
+on	IN	VP	VP	PP	NP	PP	NP	PP
+the	DT	VP	VP	PP	NP	PP	NP	PP	NP
+blackboard	NN	VP	VP	PP	NP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+happy	JJ	NP
+hour	NN	NP
+is	VBZ	VP
+so	RB	VP	ADJP
+cheap	JJ	VP	ADJP
+,	,
+but	CC
+that	DT	NP
+does	VBZ	VP
+not	RB	VP
+reflect	VB	VP	VP
+the	DT	VP	VP	NP	NP
+service	NN	VP	VP	NP	NP
+or	CC	VP	VP	NP
+the	DT	VP	VP	NP	NP
+atmosphere	NN	VP	VP	NP	NP
+.	.
+
+After	IN	PP
+waiting	VBG	PP	VP
+for	IN	PP	VP	PP
+almost	RB	PP	VP	PP	NP	QP
+an	DT	PP	VP	PP	NP	QP
+hour	NN	PP	VP	PP	NP	QP
+,	,
+the	DT	NP
+waiter	NN	NP
+brusquely	RB	ADVP
+told	VBD	VP
+us	PRP	VP	NP
+he	PRP	VP	SBAR	NP
+'d	MD	VP	SBAR	VP
+forgotten	VBN	VP	SBAR	VP	VP
+to	TO	VP	SBAR	VP	VP	VP
+give	VB	VP	SBAR	VP	VP	VP	VP
+the	DT	VP	SBAR	VP	VP	VP	VP	NP
+kitchen	NN	VP	SBAR	VP	VP	VP	VP	NP
+our	PRP$	VP	SBAR	VP	VP	VP	VP	NP
+order	NN	VP	SBAR	VP	VP	VP	VP	NP
+.	.
+
+With	IN	PP
+all	PDT	PP	NP	NP
+the	DT	PP	NP	NP
+mundane	JJ	PP	NP	NP
+or	CC	PP	NP	NP
+mediocre	JJ	PP	NP	NP
+places	NNS	PP	NP	NP
+on	IN	PP	NP	PP
+8th	JJ	PP	NP	PP	NP
+avenue	NN	PP	NP	PP	NP
+it	PRP	NP
+is	VBZ	VP
+nice	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+have	VB	VP	ADJP	VP	VP
+one	CD	VP	ADJP	VP	VP	NP	NP
+that	WDT	VP	ADJP	VP	VP	NP	SBAR	WHNP
+is	VBZ	VP	ADJP	VP	VP	NP	SBAR	VP
+a	DT	VP	ADJP	VP	VP	NP	SBAR	VP	ADVP	NP
+step	NN	VP	ADJP	VP	VP	NP	SBAR	VP	ADVP	NP
+above	IN	VP	ADJP	VP	VP	NP	SBAR	VP	ADVP
+in	IN	VP	ADJP	VP	VP	NP	SBAR	VP	PP
+quaility	NN	VP	ADJP	VP	VP	NP	SBAR	VP	PP	NP
+and	CC	VP	ADJP	VP	VP	NP	SBAR	VP	PP	NP
+atmosphere	NN	VP	ADJP	VP	VP	NP	SBAR	VP	PP	NP
+.	.
+
+A	DT	NP	NP
+mix	NN	NP	NP
+of	IN	NP	PP
+students	NNS	NP	PP	NP
+and	CC	NP	PP	NP
+area	NN	NP	PP	NP
+residents	NNS	NP	PP	NP
+crowd	VBP	VP
+into	IN	VP	PP
+this	DT	VP	PP	NP	NP
+narrow	JJ	VP	PP	NP	NP
+,	,	VP	PP	NP
+barely	RB	VP	PP	NP
+there	EX	VP	PP	NP	NP
+space	NN	VP	NP	NP
+for	IN	VP	NP	PP
+its	PRP$	VP	NP	PP	NP
+quick	JJ	VP	NP	PP	NP
+,	,	VP
+tasty	JJ	VP	ADJP
+treats	VBZ	VP	ADJP	SBAR	VP
+at	IN	VP	ADJP	SBAR	VP	PP
+dirt-cheap	JJ	VP	ADJP	SBAR	VP	PP	NP
+prices	NNS	VP	ADJP	SBAR	VP	PP	NP
+.	.
+
+Give	VB	VP
+it	PRP	VP	NP
+a	DT	VP	NP
+try	NN	VP	NP
+,	,
+menu	NN	NP
+is	VBZ	VP	VP
+typical	JJ	VP	VP	ADJP
+French	JJ	VP	VP	ADJP
+but	CC	VP
+varied	VBD	VP	VP
+.	.
+
+It	PRP	NP
+gets	VBZ	VP
+crowded	VBN	VP	ADJP
+at	IN	VP	ADJP	PP
+lunchtime	NN	VP	ADJP	PP	NP
+but	CC
+there	EX	NP
+are	VBP	VP
+lots	NNS	VP	NP	NP
+of	IN	VP	NP	PP
+seats	NNS	VP	NP	PP	NP	NP	NP
+in	IN	VP	NP	PP	NP	NP	PP
+back	RB	VP	NP	PP	NP	NP	PP	ADVP
+and	CC	VP	NP	PP	NP
+everyone	NN	VP	NP	PP	NP	NP	NP
+who	WP	VP	NP	PP	NP	NP	SBAR	WHNP
+works	VBZ	VP	NP	PP	NP	NP	SBAR	VP
+there	EX	VP	NP	PP	NP	NP	SBAR	VP	SBAR	NP
+is	VBZ	VP	NP	PP	NP	NP	SBAR	VP	SBAR	VP
+so	RB	VP	NP	PP	NP	NP	SBAR	VP	SBAR	VP	ADJP
+nice	JJ	VP	NP	PP	NP	NP	SBAR	VP	SBAR	VP	ADJP
+.	.
+
+the	DT	NP	NP
+negative	JJ	NP	NP
+reviews	NNS	NP	NP
+on	IN	NP	PP
+city	NN	NP	PP	NP
+search	NN	NP	PP	NP
+are	VBP	VP
+probably	RB	VP	ADVP
+from	IN	VP	PP
+jealous	JJ	VP	PP	NP	NP
+competing	VBG	VP	PP	NP	NP
+restaurants	NNS	VP	PP	NP	NP
+who	WP	VP	PP	NP	SBAR	WHNP
+realize	VBP	VP	PP	NP	SBAR	VP
+they	PRP	VP	PP	NP	SBAR	VP	SBAR	NP
+ca	MD	VP	PP	NP	SBAR	VP	SBAR	VP
+n't	RB	VP	PP	NP	SBAR	VP	SBAR	VP
+compete	VB	VP	PP	NP	SBAR	VP	SBAR	VP	VP
+with	IN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP
+Temple	NNP	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	NP	NP
+'s	POS	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	NP	NP
+entire	JJ	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+positive	JJ	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+attitude	NN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+about	IN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	PP
+the	DT	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	PP	NP
+proper	JJ	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	PP	NP
+way	NN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	PP	NP	PP	NP
+to	TO	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP
+treat	VB	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP
+their	PRP$	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+customers	NNS	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+and	CC	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP
+deliver	VB	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP
+top	JJ	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+quality	NN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+food	NN	VP	PP	NP	SBAR	VP	SBAR	VP	VP	VP	VP	VP	NP
+.	.
+
+Overall	RB	ADVP
+,	,
+this	DT	NP
+is	VBZ	VP
+a	DT	VP	NP
+nice	JJ	VP	NP
+place	NN	VP	NP
+to	TO	VP	NP	VP
+take	VB	VP	NP	VP	VP
+a	DT	VP	NP	VP	VP	NP
+few	JJ	VP	NP	VP	VP	NP
+friends	NNS	VP	NP	VP	VP	NP
+to	TO	VP	NP	VP	VP	VP
+hang	VB	VP	NP	VP	VP	VP	VP
+out	RP	VP	NP	VP	VP	VP	VP	PRT
+at	IN	VP	NP	VP	VP	VP	VP	PP
+and	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+.	.
+
+Food	NNP	NP
+is	VBZ	VP
+excellent	JJ	VP	NP	NP
+quality	NN	VP	NP	NP
+for	IN	VP	NP	PP
+a	DT	VP	NP	PP	NP
+good	JJ	VP	NP	PP	NP
+restaurant	NN	VP	NP	PP	NP
+price	NN	VP	NP	PP	NP
+.	.
+
+for	IN	PP
+about	RB	PP	NP	QP
+eleven	NNS	PP	NP	QP
+bucks	NNS	PP	NP
+you	PRP	NP
+get	VBP	VP
+a	DT	VP	NP	NP	NP
+gigantic	JJ	VP	NP	NP	NP
+burrito	NN	VP	NP	NP	NP
+(	-LRB-	VP	NP	NP	PRN
+or	CC	VP	NP	NP	PRN	PP
+tacos	NNS	VP	NP	NP	PRN	PP	NP
+)	-RRB-	VP	NP	NP	PRN
+,	,	VP	NP
+margarita	NN	VP	NP	NP
+,	,	VP	NP
+and	CC	VP	NP
+dessert	NN	VP	NP	NP
+.	.
+
+The	DT	NP
+space	NN	NP
+is	VBZ	VP
+traditional	JJ	VP	ADJP
+in	IN	VP	ADJP	PP
+feel	NN	VP	ADJP	PP	NP
+.	.
+
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+mediocre	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+be	VB	VP	ADJP	VP	VP
+kind	NN	VP	ADJP	VP	VP	NP
+-	:
+the	DT	NP
+interior	NN	NP
+is	VBZ	VP
+small	JJ	VP	ADJP
+and	CC	VP	ADJP
+average	JJ	VP	ADJP
+-	:
+the	DT	NP
+owners	NNS	NP
+are	VBP	VP
+a	DT	VP	NP	NP
+tag-team	NN	VP	NP	NP
+of	IN	VP	NP	PP
+unpleasantries	NNS	VP	NP	PP	NP	NP
+-	:	VP	NP	PP	NP
+so	RB	VP	NP	PP	NP	ADJP	ADJP
+rude	JJ	VP	NP	PP	NP	ADJP	ADJP
+and	CC	VP	NP	PP	NP	ADJP
+snotty	JJ	VP	NP	PP	NP	ADJP	ADJP
+i	FW	VP	NP	PP	NP	ADJP	ADJP	SBAR	NP
+actually	RB	VP	NP	PP	NP	ADJP	ADJP	SBAR	ADVP
+let	VB	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP
+out	RP	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	PRT
+a	DT	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	NP	NP
+hearty	JJ	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	NP	NP
+guffaw	NN	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	NP	NP
+whilst	IN	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	NP	PP
+dining	NN	VP	NP	PP	NP	ADJP	ADJP	SBAR	VP	NP	PP	NP
+.	.
+
+Good	JJ	INTJ
+service	NN	INTJ
+,	,
+great	JJ	NP	NP
+food	NN	NP	NP
+,	,	NP
+good	JJ	NP	NP	NP
+value	NN	NP	NP	NP
+,	,	NP	NP
+and	CC	NP	NP	ADVP
+never	RB	NP	NP	ADVP
+have	VBP	VP
+to	TO	VP	VP
+wait	VB	VP	VP	VP
+in	IN	VP	VP	VP	PP
+line	NN	VP	VP	VP	PP	NP
+!	.
+
+Offerings	NNS	NP	NP
+like	IN	NP	PP
+hot	JJ	NP	PP	NP	NP
+cakes	NNS	NP	PP	NP	NP
+and	CC	NP	PP	NP
+the	DT	NP	PP	NP	NP
+Egg	NNP	NP	PP	NP	NP
+McMuffin	NNP	NP	PP	NP	NP
+sandwich	NN	NP	PP	NP	NP
+are	VBP	VP
+available	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+breakfast	NN	VP	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+have	VBP	VP
+been	VBN	VP	VP
+going	VBG	VP	VP	VP
+to	TO	VP	VP	VP	PP
+this	DT	VP	VP	VP	PP	NP	NP
+restaurant	NN	VP	VP	VP	PP	NP	NP
+for	IN	VP	VP	VP	PP	NP	PP
+years	NNS	VP	VP	VP	PP	NP	PP	NP
+,	,	VP	VP	VP
+in	IN	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP	NP
+past	JJ	VP	VP	VP	PP	NP	NP
+the	DT	VP	VP	VP	PP	NP	SBAR	NP
+service	NN	VP	VP	VP	PP	NP	SBAR	NP
+was	VBD	VP	VP	VP	PP	NP	SBAR	VP
+average	JJ	VP	VP	VP	PP	NP	SBAR	VP	ADJP
+and	CC	VP	VP	VP	PP	NP	SBAR
+the	DT	VP	VP	VP	PP	NP	SBAR	NP
+food	NN	VP	VP	VP	PP	NP	SBAR	NP
+inconsistant	JJ	VP	VP	VP	PP	NP	SBAR	ADJP
+.	.
+
+The	DT	NP
+music	NN	NP
+was	VBD	VP	VP
+fascinating	JJ	VP	VP	ADJP
+,	,	VP
+but	CC	VP
+left	VBD	VP	VP
+room	NN	VP	VP	NP
+for	IN	VP	VP	PP
+conversation	NN	VP	VP	PP	NP
+,	,
+and	CC
+the	DT	NP
+bartender	NN	NP
+made	VBD	VP
+superb	JJ	VP	NP
+drinks	NNS	VP	NP
+.	.
+
+rice	NN	NP	NP
+dishes	NNS	NP	NP
+and	CC	NP
+noodle	JJ	NP	NP
+dishes	NNS	NP	NP
+rarely	RB	VP	VP	ADVP
+exceed	VBP	VP	VP
+$	$	VP	VP	NP
+5	CD	VP	VP	NP
+and	CC	VP
+add	VB	VP	VP
+on	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP	NP
+refreshing	JJ	VP	VP	PP	NP	NP	ADJP
+ice	NN	VP	VP	PP	NP	NP
+drink	NN	VP	VP	PP	NP	NP
+for	IN	VP	VP	PP	NP	PP
+$	$	VP	VP	PP	NP	PP	NP
+2	CD	VP	VP	PP	NP	PP	NP
+and	CC
+you	PRP	NP
+'re	VBP	VP
+set	VBN	VP	VP
+for	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+night	NN	VP	VP	PP	NP
+!	.
+
+Creative	JJ	NP	NP
+dishes	NNS	NP	NP
+like	IN	NP	PP
+king	NN	NP	PP	NP	NP	NP
+crab	NN	NP	PP	NP	NP	NP
+salad	NN	NP	PP	NP	NP	NP
+with	IN	NP	PP	NP	NP	PP
+passion	NN	NP	PP	NP	NP	PP	NP
+fruit	NN	NP	PP	NP	NP	PP	NP
+vinaigrette	NN	NP	PP	NP	NP	PP	NP
+and	CC	NP	PP	NP
+fettuccine	NN	NP	PP	NP	NP	NP
+with	IN	NP	PP	NP	NP	PP
+grilled	JJ	NP	PP	NP	NP	PP	NP	NP
+seafood	NN	NP	PP	NP	NP	PP	NP	NP
+in	IN	NP	PP	NP	NP	PP	NP	PP
+a	DT	NP	PP	NP	NP	PP	NP	PP	NP
+rosemary-orange	NN	NP	PP	NP	NP	PP	NP	PP	NP
+sauce	NN	NP	PP	NP	NP	PP	NP	PP	NP
+are	VBP	VP
+unexpected	JJ	VP	NP	NP
+elements	NNS	VP	NP	NP
+on	IN	VP	NP	PP
+an	DT	VP	NP	PP	NP
+otherwise	RB	VP	NP	PP	NP	ADJP
+predictable	JJ	VP	NP	PP	NP	ADJP
+bistro	NN	VP	NP	PP	NP
+menu	NN	VP	NP	PP	NP
+.	.
+
+Dishes	NNS	NP	NP	NP
+denoted	VBN	NP	NP	VP
+as	IN	NP	NP	VP	PP
+``	``	NP	NP	VP	PP
+Roy	NNP	NP	NP	VP	PP	NP	NP
+'s	POS	NP	NP	VP	PP	NP	NP
+Classics	NNS	NP	NP	VP	PP	NP
+''	''	NP	NP	VP	PP
+(	-LRB-	NP	PRN
+marked	VBN	NP	PRN	VP
+on	IN	NP	PRN	VP	PP
+the	DT	NP	PRN	VP	PP	NP	NP
+menu	NN	NP	PRN	VP	PP	NP	NP
+with	IN	NP	PRN	VP	PP	NP	PP
+asterisks	NNS	NP	PRN	VP	PP	NP	PP	NP
+)	-RRB-	NP	PRN
+are	VBP	VP
+tried-and-true	JJ	VP	NP	NP	NP
+recipes	NNS	VP	NP	NP	NP
+,	,	VP	NP	NP
+such	JJ	VP	NP	NP	PP
+as	IN	VP	NP	NP	PP
+macadamia-crusted	JJ	VP	NP	NP	PP	NP
+mahi	NN	VP	NP	NP	PP	NP
+mahi	NN	VP	NP	NP	PP	NP
+,	,	VP	NP	NP
+or	CC	VP	NP
+subtly	RB	VP	NP	NP	ADJP
+sweet	JJ	VP	NP	NP	ADJP
+honey-mustard	NN	VP	NP	NP
+beef	NN	VP	NP	NP
+short	JJ	VP	NP	NP
+ribs	NNS	VP	NP	NP
+.	.
+
+The	DT	NP	NP
+cold	JJ	NP	NP
+sesame	NN	NP	NP
+noodles	NNS	NP	NP
+,	,	NP
+which	WDT	NP	SBAR	WHNP
+are	VBP	NP	SBAR	VP
+a	DT	NP	SBAR	VP	NP	NP
+freebie	NN	NP	SBAR	VP	NP	NP
+when	WRB	NP	SBAR	VP	NP	SBAR	WHADVP
+you	PRP	NP	SBAR	VP	NP	SBAR	NP
+order	VB	NP	SBAR	VP	NP	SBAR	VP
+$	$	NP	SBAR	VP	NP	SBAR	VP	NP
+10+	CD	NP	SBAR	VP	NP	SBAR	VP	NP
+,	,	NP
+are	VBP	VP
+delectable	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+came	VBD	VP
+to	TO	VP	PP
+fresh	JJ	VP	PP	NP	NP
+expecting	VBG	VP	PP	NP	VP
+a	DT	VP	PP	NP	VP	NP
+great	JJ	VP	PP	NP	VP	NP
+meal	NN	VP	PP	NP	VP	NP
+,	,
+and	CC
+all	DT	NP	NP
+I	PRP	NP	SBAR	NP
+got	VBD	NP	SBAR	VP
+was	VBD	VP
+marginally	RB	VP	ADJP
+so-so	JJ	VP	ADJP
+food	NN	VP	ADJP	SBAR	NP
+served	VBD	VP	ADJP	SBAR	VP
+in	IN	VP	ADJP	SBAR	VP	PP
+a	DT	VP	ADJP	SBAR	VP	PP	NP	NP
+restaurant	NN	VP	ADJP	SBAR	VP	PP	NP	NP
+that	WDT	VP	ADJP	SBAR	VP	PP	NP	SBAR	WHNP
+was	VBD	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP
+just	RB	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP
+so	RB	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP
+freezing	JJ	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP
+we	PRP	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP	SBAR	NP
+could	MD	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP	SBAR	VP
+n't	RB	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP	SBAR	VP
+enjoy	VB	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP	SBAR	VP	VP
+eating	VBG	VP	ADJP	SBAR	VP	PP	NP	SBAR	VP	ADJP	SBAR	VP	VP	VP
+.	.
+
+The	DT	NP	NP
+lone	JJ	NP	NP
+argentine	JJ	NP	NP
+chorizo	NN	NP	NP
+appetizer	NN	NP	NP
+at	IN	NP	PP
+$	$	NP	PP	NP
+8.95	CD	NP	PP	NP
+was	VBD	VP
+a	DT	VP	NP
+heavy	JJ	VP	NP
+fennel	NN	VP	NP
+flavored	JJ	VP	NP	ADJP
+Italian	JJ	VP	NP	ADJP
+sausage	NN	VP	NP
+like	IN	VP	PP
+the	DT	VP	PP	NP	NP
+ones	NNS	VP	PP	NP	NP
+that	WDT	VP	PP	NP	SBAR	WHNP
+sell	VBP	VP	PP	NP	SBAR	VP
+for	IN	VP	PP	NP	SBAR	VP	PP
+$	$	VP	PP	NP	SBAR	VP	PP	NP	NP
+2.99/lb	CD	VP	PP	NP	SBAR	VP	PP	NP	NP
+at	IN	VP	PP	NP	SBAR	VP	PP	NP	PP
+the	DT	VP	PP	NP	SBAR	VP	PP	NP	PP	NP
+store	NN	VP	PP	NP	SBAR	VP	PP	NP	PP	NP
+.	.
+
+I	PRP	NP
+went	VBD	VP
+to	TO	VP	PP
+Swiftys	NNS	VP	PP	NP
+with	IN	VP	PP
+some	DT	VP	PP	NP	NP
+friends	NNS	VP	PP	NP	NP
+of	IN	VP	PP	NP	PP
+the	DT	VP	PP	NP	PP	NP
+family	NN	VP	PP	NP	PP	NP
+and	CC
+we	PRP	NP
+had	VBD	VP
+a	DT	VP	NP
+very	RB	VP	NP	ADJP
+nice	JJ	VP	NP	ADJP
+dinner	NN	VP	NP
+,	,
+but	CC
+nothing	NN	FRAG	ADJP
+amazing	JJ	FRAG	ADJP
+.	.
+
+Best	JJS	NP	NP
+Chinese	JJ	NP	NP	NP
+on	IN	NP	NP	PP
+the	DT	NP	NP	PP	NP
+Upper	NNP	NP	NP	PP	NP	ADJP
+East	NNP	NP	NP	PP	NP	ADJP
+,	,	NP	NP	PP	NP	ADJP
+prompt	JJ	NP	NP	PP	NP	ADJP
+delivery	NN	NP	NP	PP	NP
+,	,	NP	NP	PP	NP
+good	JJ	NP	NP	PP	NP
+value	NN	NP	NP	PP	NP
+.	.	NP
+
+Most	JJS	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP
+sandwiches	NNS	NP	PP	NP
+are	VBP	VP
+made	VBN	VP	VP
+with	IN	VP	VP	PP
+soy	NN	VP	VP	PP	NP	NP
+mayonaise	NN	VP	VP	PP	NP	NP
+which	WDT	VP	VP	PP	NP	SBAR	WHNP
+is	VBZ	VP	VP	PP	NP	SBAR	VP
+actually	RB	VP	VP	PP	NP	SBAR	VP	ADVP
+pretty	RB	VP	VP	PP	NP	SBAR	VP	ADJP
+good	JJ	VP	VP	PP	NP	SBAR	VP	ADJP
+.	.
+
+i	LS	NP
+went	VBD	VP	VP
+in	IN	VP	VP	PP
+one	CD	VP	VP	PP	NP	NP
+day	NN	VP	VP	PP	NP	NP
+asking	VBG	VP	VP	PP	NP	VP
+for	IN	VP	VP	PP	NP	VP	PP
+a	DT	VP	VP	PP	NP	VP	PP	NP	NP
+table	NN	VP	VP	PP	NP	VP	PP	NP	NP
+for	IN	VP	VP	PP	NP	VP	PP	NP	PP
+a	DT	VP	VP	PP	NP	VP	PP	NP	PP	NP
+group	NN	VP	VP	PP	NP	VP	PP	NP	PP	NP
+and	CC	VP
+was	VBD	VP	VP
+greeted	VBN	VP	VP	VP
+by	IN	VP	VP	VP	PP
+a	DT	VP	VP	VP	PP	NP
+very	RB	VP	VP	VP	PP	NP
+rude	JJ	VP	VP	VP	PP	NP
+hostess	NN	VP	VP	VP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+worthwhile	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+take	VB	VP	ADJP	VP	VP
+a	DT	VP	ADJP	VP	VP	NP
+cab	NN	VP	ADJP	VP	VP	NP
+to	TO	VP	ADJP	VP	VP	PP
+Chelsea	NNP	VP	ADJP	VP	VP	PP	NP
+just	RB	VP	ADJP	VP	VP	PP
+for	IN	VP	ADJP	VP	VP	PP
+an	DT	VP	ADJP	VP	VP	PP	NP	NP
+awesome	JJ	VP	ADJP	VP	VP	PP	NP	NP
+dinner	NN	VP	ADJP	VP	VP	PP	NP	NP
+at	IN	VP	ADJP	VP	VP	PP	NP	PP
+My	PRP$	VP	ADJP	VP	VP	PP	NP	PP	NP
+Chelsea	NNP	VP	ADJP	VP	VP	PP	NP	PP	NP
+.	.
+
+Not	RB	SINV	CONJP
+only	RB	SINV	CONJP
+is	VBZ	SINV
+the	DT	SINV	NP
+food	NN	SINV	NP
+authentic	JJ	SINV	ADJP
+,	,
+but	CC
+the	DT	NP
+staff	NN	NP
+here	RB	VP	ADVP
+are	VBP	VP	VP
+practically	RB	VP	VP	ADJP
+off-the-boat	JJ	VP	VP	ADJP
+,	,	VP	VP	ADJP
+they	PRP	VP	VP	ADJP	SBAR	NP
+are	VBP	VP	VP	ADJP	SBAR	VP
+young	JJ	VP	VP	ADJP	SBAR	VP	ADJP
+and	CC	VP
+hip	NN	VP	VP	VP
+and	CC	VP	VP
+know	VB	VP	VP	VP
+what	WP	VP	VP	VP	SBAR	WHNP
+they	PRP	VP	VP	VP	SBAR	NP
+are	VBP	VP	VP	VP	SBAR	VP
+doing	VBG	VP	VP	VP	SBAR	VP	VP
+when	WRB	VP	VP	VP	SBAR	VP	VP	SBAR	WHADVP
+it	PRP	VP	VP	VP	SBAR	VP	VP	SBAR	NP
+comes	VBZ	VP	VP	VP	SBAR	VP	VP	SBAR	VP
+to	TO	VP	VP	VP	SBAR	VP	VP	SBAR	VP	PP
+food	NN	VP	VP	VP	SBAR	VP	VP	SBAR	VP	PP	NP
+and	CC	VP	VP	VP	SBAR	VP	VP	SBAR	VP	PP	NP
+wine	NN	VP	VP	VP	SBAR	VP	VP	SBAR	VP	PP	NP
+.	.
+
+It	PRP	NP
+has	VBZ	VP
+good	JJ	VP	NP	NP
+music	NN	VP	NP	NP
+,	,	VP	NP
+nice	JJ	VP	NP	NP
+tapas	NNS	VP	NP	NP
+,	,	VP	NP
+an	DT	VP	NP	NP	NP
+interesting	JJ	VP	NP	NP	NP
+selection	NN	VP	NP	NP	NP
+of	IN	VP	NP	NP	PP
+wines	NNS	VP	NP	NP	PP	NP	NP
+(	-LRB-	VP	NP	NP	PP	NP	PRN
+primarily	RB	VP	NP	NP	PP	NP	PRN	ADJP
+Spanish	JJ	VP	NP	NP	PP	NP	PRN	ADJP
+)	-RRB-	VP	NP	NP	PP	NP	PRN
+and	CC	VP	NP
+a	DT	VP	NP	NP
+lowkey	JJ	VP	NP	NP
+hip	NN	VP	NP	NP
+neighborhood	NN	VP	NP	NP
+clientele	NN	VP	NP	NP
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+,	,
+I	PRP	NP
+love	VBP	VP
+their	PRP$	VP	NP	NP
+dumplings	NNS	VP	NP	NP
+,	,	VP	NP
+cold	JJ	VP	NP	NP
+sesame	NN	VP	NP	NP
+noodles	NNS	VP	NP	NP
+,	,	VP	NP
+chicken	NN	VP	NP	NP
+and	CC	VP	NP
+shrimp	NN	VP	NP	NP
+dishs	NNS	VP	NP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+the	DT	VP	NP	NP
+conversations	NNS	VP	NP	NP
+that	WDT	VP	NP	SBAR	WHNP
+make	VBP	VP	NP	SBAR	VP
+this	DT	VP	NP	SBAR	VP	NP
+a	DT	VP	NP	SBAR	VP	NP
+fun	NN	VP	NP	SBAR	VP	NP
+place	NN	VP	NP	SBAR	VP	NP
+to	TO	VP	NP	SBAR	VP	VP
+be	VB	VP	NP	SBAR	VP	VP	VP
+.	.
+
+My	PRP$	NP	NP
+gf	NN	NP	NP
+'s	POS	NP	NP
+duck	NN	NP
+confitte	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+solid	JJ	VP	ADJP
+as	RB	VP	ADVP
+well	RB	VP	ADVP
+,	,	VP
+although	IN	VP	SBAR
+i	FW	VP	SBAR	NP
+have	VBP	VP	SBAR	VP
+little	JJ	VP	SBAR	VP	NP	NP
+base	NN	VP	SBAR	VP	NP	NP
+of	IN	VP	SBAR	VP	NP	PP
+reference	NN	VP	SBAR	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+wine	NN	NP
+list	NN	NP
+was	VBD	VP
+superb	JJ	VP	ADJP
+,	,
+our	PRP$	NP
+tapas	NNS	NP
+delightful	JJ	ADJP
+,	,
+and	CC
+the	DT	NP
+quiet	JJ	NP
+atmosphere	NN	NP
+perfect	JJ	ADJP
+for	IN	ADJP	PP
+good	JJ	ADJP	PP	NP
+conversation	NN	ADJP	PP	NP
+.	.
+
+You	PRP	NP
+can	MD	VP
+eat	VB	VP	VP
+gourmet	NN	VP	VP	NP
+food	NN	VP	VP	NP
+at	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+fast	JJ	VP	VP	PP	NP
+food	NN	VP	VP	PP	NP
+price	NN	VP	VP	PP	NP
+.	.
+
+I	PRP	NP
+'ve	VBP	VP
+eaten	VBN	VP	VP
+at	IN	VP	VP	PP
+all	DT	VP	VP	PP	NP
+three	CD	VP	VP	PP	NP
+locations	NNS	VP	VP	PP	NP
+and	CC
+I	PRP	NP
+always	RB	ADVP
+love	VBP	VP
+,	,	VP
+love	VBP	VP
+the	DT	VP	NP	NP
+food	NN	VP	NP	NP
+,	,	VP	NP
+the	DT	VP	NP	SBAR	NP
+service	NN	VP	NP	SBAR	NP
+is	VBZ	VP	NP	SBAR	VP
+always	RB	VP	NP	SBAR	VP	ADVP
+wonderful	JJ	VP	NP	SBAR	VP	ADJP
+and	CC	VP	NP	SBAR
+the	DT	VP	NP	SBAR	NP
+prices	NNS	VP	NP	SBAR	NP
+are	VBP	VP	NP	SBAR	VP
+really	RB	VP	NP	SBAR	VP	ADJP
+reasonable	JJ	VP	NP	SBAR	VP	ADJP
+.	.
+
+Not	RB	SBAR
+because	IN	SBAR
+I	PRP	SBAR	NP
+was	VBD	SBAR	VP
+pregnant	JJ	SBAR	VP	ADJP
+,	,
+but	CC
+the	DT	NP
+food	NN	NP
+here	RB	ADVP
+is	VBZ	VP
+always	RB	VP	ADVP
+delicious	JJ	VP	ADJP
+.	.
+
+Had	VBD	VP
+a	DT	VP	NP	NP
+great	JJ	VP	NP	NP
+meal	NN	VP	NP	NP
+there	RB	VP	NP	ADVP
+this	DT	VP	NP	ADVP	NP
+weekend	NN	VP	NP	ADVP	NP
+before	IN	VP	PP
+heading	VBG	VP	PP	VP
+to	TO	VP	PP	VP	PP
+the	DT	VP	PP	VP	PP	NP
+movies	NNS	VP	PP	VP	PP	NP
+!	.
+
+We	PRP	NP
+had	VBD	VP
+a	DT	VP	NP
+birthday	NN	VP	NP
+party	NN	VP	NP
+here	RB	VP	ADVP
+recently	RB	VP	ADVP
+and	CC
+the	DT	NP
+food	NN	NP
+and	CC	NP
+service	NN	NP
+was	VBD	VP
+amazing	JJ	VP	ADJP
+.	.
+
+the	DT	NP
+dinner	NN	NP
+menu	NN	NP
+offers	VBZ	VP
+a	DT	VP	NP	NP
+variety	NN	VP	NP	NP
+of	IN	VP	NP	PP
+great	JJ	VP	NP	PP	NP
+entrees	NNS	VP	NP	PP	NP
+,	,	VP	NP
+including	VBG	VP	NP	PP
+fresh	JJ	VP	NP	PP	NP	NP
+seafood	NN	VP	NP	PP	NP	NP
+and	CC	VP	NP	PP	NP
+huge	JJ	VP	NP	PP	NP	NP
+steaks	NNS	VP	NP	PP	NP	NP
+,	,
+there	EX	NP
+'s	VBZ	VP
+also	RB	VP	ADVP
+a	DT	VP	NP	NP
+couple	NN	VP	NP	NP
+of	IN	VP	NP	PP
+non-meat	JJ	VP	NP	PP	NP
+alternatives	NNS	VP	NP	PP	NP
+.	.
+
+This	DT	NP
+place	NN	NP
+has	VBZ	VP
+the	DT	VP	NP
+strangest	JJS	VP	NP
+menu	NN	VP	NP
+and	CC
+the	DT	NP
+restaurants	NNS	NP
+tries	VBZ	VP
+too	RB	VP	ADJP
+hard	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+make	VB	VP	ADJP	VP	VP
+fancy	JJ	VP	ADJP	VP	VP	NP
+food	NN	VP	ADJP	VP	VP	NP
+.	.
+
+The	DT	NP
+appetizers	NNS	NP
+are	VBP	VP
+ok	JJ	VP	ADJP
+,	,
+but	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+slow	JJ	VP	ADJP
+.	.
+
+the	DT	FRAG	NP
+food	NN	FRAG	NP
+-	:	FRAG
+not	RB	FRAG	FRAG
+worth	IN	FRAG	FRAG	PP
+the	DT	FRAG	FRAG	PP	NP
+price	NN	FRAG	FRAG	PP	NP
+.	.	FRAG
+
+What	WDT	SBARQ	WHNP
+can	MD	SBARQ	SQ
+you	PRP	SBARQ	SQ	NP
+say	VB	SBARQ	SQ	VP
+about	IN	SBARQ	SQ	VP	PP
+a	DT	SBARQ	SQ	VP	PP	NP	NP	NP
+place	NN	SBARQ	SQ	VP	PP	NP	NP	NP
+where	WRB	SBARQ	SQ	VP	PP	NP	NP	SBAR	WHADVP
+the	DT	SBARQ	SQ	VP	PP	NP	NP	SBAR	NP
+waitress	NN	SBARQ	SQ	VP	PP	NP	NP	SBAR	NP
+brings	VBZ	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP
+out	RP	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	PRT
+the	DT	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP
+wrong	JJ	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	ADJP
+entree	FW	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	ADJP	NP-TMP	NP
+,	,	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	ADJP	NP-TMP
+then	RB	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	ADJP	NP-TMP	PP
+verbally	RB	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	ADJP	NP-TMP	PP	ADVP
+assaults	NNS	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP
+your	PRP$	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP
+80	CD	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP	ADJP
+year	NN	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP	ADJP
+old	JJ	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP	ADJP
+grandmother	NN	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP	NP	NP
+and	CC	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP
+gives	VBZ	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP
+her	PRP$	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP
+lip	NN	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	NP
+about	IN	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	PP
+sending	VBG	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	PP	VP
+it	PRP	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	PP	VP	NP
+back	RB	SBARQ	SQ	VP	PP	NP	NP	SBAR	VP	VP	PP	VP	ADVP
+(	-LRB-	SBARQ	SQ	VP	PP	NP	PRN
+which	WDT	SBARQ	SQ	VP	PP	NP	PRN	SBAR	WHNP
+she	PRP	SBARQ	SQ	VP	PP	NP	PRN	SBAR	NP
+did	VBD	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP
+politely	RB	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP	ADVP
+,	,	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP
+by	IN	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP	PP
+the	DT	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP	PP	NP
+way	NN	SBARQ	SQ	VP	PP	NP	PRN	SBAR	VP	PP	NP
+)	-RRB-	SBARQ	SQ	VP	PP	NP	PRN
+.	.	SBARQ
+
+The	DT	NP
+prices	NNS	NP
+are	VBP	VP
+not	RB	VP
+terrible	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+halibut	NN	NP
+cheek	NN	NP
+appetizer	NN	NP
+came	VBD	VP
+with	IN	VP	PP
+a	DT	VP	PP	NP	NP
+generous	JJ	VP	PP	NP	NP
+portion	NN	VP	PP	NP	NP
+of	IN	VP	PP	NP	PP
+foie	NN	VP	PP	NP	PP	NP
+gras	NNS	VP	PP	NP	PP	NP
+,	,
+but	CC
+that	DT	NP
+'s	VBZ	VP
+about	IN	VP	PP
+the	DT	VP	PP	NP	NP
+only	JJ	VP	PP	NP	NP
+positive	JJ	VP	PP	NP	NP
+thing	NN	VP	PP	NP	NP
+I	PRP	VP	PP	NP	SBAR	NP
+can	MD	VP	PP	NP	SBAR	VP
+say	VB	VP	PP	NP	SBAR	VP	VP
+about	IN	VP	PP	NP	SBAR	VP	VP	PP
+the	DT	VP	PP	NP	SBAR	VP	VP	PP	NP
+meal	NN	VP	PP	NP	SBAR	VP	VP	PP	NP
+.	.
+
+Food	NNP	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+and	CC
+they	PRP	NP
+also	RB	ADVP
+have	VBP	VP
+empenadas	NNS	VP	NP	NP
+and	CC	VP	NP	NP
+plaintains	NNS	VP	NP	NP
+which	WDT	VP	NP	SBAR	WHNP
+are	VBP	VP	NP	SBAR	VP
+good	JJ	VP	NP	SBAR	VP	ADJP
+for	IN	VP	NP	SBAR	VP	ADJP	PP
+an	DT	VP	NP	SBAR	VP	ADJP	PP	NP
+afternoon	NN	VP	NP	SBAR	VP	ADJP	PP	NP
+snack	NN	VP	NP	SBAR	VP	ADJP	PP	NP
+.	.
+
+Both	CC	NP
+a	DT	NP	NP	NP
+number	NN	NP	NP	NP
+of	IN	NP	NP	PP
+the	DT	NP	NP	PP	NP
+appetizer	NN	NP	NP	PP	NP
+and	CC	NP	NP	PP	NP
+pasta	NN	NP	NP	PP	NP
+specials	NNS	NP	NP	PP	NP
+were	VBD	VP
+amazing	JJ	VP	ADJP
+.	.
+
+All-time	JJ	NP
+favorites	NNS	NP
+include	VBP	VP
+the	DT	VP	NP	NP
+Big	JJ	VP	NP	NP
+Mac	NNP	VP	NP	NP
+,	,	VP	NP
+Chicken	NNP	VP	NP	NP
+McNuggets	NNPS	VP	NP	NP
+,	,	VP	NP
+Filet-O-Fish	NNP	VP	NP	NP
+sandwich	NN	VP	NP	NP
+and	CC	VP	NP
+McDonald	NN	VP	NP	NP	NP
+'s	POS	VP	NP	NP	NP
+famous	JJ	VP	NP	NP
+french	JJ	VP	NP	NP
+fries	NNS	VP	NP	NP
+;	:
+lighter	JJR	NP	NP
+options	NNS	NP	NP
+like	IN	NP	PP
+entree-sized	JJ	NP	PP	NP
+salads	NNS	NP	PP	NP
+are	VBP	VP
+also	RB	VP	ADVP
+available	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+a	DT	VP	NP	NP
+basic	JJ	VP	NP	NP
+pizza	NN	VP	NP	NP
+joint	NN	VP	NP	NP
+,	,	VP	NP
+not	RB	VP	NP	ADJP
+much	JJ	VP	NP	ADJP
+to	TO	VP	NP	VP
+look	VB	VP	NP	VP	VP
+at	IN	VP	NP	VP	VP	PP
+,	,
+but	CC
+the	DT	NP
+pizza	NN	NP
+is	VBZ	VP
+what	WP	VP	SBAR	WHNP
+I	PRP	VP	SBAR	NP
+go	VBP	VP	SBAR	VP
+for	IN	VP	SBAR	VP	PP
+.	.
+
+Tables	NNS	NP
+are	VBP	VP
+close	RB	VP	VP
+,	,
+so	IN
+you	PRP	NP
+better	JJR	ADVP
+be	VB	VP
+comfortable	JJ	VP	ADJP
+bumping	VBG	VP	ADJP	VP
+elbows	NNS	VP	ADJP	VP	NP
+with	IN	VP	ADJP	VP	PP
+other	JJ	VP	ADJP	VP	PP	NP
+patrons	NNS	VP	ADJP	VP	PP	NP
+.	.
+
+Not	RB	NP	NP
+too	RB	NP	NP
+much	JJ	NP	ADJP	ADJP
+so	RB	NP	ADJP	ADJP
+,	,	NP	ADJP
+but	CC	NP	ADJP
+enough	RB	NP	ADJP	ADJP	ADJP
+that	IN	NP	ADJP	ADJP	SBAR
+there	EX	NP	ADJP	ADJP	SBAR	NP
+'s	VBZ	NP	ADJP	ADJP	SBAR	VP
+a	DT	NP	ADJP	ADJP	SBAR	VP	NP
+great	JJ	NP	ADJP	ADJP	SBAR	VP	NP
+scene	NN	NP	ADJP	ADJP	SBAR	VP	NP
+.	.	NP
+
+Meat-phobes	NNS	NP
+are	VBP	VP
+in	IN	VP	PP
+luck	NN	VP	PP	NP
+with	IN	VP	PP
+the	DT	VP	PP	NP	NP
+extraordinary	JJ	VP	PP	NP	NP
+veggie	NN	VP	PP	NP	NP
+burger	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+made	VBN	VP	PP	NP	VP
+from	IN	VP	PP	NP	VP	PP
+a	DT	VP	PP	NP	VP	PP	NP
+distinctive	JJ	VP	PP	NP	VP	PP	NP
+blend	VB	VP	PP	NP	VP	VP
+of	IN	VP	PP	NP	VP	VP	PP
+chickpeas	NNS	VP	PP	NP	VP	VP	PP	NP	NP
+,	,	VP	PP	NP	VP	VP	PP	NP
+carrots	NNS	VP	PP	NP	VP	VP	PP	NP	NP
+and	CC	VP	PP	NP	VP	VP	PP	NP
+other	JJ	VP	PP	NP	VP	VP	PP	NP	NP
+vegetables	NNS	VP	PP	NP	VP	VP	PP	NP	NP
+and	CC	VP	PP	NP	VP	VP	PP	NP	NP
+spices	NNS	VP	PP	NP	VP	VP	PP	NP	NP
+.	.
+
+At	IN	PP
+peak	NN	PP	NP
+times	NNS	PP	NP
+,	,
+the	DT	NP
+restaurant	NN	NP
+is	VBZ	VP
+overcrowded	JJ	VP	ADJP
+and	CC
+tables	NNS	NP
+are	VBP	VP
+uncomfortably	RB	VP	ADJP
+close	RB	VP	ADJP
+.	.
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+on	IN	VP	PP
+point	NN	VP	PP	NP
+-	:
+what	WP	FRAG
+else	RB	FRAG
+you	PRP	NP
+would	MD	VP
+expect	VB	VP	VP
+from	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+Ritz	NNP	VP	VP	PP	NP
+?	.
+
+Menus	NNP	NP
+feature	NN	NP
+seasonal	JJ	NP
+picks	NNS	NP
+,	,
+like	IN	PP
+sweet	JJ	PP	NP
+corn-foie	JJ	PP	NP
+gras	NNS	PP	NP
+brulee	VBP	VP
+.	.
+
+Innovations	NNS	NP
+are	VBP	VP
+just	RB	VP	ADVP
+as	IN	VP	VP	ADVP
+assured	VBN	VP	VP
+,	,	VP	VP
+from	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP
+simple	JJ	VP	VP	PP	NP	NP
+Carinthia	NNP	VP	VP	PP	NP	NP
+cheese	NN	VP	VP	PP	NP	NP
+ravioli	NNS	VP	VP	PP	NP	NP
+with	IN	VP	VP	PP	NP	PP
+wild	JJ	VP	VP	PP	NP	PP	NP	NP
+mushrooms	NNS	VP	VP	PP	NP	PP	NP	NP
+to	TO	VP	VP	PP	NP	PP	NP	PP
+the	DT	VP	VP	PP	NP	PP	NP	PP	NP	NP
+caviar-topped	JJ	VP	VP	PP	NP	PP	NP	PP	NP	NP
+sturgeon	NN	VP	VP	PP	NP	PP	NP	PP	NP	NP
+,	,	VP	VP	PP	NP	PP	NP	PP	NP
+beautifully	RB	VP	VP	PP	NP	PP	NP	PP	NP	VP	ADVP
+matched	VBN	VP	VP	PP	NP	PP	NP	PP	NP	VP
+with	IN	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP
+a	DT	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP	NP
+bright	JJ	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP	NP
+green	JJ	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP	NP
+spinach-vodka	NN	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP	NP
+sauce	NN	VP	VP	PP	NP	PP	NP	PP	NP	VP	PP	NP
+.	.
+
+And	CC
+these	DT	NP
+are	VBP	VP
+not	RB	VP
+small	JJ	VP	NP
+,	,	VP	NP
+wimpy	JJ	VP	NP	ADJP
+fast	JJ	VP	NP	ADJP
+food	NN	VP	NP
+type	NN	VP	NP
+burgers	NNS	VP	NP
+-	:
+these	DT	NP
+are	VBP	VP
+real	JJ	VP	ADJP
+,	,	VP
+full	JJ	VP	NP
+sized	VBN	VP	NP
+patties	NNS	VP	NP
+.	.
+
+There	EX	NP	NP
+restaurant	NN	NP	NP
+is	VBZ	VP
+very	RB	VP	ADJP	ADJP
+casual	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+but	CC	VP	ADJP
+perfect	JJ	VP	ADJP	ADJP
+for	IN	VP	ADJP	ADJP	PP
+lunch	NN	VP	ADJP	ADJP	PP	NP
+,	,
+and	CC
+their	PRP$	NP
+delivery	NN	NP
+service	NN	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+very	RB	VP	ADVP
+fast	RB	VP	ADVP
+.	.
+
+Chinatown	NNP	NP
+definitely	RB	ADVP
+has	VBZ	VP
+better	JJR	VP	NP
+quality	NN	VP	NP
+with	IN	VP	PP
+cheaper	JJR	VP	PP	NP
+prices	NNS	VP	PP	NP
+.	.
+
+Go	VB	VP	VP
+with	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+specials	NNS	VP	VP	PP	NP
+,	,	VP
+and	CC	VP
+stay	VB	VP	VP
+away	RB	VP	VP	ADVP
+from	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+salmon	NN	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+pastas	NNS	NP
+were	VBD	VP
+pretty	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+Atmosphere	NN	NP
+is	VBZ	VP
+a	DT	VP	NP
+bore	VBN	VP	NP
+.	.
+
+The	DT	NP
+wait	NN	NP
+staff	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP
+attentive	JJ	VP	ADJP
+and	CC	VP	ADJP
+polite	JJ	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+restaurant	NN	NP	NP
+,	,	NP
+and	CC	NP
+even	RB	NP	NP	ADJP
+greater	JJR	NP	NP	ADJP
+food	NN	NP	NP
+!	.	NP
+
+The	DT	NP
+dishes	NNS	NP
+are	VBP	VP
+remarkably	RB	VP	UCP	ADJP
+tasty	JJ	VP	UCP	ADJP
+and	CC	VP	UCP
+such	JJ	VP	UCP	PP
+a	DT	VP	UCP	PP	NP
+cozy	JJ	VP	UCP	PP	NP
+and	CC	VP	UCP	PP	NP
+intimate	JJ	VP	UCP	PP	NP
+place	NN	VP	UCP	PP	NP
+!	.
+
+I	PRP	NP
+love	VBP	VP
+the	DT	VP	NP	NP	NP
+simplicity	NN	VP	NP	NP	NP
+and	CC	VP	NP	NP	NP
+respect	NN	VP	NP	NP	NP
+which	WDT	VP	NP	NP	SBAR	WHNP
+was	VBD	VP	NP	NP	SBAR	VP
+given	VBN	VP	NP	NP	SBAR	VP	VP
+to	TO	VP	NP	NP	SBAR	VP	VP	PP
+the	DT	VP	NP	NP	SBAR	VP	VP	PP	NP
+food	NN	VP	NP	NP	SBAR	VP	VP	PP	NP
+,	,	VP	NP
+as	RB	VP	NP	CONJP
+well	RB	VP	NP	CONJP
+the	DT	VP	NP	NP	NP
+staff	NN	VP	NP	NP	NP
+was	VBD	VP	NP	NP	SBAR	VP
+freindly	RB	VP	NP	NP	SBAR	VP	UCP	ADVP
+and	CC	VP	NP	NP	SBAR	VP	UCP
+knowledgable	JJ	VP	NP	NP	SBAR	VP	UCP	ADJP
+.	.
+
+Service	NNP	NP
+was	VBD	VP	VP
+good	JJ	VP	VP	ADJP
+and	CC	VP
+so	RB	VP	ADVP
+was	VBD	VP	VP
+the	DT	VP	VP	NP
+atmosphere	NN	VP	VP	NP
+.	.
+
+MY	NN	NP	NP
+date	NN	NP	NP
+and	CC	NP
+I	PRP	NP	NP
+both	DT
+ordered	VBD	VP
+the	DT	VP	SBAR	NP	NP
+Branzini	NNP	VP	SBAR	NP	NP
+and	CC	VP	SBAR	NP
+both	DT	VP	SBAR	NP	NP
+felt	VBD	VP	SBAR	VP
+the	DT	VP	SBAR	VP	SBAR	NP
+fish	NN	VP	SBAR	VP	SBAR	NP
+was	VBD	VP	SBAR	VP	SBAR	VP
+very	RB	VP	SBAR	VP	SBAR	VP	ADJP
+average	JJ	VP	SBAR	VP	SBAR	VP	ADJP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+good	JJ	VP	ADJP
+,	,
+the	DT	NP
+service	NN	NP
+prompt	VBP	VP
+,	,
+and	CC
+the	DT	NP
+price	NN	NP
+very	RB	ADJP
+reasonable	JJ	ADJP
+.	.
+
+Wonderful	JJ	NP
+menu	NN	NP
+,	,
+warm	JJ	ADJP
+inviting	VBG	ADJP	VP
+ambiance	NN	ADJP	VP	NP
+,	,
+great	JJ	NP-TMP
+service	NN	NP-TMP
+the	DT	NP
+FOOD	NN	NP
+keeps	VBZ	VP
+me	PRP	VP	NP
+coming	VBG	VP	VP
+back	RB	VP	VP	ADVP
+!	.
+
+Great	JJ	NP	NP
+food	NN	NP	NP
+,	,	NP
+good	JJ	NP	NP	NP
+wine	NN	NP	NP	NP
+and	CC	NP	NP
+an	DT	NP	NP	NP
+excellent	JJ	NP	NP	NP
+host	NN	NP	NP	NP
+.	.	NP
+
+Pizzas	NNP	NP
+were	VBD	VP
+excellent	JJ	VP	ADJP
+in	IN	VP	ADJP	PP
+addition	NN	VP	ADJP	PP	NP
+to	TO	VP	PP
+appetizers	NNS	VP	PP	NP	NP
+and	CC	VP	PP	NP
+main	JJ	VP	PP	NP	NP
+courses	NNS	VP	PP	NP	NP
+.	.
+
+Definitely	RB	ADVP
+try	VB	VP
+the	DT	VP	NP	NP	NP
+calamari	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+any	DT	VP	NP	NP	NP
+pasta	NN	VP	NP	NP	NP
+,	,	VP	NP
+or	CC	VP	NP
+even	RB	VP	NP
+the	DT	VP	NP	NP	NP
+Sliced	NNP	VP	NP	NP	NP
+steak	NN	VP	NP	NP	NP
+entree	FW	VP	NP	NP	NP
+.	.
+
+The	DT	NP
+caeser	NN	NP
+salad	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+fried	JJ	NP
+calamari	NN	NP
+was	VBD	VP
+even	RB	VP	ADJP
+better	JJR	VP	ADJP
+!	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+good	JJ	VP	ADJP
+overall	NN	VP	ADVP
+.	.
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+outstanding	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+tops	NNS	VP	NP
+.	.
+
+The	DT	NP
+portions	NNS	NP
+are	VBP	VP
+very	RB	VP	ADJP
+large	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+fantastic	JJ	VP	ADJP
+!	.
+!	.
+
+I	PRP	NP
+recomend	VBP	VP
+the	DT	VP	NP
+chicken	NN	VP	NP
+milanese	NN	VP	NP
+.	.
+
+excellent	JJ	NP	NP
+tapas	NNS	NP	NP
+at	IN	NP	PP
+great	JJ	NP	PP	NP	NP	NP
+prices	NNS	NP	PP	NP	NP	NP
+,	,	NP	PP	NP	NP
+romantic	JJ	NP	PP	NP	NP	NP
+,	,	NP	PP	NP	NP
+small	JJ	NP	PP	NP	ADJP	ADJP
+but	CC	NP	PP	NP	ADJP
+not	RB	NP	PP	NP	ADJP	ADJP
+overly	RB	NP	PP	NP	ADJP	ADJP
+crowed	VBD	VP	VP
+,	,	VP
+excellent	JJ	VP	VP
+
+The	DT	NP
+chocolate	NN	NP
+raspberry	NN	NP
+cake	NN	NP
+is	VBZ	VP
+heavenly	JJ	VP	ADJP	ADJP
+--	:	VP	ADJP
+not	RB	VP	ADJP	ADJP
+too	RB	VP	ADJP	ADJP
+sweet	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+but	CC	VP	ADJP
+full	JJ	VP	ADJP	ADJP
+of	IN	VP	ADJP	ADJP	PP
+flavor	NN	VP	ADJP	ADJP	PP	NP
+.	.
+
+Our	PRP$	NP
+waiter	NN	NP
+was	VBD	VP
+helpful	JJ	VP	ADJP
+and	CC	VP	ADJP
+charming	JJ	VP	ADJP
+,	,	PRN
+the	DT	PRN	NP
+food	NN	PRN	NP
+was	VBD	PRN	VP
+perfect	JJ	PRN	VP	ADJP
+,	,	PRN
+and	CC
+the	DT	NP
+wine	NN	NP
+was	VBD	VP
+good	JJ	VP	ADJP
+,	,
+too	RB	ADVP
+.	.
+
+Best	JJS	NP	NP
+hot	JJ	NP	NP
+dogs	NNS	NP	NP
+in	IN	NP	PP
+the	DT	NP	PP	NP
+tri-state	JJ	NP	PP	NP
+area	NN	NP	PP	NP
+.	.	NP
+
+The	DT	NP
+service	NN	NP
+was	VBD	VP
+very	RB	VP	ADJP	ADJP
+attentive	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+very	RB	VP	ADJP	ADJP
+generous	JJ	VP	ADJP	ADJP
+.	.
+
+We	PRP	NP
+had	VBD	VP
+tons	NNS	VP	NP	NP
+of	IN	VP	NP	PP
+great	JJ	VP	NP	PP	NP	NP
+food	NN	VP	NP	PP	NP	NP
+,	,	VP	NP	PP	NP
+wine	NN	VP	NP	PP	NP	NP
+,	,	VP	NP	PP	NP
+and	CC	VP	NP	PP	NP
+desserts	NNS	VP	NP	PP	NP	NP
+.	.
+
+Really	RB	FRAG	ADVP
+Lovely	JJ	FRAG	NP	NP
+dining	NN	FRAG	NP	NP
+experience	NN	FRAG	NP	NP
+in	IN	FRAG	NP	PP
+the	DT	FRAG	NP	PP	NP	NP
+midst	NN	FRAG	NP	PP	NP	NP
+of	IN	FRAG	NP	PP	NP	PP
+buzzing	VBG	FRAG	NP	PP	NP	PP	VP
+midtown	JJ	FRAG	NP	PP	NP	PP	VP	NP
+area	NN	FRAG	NP	PP	NP	PP	VP	NP
+.	.	FRAG
+
+The	DT	NP
+food	NN	NP
+really	RB	ADVP
+is	VBZ	VP
+n't	RB	VP
+very	RB	VP	ADJP
+good	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+is	VBZ	VP
+terrible	JJ	VP	ADJP
+.	.
+
+Not	RB	SBAR
+only	RB	SBAR	ADVP
+do	VBP	SBAR	VP
+they	PRP	SBAR	VP	SBAR	NP
+have	VBP	SBAR	VP	SBAR	VP
+the	DT	SBAR	VP	SBAR	VP	NP	NP
+best	JJS	SBAR	VP	SBAR	VP	NP	NP
+escargot	NN	SBAR	VP	SBAR	VP	NP	NP
+in	IN	SBAR	VP	SBAR	VP	NP	PP
+town	NN	SBAR	VP	SBAR	VP	NP	PP	NP
+,	,
+they	PRP	NP
+always	RB	ADVP
+try	VBP	VP
+to	TO	VP	VP
+accomodate	VB	VP	VP	VP
+our	PRP$	VP	VP	VP	NP
+toddler	NN	VP	VP	VP	NP
+.	.
+
+The	DT	NP	NP
+Deco	NNP	NP	NP
+and	CC	NP
+ambiance	NN	NP	NP
+was	VBD	VP
+really	RB	VP	ADJP
+romantic	JJ	VP	ADJP
+.	.
+
+Just	RB	ADVP
+go	VB	VP
+in	IN	VP	NP	NP	UCP	PP
+and	CC	VP	NP	NP	UCP
+sample	NN	VP	NP	NP	UCP	NP	NP
+the	DT	VP	NP	NP	UCP	NP	NP
+greatest	JJS	VP	NP	NP	UCP	NP	NP
+french	JJ	VP	NP	NP
+food	NN	VP	NP	NP
+west	NN	VP	NP	NP
+of	IN	VP	NP	PP
+Daniel	NNP	VP	NP	PP	NP
+.	.
+
+Finally	RB	FRAG	ADVP
+a	DT	FRAG	NP	NP
+curry	NN	FRAG	NP	NP
+that	IN	FRAG	NP	SBAR
+I	PRP	FRAG	NP	SBAR	NP
+can	MD	FRAG	NP	SBAR	VP
+eat	VB	FRAG	NP	SBAR	VP	VP
+,	,	FRAG	NP	SBAR	VP
+enjoy	VB	FRAG	NP	SBAR	VP	VP	VP
+and	CC	FRAG	NP	SBAR	VP	VP
+not	RB	FRAG	NP	SBAR	VP	VP
+suffer	VB	FRAG	NP	SBAR	VP	VP	VP
+from	IN	FRAG	NP	SBAR	VP	VP	VP	PP
+gastritis	NN	FRAG	NP	SBAR	VP	VP	VP	PP	NP
+from	IN	FRAG	NP	SBAR	VP	VP	VP	PP
+3	CD	FRAG	NP	SBAR	VP	VP	VP	PP	ADVP	NP
+hours	NNS	FRAG	NP	SBAR	VP	VP	VP	PP	ADVP	NP
+later	RB	FRAG	NP	SBAR	VP	VP	VP	PP	ADVP
+.	.	FRAG
+
+All	DT	NP
+are	VBP	VP
+GREAT	JJ	VP	NP	NP
+-	:	VP	NP
+poori	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+naan	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+paratha	NN	VP	NP	NP	NP	NP
+all	DT	VP	NP	NP	NP	NP
+FRESH	NNP	VP	NP	NP	NP	NP
+.	.
+
+Try	VB	VP
+the	DT	VP	NP
+homemade	NN	VP	NP
+breads	NNS	VP	NP
+.	.
+
+This	DT	NP
+place	NN	NP
+has	VBZ	VP
+beautiful	JJ	VP	NP
+sushi	NN	VP	NP
+,	,
+and	CC
+it	PRP	NP
+'s	VBZ	VP
+delicious	JJ	VP	NP
+CHEAP	NNP	VP	NP
+.	.
+
+It	PRP	NP
+also	RB	ADVP
+has	VBZ	VP
+lots	NNS	VP	NP	NP
+of	IN	VP	NP	PP
+other	JJ	VP	NP	PP	NP
+Korean	JJ	VP	NP	PP	NP
+dishes	NNS	VP	NP	PP	NP
+that	WDT	VP	NP	SBAR	WHNP
+are	VBP	VP	NP	SBAR	VP
+affordable	JJ	VP	NP	SBAR	VP	ADJP
+and	CC	VP	NP	SBAR	VP	ADJP
+just	RB	VP	NP	SBAR	VP	ADJP
+as	IN	VP	NP	SBAR	VP	PP
+yummy	NN	VP	NP	SBAR	VP	PP	NP
+.	.
+
+Not	RB	SINV	ADVP
+only	RB	SINV	ADVP
+was	VBD	SINV	VP
+the	DT	SINV	NP	NP
+waiter	NN	SINV	NP	NP
+efficient	JJ	SINV	NP	ADJP	ADJP
+and	CC	SINV	NP	ADJP	ADJP
+courteous	JJ	SINV	NP	ADJP	ADJP
+,	,	SINV	NP	ADJP
+but	CC	SINV	NP	ADJP	CONJP
+also	RB	SINV	NP	ADJP	CONJP
+extremely	RB	SINV	NP	ADJP	ADJP
+helpful	JJ	SINV	NP	ADJP	ADJP
+.	.	SINV
+
+This	DT	NP
+place	NN	NP
+is	VBZ	VP
+classy	JJ	VP	ADJP
+,	,	PRN
+chic	JJ	PRN	NP
+,	,	PRN
+the	DT	PRN	NP
+service	NN	PRN	NP
+is	VBZ	PRN	VP
+warm	JJ	PRN	VP	ADJP
+and	CC	PRN	VP	ADJP
+hospitable	JJ	PRN	VP	ADJP
+,	,	PRN
+and	CC
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+outstanding	JJ	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+burgers	NNS	NP	NP
+,	,	NP
+grilled	JJ	NP	NP	NP
+cheeses	NNS	NP	NP	NP
+and	CC	NP	NP
+french	JJ	NP	NP	NP
+fries	NNS	NP	NP	NP
+.	.	NP
+
+The	DT	NP	NP
+Yellowfin	NNP	NP	NP
+Tuna	NNP	NP	NP
+and	CC	NP
+Calf	NN	NP	NP	NP
+'s	POS	NP	NP	NP
+liver	NN	NP	NP
+are	VBP	VP
+my	PRP$	VP	NP
+favorites	NNS	VP	NP
+!	.
+
+Sushi	NN	NP	NP
+so	RB	NP	ADJP	ADJP
+fresh	JJ	NP	ADJP	ADJP
+that	IN	NP	ADJP	SBAR
+it	PRP	NP	ADJP	SBAR	NP
+crunches	VBZ	NP	ADJP	SBAR	VP
+in	IN	NP	ADJP	SBAR	VP	PP
+your	PRP$	NP	ADJP	SBAR	VP	PP	NP
+mouth	NN	NP	ADJP	SBAR	VP	PP	NP
+.	.	NP
+
+But	CC
+make	VB	VP
+sure	JJ	VP	ADJP
+you	PRP	VP	ADJP	SBAR	NP
+have	VBP	VP	ADJP	SBAR	VP
+enough	JJ	VP	ADJP	SBAR	VP	NP	NP
+room	NN	VP	ADJP	SBAR	VP	NP	NP
+on	IN	VP	ADJP	SBAR	VP	NP	PP
+your	PRP$	VP	ADJP	SBAR	VP	NP	PP	NP
+credit	NN	VP	ADJP	SBAR	VP	NP	PP	NP
+card	NN	VP	ADJP	SBAR	VP	NP	PP	NP
+as	IN	VP	ADJP	SBAR	VP	SBAR
+the	DT	VP	ADJP	SBAR	VP	SBAR	NP
+bill	NN	VP	ADJP	SBAR	VP	SBAR	NP
+will	MD	VP	ADJP	SBAR	VP	SBAR	VP
+leave	VB	VP	ADJP	SBAR	VP	SBAR	VP	VP
+a	DT	VP	ADJP	SBAR	VP	SBAR	VP	VP	NP
+big	JJ	VP	ADJP	SBAR	VP	SBAR	VP	VP	NP
+dent	NN	VP	ADJP	SBAR	VP	SBAR	VP	VP	NP
+in	IN	VP	ADJP	SBAR	VP	SBAR	VP	VP	PP
+your	PRP$	VP	ADJP	SBAR	VP	SBAR	VP	VP	PP	NP
+wallet	NN	VP	ADJP	SBAR	VP	SBAR	VP	VP	PP	NP
+.	.
+
+Not	RB	SBAR
+only	RB	SBAR	ADVP
+was	VBD	SBAR	VP
+the	DT	SBAR	VP	ADJP	NP
+sushi	NN	SBAR	VP	ADJP	NP
+fresh	JJ	SBAR	VP	ADJP
+,	,
+they	PRP	NP
+also	RB	ADVP
+served	VBD	VP
+other	JJ	VP	SBAR	NP
+entrees	NNS	VP	SBAR	NP
+allowed	VBD	VP	SBAR	VP
+each	DT	VP	SBAR	VP	NP
+guest	NN	VP	SBAR	VP	NP
+something	NN	VP	SBAR	VP	NP
+to	TO	VP	SBAR	VP	VP
+choose	VB	VP	SBAR	VP	VP	VP
+from	IN	VP	SBAR	VP	VP	VP	PP
+and	CC	VP	SBAR
+we	PRP	VP	SBAR	NP
+all	DT	VP	SBAR	ADVP
+left	VBD	VP	SBAR	VP
+happy	JJ	VP	SBAR	VP	NP
+(	-LRB-	VP	SBAR	VP	VP
+try	VB	VP	SBAR	VP	VP
+the	DT	VP	SBAR	VP	VP	ADVP
+duck	NN	VP	SBAR	VP	VP	NP
+!	.
+
+good	JJ	NP	NP	NP
+variety	NN	NP	NP	NP
+but	CC	NP	NP	PP
+nothing	NN	NP	NP	PP	NP
+surprising	JJ	NP	ADJP
+.	.	NP
+
+No	DT	NP	NP
+green	JJ	NP	NP
+beans	NNS	NP	NP
+,	,	NP
+no	DT	NP	NP
+egg	NN	NP	NP
+,	,	NP
+no	DT	NP	NP
+anchovy	NN	NP	NP
+dressing	VBG	NP	VP
+,	,	NP
+no	DT	NP	NP
+nicoise	NN	NP	NP
+olives	NNS	NP	NP
+,	,	NP
+no	DT	NP	NP
+red	JJ	NP	NP
+onion	NN	NP	NP
+.	.	NP
+
+Thick	JJ	NP	NP
+fries	NNS	NP	NP
+,	,	NP
+meaty	JJ	NP	NP	NP
+chili	NNS	NP	NP	NP
+and	CC	NP	NP
+stuffed	VBD	NP	NP	VP
+baked	JJ	NP	NP	VP	SBAR	NP
+potatoes	NNS	NP	NP	VP	SBAR	NP
+round	VBP	NP	NP	VP	SBAR	VP
+out	RP	NP	NP	VP	SBAR	VP	PRT
+a	DT	NP	NP	VP	SBAR	VP	NP	NP
+menu	NN	NP	NP	VP	SBAR	VP	NP	NP
+that	WDT	NP	NP	VP	SBAR	VP	NP	SBAR	WHNP
+includes	VBZ	NP	NP	VP	SBAR	VP	NP	SBAR	VP
+a	DT	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+cool	JJ	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+,	,	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+ultra-thick	JJ	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+chocolate	NN	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+Frosty	NNP	NP	NP	VP	SBAR	VP	NP	SBAR	VP	NP	NP
+.	.	NP
+
+The	DT	NP	NP
+homage	NN	NP	NP
+to	TO	NP	PP
+India	NNP	NP	PP	NP
+is	VBZ	VP
+most	RBS	VP	ADJP	ADJP
+evident	JJ	VP	ADJP	ADJP
+in	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+delectable	JJ	VP	ADJP	PP	NP
+roti	NN	VP	ADJP	PP	NP
+canai	NN	VP	ADJP	PP	NP
+appetizer	NN	VP	ADJP	PP	NP
+,	,
+a	DT	NP
+fried	VBN	NP
+pancake	NN	NP
+served	VBD	VP
+with	IN	VP	PP
+pungent	JJ	VP	PP	NP	NP
+curry	NN	VP	PP	NP	NP
+dipping	VBG	VP	PP	NP	NP
+sauce	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+while	IN	VP	PP	NP	SBAR
+the	DT	VP	PP	NP	SBAR	NP
+mango	NN	VP	PP	NP	SBAR	NP
+chicken	NN	VP	PP	NP	SBAR	NP
+offers	VBZ	VP	PP	NP	SBAR	VP
+a	DT	VP	PP	NP	SBAR	VP	NP
+surprisingly	RB	VP	PP	NP	SBAR	VP	NP	ADJP
+sophisticated	JJ	VP	PP	NP	SBAR	VP	NP	ADJP
+,	,	VP	PP	NP	SBAR	VP	NP
+fresh	JJ	VP	PP	NP	SBAR	VP	NP
+take	NN	VP	PP	NP	SBAR	VP	NP
+on	IN	VP	PP	NP	SBAR	VP	PP
+sweet-and-sour	NN	VP	PP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP	NP
+ground	NN	NP	NP
+chickpea	NN	NP	NP
+soup	NN	NP	NP
+we	PRP	NP	SBAR	NP
+sampled	VBD	NP	SBAR	VP
+as	IN	NP	SBAR	VP	PP
+a	DT	NP	SBAR	VP	PP	NP
+starter	JJ	NP	SBAR	VP	PP	NP
+tasted	VBN	VP
+somewhat	RB	VP	ADJP
+thin	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+service	NN	NP
+,	,
+however	RB	ADVP
+,	,
+is	VBZ	VP
+a	DT	VP	NP
+peg	VB	VP	NP	VP	VP	NP	NP
+or	CC	VP	NP	VP	VP	NP
+two	CD	VP	NP	VP	VP	NP	NP
+below	IN	VP	NP	VP	VP	PP
+the	DT	VP	NP	VP	VP	PP	NP	NP
+quality	NN	VP	NP	VP	VP	PP	NP	NP
+of	IN	VP	NP	VP	VP	PP	NP	PP
+food	NN	VP	NP	VP	VP	PP	NP	PP	NP	NP
+(	-LRB-	VP	NP	VP	VP	PP	NP	PP	NP	PRN
+horrible	JJ	VP	NP	VP	VP	PP	NP	PP	NP	PRN	NP
+bartenders	NNS	VP	NP	VP	VP	PP	NP	PP	NP	PRN	NP
+)	-RRB-	VP	NP	VP	VP	PP	NP	PP	NP	PRN
+,	,	VP	NP	VP
+and	CC	VP	NP	VP
+the	DT	VP	NP	VP	VP	NP
+clientele	NN	VP	NP	VP	VP	NP
+,	,	VP	NP	VP	VP
+for	IN	VP	NP	VP	VP	PP
+the	DT	VP	NP	VP	VP	PP	NP	NP
+most	JJS	VP	NP	VP	VP	PP	NP	NP
+part	NN	VP	NP	VP	VP	PP	NP	NP
+,	,	VP	NP	VP	VP	PP	NP
+are	VBP	VP	NP	VP	VP	PP	NP	VP
+rowdy	JJ	VP	NP	VP	VP	PP	NP	VP	ADJP
+,	,	VP	NP	VP	VP	PP	NP
+loud-mouthed	JJ	VP	NP	VP	VP	PP	NP	NP	NP	NP
+commuters	NNS	VP	NP	VP	VP	PP	NP	NP	NP	NP
+(	-LRB-	VP	NP	VP	VP	PP	NP	NP	NP	PRN
+this	DT	VP	NP	VP	VP	PP	NP	NP	NP	PRN	NP
+could	MD	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP
+explain	VB	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP
+the	DT	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	NP
+bad	JJ	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	NP
+attitudes	NNS	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	NP
+from	IN	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	PP
+the	DT	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	PP	NP
+staff	NN	VP	NP	VP	VP	PP	NP	NP	NP	PRN	VP	VP	PP	NP
+)	-RRB-	VP	NP	VP	VP	PP	NP	NP	NP	PRN
+getting	VBG	VP	NP	VP	VP	PP	NP	NP	VP
+loaded	VBN	VP	NP	VP	VP	PP	NP	NP	VP	VP
+for	IN	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP
+an	DT	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP	NP
+AC/DC	NNP	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP	NP
+concert	NN	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP	NP
+or	CC	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP
+a	DT	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP	NP
+Knicks	NNPS	VP	NP	VP	VP	PP	NP	NP	VP	VP	PP	NP	NP
+game	NN	VP	NP
+.	.
+
+If	IN	SBAR
+you	PRP	SBAR	NP
+'re	VBP	SBAR	VP
+in	IN	SBAR	VP	PP
+the	DT	SBAR	VP	PP	NP
+neighborhood	NN	SBAR	VP	PP	NP
+,	,
+definitely	RB	ADVP
+stop	VB	VP
+by	IN	VP	PP
+for	IN	VP	PP	PP
+a	DT	VP	PP	PP	NP
+great	JJ	VP	PP	PP	NP
+meal	NN	VP	PP	PP	NP
+.	.
+
+Although	IN	SBAR
+small	JJ	SBAR	FRAG	ADJP
+,	,
+it	PRP	NP
+has	VBZ	VP
+beautiful	JJ	VP	NP	NP	NP
+ambience	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+excellent	JJ	VP	NP	NP	NP
+food	NN	VP	NP	NP	NP
+(	-LRB-	VP	NP	NP	PRN
+the	DT	VP	NP	NP	PRN	NP
+catfish	NN	VP	NP	NP	PRN	NP
+is	VBZ	VP	NP	NP	PRN	VP
+delicious	JJ	VP	NP	NP	PRN	VP	ADJP
+-	:	VP	NP	NP	PRN	VP
+if	IN	VP	NP	NP	PRN	VP	SBAR
+ya	PRP	VP	NP	NP	PRN	VP	SBAR	NP
+do	VBP	VP	NP	NP	PRN	VP	SBAR	VP
+n't	RB	VP	NP	NP	PRN	VP	SBAR	VP
+mind	VB	VP	NP	NP	PRN	VP	SBAR	VP	VP
+it	PRP	VP	NP	NP	PRN	VP	SBAR	VP	VP	NP
+a	DT	VP	NP	NP	PRN	VP	SBAR	VP	VP	NP
+lil	NN	VP	NP	NP	PRN	VP	SBAR	VP	VP	NP
+salty	NN	VP	NP	NP	PRN	VP	SBAR	VP	VP	NP
+)	-RRB-	VP	NP	NP	PRN
+and	CC	VP	NP
+attentive	JJ	VP	NP	NP
+service	NN	VP	NP	NP
+.	.
+
+Stick	NNP	NP	NP
+to	TO	NP	PP
+the	DT	NP	PP	NP	NP	NP
+items	NNS	NP	PP	NP	NP	NP
+the	DT	NP	PP	NP	NP	SBAR	NP
+place	NN	NP	PP	NP	NP	SBAR	NP
+does	VBZ	NP	PP	NP	NP	SBAR	VP
+best	RB	NP	PP	NP	NP	SBAR	VP	ADVP
+,	,	NP	PP	NP
+brisket	NN	NP	PP	NP	NP	NP
+,	,	NP	PP	NP	NP
+ribs	NNS	NP	PP	NP	NP	NP
+,	,	NP	PP	NP	NP
+wings	NNS	NP	PP	NP	NP	NP
+,	,	NP	PP	NP	NP
+cajun	JJ	NP	PP	NP	NP	NP
+shrimp	NN	NP	PP	NP	NP	NP
+is	VBZ	VP
+good	JJ	VP	ADJP
+,	,	VP	ADJP
+not	RB	VP	ADJP
+great	JJ	VP	ADJP
+.	.
+
+Hip	NN	NP	NP
+boutiques	NNS	NP	NP
+and	CC	NP	NP
+bars	NNS	NP	NP
+on	IN	NP	PP
+Ludlow	NNP	NP	PP	NP
+add	VB	VP
+to	TO	VP	PP
+the	DT	VP	PP	NP	NP
+artsy	JJ	VP	PP	NP	NP
+,	,	VP	PP	NP	NP
+laid-back	JJ	VP	PP	NP	NP
+atmosphere	NN	VP	PP	NP	NP
+at	IN	VP	PP	NP	PP
+this	DT	VP	PP	NP	PP	NP	NP
+Israeli-style	JJ	VP	PP	NP	PP	NP	NP
+takeout	NN	VP	PP	NP	PP	NP	NP
+and	CC	VP	PP	NP	PP	NP
+eat-in	JJ	VP	PP	NP	PP	NP	NP
+burger	NN	VP	PP	NP	PP	NP	NP
+joint	NN	VP	PP	NP	PP	NP	NP
+.	.
+
+My	PRP$	NP	NP
+Chelsea	NNP	NP	NP	NP	NP
+'s	POS	NP	NP	NP	NP
+impressive	JJ	NP	NP	NP	ADJP
+and	CC	NP	NP	NP	ADJP
+creative	JJ	NP	NP	NP	ADJP
+menu	NN	NP	NP	NP
+includes	VBZ	NP	SBAR	VP
+modern	JJ	NP	SBAR	VP	NP	NP
+,	,	NP	SBAR	VP	NP	NP
+Westernized	JJ	NP	SBAR	VP	NP	NP
+Japanese	JJ	NP	SBAR	VP	NP	NP
+dishes	NNS	NP	SBAR	VP	NP	NP
+such	JJ	NP	SBAR	VP	NP	PP
+as	IN	NP	SBAR	VP	NP	PP
+Foie	NNP	NP	SBAR	VP	NP	PP	NP	NP
+Gras	NNP	NP	SBAR	VP	NP	PP	NP	NP
+Unagi	NNP	NP	SBAR	VP	NP	PP	NP	NP
+Napolean	NNP	NP	SBAR	VP	NP	PP	NP	NP
+,	,	NP	SBAR	VP	NP	PP	NP
+Jap	NNP	NP	SBAR	VP	NP	PP	NP	NP
+style	NN	NP	SBAR	VP	NP	PP	NP	NP
+hamburger	NN	NP	SBAR	VP	NP	PP	NP	NP
+steak	NN	NP	SBAR	VP	NP	PP	NP	NP
+,	,	NP	SBAR	VP	NP	PP	NP
+spicy	NN	NP	SBAR	VP	NP	PP	NP	NP
+cod	NN	NP	SBAR	VP	NP	PP	NP	NP
+roe	NN	NP	SBAR	VP	NP	PP	NP	NP
+spaghetti	NNS	NP	SBAR	VP	NP	PP	NP	NP
+,	,	NP	SBAR	VP	NP	PP	NP
+black	JJ	NP	SBAR	VP	NP	PP	NP	NP	NP
+cod	NN	NP	SBAR	VP	NP	PP	NP	NP	NP
+with	IN	NP	SBAR	VP	NP	PP	NP	NP	PP
+miso	NN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP
+base	NN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP
+,	,	NP	SBAR	VP	NP	PP	NP
+and	CC	NP	SBAR	VP	NP	PP	NP
+rack	NN	NP	SBAR	VP	NP	PP	NP	NP	NP
+of	IN	NP	SBAR	VP	NP	PP	NP	NP	PP
+lamb	NN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP	NP
+in	IN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP	PP
+black	JJ	NP	SBAR	VP	NP	PP	NP	NP	PP	NP	PP	NP
+truffle	NN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP	PP	NP
+sauce	NN	NP	SBAR	VP	NP	PP	NP	NP	PP	NP	PP	NP
+,	,	NP	SBAR	VP
+to	TO	NP	SBAR	VP	VP
+name	VB	NP	SBAR	VP	VP	VP
+a	DT	NP	SBAR	VP	VP	VP	NP
+few	JJ	NP	SBAR	VP	VP	VP	NP
+.	.	NP
+
+His	PRP$	NP
+food	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+(	-LRB-	VP	PRN
+and	CC	VP	PRN
+not	RB	VP	PRN	FRAG
+expensive	JJ	VP	PRN	FRAG	ADJP
+by	IN	VP	PRN	FRAG	ADJP	PP
+NYC	NNP	VP	PRN	FRAG	ADJP	PP	NP	NP
+standards-	JJ	VP	PRN	FRAG	ADJP	PP	NP	NP	ADJP
+no	DT	VP	PRN	FRAG	ADJP	PP	NP	NP	ADJP
+entrees	NNS	VP	PRN	FRAG	ADJP	PP	NP	NP
+over	IN	VP	PRN	FRAG	ADJP	PP	NP	PP
+$	$	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP
+30	CD	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP
+,	,	VP	PRN	FRAG	ADJP	PP	NP	PP	NP
+most	JJS	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP	NP
+appetizers	NNS	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP	NP
+$	$	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP	ADJP
+12	CD	VP	PRN	FRAG	ADJP	PP	NP	PP	NP	NP	ADJP
+to	TO	VP	PRN	FRAG	ADJP	PP
+14	CD	VP	PRN	FRAG	ADJP	PP	NP
+)	-RRB-	VP	PRN
+.	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+consistant	JJ	VP	ADJP
+and	CC	VP	ADJP
+good	JJ	VP	ADJP
+but	CC	VP	PRN
+how	WRB	VP	PRN	SBAR	WHADVP
+it	PRP	VP	PRN	SBAR	NP
+got	VBD	VP	PRN	SBAR	VP
+name	NN	VP	PRN	SBAR	VP	NP	NP
+Best	JJS	VP	PRN	SBAR	VP	NP	SBAR	NP
+Diner	NN	VP	PRN	SBAR	VP	NP	SBAR	NP
+In	IN	VP	PRN	SBAR	VP	NP	SBAR	PP
+Manhattan	NNP	VP	PRN	SBAR	VP	NP	SBAR	PP	NP
+is	VBZ	VP	PRN	SBAR	VP	NP	SBAR	VP
+beyond	IN	VP	PP
+me	PRP	VP	PP	NP
+.	.
+
+The	DT	NP
+pasta	NN	NP
+primavera	NN	NP
+was	VBD	VP
+outstanding	JJ	VP	ADJP
+as	RB	VP	PP
+well	RB	VP	PP	ADVP
+,	,	VP
+lots	NNS	VP	NP	NP
+of	IN	VP	NP	PP
+fresh	JJ	VP	NP	PP	NP
+veggies	NNS	VP	NP	PP	NP
+.	.
+
+do	VBP	X	VP
+n't	RB	X	VP
+get	VB	X	VP	VP
+me	PRP	X	VP	VP	NP
+wrong	JJ	X	VP	VP	ADJP
+-	:	X
+sushi	NN	X	NP	NP
+was	VBD	X	NP	SBAR	VP
+good	JJ	X	NP	SBAR	VP	ADJP
+,	,	X	NP	SBAR	VP
+just	RB	X	NP	SBAR	VP	SBAR
+not	RB	X	NP	SBAR	VP	SBAR	ADJP
+fantastic	JJ	X	NP	SBAR	VP	SBAR	ADJP
+.	.	X
+
+Been	VBN	SINV	VP
+to	TO	SINV	VP	PP
+the	DT	SINV	VP	PP	NP
+one	CD	SINV	VP	PP	NP
+in	IN	SINV	VP	PP
+Brooklyn	NNP	SINV	VP	PP	NP	NP
+for	IN	SINV	VP	PP	NP	PP
+over	IN	SINV	VP	PP	NP	PP	NP
+25	CD	SINV	VP	PP	NP	PP	NP
+years	NNS	SINV	VP	PP	NP	PP	NP
+,	,	SINV	VP
+now	RB	SINV	VP	SBAR
+I	PRP	SINV	VP	SBAR	NP
+dont	VBP	SINV	VP	SBAR	VP
+have	VBP	SINV	VP	SBAR	VP	SBAR	VP
+to	TO	SINV	VP	SBAR	VP	SBAR	VP	VP
+go	VB	SINV	VP	SBAR	VP	SBAR	VP	VP	VP
+over	IN	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP
+the	DT	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	NP
+bridge	NN	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	NP
+for	IN	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	PP
+the	DT	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	PP	NP
+best	JJS	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	PP	NP
+pizza	NN	SINV	VP	SBAR	VP	SBAR	VP	VP	VP	PP	NP	PP	NP
+...	:	SINV
+.Hanx	NN	SINV	NP
+
+Had	VBD	VP
+dinner	NN	VP	NP
+here	RB	VP	PP	ADVP
+on	IN	VP	PP
+a	DT	VP	PP	NP
+Friday	NNP	VP	PP	NP
+and	CC
+the	DT	NP
+food	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+.	.
+
+We	PRP	NP
+recently	RB	ADVP
+spent	VBD	VP	VP
+New	NNP	VP	VP	NP	NP	NP
+Year	NNP	VP	VP	NP	NP	NP
+'s	POS	VP	VP	NP	NP	NP
+Eve	NNP	VP	VP	NP	NP
+at	IN	VP	VP	NP	PP
+the	DT	VP	VP	NP	PP	NP
+restaurant	NN	VP	VP	NP	PP	NP
+,	,	VP
+and	CC	VP
+had	VBD	VP	VP
+a	DT	VP	VP	NP	NP
+great	JJ	VP	VP	NP	NP
+experience	NN	VP	VP	NP	NP
+,	,	VP	VP	NP
+from	IN	VP	VP	NP	PP
+the	DT	VP	VP	NP	PP	NP
+wine	NN	VP	VP	NP	PP	NP
+to	TO	VP	VP	PP
+the	DT	VP	VP	PP	NP
+dessert	NN	VP	VP	PP	NP
+menu	NN	VP	VP	PP	NP
+.	.
+
+Highly	RB	VP	ADVP
+recommended	VBN	VP
+...	:
+As	IN	SBAR
+stated	VBN	SBAR	VP
+,	,
+I	PRP	NP
+have	VBP	VP	VP
+n't	RB	VP	VP
+dined	VBN	VP	VP	VP
+*in*	IN	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP
+restaurant	NN	VP	VP	VP	PP	NP
+but	CC	VP
+stopped	VBD	VP	VP
+by	IN	VP	VP	PP
+there	RB	VP	VP	PP	NP
+to	TO	VP	VP	VP
+pick	VB	VP	VP	VP	VP
+up	RP	VP	VP	VP	VP	PRT
+takeout	NN	VP	VP	VP	VP	NP
+and	CC
+it	PRP	NP
+seems	VBZ	VP
+a	DT	VP	NP
+very	RB	VP	NP	ADJP
+relaxing	JJ	VP	NP	ADJP
+place	NN	VP	NP
+;	:
+also	RB	ADVP
+,	,
+the	DT	NP
+bar	NN	NP
+looks	VBZ	VP
+nice	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+ambiance	NN	NP
+was	VBD	VP
+fine	JJ	VP	ADJP	ADJP
+,	,	VP	ADJP
+a	DT	VP	ADJP	ADJP	ADJP	NP
+little	JJ	VP	ADJP	ADJP	ADJP	NP
+loud	JJ	VP	ADJP	ADJP	ADJP
+but	CC	VP	ADJP	ADJP
+still	RB	VP	ADJP	ADJP	ADJP
+nice	JJ	VP	ADJP	ADJP	ADJP
+and	CC	VP	ADJP
+romantic	JJ	VP	ADJP	ADJP
+.	.
+
+but	CC	SINV	ADVP
+,	,	SINV
+the	DT	SINV	NP
+filet	JJ	SINV	NP
+mignon	NN	SINV	NP
+was	VBD	SINV	VP
+not	RB	SINV	VP
+very	RB	SINV	VP	ADJP
+good	JJ	SINV	VP	ADJP
+at	IN	SINV	VP	ADJP	PP
+all	DT	SINV	VP	ADJP	PP	NP
+cocktail	NN	SINV	VP	ADJP	PP	NP
+hour	NN	SINV	VP	ADJP	PP	NP
+includes	VBZ	SINV	VP
+free	JJ	SINV	NP	NP
+appetizers	NNS	SINV	NP	NP
+(	-LRB-	SINV	NP	PRN
+nice	JJ	SINV	NP	PRN	NP
+non-sushi	JJ	SINV	NP	PRN	NP
+selection	NN	SINV	NP	PRN	NP
+)	-RRB-	SINV	NP	PRN
+.	.	SINV
+
+Can	MD	VP
+be	VB	VP	VP
+a	DT	VP	VP	ADJP	NP
+bit	NN	VP	VP	ADJP	NP
+busy	JJ	VP	VP	ADJP
+around	IN	VP	VP	PP
+peak	JJ	VP	VP	PP	NP
+times	NNS	VP	VP	PP	NP
+because	IN	VP	VP	SBAR
+of	IN	VP	VP	SBAR	FRAG	PP
+the	DT	VP	VP	SBAR	FRAG	PP	NP
+size	NN	VP	VP	SBAR	FRAG	PP	NP
+.	.
+
+I	PRP	NP
+was	VBD	VP	VP
+on	IN	VP	VP	PP
+jury	NN	VP	VP	PP	NP
+duty	NN	VP	VP	PP	NP
+,	,	VP
+rode	VBD	VP	VP
+my	PRP$	VP	VP	NP
+bike	NN	VP	VP	NP
+up	IN	VP	VP	PP
+Centre	NNP	VP	VP	PP	NP	NP
+Street	NNP	VP	VP	PP	NP	NP
+on	IN	VP	VP	PP	NP	PP
+my	PRP$	VP	VP	PP	NP	PP	NP
+lunch	NN	VP	VP	PP	NP	PP	NP
+break	NN	VP	VP	PP	NP	PP	NP
+and	CC	VP
+came	VBD	VP	VP
+across	IN	VP	VP	PP
+this	DT	VP	VP	PP	NP
+great	JJ	VP	VP	PP	NP
+little	JJ	VP	VP	PP	NP
+place	NN	VP	VP	PP	NP
+with	IN	VP	VP	PP
+awesome	JJ	VP	VP	PP	NP	NP
+chicken	NN	VP	VP	PP	NP	NP
+tacos	NNS	VP	VP	PP	NP	NP
+and	CC	VP	VP	PP	NP
+Hibiscus	NNP	VP	VP	PP	NP	NP
+lemonade	NN	VP	VP	PP	NP	NP
+.	.
+
+good	JJ	NP
+place	NN	NP
+to	TO	VP	VP
+hang	VB	VP	VP	VP
+out	RP	VP	VP	VP	PRT
+during	IN	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP
+day	NN	VP	VP	VP	PP	NP
+after	IN	VP	VP	VP	PP
+shopping	NN	VP	VP	VP	PP	NP
+or	CC	VP
+to	TO	VP	VP
+grab	VB	VP	VP	VP
+a	DT	VP	VP	VP	NP	NP
+simple	JJ	VP	VP	VP	NP	NP
+soup	NN	VP	VP	VP	NP	NP
+or	CC	VP	VP	VP	NP
+classic	JJ	VP	VP	VP	NP	NP
+french	JJ	VP	VP	VP	NP	NP
+dish	NN	VP	VP	VP	NP	NP
+over	IN	VP	VP	VP	PP
+a	DT	VP	VP	VP	PP	NP	NP
+glass	NN	VP	VP	VP	PP	NP	NP
+of	IN	VP	VP	VP	PP	NP	PP
+wine	NN	VP	VP	VP	PP	NP	PP	NP
+.	.
+
+Very	RB	FRAG	ADVP
+nice	JJ	FRAG	NP	NP
+touch	NN	FRAG	NP	NP
+that	WDT	FRAG	NP	SBAR	WHNP
+very	RB	FRAG	NP	SBAR	ADVP
+much	RB	FRAG	NP	SBAR	ADVP
+fits	VBZ	FRAG	NP	SBAR	VP
+the	DT	FRAG	NP	SBAR	VP	NP
+place	NN	FRAG	NP	SBAR	VP	NP
+.	.	FRAG
+
+However	RB	ADVP
+,	,
+there	EX	NP
+is	VBZ	VP
+just	RB	VP	ADVP
+something	NN	VP	NP	NP
+so	RB	VP	NP	ADJP
+great	JJ	VP	NP	ADJP
+about	IN	VP	NP	ADJP	PP
+being	VBG	VP	NP	ADJP	PP	VP
+outdoors	RB	VP	NP	ADJP	PP	VP	ADVP
+,	,	VP	NP
+in	IN	VP	NP	PP
+great	JJ	VP	NP	PP	NP
+landscaping	NN	VP	NP	PP	NP
+,	,	VP	NP
+enjoying	VBG	VP	NP	VP
+a	DT	VP	NP	VP	NP	NP
+casual	JJ	VP	NP	VP	NP	NP
+drink	NN	VP	NP	VP	NP	NP
+that	WDT	VP	NP	VP	NP	SBAR	WHNP
+makes	VBZ	VP	NP	VP	NP	SBAR	VP
+going	VBG	VP	NP	VP	NP	SBAR	VP	VP
+to	TO	VP	NP	VP	NP	SBAR	VP	VP	PP
+this	DT	VP	NP	VP	NP	SBAR	VP	VP	PP	NP
+place	NN	VP	NP	VP	NP	SBAR	VP	VP	PP	NP
+worthwhile	JJ	VP	NP	VP	NP	SBAR	VP	ADJP
+.	.
+
+The	DT	NP	NP
+comments	NNS	NP	NP
+about	IN	NP	PP
+fried	JJ	NP	PP	NP
+foods	NNS	NP	PP	NP
+is	VBZ	VP
+correct	JJ	VP	ADJP
+(	-LRB-	VP	PRN
+below	IN	VP	PRN	PP
+)	-RRB-	VP	PRN
+but	CC
+the	DT	NP	NP
+other	JJ	NP	NP
+dishes	NNS	NP	NP
+,	,	NP
+including	VBG	NP	PP
+the	DT	NP	PP	NP	NP	NP
+lamb	NN	NP	PP	NP	NP	NP
+entree	FW	NP	PP	NP	NP	NP
+and	CC	NP	PP	NP
+many	JJ	NP	PP	NP	NP	NP
+of	IN	NP	PP	NP	NP	PP
+the	DT	NP	PP	NP	NP	PP	NP	NP
+salads	NNS	NP	PP	NP	NP	PP	NP	NP
+(	-LRB-	NP	PP	NP	NP	PP	NP	PRN
+avocado	NN	NP	PP	NP	NP	PP	NP	PRN	NP
+shrimp	NN	NP	PP	NP	NP	PP	NP	PRN	NP
+)	-RRB-	NP	PP	NP	NP	PP	NP	PRN
+were	VBD	VP
+quite	RB	VP	ADJP
+good	JJ	VP	ADJP
+.	.
+
+Slow	JJ	FRAG	NP
+service	NN	FRAG	NP
+,	,	FRAG
+but	CC	FRAG
+when	WRB	FRAG	SBAR	WHADVP
+you	PRP	FRAG	SBAR	NP
+'re	VBP	FRAG	SBAR	VP
+hanging	VBG	FRAG	SBAR	VP	VP
+around	RP	FRAG	SBAR	VP	VP	PRT
+with	IN	FRAG	SBAR	VP	VP	PP
+groups	NNS	FRAG	SBAR	VP	VP	PP	NP	NP	NP
+of	IN	FRAG	SBAR	VP	VP	PP	NP	NP	PP
+10	CD	FRAG	SBAR	VP	VP	PP	NP	NP	PP	NP
+or	CC	FRAG	SBAR	VP	VP	PP	NP	NP	PP	NP
+20	CD	FRAG	SBAR	VP	VP	PP	NP	NP	PP	NP
+,	,	FRAG	SBAR	VP	VP	PP	NP
+who	WP	FRAG	SBAR	VP	VP	PP	NP	SBAR	WHNP
+really	RB	FRAG	SBAR	VP	VP	PP	NP	SBAR	NP	ADVP
+notices	NNS	FRAG	SBAR	VP	VP	PP	NP	SBAR	NP
+?	.	FRAG
+
+The	DT	NP
+sauce	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP	ADJP	ADJP
+(	-LRB-	VP	ADJP	ADJP	PRN
+very	RB	VP	ADJP	ADJP	PRN	ADJP
+fresh	JJ	VP	ADJP	ADJP	PRN	ADJP
+)	-RRB-	VP	ADJP	ADJP	PRN
+with	IN	VP	ADJP	PP
+dabs	NNS	VP	ADJP	PP	NP	NP
+of	IN	VP	ADJP	PP	NP	PP
+real	JJ	VP	ADJP	PP	NP	PP	NP
+mozzarella	NN	VP	ADJP	PP	NP	PP	NP
+.	.
+
+Do	VBP	VP
+n't	RB	VP
+ever	RB	VP	ADVP
+bother	VB	VP	VP
+-	:
+the	DT	NP
+drinks	NNS	NP
+were	VBD	VP
+awful	JJ	VP	ADJP
+,	,
+but	CC
+it	PRP	NP
+was	VBD	VP
+the	DT	VP	NP	NP
+people	NNS	VP	NP	NP
+who	WP	VP	NP	SBAR	WHNP
+work	VBP	VP	NP	SBAR	VP
+there	EX	VP	NP	SBAR	VP	NP	NP
+that	WDT	VP	NP	SBAR	VP	NP	SBAR	WHNP
+really	RB	VP	NP	SBAR	VP	NP	SBAR	ADVP
+made	VBD	VP	NP	SBAR	VP	NP	SBAR	VP
+this	DT	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+the	DT	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+worst	JJS	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+experience	NN	VP	NP	SBAR	VP	NP	SBAR	VP	NP
+at	IN	VP	NP	SBAR	VP	NP	SBAR	VP	PP
+dining	NN	VP	NP	SBAR	VP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+room	NN	NP
+is	VBZ	VP
+a	DT	VP	ADJP	NP
+little	JJ	VP	ADJP	NP
+plain	NN	VP	ADJP
+,	,
+but	CC
+it	PRP	NP
+'s	VBZ	VP
+difficult	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+make	VB	VP	ADJP	VP	VP
+such	PDT	VP	ADJP	VP	VP	NP
+a	DT	VP	ADJP	VP	VP	NP
+small	JJ	VP	ADJP	VP	VP	NP
+place	NN	VP	ADJP	VP	VP	NP
+exciting	JJ	VP	ADJP	VP	VP	ADJP
+and	CC
+I	PRP	NP
+would	MD	VP
+not	RB	VP
+suggest	VB	VP	VP
+that	IN	VP	VP	SBAR
+as	IN	VP	VP	SBAR
+a	DT	VP	VP	SBAR	NP
+reason	NN	VP	VP	SBAR	NP
+not	RB	VP	VP	SBAR	VP
+to	TO	VP	VP	SBAR	VP	VP
+go	VB	VP	VP	SBAR	VP	VP	VP
+.	.
+
+Prices	NNS	NP	NP	NP
+even	RB	NP	NP	ADVP
+outside	IN	NP	NP	ADVP
+of	IN	NP	PP
+restaurant	NN	NP	PP	NP
+week	NN	NP	PP	NP
+were	VBD	VP
+great	JJ	VP	ADJP
+.	.
+
+A	DT	NP
+small	JJ	NP
+,	,	NP
+outdoor	JJ	NP
+eating	NN	NP
+area	NN	NP
+makes	VBZ	VP
+for	IN	VP	PP
+a	DT	VP	PP	NP
+private	JJ	VP	PP	NP
+,	,	VP	PP	NP
+comfortable	JJ	VP	PP	NP	ADJP
+space	NN	VP	PP	NP
+to	TO	VP	PP	NP	VP
+study	VB	VP	PP	NP	VP	VP	VP
+alone	RB	VP	PP	NP	VP	VP	VP	ADVP
+or	CC	VP	PP	NP	VP	VP
+meet	VB	VP	PP	NP	VP	VP	VP
+up	RP	VP	PP	NP	VP	VP	VP	PRT
+with	IN	VP	PP	NP	VP	VP	VP	PP
+friends	NNS	VP	PP	NP	VP	VP	VP	PP	NP
+.	.
+
+The	DT	NP	NP
+best	JJS	NP	NP
+dessert	NN	NP	NP
+,	,	NP
+a	DT	NP	NP	NP
+chocolate	NN	NP	NP	NP
+and	CC	NP	NP	NP
+peanut	NN	NP	NP	NP
+butter	NN	NP	NP	NP
+tart	JJ	NP	NP	NP
+,	,	NP
+is	VBZ	VP
+n't	RB	VP
+particularly	RB	VP	ADJP
+Hawaiian	JJ	VP	ADJP
+,	,
+but	CC
+it	PRP	NP
+'s	VBZ	VP
+a	DT	VP	NP	NP
+small	JJ	VP	NP	NP
+world	NN	VP	NP	NP
+when	WRB	VP	NP	SBAR	WHADVP
+it	PRP	VP	NP	SBAR	NP
+comes	VBZ	VP	NP	SBAR	VP
+to	TO	VP	NP	SBAR	VP	PP
+sweets	NNS	VP	NP	SBAR	VP	PP	NP
+.	.
+
+for	IN	PP
+an	DT	PP	NP
+appetizer	NN	PP	NP
+,	,
+their	PRP$	NP
+calamari	NN	NP
+is	VBZ	VP
+a	DT	VP	NP
+winner	NN	VP	NP
+.	.
+
+The	DT	NP
+room	NN	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+gorgeous	JJ	VP	NP	NP
+,	,	VP	NP	NP
+bi-level	JJ	VP	NP	NP
+space	NN	VP	NP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP	NP
+long	JJ	VP	NP	NP	NP
+bar	NN	VP	NP	NP	NP
+perfect	JJ	VP	NP	NP	ADJP
+for	IN	VP	NP	NP	ADJP	PP
+a	DT	VP	NP	NP	ADJP	PP	NP
+drink	NN	VP	NP	NP	ADJP	PP	NP
+.	.
+
+Two	CD	NP	ADJP	NP
+complaints-	JJ	NP	ADJP
+their	PRP$	NP	NP
+appetizer	NN	NP	NP
+selection	NN	NP	NP
+stinks	VBZ	VP
+,	,
+it	PRP	NP
+would	MD	VP
+be	VB	VP	VP
+nice	JJ	VP	VP	ADJP
+to	TO	VP	VP	ADJP	VP
+get	VB	VP	VP	ADJP	VP	VP
+some	DT	VP	VP	ADJP	VP	VP	SBAR	NP
+mozzarella	NN	VP	VP	ADJP	VP	VP	SBAR	NP
+sticks	VBZ	VP	VP	ADJP	VP	VP	SBAR	VP
+on	IN	VP	VP	ADJP	VP	VP	SBAR	VP	PP
+the	DT	VP	VP	ADJP	VP	VP	SBAR	VP	PP	NP
+menu	NN	VP	VP	ADJP	VP	VP	SBAR	VP	PP	NP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+especially	RB	VP	ADJP
+impressed	JJ	VP	ADJP
+during	IN	VP	PP	PP
+the	DT	VP	PP	PP	NP	NP
+bday	NN	VP	PP	PP	NP	NP
+party	NN	VP	PP	PP	NP	NP
+when	WRB	VP	PP	PP	NP	SBAR	WHADVP
+the	DT	VP	PP	PP	NP	SBAR	NP
+waitstaff	NN	VP	PP	PP	NP	SBAR	NP
+went	VBD	VP	PP	PP	NP	SBAR	VP
+above	RB	VP	PP	PP	NP	SBAR	VP	ADVP
+and	CC	VP	PP
+beyond	IN	VP	PP	PP
+in	IN	VP	PP	PP	PP
+helping	VBG	VP	PP	PP	PP	VP	VP
+me	PRP	VP	PP	PP	PP	VP	VP	NP
+decorate	VB	VP	PP	PP	PP	VP	VP	VP	VP
+and	CC	VP	PP	PP	PP	VP	VP	VP
+bring	VB	VP	PP	PP	PP	VP	VP	VP	VP
+out	RP	VP	PP	PP	PP	VP	VP	VP	VP	PRT
+a	DT	VP	PP	PP	PP	VP	VP	VP	VP	NP
+bday	NN	VP	PP	PP	PP	VP	VP	VP	VP	NP
+cake	NN	VP	PP	PP	PP	VP	VP	VP	VP	NP
+as	RB	VP	PP	PP	PP	VP	CONJP
+well	RB	VP	PP	PP	PP	VP	CONJP
+as	IN	VP	PP	PP	PP	VP	CONJP
+offering	VBG	VP	PP	PP	PP	VP	VP
+prompt	JJ	VP	PP	PP	PP	VP	VP	NP	ADJP
+and	CC	VP	PP	PP	PP	VP	VP	NP	ADJP
+friendly	JJ	VP	PP	PP	PP	VP	VP	NP	ADJP
+service	NN	VP	PP	PP	PP	VP	VP	NP
+to	TO	VP	PP	PP	PP	VP	VP	PP
+a	DT	VP	PP	PP	PP	VP	VP	PP	NP
+15	CD	VP	PP	PP	PP	VP	VP	PP	NP
+person	NN	VP	PP	PP	PP	VP	VP	PP	NP
+party	NN	VP	PP	PP	PP	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+chicken	NN	NP
+and	CC	NP
+falafel	NN	NP
+platters	NNS	NP
+were	VBD	VP
+nondescript	JJ	VP	NP	NP
+combinations	NNS	VP	NP	NP
+with	IN	VP	NP	PP
+fresh	JJ	VP	NP	PP	NP
+leaf	NN	VP	NP	PP	NP
+salad	NN	VP	NP	PP	NP
+.	.
+
+several	JJ	NP	NP	NP
+times	NNS	NP	NP	NP
+and	CC	NP	NP
+put	VB	NP	NP	VP
+up	RP	NP	NP	VP	PRT
+with	IN	NP	NP	VP	PP
+the	DT	NP	NP	VP	PP	NP	NP
+waiters	NNS	NP	NP	VP	PP	NP	NP
+'	POS	NP	NP	VP	PP	NP	NP
+bad	JJ	NP	NP	VP	PP	NP
+manners	NNS	NP	NP	VP	PP	NP
+,	,	NP	NP	VP
+knowing	VBG	NP	NP	VP	VP
+that	IN	NP	NP	VP	VP	SBAR
+their	PRP$	NP	NP	VP	VP	SBAR	NP
+job	NN	NP	NP	VP	VP	SBAR	NP
+is	VBZ	NP	NP	VP	VP	SBAR	VP
+n't	RB	NP	NP	VP	VP	SBAR	VP
+easy	JJ	NP	NP	VP	VP	SBAR	VP	ADJP
+.	.	NP
+
+The	DT	NP
+service	NN	NP
+is	VBZ	VP
+great	JJ	VP	ADJP	ADJP
+(	-LRB-	VP	ADJP	PRN
+maybe	RB	VP	ADJP	PRN	ADVP	ADVP
+even	RB	VP	ADJP	PRN	ADVP	ADVP
+borderline	JJ	VP	ADJP	PRN	ADVP	SBAR	UCP	ADJP
+nagging	JJ	VP	ADJP	PRN	ADVP	SBAR	UCP	ADJP
+but	CC	VP	ADJP	PRN	ADVP	SBAR	UCP
+at	IN	VP	ADJP	PRN	ADVP	SBAR	UCP	ADVP
+least	JJS	VP	ADJP	PRN	ADVP	SBAR	UCP	ADVP
+you	PRP	VP	ADJP	PRN	ADVP	SBAR	NP
+get	VBP	VP	ADJP	PRN	ADVP	SBAR	VP
+attention	NN	VP	ADJP	PRN	ADVP	SBAR	VP	NP
+)	-RRB-	VP	ADJP	PRN
+,	,	VP	ADJP
+the	DT	VP	ADJP	SBAR	NP
+desserts	NNS	VP	ADJP	SBAR	NP
+are	VBP	VP	ADJP	SBAR	VP
+excellent	JJ	VP	ADJP	SBAR	VP	ADJP
+and	CC	VP	ADJP	SBAR
+the	DT	VP	ADJP	SBAR	NP
+coffee	NN	VP	ADJP	SBAR	NP
+is	VBZ	VP	ADJP	SBAR	VP
+so	RB	VP	ADJP	SBAR	VP	ADJP
+very	RB	VP	ADJP	SBAR	VP	ADJP
+good	JJ	VP	ADJP	SBAR	VP	ADJP
+...	:
+
+They	PRP	NP
+are	VBP	VP	VP
+served	VBN	VP	VP	VP
+on	IN	VP	VP	VP	PP
+Focacchia	NNP	VP	VP	VP	PP	NP
+bread	NN	VP	VP	VP	PP	NP
+and	CC	VP
+are	VBP	VP	VP
+to	TO	VP	VP
+die	VB	VP	VP	VP
+for	IN	VP	VP	VP	PP
+.	.
+
+While	IN	SBAR
+the	DT	SBAR	NP
+smoothies	NNS	SBAR	NP
+are	VBP	SBAR	VP
+a	DT	SBAR	VP	ADJP	NP
+little	JJ	SBAR	VP	ADJP	NP
+big	JJ	SBAR	VP	ADJP
+for	IN	SBAR	VP	ADJP	PP
+me	PRP	SBAR	VP	ADJP	PP	NP
+,	,
+the	DT	NP
+fresh	JJ	NP
+juices	NNS	NP
+are	VBP	VP
+the	DT	VP	NP	NP
+best	JJS	VP	NP	NP
+I	PRP	VP	NP	SBAR	NP
+have	VBP	VP	NP	SBAR	VP
+ever	RB	VP	NP	SBAR	VP	ADVP
+had	VBN	VP	NP	SBAR	VP	VP
+!	.
+
+The	DT	NP
+food	NN	NP
+is	VBZ	VP
+just	RB	VP	ADJP
+OKAY	JJ	VP	ADJP
+,	,
+and	CC
+it	PRP	NP
+'s	VBZ	VP
+almost	RB	VP	ADJP
+not	RB	VP	ADJP
+worth	JJ	VP	ADJP
+going	VBG	VP	VP
+unless	IN	VP	VP	SBAR
+you	PRP	VP	VP	SBAR	NP
+'re	VBP	VP	VP	SBAR	VP
+getting	VBG	VP	VP	SBAR	VP	VP
+the	DT	VP	VP	SBAR	VP	VP	NP	NP
+pialla	NN	VP	VP	SBAR	VP	VP	NP	NP
+,	,	VP	VP	SBAR	VP	VP	NP
+which	WDT	VP	VP	SBAR	VP	VP	NP	SBAR	WHNP
+is	VBZ	VP	VP	SBAR	VP	VP	NP	SBAR	VP
+the	DT	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	NP
+only	JJ	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	NP
+dish	NN	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	NP
+that	WDT	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	SBAR	WHNP
+'s	VBZ	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	SBAR	VP
+really	RB	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	SBAR	VP	ADJP
+good	JJ	VP	VP	SBAR	VP	VP	NP	SBAR	VP	NP	SBAR	VP	ADJP
+.	.
+
+The	DT	NP
+guac	NN	NP
+is	VBZ	VP
+fresh	JJ	VP	ADJP
+,	,	VP
+yet	RB	VP	ADVP
+lacking	VBG	VP	VP
+flavor	NN	VP	VP	NP
+,	,
+we	PRP	NP
+like	VBP	VP
+to	TO	VP	VP
+add	VB	VP	VP	VP
+our	PRP$	VP	VP	VP	NP
+fresh	JJ	VP	VP	VP	NP
+salsa	NN	VP	VP	VP	NP
+into	IN	VP	VP	VP	PP
+it	PRP	VP	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+new	JJ	NP
+menu	NN	NP
+has	VBZ	VP
+a	DT	VP	NP
+few	JJ	VP	NP
+creative	JJ	VP	NP
+items	NNS	VP	NP
+,	,
+they	PRP	NP
+were	VBD	VP
+smart	JJ	VP	ADJP
+enough	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+keep	VB	VP	ADJP	VP	VP
+some	DT	VP	ADJP	VP	VP	NP	NP
+of	IN	VP	ADJP	VP	VP	NP	PP
+the	DT	VP	ADJP	VP	VP	NP	PP	NP	NP
+old	JJ	VP	ADJP	VP	VP	NP	PP	NP	NP
+favorites	NNS	VP	ADJP	VP	VP	NP	PP	NP	NP
+(	-LRB-	VP	ADJP	VP	VP	NP	PP	NP	PRN
+but	CC	VP	ADJP	VP	VP	NP	PP	NP	PRN
+they	PRP	VP	ADJP	VP	VP	NP	PP	NP	PRN	NP
+raised	VBD	VP	ADJP	VP	VP	NP	PP	NP	PRN	VP
+the	DT	VP	ADJP	VP	VP	NP	PP	NP	PRN	VP	NP
+prices	NNS	VP	ADJP	VP	VP	NP	PP	NP	PRN	VP	NP
+)	-RRB-	VP	ADJP	VP	VP	NP	PP	NP	PRN
+,	,	VP
+the	DT	VP	NP
+staff	NN	VP	NP
+is	VBZ	VP	VP
+friendly	JJ	VP	VP	ADJP
+most	JJS	VP	VP	ADJP	NP	NP
+of	IN	VP	VP	ADJP	NP	PP
+the	DT	VP	VP	ADJP	NP	PP	NP
+time	NN	VP	VP	ADJP	NP	PP	NP
+,	,	VP
+but	CC	VP
+I	PRP	VP	NP
+must	MD	VP	VP
+agree	VB	VP	VP	VP
+with	IN	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP	NP
+person	NN	VP	VP	VP	PP	NP	NP
+that	WDT	VP	VP	VP	PP	NP	SBAR	WHNP
+wrote	VBD	VP	VP	VP	PP	NP	SBAR	VP
+about	IN	VP	VP	VP	PP	NP	SBAR	VP	PP
+their	PRP$	VP	VP	VP	PP	NP	SBAR	VP	PP	NP
+favorite	JJ	VP	VP	VP	PP	NP	SBAR	VP	PP	NP
+words	NNS	VP	VP	VP	PP	NP	SBAR	VP	PP	NP
+:	:	VP
+No	UH	VP	INTJ
+,	,	VP
+ca	MD	VP	VP
+n't	RB	VP	VP
+,	,	VP
+sorry	JJ	VP	FRAG	ADJP
+...	:	VP	FRAG
+,	,	VP
+boy	NN	VP	NP	NP
+,	,	VP	NP
+they	PRP	VP	NP	NP
+wo	MD	VP	VP
+n't	RB	VP	VP
+bend	VB	VP	VP	VP
+the	DT	VP	VP	VP	NP
+rules	NNS	VP	VP	VP	NP
+for	IN	VP	VP	VP	PP
+anyone	NN	VP	VP	VP	PP	NP
+.	.
+
+It	PRP	NP	NP
+'	''	NP
+only	RB	NP	PP
+open	JJ	NP	PP	ADJP
+for	IN	NP	PP
+lunch	NN	NP	PP	NP	NP
+but	CC	NP	PP	NP	PP
+the	DT	NP	PP	NP	PP	NP
+food	NN	NP	PP	NP	PP	NP
+is	VBZ	VP
+so	RB	VP	ADJP
+good	JJ	VP	ADJP
+!	.
+
+How	WRB	SBARQ	WHADVP
+can	MD	SBARQ	SQ
+they	PRP	SBARQ	SQ	NP
+survive	VB	SBARQ	SQ	VP
+serving	VBG	SBARQ	SQ	VP	VP
+mediocre	JJ	SBARQ	SQ	VP	VP	NP
+food	NN	SBARQ	SQ	VP	VP	NP	NX	NX
+at	IN	SBARQ	SQ	VP	VP	NP	NX	PP
+exorbitant	JJ	SBARQ	SQ	VP	VP	NP	NX	PP	NP
+prices	NNS	SBARQ	SQ	VP	VP	NP	NX	PP	NP
+?	.	SBARQ	SQ	VP	VP	NP	NX	PP
+!	.	SBARQ	SQ
+
+The	DT	NP
+food	NN	NP
+was	VBD	VP
+mediocre	JJ	VP	ADJP
+and	CC
+the	DT	NP
+service	NN	NP
+was	VBD	VP
+severely	RB	VP	ADJP
+slow	JJ	VP	ADJP
+.	.
+
+i	LS	NP
+have	VBP	VP
+eaten	VBN	VP	VP
+here	RB	VP	VP	ADVP
+on	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+different	JJ	VP	VP	PP	NP
+occasion	NN	VP	VP	PP	NP
+-	:
+the	DT	NP
+food	NN	NP
+is	VBZ	VP
+mediocre	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+prices	NNS	VP	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+asked	VBD	VP
+repeatedly	RB	VP	ADVP
+what	WP	VP	SBAR	WHNP
+the	DT	VP	SBAR	NP	NP
+status	NN	VP	SBAR	NP	NP
+of	IN	VP	SBAR	NP	PP
+the	DT	VP	SBAR	NP	PP	NP
+meal	NN	VP	SBAR	NP	PP	NP
+was	VBD	VP	SBAR	VP	VP
+and	CC	VP	SBAR	VP
+was	VBD	VP	SBAR	VP	VP
+pretty	RB	VP	SBAR	VP	VP	ADJP
+much	JJ	VP	SBAR	VP	VP	ADJP
+grunted	VBD	VP	SBAR	VP	VP	ADJP	SBAR	VP
+at	IN	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP
+by	IN	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP	PP
+the	DT	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP	PP	NP
+unbelievably	RB	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP	PP	NP	ADJP
+rude	JJ	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP	PP	NP	ADJP
+waiter	NN	VP	SBAR	VP	VP	ADJP	SBAR	VP	PP	PP	NP
+.	.
+
+Sweet	JJ	NP
+Irish	JJ	NP
+bartender	NN	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+happy	JJ	VP	ADJP
+and	CC	VP	ADJP
+able	JJ	VP	ADJP
+to	TO	VP	VP
+bring	VB	VP	VP	VP
+a	DT	VP	VP	VP	NP	NP
+smile	NN	VP	VP	VP	NP	NP
+to	TO	VP	VP	VP	NP	PP
+my	PRP$	VP	VP	VP	NP	PP	NP
+friends	NNS	VP	VP	VP	NP	PP	NP
+a	DT	VP	VP	VP	NP
+my	PRP$	VP	VP	VP	NP
+face	NN	VP	VP	VP	NP
+.	.
+
+Its	PRP$	NP	NP
+good	JJ	NP	NP
+to	TO	NP	SBAR	VP
+go	VB	NP	SBAR	VP	VP
+there	RB	NP	SBAR	VP	VP	ADVP
+for	IN	NP	SBAR	VP	VP	PP
+drinks	NNS	NP	SBAR	VP	VP	PP	NP
+if	IN	NP	SBAR	VP	VP	SBAR
+you	PRP	NP	SBAR	VP	VP	SBAR	NP
+do	VBP	NP	SBAR	VP	VP	SBAR	VP
+n't	RB	NP	SBAR	VP	VP	SBAR	VP
+want	VB	NP	SBAR	VP	VP	SBAR	VP	VP
+to	TO	NP	SBAR	VP	VP	SBAR	VP	VP	VP
+get	VB	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP
+drunk	JJ	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	ADJP
+because	IN	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR
+you	PRP	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	NP
+'ll	MD	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP
+be	VB	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP
+lucky	JJ	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	ADJP
+if	IN	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	SBAR
+you	PRP	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	SBAR	NP
+can	MD	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	SBAR	VP
+get	VB	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	SBAR	VP	VP
+one	CD	NP	SBAR	VP	VP	SBAR	VP	VP	VP	VP	SBAR	VP	VP	SBAR	VP	VP	NP
+drink	VBP	VP
+an	DT	VP	NP	NP
+hour	NN	VP	NP	NP
+the	DT	VP	NP	SBAR	NP
+service	NN	VP	NP	SBAR	NP
+is	VBZ	VP	NP	SBAR	VP
+so	RB	VP	NP	SBAR	VP	ADJP
+bad	JJ	VP	NP	SBAR	VP	ADJP
+.	.
+
+Anyway	RB	ADVP
+,	,
+the	DT	NP
+owner	NN	NP
+was	VBD	VP
+fake	JJ	VP	ADJP
+.	.
+
+Owner	NNP	NP
+is	VBZ	VP
+pleasant	JJ	VP	ADJP
+and	CC	VP	ADJP
+entertaining	JJ	VP	ADJP
+.	.
+
+Creamy	JJ	NP	NP
+appetizers	NNS	NP	NP
+--	:	NP
+taramasalata	NN	NP	NP
+,	,	NP
+eggplant	NN	NP	NP
+salad	NN	NP	NP
+,	,	NP
+and	CC	NP
+Greek	JJ	NP	NP	NP	NP
+yogurt	NN	NP	NP	NP	NP
+(	-LRB-	NP	NP	NP	PRN
+with	IN	NP	NP	NP	PRN	PP
+cuccumber	NN	NP	NP	NP	PRN	PP	NP	NP
+,	,	NP	NP	NP	PRN	PP	NP
+dill	NN	NP	NP	NP	PRN	PP	NP	NP
+,	,	NP	NP	NP	PRN	PP	NP
+and	CC	NP	NP	NP	PRN	PP	NP
+garlic	NN	NP	NP	NP	PRN	PP	NP	NP
+)	-RRB-	NP	NP	NP	PRN
+taste	NN	NP	NP	PP	NP	NP
+excellent	JJ	NP	NP	PP	NP	NP
+when	WRB	NP	NP	PP	NP	FRAG	WHADVP
+on	IN	NP	NP	PP
+warm	JJ	NP	NP	PP	NP
+pitas	NNS	NP	NP	PP	NP
+.	.	NP
+

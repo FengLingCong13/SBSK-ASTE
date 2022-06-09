@@ -1,0 +1,5499 @@
+Boot	NN	NP
+time	NN	NP
+is	VBZ	VP
+super	JJ	VP	ADJP
+fast	RB	VP	ADVP
+,	,	VP
+around	RB	VP	NP	NP	QP
+anywhere	RB	VP	NP	NP	QP
+from	IN	VP	NP	NP	QP
+35	CD	VP	NP	NP	QP
+seconds	NNS	VP	NP	NP
+to	TO	VP	NP	PP
+1	CD	VP	NP	PP	NP
+minute	NN	VP	NP	PP	NP
+.	.
+
+tech	NN	NP
+support	NN	NP
+would	MD	VP
+not	RB	VP
+fix	VB	VP	VP
+the	DT	VP	VP	NP
+problem	NN	VP	VP	NP
+unless	IN	VP	VP	SBAR
+I	PRP	VP	VP	SBAR	NP
+bought	VBD	VP	VP	SBAR	VP
+your	PRP$	VP	VP	SBAR	VP	NP
+plan	NN	VP	VP	SBAR	VP	NP
+for	IN	VP	VP	SBAR	VP	PP
+$	$	VP	VP	SBAR	VP	PP	NP
+150	CD	VP	VP	SBAR	VP	PP	NP
+plus	CC	VP	VP	SBAR	VP	ADVP
+.	.
+
+Set	VB	VP
+up	RP	VP	PRT
+was	VBD	VP
+easy	JJ	VP	ADJP
+.	.
+
+Did	VBD	VP
+not	RB	VP
+enjoy	VB	VP	VP
+the	DT	VP	VP	NP	NP
+new	JJ	VP	VP	NP	NP	ADJP
+Windows	NNP	VP	VP	NP	NP	ADJP	NP-TMP
+8	CD	VP	VP	NP	NP	ADJP	NP-TMP
+and	CC	VP	VP	NP
+touchscreen	NN	VP	VP	NP	NP
+functions	NNS	VP	VP	NP	NP
+.	.
+
+Other	JJ	NP	NP
+than	IN	NP	PP
+not	RB	NP	PP
+being	VBG	NP	PP	VP
+a	DT	NP	PP	VP	NP	NP
+fan	NN	NP	PP	VP	NP	NP
+of	IN	NP	PP	VP	NP	PP
+click	NN	NP	PP	VP	NP	PP	NP	NP
+pads	NNS	NP	PP	VP	NP	PP	NP	NP
+(	-LRB-	NP	PP	VP	NP	PP	NP	PRN
+industry	NN	NP	PP	VP	NP	PP	NP	PRN	NP	NP
+standard	NN	NP	PP	VP	NP	PP	NP	PRN	NP	NP
+these	DT	NP	PP	VP	NP	PP	NP	PRN	NP	NP-TMP
+days	NNS	NP	PP	VP	NP	PP	NP	PRN	NP	NP-TMP
+)	-RRB-	NP	PP	VP	NP	PP	NP	PRN
+and	CC	NP	PP	VP	NP	PP	NP
+the	DT	NP	PP	VP	NP	PP	NP	NP
+lousy	JJ	NP	PP	VP	NP	PP	NP	NP
+internal	JJ	NP	PP	VP	NP	PP	NP	NP
+speakers	NNS	NP	PP	VP	NP	PP	NP	NP
+,	,	NP	PP	VP	NP	PP	NP
+it	PRP	PRN	NP
+'s	VBZ	PRN	VP
+hard	JJ	PRN	VP	ADJP
+for	IN	PRN	VP	ADJP	PP
+me	PRP	PRN	VP	ADJP	PP	NP
+to	TO	PRN	VP	VP
+find	VB	PRN	VP	VP	VP
+things	NNS	PRN	VP	VP	VP	NP
+about	IN	PRN	VP	VP	VP	PP
+this	DT	PRN	VP	VP	VP	PP	NP
+notebook	NN	PRN	VP	VP	VP	PP	NP
+I	PRP	NP
+do	VBP	VP
+n't	RB	VP
+like	VB	VP	VP
+,	,	VP	VP
+especially	RB	VP	VP	ADVP
+considering	VBG	VP	VP	VP
+the	DT	VP	VP	VP	NP
+$	$	VP	VP	VP	NP	ADJP	QP
+350	CD	VP	VP	VP	NP	ADJP	QP
+price	NN	VP	VP	VP	NP
+tag	NN	VP	VP	VP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+fast	RB	VP	ADVP
+,	,	VP
+light	NN	VP	PP
+,	,
+and	CC
+simple	JJ	ADJP
+to	TO	ADJP	VP
+use	VB	ADJP	VP	VP
+.	.
+
+Works	NNP	NP	NP
+well	RB	NP	NP
+,	,	NP
+and	CC	NP
+I	PRP	NP	NP
+am	VBP	VP
+extremely	RB	VP	ADJP
+happy	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+be	VB	VP	ADJP	VP	VP
+back	RB	VP	ADJP	VP	VP	ADVP
+to	TO	VP	ADJP	VP	VP	PP
+an	DT	VP	ADJP	VP	VP	PP	NP
+apple	NN	VP	ADJP	VP	VP	PP	NP
+OS	NN	VP	ADJP	VP	VP	PP	NP
+.	.
+
+Sure	JJ	INTJ
+it	PRP	NP
+'s	VBZ	VP
+not	RB	VP
+light	JJ	VP	ADJP
+and	CC	VP	ADJP
+slim	JJ	VP	ADJP
+but	CC
+the	DT	NP
+features	NNS	NP
+make	VBP	VP
+up	RP	VP	PRT
+for	IN	VP	PP
+it	PRP	VP	PP	NP	NP
+100	CD	VP	PP	NP	ADJP
+%	NN	VP	PP	NP	ADJP
+.	.
+
+I	PRP	NP
+am	VBP	VP
+pleased	VBN	VP	VP
+with	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP	NP
+fast	JJ	VP	VP	PP	NP	NP	NP
+log	NN	VP	VP	PP	NP	NP	NP
+on	IN	VP	VP	PP	NP	NP	PP
+,	,	VP	VP	PP	NP
+speedy	JJ	VP	VP	PP	NP	NP
+WiFi	NNS	VP	VP	PP	NP	NP
+connection	NN	VP	VP	PP	NP	NP
+and	CC	VP	VP	PP	NP
+the	DT	VP	VP	PP	NP	NP	NP
+long	JJ	VP	VP	PP	NP	NP	NP
+battery	NN	VP	VP	PP	NP	NP	NP
+life	NN	VP	VP	PP	NP	NP	NP
+(	-LRB-	VP	VP	PP	NP	NP	PRN
+>	JJR	VP	VP	PP	NP	NP	PRN	NP	NP
+6	CD	VP	VP	PP	NP	NP	PRN	NP	NP
+hrs	NNS	VP	VP	PP	NP	NP	PRN	NP	NP
+)	-RRB-	VP	VP	PP	NP	NP	PRN
+.	.
+
+The	DT	NP
+Apple	NNP	NP
+engineers	NNS	NP
+have	VBP	VP
+not	RB	VP
+yet	RB	VP	ADVP
+discovered	VBN	VP	VP
+the	DT	VP	VP	NP
+delete	VB	VP	VP	VP
+key	NN	VP	VP	VP	NP
+.	.
+
+Made	VBN	VP
+interneting	NN	VP	NP	NP
+(	-LRB-	VP	NP	PRN
+part	NN	VP	NP	PRN	NP	NP
+of	IN	VP	NP	PRN	NP	PP
+my	PRP$	VP	NP	PRN	NP	PP	NP
+business	NN	VP	NP	PRN	NP	PP	NP
+)	-RRB-	VP	NP	PRN
+very	RB	VP	NP	ADJP
+difficult	JJ	VP	NP	ADJP
+to	TO	VP	VP
+maintain	VB	VP	VP	VP
+.	.
+
+Luckily	RB	ADVP
+,	,
+for	IN	PP
+all	DT	PP	NP	NP
+of	IN	PP	NP	PP
+us	PRP	PP	NP	PP	NP
+contemplating	VBG	PP	NP	PP	VP
+the	DT	PP	NP	PP	VP	NP
+decision	NN	PP	NP	PP	VP	NP
+,	,
+the	DT	NP
+Mac	NNP	NP
+Mini	NNP	NP
+is	VBZ	VP
+priced	VBN	VP	VP
+just	RB	VP	VP	ADVP
+right	RB	VP	VP	ADVP
+.	.
+
+Only	RB	NP	NP
+problem	NN	NP	NP
+that	IN	NP	SBAR
+I	PRP	NP	SBAR	NP
+had	VBD	NP	SBAR	VP
+was	VBD	VP
+that	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+track	NN	VP	SBAR	NP
+pad	NN	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+not	RB	VP	SBAR	VP
+very	RB	VP	SBAR	VP	ADJP
+good	JJ	VP	SBAR	VP	ADJP
+for	IN	VP	SBAR	VP	ADJP	PP
+me	PRP	VP	SBAR	VP	ADJP	PP	NP
+,	,
+I	PRP	NP
+only	RB	ADVP
+had	VBD	VP
+a	DT	VP	NP	NP
+problem	NN	VP	NP	NP
+once	RB	VP	NP	ADVP
+or	CC	VP	NP	ADVP
+twice	RB	VP	NP	ADVP
+with	IN	VP	PP
+it	PRP	VP	PP	NP
+,	,
+But	CC
+probably	RB	ADVP
+my	PRP$	NP
+computer	NN	NP
+was	VBD	VP
+a	DT	VP	ADJP	NP
+bit	NN	VP	ADJP	NP
+defective	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+is	VBZ	VP	VP
+super	JJ	VP	VP	NP	NP
+fast	RB	VP	VP	NP	ADVP
+and	CC	VP
+has	VBZ	VP	VP
+outstanding	JJ	VP	VP	NP
+graphics	NNS	VP	VP	NP
+.	.
+
+But	CC
+the	DT	NP
+mountain	NN	NP
+lion	NN	NP
+is	VBZ	VP
+just	RB	VP	ADVP
+too	RB	VP	ADJP
+slow	JJ	VP	ADJP
+.	.
+
+Strong	JJ	NP
+build	VB	VP
+though	IN	VP	SBAR
+which	WDT	VP	SBAR	NP
+really	RB	VP	SBAR	ADVP
+adds	VBZ	VP	SBAR	VP
+to	TO	VP	SBAR	VP	PP
+its	PRP$	VP	SBAR	VP	PP	NP
+durability	NN	VP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+battery	NN	NP
+life	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+--	:	VP
+6-7	CD	VP	PP	NP
+hours	NNS	VP	PP	NP
+without	IN	VP	PP
+charging	VBG	VP	PP	VP
+.	.
+
+I	PRP	NP
+'ve	VBP	VP
+had	VBD	VP	VP
+my	PRP$	VP	VP	NP	NP
+computer	NN	VP	VP	NP	NP
+for	IN	VP	VP	NP	PP
+2	CD	VP	VP	NP	PP	NP	NP
+weeks	NNS	VP	VP	NP	PP	NP	NP
+already	RB	VP	VP	NP	PP	NP	ADVP
+and	CC
+it	PRP	NP
+works	VBZ	VP
+perfectly	RB	VP	ADVP
+.	.
+
+And	CC
+I	PRP	NP
+may	MD	VP
+be	VB	VP	VP
+the	DT	VP	VP	NP
+only	JJ	VP	VP	NP
+one	CD	VP	VP	NP
+but	CC
+I	PRP	NP
+am	VBP	VP
+really	RB	VP	ADJP
+liking	JJ	VP	ADJP
+Windows	NNP	VP	NP-TMP
+8	CD	VP	NP-TMP
+.	.
+
+The	DT	NP
+baterry	NN	NP
+is	VBZ	VP
+very	RB	VP	ADVP
+longer	RB	VP	ADVP
+.	.
+
+Its	PRP$	NP
+size	NN	NP
+is	VBZ	VP
+ideal	JJ	VP	ADJP
+and	CC
+the	DT	NP
+weight	NN	NP
+is	VBZ	VP
+acceptable	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+can	MD	VP
+say	VB	VP	VP
+that	IN	VP	VP	SBAR
+I	PRP	VP	VP	SBAR	NP
+am	VBP	VP	VP	SBAR	VP
+fully	RB	VP	VP	SBAR	VP	ADJP
+satisfied	VBN	VP	VP	SBAR	VP	ADJP
+with	IN	VP	VP	SBAR	VP	ADJP	PP
+the	DT	VP	VP	SBAR	VP	ADJP	PP	NP
+performance	NN	VP	VP	SBAR	VP	ADJP	PP	NP
+that	IN	VP	VP	SBAR	VP	ADJP	SBAR
+the	DT	VP	VP	SBAR	VP	ADJP	SBAR	NP
+computer	NN	VP	VP	SBAR	VP	ADJP	SBAR	NP
+has	VBZ	VP	VP	SBAR	VP	ADJP	SBAR	VP
+supplied	VBN	VP	VP	SBAR	VP	ADJP	SBAR	VP	VP
+.	.
+
+It	PRP	NP
+has	VBZ	VP
+so	RB	VP	NP	ADJP
+much	RB	VP	NP	ADJP
+more	JJR	VP	NP	ADJP
+speed	NN	VP	NP
+and	CC
+the	DT	NP
+screen	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+sharp	JJ	VP	ADJP
+.	.
+
+Everything	NN	NP	NP
+I	PRP	NP	SBAR	NP
+wanted	VBD	NP	SBAR	VP
+and	CC	NP	SBAR
+everything	NN	NP	SBAR	NP
+I	PRP	NP	SBAR	NP
+needed	VBD	VP
+and	CC
+the	DT	NP
+price	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+!	.
+
+It	PRP	NP
+'s	VBZ	VP
+not	RB	VP
+inexpensive	JJ	VP	ADJP
+but	CC
+the	DT	NP
+Hardware	NN	NP
+performance	NN	NP
+is	VBZ	VP
+impressive	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+a	DT	VP	ADJP	PP	NP	NP
+computer	NN	VP	ADJP	PP	NP	NP
+this	DT	VP	ADJP	PP	NP	ADJP
+small	JJ	VP	ADJP	PP	NP	ADJP
+.	.
+
+This	DT	NP
+thing	NN	NP
+is	VBZ	VP
+awesome	JJ	VP	ADJP
+,	,
+everything	NN	NP
+always	RB	ADVP
+works	VBZ	VP
+,	,
+everything	NN	NP
+is	VBZ	VP
+always	RB	VP	ADVP
+easy	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+set	VB	VP	ADJP	VP	VP
+up	RP	VP	ADJP	VP	VP	PRT
+,	,
+everything	NN	NP
+is	VBZ	VP
+compatible	JJ	VP	ADJP
+,	,	VP
+its	PRP$	VP	NP	NP
+literally	RB	VP	NP	NP	ADJP
+everything	NN	VP	NP	NP
+I	PRP	VP	NP	SBAR	NP
+could	MD	VP	NP	SBAR	VP
+ask	VB	VP	NP	SBAR	VP	VP
+for	IN	VP	NP	SBAR	VP	VP	PP
+.	.
+
+Keyboard	NN	NP
+responds	VBZ	VP
+well	RB	VP	ADVP
+to	TO	VP	PP
+presses	NNS	VP	PP	NP
+.	.
+
+Lastly	RB	ADVP
+,	,
+Windows	NNP	NP
+8	CD	NP
+is	VBZ	VP
+annoying	JJ	VP	ADJP
+.	.
+
+Everything	NN	NP
+is	VBZ	VP
+so	RB	VP	ADJP	ADJP
+easy	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP	ADJP
+intuitive	JJ	VP	ADJP	ADJP
+to	TO	VP	ADJP	PP
+setup	NN	VP	ADJP	PP	NP
+or	CC	VP	ADJP	PP	NP
+configure	NN	VP	ADJP	PP	NP
+.	.
+
+Biggest	JJS	NP
+complaint	NN	NP
+is	VBZ	VP
+Windows	NNP	VP	NP-TMP
+8	CD	VP	NP-TMP
+.	.
+
+Only	RB	NP	NP	QP
+2	CD	NP	NP	QP
+usb	NN	NP	NP
+ports	NNS	NP	NP
+...	:	NP
+seems	VBZ	NP	VP
+kind	NN	NP	VP	ADVP
+of	IN	NP	VP	ADVP
+...	:	NP
+limited	VBN	NP	VP
+.	.	NP
+
+It	PRP	NP
+has	VBZ	VP
+all	PDT	VP	NP	NP
+the	DT	VP	NP	NP
+expected	VBN	VP	NP	NP
+features	NNS	VP	NP	NP
+and	CC	VP	NP
+more	JJR	VP	NP	NP	NP
++plus	VBZ	VP	NP	NP	VP
+a	DT	VP	NP	NP	VP	NP	NP
+wide	JJ	VP	NP	NP	VP	NP	NP
+screen	NN	VP	NP	NP	VP	NP	NP
+and	CC	VP	NP	NP	VP	NP
+more	JJR	VP	NP	NP	VP	NP	NP
+than	IN	VP	NP	NP	VP	PP
+roomy	JJ	VP	NP	NP	VP	PP	NP
+keyboard	NN	VP	NP	NP	VP	PP	NP
+.	.
+
+Amazing	JJ	NP	NP
+Performance	NNP	NP	NP
+for	IN	NP	PP
+anything	NN	NP	PP	NP
+I	PRP	NP
+throw	VBP	VP
+at	IN	VP	PP
+it	PRP	VP	PP	NP
+.	.
+
+The	DT	NP
+receiver	NN	NP
+was	VBD	VP
+full	JJ	VP	ADJP
+of	IN	VP	ADJP	PP
+superlatives	NNS	VP	ADJP	PP	NP	NP
+for	IN	VP	ADJP	PP	NP	PP
+the	DT	VP	ADJP	PP	NP	PP	NP
+quality	NN	VP	ADJP	PP	NP	PP	NP
+and	CC	VP	ADJP	PP	NP	PP	NP
+performance	NN	VP	ADJP	PP	NP	PP	NP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+extremely	RB	VP	ADJP
+happy	JJ	VP	ADJP
+with	IN	VP	PP
+the	DT	VP	PP	NP	NP
+OS	NNP	VP	PP	NP	NP
+itself	PRP	VP	PP	NP	ADVP
+.	.
+
+The	DT	NP
+new	JJ	NP
+MBP	NN	NP
+offers	VBZ	VP	VP
+great	JJ	VP	VP	NP
+portability	NN	VP	VP	NP
+and	CC	VP
+gives	VBZ	VP	VP
+us	PRP	VP	VP	NP
+confidence	NN	VP	VP	NP	NP
+that	IN	VP	VP	NP	SBAR
+we	PRP	VP	VP	NP	SBAR	NP
+are	VBP	VP	VP	NP	SBAR	VP
+not	RB	VP	VP	NP	SBAR	VP
+going	VBG	VP	VP	NP	SBAR	VP	VP
+to	TO	VP	VP	NP	SBAR	VP	VP	VP
+need	VB	VP	VP	NP	SBAR	VP	VP	VP	VP
+to	TO	VP	VP	NP	SBAR	VP	VP	VP	VP	VP
+purchase	VB	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP
+a	DT	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	NP
+new	JJ	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	NP
+laptop	NN	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	NP
+in	IN	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	PP
+18	CD	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	PP	NP
+months	NNS	VP	VP	NP	SBAR	VP	VP	VP	VP	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+criticism	NN	NP
+has	VBZ	VP
+waned	VBN	VP	VP
+,	,
+and	CC
+now	RB	ADVP
+I	PRP	NP
+'d	MD	VP
+be	VB	VP	VP
+the	DT	VP	VP	NP
+first	JJ	VP	VP	NP
+to	TO	VP	VP	NP	VP
+recommend	VB	VP	VP	NP	VP	VP
+an	DT	VP	VP	NP	VP	VP	NP	NP
+Air	NN	VP	VP	NP	VP	VP	NP	NP
+for	IN	VP	VP	NP	VP	VP	NP	PP
+truly	RB	VP	VP	NP	VP	VP	NP	PP	NP	ADJP
+portable	JJ	VP	VP	NP	VP	VP	NP	PP	NP	ADJP
+computing	NN	VP	VP	NP	VP	VP	NP	PP	NP
+.	.
+
+MS	NN	NP	NP
+Office	NNP	NP	PP	NP
+2011	CD	NP	PP	NP
+for	IN	NP	PP
+Mac	NNP	NP	PP	NP
+is	VBZ	VP
+wonderful	JJ	VP	ADJP
+,	,	VP
+well	RB	VP	ADVP
+worth	IN	VP	PP
+it	PRP	VP	PP	NP
+.	.
+
+But	CC
+the	DT	NP	NP
+performance	NN	NP	NP
+of	IN	NP	PP
+Mac	NNP	NP	PP	NP
+Mini	NNP	NP	PP	NP
+is	VBZ	VP
+a	DT	VP	NP
+huge	JJ	VP	NP
+disappointment	NN	VP	NP
+.	.
+
+They	PRP	NP
+do	VBP	VP
+n't	RB	VP
+just	RB	VP	ADVP
+look	VB	VP	VP
+good	JJ	VP	VP	ADJP
+;	:
+they	PRP	NP
+deliver	VBP	VP
+excellent	JJ	VP	NP
+performance	NN	VP	NP
+.	.
+
+I	PRP	NP
+have	VBP	VP
+had	VBD	VP	VP
+it	PRP	VP	VP	NP
+over	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP
+year	NN	VP	VP	PP	NP
+now	RB	VP	VP	SBAR	ADVP
+with	IN	VP	VP	SBAR
+out	IN	VP	VP	SBAR	NP	NP
+a	DT	VP	VP	SBAR	NP	NP
+Glitch	NN	VP	VP	SBAR	NP	NP
+of	IN	VP	VP	SBAR	NP	PP
+any	DT	VP	VP	SBAR	NP	PP	NP
+kind..I	NN	VP	VP	SBAR	NP	PP	NP
+love	VBP	VP	VP	SBAR	VP
+the	DT	VP	VP	SBAR	VP	NP	NP
+lit	VBN	VP	VP	SBAR	VP	NP	NP	ADJP
+up	RP	VP	VP	SBAR	VP	NP	NP	ADJP	PRT
+keys	NNS	VP	VP	SBAR	VP	NP	NP
+and	CC	VP	VP	SBAR	VP	NP
+screen	NN	VP	VP	SBAR	VP	NP	SBAR	VP
+display	NN	VP	VP	SBAR	VP	NP	SBAR	VP	VP
+...	:
+this	DT	NP
+thing	NN	NP
+is	VBZ	VP
+Fast	JJ	VP	ADJP
+and	CC	VP	ADJP
+clear	JJ	VP	ADJP
+as	IN	VP	SBAR
+can	MD	VP	SBAR	VP
+be	VB	VP	SBAR	VP	VP
+.	.
+
+The	DT	NP
+Mountain	NNP	NP
+Lion	NNP	NP
+OS	NNP	NP
+is	VBZ	VP
+not	RB	VP
+hard	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+figure	VB	VP	ADJP	VP	VP
+out	RP	VP	ADJP	VP	VP	PRT
+if	IN	VP	ADJP	VP	VP	SBAR
+you	PRP	VP	ADJP	VP	VP	SBAR	NP
+are	VBP	VP	ADJP	VP	VP	SBAR	VP
+familiar	JJ	VP	ADJP	VP	VP	SBAR	VP	ADJP
+with	IN	VP	ADJP	VP	VP	SBAR	VP	ADJP	PP
+Microsoft	NNP	VP	ADJP	VP	VP	SBAR	VP	ADJP	PP	NP
+Windows	NNP	VP	ADJP	VP	VP	SBAR	VP	ADJP	PP	NP
+.	.
+
+However	RB	ADVP
+,	,
+I	PRP	NP
+can	MD	VP
+refute	VB	VP	VP
+that	IN	VP	VP	SBAR	WHADVP
+OSX	NNP	VP	VP	SBAR	NP
+is	VBZ	VP	VP	SBAR	VP
+``	``	VP	VP	SBAR
+FAST	RB	VP	VP	ADVP
+''	''
+.	.
+
+Enjoy	VB	VP
+using	VBG	VP	VP
+Microsoft	NNP	VP	VP	NP
+Office	NNP	VP	VP	NP
+!	.
+
+Incredible	JJ	NP	NP	NP
+graphics	NNS	NP	NP	NP
+and	CC	NP	NP
+brilliant	JJ	NP	NP	NP
+colors	NNS	NP	NP	NP
+.	.	NP
+
+Built-in	JJ	NP
+apps	NNS	NP
+are	VBP	VP
+purely	RB	VP	ADJP
+amazing	JJ	VP	ADJP
+.	.
+
+From	IN	PP
+the	DT	PP	NP	NP
+speed	NN	PP	NP	NP
+to	TO	PP	NP	PP
+the	DT	PP	NP	PP	NP	NP
+multi	NNS	PP	NP	PP	NP	NP
+touch	VBP	PP	NP	PP	NP	VP
+gestures	NNS	PP	NP	PP	NP	VP	NP
+this	DT	NP
+operating	NN	NP
+system	NN	NP
+beats	VBZ	VP
+Windows	NNP	VP	NP
+easily	RB	VP	ADVP
+.	.
+
+I	PRP	NP
+really	RB	ADVP
+like	IN	ADVP	PP
+the	DT	ADVP	PP	NP	NP
+size	NN	ADVP	PP	NP	NP
+and	CC	ADVP	PP	NP
+I	PRP	ADVP	PP	NP	NP
+'m	VBP	VP
+a	DT	VP	NP	NP
+fan	NN	VP	NP	NP
+of	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+ACERS	NNP	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+opted	VBD	VP
+for	IN	VP	PP
+the	DT	VP	PP	NP
+SquareTrade	NNP	VP	PP	NP
+3-Year	NNP	VP	PP	NP
+Computer	NNP	VP	PP	NP
+Accidental	NNP	VP	PP	NP
+Protection	NNP	VP	NP	NP
+Warranty	NNP	VP	NP	NP
+(	-LRB-	VP	NP	PRN
+$	$	VP	NP	PRN	NP
+1500-2000	CD	VP	NP	PRN	NP
+)	-RRB-	VP	NP	PRN
+which	WDT	VP	NP	SBAR	WHNP
+also	RB	VP	NP	SBAR	ADVP
+support	VBP	VP	NP	SBAR	VP
+``	``	VP	NP	SBAR	VP	NP	NP
+accidents	NNS	VP	NP	SBAR	VP	NP	NP
+''	''	VP	NP	SBAR	VP	NP	NP
+like	IN	VP	NP	SBAR	VP	NP	PP
+drops	NNS	VP	NP	SBAR	VP	NP	PP	NP
+and	CC	VP	NP	SBAR	VP	NP	PP	NP
+spills	NNS	VP	NP	SBAR	VP	NP	PP	NP
+that	WDT	VP	NP	SBAR	VP	NP	SBAR	WHNP
+are	VBP	VP	NP	SBAR	VP	NP	SBAR	VP
+NOT	RB	VP	NP	SBAR	VP	NP	SBAR	VP	ADVP
+covered	VBN	VP	NP	SBAR	VP	NP	SBAR	VP	VP
+by	IN	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP
+AppleCare	NN	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+light	JJ	VP	ADJP
+and	CC	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	PP
+transport	NN	VP	PP	NP
+.	.
+
+Once	RB	ADVP
+you	PRP	NP
+get	VBP	VP
+past	IN	VP	PP
+learning	VBG	VP	PP	VP
+how	WRB	VP	PP	VP	SBAR	WHADVP
+to	TO	VP	PP	VP	SBAR	VP
+use	VB	VP	PP	VP	SBAR	VP	VP
+the	DT	VP	PP	VP	SBAR	VP	VP	NP	NP
+poorly	RB	VP	PP	VP	SBAR	VP	VP	NP	NP	ADJP
+designed	VBN	VP	PP	VP	SBAR	VP	VP	NP	NP	ADJP
+Windows	NNP	VP	PP	VP	SBAR	VP	VP	NP	NP	ADJP
+8	CD	VP	PP	VP	SBAR	VP	VP	NP	NP	ADJP
+Set-Up	NN	VP	PP	VP	SBAR	VP	VP	NP	NP
+you	PRP	VP	PP	VP	SBAR	VP	VP	NP	SBAR	NP
+may	MD	VP	PP	VP	SBAR	VP	VP	NP	SBAR	VP
+feel	VB	VP	PP	VP	SBAR	VP	VP	NP	SBAR	VP	VP
+frustrated	JJ	VP	PP	VP	SBAR	VP	VP	NP	SBAR	VP	VP	ADJP
+.	.
+
+The	DT	NP	NP
+aluminum	NN	NP	NP
+body	NN	NP	NP
+sure	JJ	NP	ADJP
+makes	VBZ	VP
+it	PRP	VP	NP
+stand	VB	VP	VP
+out	RP	VP	VP	PRT
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	VP
+integrate	VB	VP	VP	VP
+bluetooth	NN	VP	VP	VP	NP
+devices	NNS	VP	VP	VP	NP
+,	,
+and	CC
+USB	JJ	NP
+devices	NNS	NP
+are	VBP	VP
+recognized	VBN	VP	VP
+almost	RB	VP	VP	ADVP
+instantly	RB	VP	VP	ADVP
+.	.
+
+And	CC
+the	DT	NP	NP
+fact	NN	NP	NP
+that	IN	NP	SBAR
+Apple	NNP	NP	SBAR	NP
+is	VBZ	NP	SBAR	VP
+driving	VBG	NP	SBAR	VP	VP
+the	DT	NP	SBAR	VP	VP	PP	NP
+13	CD	NP	SBAR	VP	VP	PP	NP
+''	''	NP	SBAR	VP	VP	PP	NP
+RMBP	NN	NP	SBAR	VP	VP	PP	NP
+with	IN	NP	SBAR	VP	VP	PP
+the	DT	NP	SBAR	VP	VP	PP	NP
+Intel4000	NN	NP	SBAR	VP	VP	PP	NP
+graphic	JJ	NP	SBAR	VP	VP	PP	NP
+chip	NN	NP	SBAR	VP	VP	PP	NP
+seems	VBZ	VP
+underpowered	JJ	VP	NP	NP
+(	-LRB-	VP	NP
+to	TO	VP	NP	PP
+me	PRP	VP	NP	PP	NP
+.	.
+
+Apple	NNP	NP
+removed	VBD	VP	VP
+the	DT	VP	VP	NP
+DVD	NN	VP	VP	NP
+drive	NN	VP	VP	NP
+Firewire	NNP	VP	VP	NP
+port	NN	VP	VP	NP
+(	-LRB-	VP	PRN
+will	MD	VP	PRN	VP
+work	VB	VP	PRN	VP	VP
+with	IN	VP	PRN	VP	VP	PP
+adapter	NN	VP	PRN	VP	VP	PP	NP
+)	-RRB-	VP	PRN
+and	CC	VP
+put	VBD	VP	VP
+the	DT	VP	VP	NP
+SDXC	NNP	VP	VP	NP
+slot	NN	VP	VP	NP
+in	IN	VP	VP	PP
+a	DT	VP	VP	PP	NP	NP
+silly	JJ	VP	VP	PP	NP	NP
+position	NN	VP	VP	PP	NP	NP
+on	IN	VP	VP	PP	NP	PP
+the	DT	VP	VP	PP	NP	PP	NP
+back	NN	VP	VP	PP	NP	PP	NP
+.	.
+
+The	DT	NP	NP
+durability	NN	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP
+laptop	NN	NP	PP	NP
+will	MD	VP
+make	VB	VP	VP
+it	PRP	VP	VP	NP
+worth	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+money	NN	VP	VP	PP	NP
+.	.
+
+Well	UH	UCP	ADJP
+designed	VBN	UCP	ADJP
+and	CC	UCP
+fast	RB	UCP	ADVP
+.	.	UCP	ADVP
+
+But	CC
+I	PRP	NP
+was	VBD	VP
+completely	RB	VP	ADJP
+wrong	JJ	VP	ADJP
+,	,
+this	DT	NP
+computer	NN	NP
+is	VBZ	VP
+UNBELIEVABLE	JJ	VP	ADJP	ADJP
+amazing	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+easy	JJ	VP	ADJP	ADJP
+to	TO	VP	VP
+use	VB	VP	VP	VP
+.	.
+
+Exactly	RB	ADJP
+as	IN	ADJP	SBAR
+posted	VBN	ADJP	SBAR	VP
+plus	CC	ADJP	SBAR	VP	PP
+a	DT	ADJP	SBAR	VP	PP	NP
+great	JJ	ADJP	SBAR	VP	PP	NP
+value	NN	ADJP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+specs	NNS	NP
+are	VBP	VP
+pretty	RB	VP	ADJP
+good	JJ	VP	ADJP
+too	RB	VP	ADJP
+.	.
+
+Apple	NNP	NP
+is	VBZ	VP
+unmatched	JJ	VP	ADJP
+in	IN	VP	ADJP	PP
+product	NN	VP	ADJP	PP	NP	NP
+quality	NN	VP	ADJP	PP	NP	NP
+,	,	VP	ADJP	PP	NP
+aesthetics	NNS	VP	ADJP	PP	NP	NP
+,	,	VP	ADJP	PP	NP
+craftmanship	NN	VP	ADJP	PP	NP	NP
+,	,	VP	ADJP	PP	NP
+and	CC	VP	ADJP	PP	NP
+customer	NN	VP	ADJP	PP	NP	NP
+service	NN	VP	ADJP	PP	NP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+great	JJ	VP	NP	NP
+size	NN	VP	NP	NP
+and	CC	VP	NP
+amazing	JJ	VP	NP	NP
+windows	NNS	VP	NP	NP
+8	CD	NP
+included	VBD	VP
+!	.
+
+I	PRP	NP
+do	VBP	VP
+not	RB	VP
+like	VB	VP	VP
+too	RB	VP	VP	ADJP
+much	JJ	VP	VP	ADJP
+Windows	NNP	VP	VP	NP-TMP
+8	CD	VP	VP	NP-TMP
+.	.
+
+Startup	NN	NP
+times	NNS	NP
+are	VBP	VP
+incredibly	RB	VP	ADJP
+long	JJ	VP	ADJP
+:	:	VP
+over	IN	VP	PP
+two	CD	VP	PP	NP
+minutes	NNS	VP	PP	NP
+.	.
+
+Also	RB	X	X	ADVP
+stunning	JJ	X	X	NP
+colors	NNS	X	NP	NP
+and	CC	X	NP
+speedy	JJ	X	NP	NP
+
+great	JJ	NP	NP	NP
+price	NN	NP	NP	NP
+free	JJ	NP	NP	NP
+shipping	NN	NP	NP	NP
+what	WDT	NP	NP	SBAR	WHNP
+else	RB	NP	SBAR	FRAG	ADJP
+can	MD	NP	SBAR	FRAG
+i	FW	NP	SBAR	FRAG	NP
+ask	VB	NP	SBAR	FRAG	VP
+for	IN	NP	SBAR	FRAG	VP	PP
+!	.	NP	SBAR	FRAG
+!	.	NP
+
+This	DT	NP
+mouse	NN	NP
+is	VBZ	VP
+terrific	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+really	RB	VP	ADJP
+thick	JJ	VP	ADJP
+around	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+battery	NN	VP	ADJP	PP	NP
+.	.
+
+And	CC	FRAG
+windows	NNS	FRAG	NP	NP	NP
+7	CD	FRAG	NP	NP	NP
+works	NNS	FRAG	NP	NP	NP
+like	IN	FRAG	NP	PP
+a	DT	FRAG	NP	PP	NP
+charm	NN	FRAG	NP	PP	NP
+.	.	FRAG
+
+:	:	FRAG
+)	-RRB-	FRAG	VP
+Great	JJ	FRAG	VP	NP	NP
+product	NN	FRAG	VP	NP	NP
+,	,	FRAG	VP	NP
+great	JJ	FRAG	VP	NP	NP
+price	NN	FRAG	VP	NP	NP
+,	,	FRAG	VP	NP
+great	JJ	FRAG	VP	NP	NP
+delivery	NN	FRAG	VP	NP	NP
+,	,	FRAG	VP	NP
+and	CC	FRAG	VP	NP
+great	JJ	FRAG	VP	NP	NP
+service	NN	FRAG	VP	NP	NP
+.	.	FRAG
+
+:	:
+]	SYM	X
+It	PRP	NP
+arrived	VBD	VP
+so	RB	VP	ADJP
+fast	JJ	VP	ADJP
+and	CC
+customer	NN	NP
+service	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+.	.
+
+tried	VBD	VP
+windows	NNS	VP	FRAG	NP	NP
+8	CD	VP	FRAG	NP	SBAR	UCP	NP
+and	CC	VP	FRAG	NP	SBAR	UCP
+hated	VBD	VP	FRAG	NP	SBAR	UCP	VP
+it	PRP	VP	FRAG	NP	SBAR	UCP	VP	SBAR	FRAG	NP
+!	.	VP	FRAG	NP	SBAR	UCP	VP	SBAR	FRAG
+!	.	VP	FRAG	NP
+!	.
+
+Set	VB	VP
+up	RP	VP	PRT
+was	VBD	VP
+a	DT	VP	NP
+breeze	NN	VP	NP
+.	.
+
+But	CC
+I	PRP	NP
+do	VBP	VP
+NOT	RB	VP	ADVP
+like	IN	VP	PP
+Win8	NN	VP	PP	NP
+.	.
+
+I	PRP	NP
+had	VBD	VP
+the	DT	VP	NP	NP	NP	NP
+same	JJ	VP	NP	NP	NP	NP
+reasons	NNS	VP	NP	NP	NP	NP
+as	IN	VP	NP	NP	NP	PP
+most	JJS	VP	NP	NP	NP	PP	NP
+PC	NN	VP	NP	NP	NP	PP	NP
+users	NNS	VP	NP	NP	NP	PP	NP
+:	:	VP	NP	NP
+the	DT	VP	NP	NP	NP	NP
+price	NN	VP	NP	NP	NP	NP
+,	,	VP	NP	NP	NP
+the	DT	VP	NP	NP	NP	NP	NP
+overbearing	JJ	VP	NP	NP	NP	NP	NP
+restrictions	NNS	VP	NP	NP	NP	NP	NP
+of	IN	VP	NP	NP	NP	NP	PP
+OSX	NNP	VP	NP	NP	NP	NP	PP	NP
+and	CC	VP	NP
+lack	NN	VP	NP	NP	NP
+of	IN	VP	NP	NP	PP
+support	NN	VP	NP	NP	PP	NP
+for	IN	VP	PP
+games	NNS	VP	PP	NP
+.	.
+
+I	PRP	NP
+wanted	VBD	VP
+it	PRP	VP	NP
+for	IN	VP	SBAR
+it	PRP	VP	SBAR	NP
+'s	VBZ	VP	SBAR	VP
+mobility	NN	VP	SBAR	VP	NP
+and	CC	VP	SBAR	VP	NP
+man	NN	VP	SBAR	VP	NP
+,	,
+this	DT	NP
+little	JJ	NP
+bad	JJ	NP
+boy	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+nice	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+found	VBD	VP
+the	DT	VP	NP
+mini	NNS	VP	NP
+to	TO	VP	VP
+be	VB	VP	VP	VP	VP
+:	:	VP	VP	VP
+Exceptionally	RB	VP	VP	VP	VP	ADVP
+easy	JJ	VP	VP	VP	VP
+to	TO	VP	VP	VP	VP	VP
+set	VB	VP	VP	VP	VP	VP	VP
+up	RP	VP	VP	VP	VP	VP	VP	PRT
+
+The	DT	NP
+sound	NN	NP
+is	VBZ	VP
+nice	JJ	VP	ADJP
+and	CC	VP	ADJP
+loud	JJ	VP	ADJP
+;	:
+I	PRP	NP
+do	VBP	VP
+n't	RB	VP
+have	VB	VP	VP
+any	DT	VP	VP	NP	NP
+problems	NNS	VP	VP	NP	NP
+with	IN	VP	VP	NP	PP
+hearing	NN	VP	VP	NP	PP	NP
+anything	NN	VP	VP	NP	PP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+slim	JJ	VP	ADJP
+,	,
+the	DT	NP
+track	NN	NP
+pad	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP	ADJP
+much	RB	VP	ADJP	ADJP
+impressed	JJ	VP	ADJP	ADJP
+with	IN	VP	ADJP	PP
+me	PRP	VP	ADJP	PP	NP
+.	.
+
+The	DT	NP
+settings	NNS	NP
+are	VBP	VP
+not	RB	VP
+user-friendly	JJ	VP	ADJP
+either	CC	VP	ADVP
+.	.
+
+Thank	VB	VP
+goodness	NN	VP	NP
+for	IN	VP	PP
+OpenOffice	NNP	VP	PP	NP
+!	.
+
+Awesome	JJ	NP	NP
+form	NN	NP	NP
+factor	NN	NP	NP
+,	,	NP
+great	JJ	NP	NP	NP
+battery	NN	NP	NP	NP
+life	NN	NP	NP	NP
+,	,	NP	NP
+wonderful	JJ	NP	NP	NP
+UX	NNP	NP	NP	NP
+.	.	NP
+
+i	LS	NP
+love	VBP	VP
+the	DT	VP	NP	NP
+keyboard	NN	VP	NP	NP
+and	CC	VP	NP
+the	DT	VP	NP	NP
+screen	NN	VP	NP	NP
+.	.
+
+However	RB	ADVP
+,	,
+there	EX	NP
+are	VBP	VP
+MAJOR	JJ	VP	NP	NP
+issues	NNS	VP	NP	NP
+with	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP	NP
+touchpad	NN	VP	NP	PP	NP	NP
+which	WDT	VP	NP	PP	NP	SBAR	WHNP
+render	VBP	VP	NP	PP	NP	SBAR	VP
+the	DT	VP	NP	PP	NP	SBAR	VP	NP
+device	NN	VP	NP	PP	NP	SBAR	VP	NP
+nearly	RB	VP	NP	PP	NP	SBAR	VP	ADJP
+useless	JJ	VP	NP	PP	NP	SBAR	VP	ADJP
+.	.
+
+I	PRP	NP
+'ve	VBP	VP
+already	RB	VP	ADVP
+upgraded	VBN	VP	VP
+o	NN	VP	VP	NP
+Mavericks	NNPS	VP	VP	NP
+and	CC
+I	PRP	NP
+am	VBP	VP
+impressed	JJ	VP	VP
+with	IN	VP	VP	PP
+everything	NN	VP	VP	PP	NP	NP
+about	IN	VP	VP	PP	NP	PP
+this	DT	VP	VP	PP	NP	PP	NP
+computer	NN	VP	VP	PP	NP	PP	NP
+.	.
+
+Not	RB	FRAG	ADVP
+as	IN	FRAG	ADVP
+fast	RB	FRAG	ADVP
+as	IN	FRAG	SBAR
+I	PRP	FRAG	SBAR	NP
+would	MD	FRAG	SBAR	VP
+have	VB	FRAG	SBAR	VP	VP
+expect	VB	FRAG	SBAR	VP	VP	VP
+for	IN	FRAG	SBAR	VP	VP	VP	PP
+an	DT	FRAG	SBAR	VP	VP	VP	PP	NP
+i5	NN	FRAG	SBAR	VP	VP	VP	PP	NP
+.	.	FRAG
+
+thanks	NNS	NP	NP
+for	IN	NP	PP
+great	JJ	NP	PP	NP
+service	NN	NP	PP	NP
+and	CC	NP	PP	NP
+shipping	NN	NP	PP	NP
+!	.	NP
+
+The	DT	NP
+performance	NN	NP
+seems	VBZ	VP
+quite	RB	VP	ADJP
+good	JJ	VP	ADJP
+,	,
+and	CC
+built-in	JJ	NP	NP
+applications	NNS	NP	NP
+like	IN	NP	PP
+iPhoto	NNP	NP	PP	NP
+work	NN	NP	PP	NP
+great	JJ	ADJP
+with	IN	ADJP	PP
+my	PRP$	ADJP	PP	NP
+phone	NN	ADJP	PP	NP
+and	CC	ADJP	PP	NP
+camera	NN	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+did	VBD	VP
+swap	VB	VP	VP
+out	RP	VP	VP	PRT
+the	DT	VP	VP	NP	NP
+hard	JJ	VP	VP	NP	NP
+drive	NN	VP	VP	NP	NP
+for	IN	VP	VP	NP	PP
+a	DT	VP	VP	NP	PP	NP
+Samsung	NNP	VP	VP	NP	PP	NP
+830	CD	VP	VP	NP	PP	NP
+SSD	NN	VP	VP	NP	PP	NP
+which	WDT	VP	VP	NP	SBAR	WHNP
+I	PRP	VP	VP	NP	SBAR	NP
+highly	RB	VP	VP	NP	SBAR	ADVP
+recommend	VB	VP	VP	NP	SBAR	VP
+.	.
+
+Yes	UH	INTJ
+,	,
+that	DT	NP
+'s	VBZ	VP
+a	DT	VP	NP
+good	JJ	VP	NP
+thing	NN	VP	NP
+,	,
+but	CC
+it	PRP	NP
+'s	VBZ	VP
+made	VBN	VP	VP
+from	IN	VP	VP	PP
+aluminum	NN	VP	VP	PP	NP	NP
+that	WDT	VP	VP	PP	NP	SBAR	WHNP
+scratches	VBZ	VP	VP	PP	NP	SBAR	VP
+easily	RB	VP	VP	PP	NP	SBAR	VP	ADVP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+also	RB	VP	ADVP
+informed	VBN	VP	VP
+that	IN	VP	VP	SBAR
+the	DT	VP	VP	SBAR	NP	NP
+components	NNS	VP	VP	SBAR	NP	NP
+of	IN	VP	VP	SBAR	NP	PP
+the	DT	VP	VP	SBAR	NP	PP	NP
+Mac	NNP	VP	VP	SBAR	NP	PP	NP
+Book	NNP	VP	VP	SBAR	NP	PP	NP
+were	VBD	VP	VP	SBAR	VP
+dirty	JJ	VP	VP	SBAR	VP	ADJP
+.	.
+
+the	DT	NP
+hardware	NN	NP
+problems	NNS	NP
+have	VBP	VP
+been	VBN	VP	VP
+so	RB	VP	VP	ADJP
+bad	JJ	VP	VP	ADJP
+,	,
+i	FW	NP
+ca	MD	VP
+n't	RB	VP
+wait	VB	VP	VP
+till	IN	VP	VP	SBAR
+it	PRP	VP	VP	SBAR	NP
+completely	RB	VP	VP	SBAR	ADVP
+dies	VBZ	VP	VP	SBAR	VP
+in	IN	VP	VP	SBAR	VP	PP
+3	CD	VP	VP	SBAR	VP	PP	NP	NP
+years	NNS	VP	VP	SBAR	VP	PP	NP	NP
+,	,	VP	VP	SBAR	VP	PP	NP
+TOPS	NNS	VP	VP	SBAR	VP	PP	NP	NP
+!	.
+
+It	PRP	NP
+'s	VBZ	VP
+so	RB	VP	ADJP
+nice	JJ	VP	ADJP
+that	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+battery	NN	VP	SBAR	NP
+last	JJ	VP	SBAR	ADJP
+so	RB	VP	SBAR	UCP	FRAG	ADVP
+long	RB	VP	SBAR	UCP	FRAG	ADVP
+and	CC	VP	SBAR	UCP
+that	IN	VP	SBAR	UCP	SBAR
+this	DT	VP	SBAR	UCP	SBAR	NP
+machine	NN	VP	SBAR	UCP	SBAR	NP
+has	VBZ	VP	SBAR	UCP	SBAR	VP
+the	DT	VP	SBAR	UCP	SBAR	VP	NP
+snow	NN	VP	SBAR	UCP	SBAR	VP	NP
+lion	NN	VP	SBAR	UCP	SBAR	VP	NP
+!	.
+
+it	PRP	NP
+'s	VBZ	VP
+exactly	RB	VP	SBAR	WHADJP
+what	WP	VP	SBAR	WHADJP
+i	FW	VP	SBAR	NP
+wanted	VBD	VP	SBAR	VP
+,	,
+and	CC
+it	PRP	NP
+has	VBZ	VP
+all	PDT	VP	NP	NP
+the	DT	VP	NP	NP
+new	JJ	VP	NP	NP
+features	NNS	VP	NP	NP
+and	CC	VP	NP
+whatnot	NN	VP	NP	NP
+.	.
+
+It	PRP	NP
+feels	VBZ	VP
+cheap	JJ	VP	ADJP
+,	,
+the	DT	NP
+keyboard	NN	NP
+is	VBZ	VP
+not	RB	VP
+very	RB	VP	ADJP
+sensitive	JJ	VP	ADJP
+.	.
+
+Though	IN	SBAR
+please	VB	SBAR	FRAG	VP
+note	NN	SBAR	FRAG	VP	NP
+that	IN	SBAR	FRAG	VP	SBAR
+sometimes	RB	SBAR	FRAG	VP	SBAR	FRAG	ADVP
+it	PRP	NP
+crashes	VBZ	VP
+,	,
+and	CC
+the	DT	NP
+sound	JJ	NP
+quality	NN	NP
+isnt	NN	NP
+superb	JJ	ADJP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	VP
+navigate	VB	VP	VP	VP
+even	RB	VP	VP	VP	ADVP
+for	IN	VP	VP	VP	PP
+a	DT	VP	VP	VP	PP	NP
+novice	NN	VP	VP	VP	PP	NP
+.	.
+
+Does	NNP	NP
+everything	NN	NP
+I	PRP	PRN	NP
+need	VBP	PRN	VP
+it	PRP	PRN	VP	NP
+to	TO	PRN	VP	VP
+,	,	PRN
+has	VBZ	VP
+a	DT	VP	NP
+wonderful	JJ	VP	NP
+battery	NN	VP	NP
+life	NN	VP	NP
+and	CC
+I	PRP	NP
+could	MD	VP
+n't	RB	VP
+be	VB	VP	VP
+happier	JJR	VP	VP	ADJP
+.	.
+
+Great	JJ	NP	NP
+Performance	NNP	NP	NP
+and	CC	NP	NP
+Quality	NNP	NP	NP
+.	.	NP
+
+One	CD	NP	NP
+more	JJR	NP	NP
+thing	NN	NP	NP
+,	,	NP
+this	DT	NP	NP
+mac	NN	NP	NP
+does	VBZ	VP
+NOT	NNP	VP	NP
+come	VB	VP	VP
+with	IN	VP	VP	PP
+restore	VB	VP	VP	PP	VP
+disks	NNS	VP	VP	PP	VP	NP
+and	CC
+I	PRP	NP
+am	VBP	VP
+not	RB	VP
+sure	JJ	VP	ADJP
+if	IN	VP	SBAR
+you	PRP	VP	SBAR	NP
+can	MD	VP	SBAR	VP
+make	VB	VP	SBAR	VP	VP
+them	PRP	VP	SBAR	VP	VP	NP
+direct	VB	VP	SBAR	VP	VP	VP
+from	IN	VP	SBAR	VP	VP	VP	PP
+the	DT	VP	SBAR	VP	VP	VP	PP	NP
+mac	NN	VP	SBAR	VP	VP	VP	PP	NP
+like	IN	VP	SBAR	VP	VP	VP	SBAR
+you	PRP	VP	SBAR	VP	VP	VP	SBAR	NP
+can	MD	VP	SBAR	VP	VP	VP	SBAR	VP
+with	IN	VP	SBAR	VP	VP	VP	SBAR	VP	PP
+newer	JJR	VP	SBAR	VP	VP	VP	SBAR	VP	PP	NP	NP
+PC	NN	VP	SBAR	VP	VP	VP	SBAR	VP	PP	NP	NP
+'s	POS	VP	SBAR	VP	VP	VP	SBAR	VP	PP	NP	NP
+,	,
+also	RB	ADVP
+the	DT	NP
+charging	VBG	NP
+cables	NNS	NP
+are	VBP	VP
+made	VBN	VP	VP
+of	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP
+same	JJ	VP	VP	PP	NP	NP
+cheap	JJ	VP	VP	PP	NP	NP
+material	NN	VP	VP	PP	NP	NP
+as	IN	VP	VP	PP	NP	PP
+the	DT	VP	VP	PP	NP	PP	NP
+iPhone/iPod	NN	VP	VP	PP	NP	PP	NP
+touch	NN	VP	VP	PP	NP	PP	NP
+cables	NNS	VP	VP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+new	JJ	NP
+os	NNS	NP
+is	VBZ	VP
+great	JJ	VP	ADVP
+on	IN	VP	ADVP	PP
+my	PRP$	VP	ADVP	PP	NP
+macbook	NN	VP	ADVP	PP	NP
+pro	FW	VP	NP
+!	.
+
+I	PRP	SINV	NP
+have	VBP	SINV	VP
+experienced	VBN	SINV	VP	VP
+no	DT	SINV	VP	VP	NP
+problems	NNS	SINV	VP	VP	NP
+,	,	SINV
+works	VBZ	SINV	VP
+as	IN	SINV	SBAR
+anticipated	VBN	SINV	SBAR	VP
+.	.	SINV
+
+System	NNP	NP
+is	VBZ	VP
+running	VBG	VP	VP
+great	JJ	VP	VP	ADJP
+.	.
+
+Easy	NNP	NP
+to	TO	VP
+customize	VB	VP	VP	VP
+setting	NN	VP	VP	VP	NP
+and	CC	VP	VP
+even	RB	VP	VP	VP	ADVP
+create	VB	VP	VP	VP
+your	PRP$	VP	VP	VP	NP
+own	JJ	VP	VP	VP	NP
+bookmarks	NNS	VP	VP	VP	NP
+.	.
+
+it	PRP	NP
+has	VBZ	VP
+all	PDT	VP	NP	NP
+the	DT	VP	NP	NP
+features	NNS	VP	NP	NP
+that	IN	VP	NP	SBAR
+we	PRP	VP	NP	SBAR	NP
+expected	VBD	VP	NP	SBAR	VP
+and	CC
+the	DT	NP
+price	NN	NP
+was	VBD	VP
+good	JJ	VP	ADJP
+,	,	VP
+working	VBG	VP	VP
+well	RB	VP	VP	ADVP
+so	RB	VP	VP	ADVP
+far	RB	VP	VP	ADVP
+.	.
+
+The	DT	NP
+new	JJ	NP
+operating	NN	NP
+system	NN	NP
+makes	VBZ	VP
+this	DT	VP	NP
+computer	NN	VP	NP
+into	IN	VP	PP
+a	DT	VP	PP	NP
+super	JJ	VP	PP	NP
+iPad	NNP	VP	PP	NP
+.	.
+
+Easy	NNP	FRAG	NP
+to	TO	FRAG	VP
+set	VB	FRAG	VP	VP	VP
+up	RP	FRAG	VP	VP	VP	PRT
+and	CC	FRAG	VP	VP
+go	VB	FRAG	VP	VP	VP
+!	.	FRAG
+
+I	PRP	NP
+ca	MD	VP
+n't	RB	VP
+believe	VB	VP	VP
+how	WRB	VP	VP	SBAR	SBAR	WHADVP
+quiet	JJ	VP	VP	SBAR	SBAR	NP
+the	DT	VP	VP	SBAR	SBAR	NP
+hard	JJ	VP	VP	SBAR	SBAR	NP
+drive	NN	VP	VP	SBAR	SBAR	NP
+is	VBZ	VP	VP	SBAR	SBAR	VP
+and	CC	VP	VP	SBAR
+how	WRB	VP	VP	SBAR	SBAR	WHADVP
+quick	JJ	VP	VP	ADVP	NP	ADJP
+this	DT	VP	VP	ADVP	NP	ADJP	NP
+thing	NN	VP	VP	ADVP	NP	ADJP	NP
+boots	NNS	VP	VP	ADVP	NP
+up	RB	VP	VP	ADVP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+just	RB	VP	SBAR	WHADJP
+what	WP	VP	SBAR	WHADJP
+we	PRP	VP	SBAR	NP
+were	VBD	VP	SBAR	VP
+looking	VBG	VP	SBAR	VP	VP
+for	IN	VP	SBAR	VP	VP	PP
+and	CC
+it	PRP	NP
+works	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+so	RB	VP	ADJP
+quick	JJ	VP	ADJP
+and	CC	VP	ADJP
+responsive	JJ	VP	ADJP
+that	IN	VP	ADJP	SBAR
+it	PRP	VP	ADJP	SBAR	NP
+makes	VBZ	VP	ADJP	SBAR	VP
+working	VBG	VP	ADJP	SBAR	VP	VP
+/	:	VP	PRN
+surfing	VBG	VP	PRN	VP
+on	IN	VP	PRN	VP	PP
+a	DT	VP	PRN	VP	PP	NP	NP
+computer	NN	VP	PRN	VP	PP	NP	NP
+so	RB	VP	PRN	VP	PP	NP	ADJP	ADVP
+much	RB	VP	PRN	VP	PP	NP	ADJP	ADVP
+more	RBR	VP	PRN	VP	PP	NP	ADJP	ADVP
+pleasurable	JJ	VP	PRN	VP	PP	NP	ADJP
+!	.
+
+It	PRP	NP
+works	VBZ	VP
+fine	JJ	VP	ADJP
+,	,
+and	CC
+all	PDT	NP
+the	DT	NP
+software	NN	NP
+seems	VBZ	VP
+to	TO	VP	VP
+run	VB	VP	VP	VP
+pretty	RB	VP	VP	VP	ADVP
+well	RB	VP	VP	VP	ADVP
+.	.
+
+I	PRP	NP
+wanted	VBD	VP
+a	DT	VP	NP	NP
+computer	NN	VP	NP	NP
+that	WDT	VP	NP	SBAR	WHNP
+was	VBD	VP	NP	SBAR	VP
+quite	RB	VP	NP	SBAR	VP	ADVP
+,	,	VP	NP	SBAR	VP
+fast	RB	VP	NP	SBAR	VP	ADVP
+,	,
+and	CC
+that	DT	NP
+had	VBD	VP
+overall	JJ	VP	NP
+great	JJ	VP	NP
+performance	NN	VP	NP
+.	.
+
+Harddrive	NNP	SINV	NP
+was	VBD	SINV	VP
+in	IN	SINV	VP	PP
+poor	JJ	SINV	VP	PP	NP
+condition	NN	SINV	VP	PP	NP
+,	,	SINV
+had	VBD	SINV	VP
+to	TO	SINV	VP	VP
+replace	VB	SINV	VP	VP	VP
+it	PRP	SINV	NP
+.	.	SINV
+
+The	DT	NP
+on/off	JJ	NP
+switch	NN	NP
+is	VBZ	VP
+a	DT	VP	ADJP	NP
+bit	NN	VP	ADJP	NP
+obscure	JJ	VP	ADJP
+in	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+rear	JJ	VP	ADJP	PP	NP
+corner	NN	VP	ADJP	PP	NP
+.	.
+
+My	PRP$	NP
+only	JJ	NP
+complaint	NN	NP
+is	VBZ	VP
+the	DT	VP	NP	NP
+total	JJ	VP	NP	NP
+lack	NN	VP	NP	NP
+of	IN	VP	NP	PP
+instructions	NNS	VP	NP	PP	NP	NP
+that	WDT	VP	NP	PP	NP	SBAR	WHNP
+come	VBP	VP	NP	PP	NP	SBAR	VP
+with	IN	VP	NP	PP	NP	SBAR	VP	PP
+the	DT	VP	NP	PP	NP	SBAR	VP	PP	NP
+mac	NN	VP	NP	PP	NP	SBAR	VP	PP	NP
+mini	NNS	VP	NP	PP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP	NP	NP
+only	JJ	NP	NP	NP
+task	NN	NP	NP	NP
+that	IN	NP	NP	SBAR
+this	DT	NP	NP	SBAR	NP
+computer	NN	NP	NP	SBAR	NP
+would	MD	NP	NP	SBAR	VP
+not	RB	NP	NP	SBAR	VP
+be	VB	NP	NP	SBAR	VP	VP
+good	JJ	NP	NP	SBAR	VP	VP	ADJP
+enough	RB	NP	NP	SBAR	VP	VP	ADJP
+for	IN	NP	NP	SBAR	VP	VP	ADJP	SBAR
+would	MD	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP
+be	VB	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP
+gaming	NN	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP	NP
+,	,	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP
+otherwise	RB	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP	ADVP
+the	DT	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP	NP
+integrated	VBN	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP	NP
+Intel	NNP	NP	NP	SBAR	VP	VP	ADJP	SBAR	VP	VP	NP
+4000	CD	NP	NP
+graphics	NNS	NP	NP
+work	VBP	VP
+well	RB	VP	ADVP
+for	IN	VP	PP
+other	JJ	VP	PP	NP
+tasks	NNS	VP	PP	NP
+.	.
+
+I	PRP	NP
+use	VBP	VP
+it	PRP	VP	NP
+mostly	RB	VP	PP
+for	IN	VP	PP
+content	NN	VP	PP	NP	NP	NP
+creation	NN	VP	PP	NP	NP	NP
+(	-LRB-	VP	PP	NP	NP	PRN
+Audio	NN	VP	PP	NP	NP	PRN	NP
+,	,	VP	PP	NP	NP	PRN
+video	NN	VP	PP	NP	NP	PRN	NP
+,	,	VP	PP	NP	NP	PRN
+photo	NN	VP	PP	NP	NP	PRN	NP
+editing	NN	VP	PP	NP	NP	PRN	NP
+)	-RRB-	VP	PP	NP	NP	PRN
+and	CC	VP	PP	NP
+its	PRP$	VP	PP	NP	NP
+reliable	JJ	VP	PP	NP	NP
+.	.
+
+Screen	NN	NP
+is	VBZ	VP
+bright	JJ	VP	ADJP
+and	CC	VP	ADJP
+gorgeous	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+robust	JJ	VP	ADJP
+,	,	VP
+with	IN	VP	PP
+a	DT	VP	PP	NP	NP
+friendly	JJ	VP	PP	NP	NP
+use	NN	VP	PP	NP	NP
+as	IN	VP	PP	NP	PP
+all	DT	VP	PP	NP	PP	NP
+Apple	NNP	VP	PP	NP	PP	NP
+products	NNS	VP	PP	NP	PP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+fast	JJ	VP	ADJP
+and	CC	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+use	VB	VP	ADJP	VP	VP
+.	.
+
+And	CC	FRAG
+the	DT	FRAG	ADVP
+fact	NN	FRAG	ADVP
+that	IN	FRAG	SBAR
+it	PRP	FRAG	SBAR	NP
+comes	VBZ	FRAG	SBAR	VP
+with	IN	FRAG	SBAR	VP	PP
+an	DT	FRAG	SBAR	VP	PP	NP	NP
+i5	NN	FRAG	SBAR	VP	PP	NP	NP
+processor	NN	FRAG	SBAR	VP	PP	NP	NP
+definitely	RB	FRAG	SBAR	VP	PP	NP	VP	ADVP
+speeds	VBZ	FRAG	SBAR	VP	PP	NP	VP
+things	NNS	FRAG	SBAR	VP	PP	NP	VP	NP
+up	RP	FRAG	SBAR	VP	PP	NP	VP	PRT
+
+I	PRP	NP
+have	VBP	VP
+been	VBN	VP	VP
+PC	NN	VP	VP	NP	NP
+for	IN	VP	VP	NP	PP
+years	NNS	VP	VP	NP	PP	NP
+but	CC
+this	DT	NP
+computer	NN	NP
+is	VBZ	VP
+intuitive	JJ	VP	ADJP
+and	CC
+its	PRP$	NP
+built	VBN	NP	ADJP
+in	IN	NP	ADJP	PP
+features	NNS	NP
+are	VBP	VP
+a	DT	VP	NP
+great	JJ	VP	NP
+help	NN	VP	NP
+
+Nice	JJ	NP	NP
+screen	NN	NP	NP
+,	,	NP
+keyboard	NN	NP	NP
+works	VBZ	VP
+great	JJ	VP	ADJP
+!	.
+
+I	PRP	NP
+was	VBD	VP
+amazed	VBN	VP	VP
+at	IN	VP	VP	PP
+how	WRB	VP	VP	PP	SBAR	WHADVP
+fast	RB	VP	VP	PP	SBAR	WHADVP
+the	DT	VP	VP	PP	SBAR	NP
+delivery	NN	VP	VP	PP	SBAR	NP
+was	VBD	VP	VP	PP	SBAR	VP
+.	.
+
+The	DT	NP
+memory	NN	NP
+was	VBD	VP
+gone	VBN	VP	VP
+and	CC
+it	PRP	NP
+was	VBD	VP
+not	RB	VP
+able	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+be	VB	VP	ADJP	VP	VP
+used	VBN	VP	ADJP	VP	VP	VP
+.	.
+
+It	PRP	NP
+works	VBZ	VP
+great	JJ	VP	ADJP
+and	CC
+I	PRP	NP
+am	VBP	VP
+so	RB	VP	ADJP
+happy	JJ	VP	ADJP
+I	PRP	VP	ADJP	SBAR	NP
+bought	VBD	VP	ADJP	SBAR	VP
+it	PRP	VP	ADJP	SBAR	VP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP	NP
+design	NN	VP	NP	NP
+and	CC	VP	NP	NP
+ease	NN	VP	NP	NP
+of	IN	VP	NP	PP
+use	NN	VP	NP	PP	NP
+with	IN	VP	PP
+the	DT	VP	PP	NP	NP
+keyboard	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+plenty	NN	VP	PP	NP	NP	NP
+of	IN	VP	PP	NP	NP	PP
+ports	NNS	VP	PP	NP	NP	PP	NP
+.	.
+
+it	PRP	NP
+definitely	RB	ADVP
+beats	VBZ	VP
+my	PRP$	VP	SBAR	NP	NP
+old	JJ	VP	SBAR	NP	NP
+mac	NN	VP	SBAR	NP	NP
+and	CC	VP	SBAR	NP
+the	DT	VP	SBAR	NP	NP
+service	NN	VP	SBAR	NP	NP
+was	VBD	VP	SBAR	VP
+great	JJ	VP	SBAR	VP	ADJP
+.	.
+
+Web	NN	NP
+browsing	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+quick	JJ	VP	ADJP
+with	IN	VP	ADJP	PP
+Safari	NNP	VP	ADJP	PP	NP
+browser	NN	VP	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP	NP
+lighted	VBN	VP	NP	NP
+screen	NN	VP	NP	NP
+at	IN	VP	NP	PP
+night	NN	VP	NP	PP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+really	RB	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	VP
+use	VB	VP	VP	VP
+and	CC
+it	PRP	NP
+is	VBZ	VP
+quick	JJ	VP	ADJP
+to	TO	VP	ADJP	VP
+start	VB	VP	ADJP	VP	VP
+up	RP	VP	ADJP	VP	VP	PRT
+.	.
+
+I	PRP	NP
+'ve	VBP	VP
+lived	VBN	VP	VP
+with	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP
+crashes	NNS	VP	VP	PP	NP	NP
+and	CC	VP	VP	PP	NP	NP
+slow	JJ	VP	VP	PP	NP	NP
+operation	NN	VP	VP	PP	NP	NP
+and	CC	VP	VP	PP	NP
+restarts	NNS	VP	VP	PP	NP	NP
+.	.
+
+USB3	NN	NP	NP
+Peripherals	NNPS	NP	NP
+are	VBP	VP
+noticably	RB	VP	ADJP	ADJP
+less	RBR	VP	ADJP	ADJP
+expensive	JJ	VP	ADJP	ADJP
+than	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+ThunderBolt	NNP	VP	ADJP	PP	NP
+ones	NNS	VP	ADJP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+fast	RB	VP	ADVP
+,	,	VP
+light	NN	VP	PP
+,	,
+and	CC
+is	VBZ	VP
+perfect	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+media	NNS	VP	ADJP	PP	NP	NP
+editing	NN	VP	ADJP	PP	NP	NP
+,	,	VP	ADJP	PP	NP
+which	WDT	VP	ADJP	PP	NP	SBAR	WHNP
+is	VBZ	VP	ADJP	PP	NP	SBAR	VP
+mostly	RB	VP	ADJP	PP	NP	SBAR	VP	ADVP
+why	WRB	VP	ADJP	PP	NP	SBAR	VP	SBAR	WHADVP
+I	PRP	VP	ADJP	PP	NP	SBAR	VP	SBAR	NP
+bought	VBD	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP
+it	PRP	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP	NP
+in	IN	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP	PP
+the	DT	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP	PP	NP
+first	JJ	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP	PP	NP
+place	NN	VP	ADJP	PP	NP	SBAR	VP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+battery	NN	NP
+lasts	VBZ	VP
+as	IN	VP	PP
+advertised	VBN	VP	PP	NP
+(	-LRB-	VP	PRN
+give	VB	VP	PRN	VP
+or	CC	VP	PRN	VP
+take	VB	VP	PRN	VP
+15-20	CD	VP	PRN	VP	NP
+minutes	NNS	VP	PRN	VP	NP
+)	-RRB-	VP	PRN
+,	,
+and	CC
+the	DT	NP
+entire	JJ	NP
+user	NN	NP
+experience	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+elegant	JJ	VP	ADJP
+.	.
+
+Thanks	NNS	NP	NP
+for	IN	NP	PP
+the	DT	NP	PP	NP	NP
+fast	JJ	NP	PP	NP	NP
+shipment	NN	NP	PP	NP	NP
+and	CC	NP	PP	NP
+great	JJ	NP	PP	NP	NP
+price	NN	NP	PP	NP	NP
+.	.	NP
+
+!	.	NP	NP
+Excellent	JJ	NP	NP
+performance	NN	NP	NP
+,	,	NP
+usability	NN	NP	NP
+,	,	NP	NP
+presentation	NN	NP	NP
+and	CC	NP	NP
+time	NN	NP	NP
+response	NN	NP	NP
+.	.	NP
+
+The	DT	NP
+smaller	JJR	NP
+size	NN	NP
+was	VBD	VP
+a	DT	VP	NP
+bonus	NN	VP	NP
+because	IN	VP	PP
+of	IN	VP	PP	PP
+space	NN	VP	PP	PP	NP
+restrictions	NNS	VP	PP	PP	NP
+.	.
+
+I	PRP	NP
+blame	VBP	VP
+the	DT	VP	NP
+Mac	NNP	VP	NP
+OS	NNP	VP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP
+operating	NN	VP	NP
+system	NN	VP	NP
+.	.
+
+I	PRP	NP
+love	VBP	VP
+the	DT	VP	NP
+form	NN	VP	NP
+factor	NN	VP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+fast	RB	VP	ADVP
+at	IN	VP	ADVP	PP
+loading	VBG	VP	ADVP	PP	VP
+the	DT	VP	ADVP	PP	VP	NP
+internet	NN	VP	ADVP	PP	VP	NP
+.	.
+
+So	RB	FRAG	NP	NP
+much	JJ	FRAG	NP	NP
+faster	JJR	FRAG	NP	ADJP
+and	CC	FRAG	NP	ADJP
+sleeker	JJR	FRAG	NP	ADJP
+looking	VBG	FRAG	ADJP
+.	.	FRAG
+
+Unfortunately	RB	ADVP
+,	,
+it	PRP	NP
+runs	VBZ	VP
+XP	NN	VP	NP
+and	CC
+Microsoft	NNP	NP
+is	VBZ	VP
+dropping	VBG	VP	VP
+support	NN	VP	VP	NP
+next	IN	VP	VP	PP
+April	NNP	VP	VP	PP	NP
+.	.
+
+First	RB	ADVP
+off	RB	ADVP
+,	,
+I	PRP	NP
+really	RB	ADVP
+do	VBP	VP
+like	VB	VP	VP
+my	PRP$	VP	VP	NP
+MBP	NN	VP	VP	NP
+...	:
+once	RB	VP	ADVP
+used	VBN	VP
+to	TO	VP	PP
+the	DT	VP	PP	NP
+OS	NNP	VP	PP	NP
+it	PRP	NP
+is	VBZ	VP
+pretty	RB	VP	ADJP
+easy	JJ	VP	ADJP
+to	TO	VP	VP
+get	VB	VP	VP	VP
+around	RB	VP	VP	VP	ADVP
+,	,
+and	CC
+the	DT	NP
+overall	JJ	NP
+build	VB	VP
+is	VBZ	VP	SBAR	VP
+great	JJ	VP	SBAR	VP	ADJP
+...	:
+eg	FW	NP	NP
+the	DT	NP	NP
+keyboard	NN	NP	NP
+is	VBZ	VP
+one	CD	VP	NP	NP
+of	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP	NP
+best	JJS	VP	NP	PP	NP	NP
+to	TO	VP	NP	PP	NP	PP
+type	NN	VP	NP	PP	NP	PP	NP
+on	IN	VP	PP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+made	VBN	VP	VP
+of	IN	VP	VP	PP
+such	JJ	VP	VP	PP	NP
+solid	JJ	VP	VP	PP	NP
+construction	NN	VP	VP	PP	NP
+and	CC
+since	IN	SBAR
+I	PRP	SBAR	NP
+have	VBP	SBAR	VP
+never	RB	SBAR	VP	ADVP
+had	VBN	SBAR	VP	VP
+a	DT	SBAR	VP	VP	NP
+Mac	NNP	SBAR	VP	VP	NP
+using	VBG	SBAR	VP	VP	VP
+my	PRP$	SBAR	VP	VP	VP	NP
+iPhone	NNP	SBAR	VP	VP	VP	NP
+helped	VBD	VP
+me	PRP	VP	NP
+get	VB	VP	VP
+used	VBN	VP	VP	VP
+to	TO	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP	NP
+system	NN	VP	VP	VP	PP	NP	NP
+a	DT	VP	VP	VP	PP	NP	NP
+bit	NN	VP	VP	VP	PP	NP	NP
+.	.
+
+Very	RB	FRAG	NP	ADJP
+nice	JJ	FRAG	NP	ADJP
+unibody	JJ	FRAG	NP
+construction	NN	FRAG	NP
+.	.	FRAG
+
+This	DT	NP	NP
+Macbook	NNP	NP	NP
+Pro	FW	NP	NP
+is	VBZ	VP
+fast	RB	VP	ADVP
+,	,	VP
+powerful	JJ	VP	UCP	ADJP
+,	,	VP	UCP
+and	CC	VP	UCP
+runs	VBZ	VP	UCP	VP
+super	JJ	VP	UCP	VP	NP	NP
+quiet	JJ	VP	UCP	VP	NP	ADJP
+and	CC	VP	UCP	VP	NP	ADJP
+cool	JJ	VP	UCP	VP	NP	ADJP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP	VP
+ok	JJ	VP	VP	ADJP
+but	CC	VP
+does	VBZ	VP	VP
+n't	RB	VP	VP
+have	VB	VP	VP	VP
+a	DT	VP	VP	VP	NP	NP
+disk	NN	VP	VP	VP	NP	NP
+drive	NN	VP	VP	VP	NP	NP
+which	WDT	VP	VP	VP	NP	SBAR	WHNP
+I	PRP	VP	VP	VP	NP	SBAR	NP
+did	VBD	VP	VP	VP	NP	SBAR	VP
+n't	RB	VP	VP	VP	NP	SBAR	VP
+know	VB	VP	VP	VP	NP	SBAR	VP	VP
+until	IN	VP	VP	VP	NP	SBAR	VP	VP	SBAR
+after	IN	VP	VP	VP	NP	SBAR	VP	VP	SBAR
+I	PRP	VP	VP	VP	NP	SBAR	VP	VP	SBAR	NP
+bought	VBD	VP	VP	VP	NP	SBAR	VP	VP	SBAR	VP
+it	PRP	VP	VP	VP	NP	SBAR	VP	VP	SBAR	VP	NP
+.	.
+
+There	EX	NP
+is	VBZ	VP
+no	DT	VP	NP
+HDMI	NN	VP	NP
+receptacle	NN	VP	NP
+,	,
+nor	CC
+is	VBZ	SQ
+there	EX	SQ	NP
+an	DT	SQ	PP	NP	NP
+SD	NN	SQ	PP	NP	NP
+card	NN	SQ	PP	NP	NP
+slot	NN	SQ	PP	NP	NP
+located	JJ	SQ	PP	NP	ADJP
+anywhere	RB	SQ	PP	NP	ADJP
+on	IN	SQ	PP
+the	DT	SQ	PP	NP
+device	NN	SQ	PP	NP
+.	.
+
+It	PRP	NP
+came	VBD	VP	VP
+in	IN	VP	VP	PP
+brand	NN	VP	VP	PP	NP
+new	JJ	VP	VP	PP	NP
+and	CC	VP
+works	VBZ	VP	VP
+perfectly	RB	VP	VP	ADVP
+.	.
+
+It	PRP	NP
+should	MD	VP
+n't	RB	VP
+happen	VB	VP	VP
+like	IN	VP	VP	PP
+that	DT	VP	VP	PP	NP
+,	,
+I	PRP	NP
+do	VBP	VP
+n't	RB	VP
+have	VB	VP	VP
+any	DT	VP	VP	NP	NP
+design	NN	VP	VP	NP	NP
+app	NN	VP	VP	NP	NP
+open	JJ	VP	VP	NP	ADJP
+or	CC	VP	VP	NP	ADJP
+anything	NN	VP	VP	NP	ADJP
+.	.
+
+MY	NNP	NP
+TRACKPAD	NNP	NP
+IS	VBZ	VP
+NOT	NNP	VP	NP
+WORKING	NNP	VP	NP
+.	.
+
+It	PRP	NP
+looks	VBZ	VP	VP
+and	CC	VP
+feels	VBZ	VP	VP
+solid	JJ	VP	VP	ADJP
+,	,	VP
+with	IN	VP	PP
+a	DT	VP	PP	NP
+flawless	JJ	VP	PP	NP
+finish	NN	VP	PP	NP
+.	.
+
+Price	NN	NP
+was	VBD	VP
+higher	JJR	VP	ADJP	ADJP
+when	WRB	VP	ADJP	SBAR	WHADVP
+purchased	VBN	VP	ADJP	SBAR	VP
+on	IN	VP	ADJP	SBAR	VP	PP
+MAC	NNP	VP	ADJP	SBAR	VP	PP	NP
+when	WRB	VP	SBAR	WHADVP
+compared	VBN	VP	SBAR	VP
+to	TO	VP	SBAR	VP	VP
+price	VB	VP	SBAR	VP	VP	VP
+showing	VBG	VP	SBAR	VP	VP	VP	VP
+on	IN	VP	SBAR	VP	VP	VP	VP	PP
+PC	NN	VP	SBAR	VP	VP	VP	VP	PP	NP
+when	WRB	VP	SBAR	VP	VP	VP	SBAR	WHADVP
+I	PRP	VP	SBAR	VP	VP	VP	SBAR	NP
+bought	VBD	VP	SBAR	VP	VP	VP	SBAR	VP
+this	DT	VP	SBAR	VP	VP	VP	SBAR	VP	NP
+product	NN	VP	SBAR	VP	VP	VP	SBAR	VP	NP
+.	.
+
+Then	RB
+the	DT	NP
+system	NN	NP
+would	MD	VP
+many	JJ	VP	VP	NP	QP
+times	NNS	VP	VP	NP	QP
+not	RB	VP	VP	PP
+power	NN	VP	VP	PP	NP	NP
+down	RP	VP	VP	PP	NP	NP
+without	IN	VP	VP	PP	NP	PP
+a	DT	VP	VP	PP	NP	PP	NP
+forced	JJ	VP	VP	PP	NP	PP	NP
+power-off	NN	VP	VP	PP	NP	PP	NP
+.	.
+
+The	DT	NP
+configuration	NN	NP
+is	VBZ	VP
+perfect	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+my	PRP$	VP	ADJP	PP	NP
+needs	NNS	VP	ADJP	PP	NP
+.	.
+
+and	CC
+the	DT	NP
+speakers	NNS	NP
+is	VBZ	VP
+the	DT	VP	NP
+worst	JJS	VP	NP
+ever	RB	VP	ADVP
+.	.
+
+Its	PRP$	NP	NP
+the	DT	NP	VP	ADJP	ADJP
+best	JJS	NP	VP	ADJP	ADJP
+,	,	NP	VP	ADJP
+its	PRP$	NP	VP	ADJP	SBAR	NP
+got	VBD	NP	VP	ADJP	SBAR	VP
+the	DT	NP	VP	ADJP	SBAR	VP	NP	NP
+looks	NNS	NP	VP	ADJP	SBAR	VP	NP	NP
+,	,	NP	VP	ADJP	SBAR	VP	NP
+super	JJ	NP	VP	ADJP	SBAR	VP	NP	ADJP
+easy	JJ	NP	VP	ADJP	SBAR	VP	NP	ADJP
+to	TO	NP	VP	ADJP	SBAR	VP	NP	VP
+use	VB	NP	VP	ADJP	SBAR	VP	NP	VP	VP
+and	CC	NP	VP	ADJP	SBAR	VP	NP	VP	VP
+love	VB	NP	VP	ADJP	SBAR	VP	NP	VP	VP
+all	DT	NP	VP	ADJP	SBAR	VP	NP	VP	VP	NP	NP
+you	PRP	NP	VP	ADJP	SBAR	VP	NP	VP	VP	NP	SBAR	NP
+can	MD	NP	VP	ADJP	SBAR	VP	NP	VP	VP	NP	SBAR	VP
+do	VB	NP	VP	ADJP	SBAR	VP	NP	VP	VP	NP	SBAR	VP	VP
+with	IN	NP	VP	PP
+the	DT	NP	VP	PP	FRAG	NP
+trackpad	NN	NP	VP	PP	FRAG	NP
+!	.	NP	VP	PP	FRAG
+..	SYM	NP	X
+
+Web	NN	NP
+surfuring	NN	NP
+is	VBZ	VP
+smooth	JJ	VP	ADJP
+and	CC	VP	ADJP
+seamless	JJ	VP	ADJP
+.	.
+
+I	PRP	NP
+'m	VBP	VP
+overall	JJ	VP	ADVP
+pleased	JJ	VP	ADJP
+with	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP	NP
+interface	NN	VP	ADJP	PP	NP	NP
+and	CC	VP	ADJP	PP	NP
+the	DT	VP	ADJP	PP	NP	NP	NP
+portability	NN	VP	ADJP	PP	NP	NP	NP
+of	IN	VP	ADJP	PP	NP	NP	PP
+this	DT	VP	ADJP	PP	NP	NP	PP	NP
+product	NN	VP	ADJP	PP	NP	NP	PP	NP
+.	.
+
+This	DT	NP
+item	NN	NP
+is	VBZ	VP
+a	DT	VP	NP
+beautiful	JJ	VP	NP
+piece	NN	VP	NP
+,	,
+it	PRP	NP
+works	VBZ	VP
+well	RB	VP	INTJ
+,	,	VP
+it	PRP	VP	NP
+is	VBZ	VP	VP
+easy	JJ	VP	VP	ADJP
+to	TO	VP	VP	ADJP	VP
+carry	VB	VP	VP	ADJP	VP	VP
+and	CC	VP	VP	ADJP	VP	VP
+handle	VB	VP	VP	ADJP	VP	VP
+.	.
+
+It	PRP	NP
+was	VBD	VP
+also	RB	VP	ADVP
+suffering	VBG	VP	VP	VP
+from	IN	VP	VP	VP	PP
+hardware	NN	VP	VP	VP	PP	NP	NP	NP
+(	-LRB-	VP	VP	VP	PP	NP	NP	PRN
+keyboard	NN	VP	VP	VP	PP	NP	NP	PRN	NP
+)	-RRB-	VP	VP	VP	PP	NP	NP	PRN
+issues	NNS	VP	VP	VP	PP	NP	NP	NP
+,	,	VP	VP	VP	PP	NP
+relatively	RB	VP	VP	VP	PP	NP	NP	ADJP
+slow	JJ	VP	VP	VP	PP	NP	NP	ADJP
+performance	NN	VP	VP	VP	PP	NP	NP
+and	CC	VP	VP
+shortening	VBG	VP	VP	VP
+battery	NN	VP	VP	VP	NP
+lifetime	NN	VP	VP	VP	NP
+.	.
+
+Runs	VBZ	VP	VP
+good	JJ	VP	VP	ADJP
+and	CC	VP
+does	VBZ	VP	VP
+the	DT	VP	VP	NP
+job	NN	VP	VP	NP
+,	,
+ca	MD	VP
+n't	RB	VP
+complain	VB	VP	VP
+about	IN	VP	VP	PP
+that	DT	VP	VP	PP	NP
+!	.
+
+It	PRP	NP
+'s	VBZ	VP	VP
+silent	JJ	VP	VP	ADJP
+and	CC	VP
+has	VBZ	VP	VP
+a	DT	VP	VP	NP	NP
+very	RB	VP	VP	NP	NP	ADJP
+small	JJ	VP	VP	NP	NP	ADJP
+footprint	NN	VP	VP	NP	NP
+on	IN	VP	VP	NP	PP
+my	PRP$	VP	VP	NP	PP	NP
+desk	NN	VP	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+exterior	NN	NP
+is	VBZ	VP
+absolutely	RB	VP	ADJP
+gorgeous	JJ	VP	ADJP
+.	.
+
+It	PRP	NP
+has	VBZ	VP
+a	DT	VP	NP
+very	RB	VP	NP	ADJP
+high	JJ	VP	NP	ADJP
+performance	NN	VP	NP
+,	,	VP
+just	RB	VP	ADVP
+for	IN	VP	ADVP	PP
+what	WP	VP	ADVP	PP	SBAR	WHNP
+I	PRP	VP	ADVP	PP	SBAR	NP
+needed	VBD	VP	ADVP	PP	SBAR	VP
+for	IN	VP	ADVP	PP	SBAR	VP	PP
+.	.
+
+Apple	NNP	NP
+is	VBZ	VP
+aware	JJ	VP	ADJP
+of	IN	VP	ADJP	PP
+this	DT	VP	ADJP	PP	NP
+issue	NN	VP	ADJP	PP	NP
+and	CC
+this	DT	NP
+is	VBZ	VP
+either	CC	VP
+old	JJ	VP	NP	NP
+stock	NN	VP	NP	NP
+or	CC	VP	NP
+a	DT	VP	NP	NP	NP
+defective	JJ	VP	NP	NP	NP
+design	NN	VP	NP	NP	NP
+involving	VBG	VP	NP	NP	VP
+the	DT	VP	NP	NP	VP	NP
+intel	NN	VP	NP	NP	VP	NP
+4000	CD	VP	NP	NP	VP	NP
+graphics	NNS	VP	NP	NP	VP	NP
+chipset	NN	VP	NP	NP	VP	NP
+.	.
+
+I	PRP	NP
+just	RB	ADVP
+bought	VBD	VP
+the	DT	VP	NP
+new	JJ	VP	NP
+MacBook	NNP	VP	NP
+Pro	FW	VP	NP	NP
+,	,	VP	NP
+the	DT	VP	NP	NP
+13	CD	VP	NP	NP	ADJP
+''	''	VP	NP	NP
+model	NN	VP	NP	NP
+,	,
+and	CC
+I	PRP	NP
+ca	MD	VP
+n't	RB	VP
+believe	VB	VP	VP
+Apple	NNP	VP	VP	SBAR	NP
+keeps	VBZ	VP	VP	SBAR	VP
+making	VBG	VP	VP	SBAR	VP	VP
+the	DT	VP	VP	SBAR	VP	VP	NP
+same	JJ	VP	VP	SBAR	VP	VP	NP
+mistake	NN	VP	VP	SBAR	VP	VP	NP
+with	IN	VP	VP	SBAR	VP	VP	PP
+regard	NN	VP	VP	SBAR	VP	VP	PP	NP
+to	TO	VP	VP	SBAR	VP	VP	PP
+USB	JJ	VP	VP	SBAR	VP	VP	PP	NP
+ports	NNS	VP	VP	SBAR	VP	VP	PP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP
+the	DT	VP	NP	NP
+perfect	JJ	VP	NP	NP
+size	NN	VP	NP	NP
+and	CC	VP	NP	NP
+speed	NN	VP	NP	NP
+for	IN	VP	NP	PP
+me	PRP	VP	NP	PP	NP
+.	.
+
+THE	DT	NP
+CUSTOMER	NNP	NP
+SERVICE	NNP	NP
+IS	VBZ	VP
+TERRIFIC	NNP	VP	NP
+!	.
+!	.
+
+My	PRP$	NP
+last	JJ	NP
+laptop	NN	NP
+was	VBD	VP
+a	DT	VP	NP
+17	CD	VP	NP	NP
+''	''	VP	NP
+ASUS	NNP	VP	NP	NP	NP
+gaming	NN	VP	NP	NP	NP
+machine	NN	VP	NP	NP	NP
+,	,	VP	NP	NP
+which	WDT	VP	NP	NP	SBAR	WHNP
+performed	VBD	VP	NP	NP	SBAR	VP
+admirably	RB	VP	NP	NP	SBAR	VP	ADVP
+,	,
+but	CC
+having	VBG	VP	VP
+since	IN	VP	VP	VP	ADVP
+built	VBN	VP	VP	VP
+my	PRP$	VP	VP	VP	NP
+own	JJ	VP	VP	VP	NP
+desktop	NN	VP	VP	VP	NP
+and	CC	VP
+really	RB	VP	VP	ADVP
+settling	VBG	VP	VP
+into	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+college	NN	VP	VP	PP	NP
+life	NN	VP	VP	PP	NP
+,	,
+I	PRP	NP
+found	VBD	VP
+myself	PRP	VP	NP
+wanting	VBG	VP	VP
+something	NN	VP	VP	NP	NP
+smaller	JJR	VP	VP	NP	ADJP
+and	CC	VP	VP	NP	ADJP
+less	JJR	VP	VP	NP	ADJP
+cumbersome	JJ	VP	VP	ADJP
+,	,	VP
+not	RB	VP
+to	TO	VP	VP
+mention	VB	VP	VP	VP
+that	IN	VP	VP	VP	SBAR
+the	DT	VP	VP	VP	SBAR	NP
+ASUS	NNP	VP	VP	VP	SBAR	NP
+had	VBD	VP	VP	VP	SBAR	VP
+been	VBN	VP	VP	VP	SBAR	VP	VP
+slowly	RB	VP	VP	VP	SBAR	VP	VP	VP	ADVP
+developing	VBG	VP	VP	VP	SBAR	VP	VP	VP
+problems	NNS	VP	VP	VP	SBAR	VP	VP	VP	NP
+ever	RB	VP	VP	VP	SBAR	VP	VP	VP	ADVP
+since	IN	VP	VP	VP	SBAR
+I	PRP	VP	VP	VP	SBAR	NP
+bought	VBD	VP	VP	VP	SBAR	VP
+it	PRP	VP	VP	VP	SBAR	VP	NP
+about	IN	VP	VP	VP	SBAR	VP	PP
+4	CD	VP	VP	VP	SBAR	VP	PP	ADVP	NP
+years	NNS	VP	VP	VP	SBAR	VP	PP	ADVP	NP
+ago	RB	VP	VP	VP	SBAR	VP	PP	ADVP
+.	.
+
+However	RB	ADVP
+,	,
+it	PRP	NP
+did	VBD	VP
+not	RB	VP
+have	VB	VP	VP
+any	DT	VP	VP	NP	NP
+scratches	NNS	VP	VP	NP	NP
+,	,	VP	VP	NP
+ZERO	NNP	VP	VP	NP	NP
+battery	NN	VP	VP	NP	NP
+cycle	NN	VP	VP	NP	NP
+count	NN	VP	VP	NP	NP
+(	-LRB-	VP	VP	NP	PRN
+pretty	RB	VP	VP	NP	PRN	ADJP
+surprised	JJ	VP	VP	NP	PRN	ADJP
+)	-RRB-	VP	VP	NP	PRN
+,	,
+and	CC
+all	PDT	NP
+the	DT	NP
+hardware	NN	NP
+seemed	VBD	VP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+working	VBG	VP	VP	VP	VP
+perfectly	RB	VP	VP	VP	VP	ADVP
+.	.
+
+And	CC
+as	IN	SBAR
+for	IN	SBAR	PP
+all	PDT	SBAR	PP	NP
+the	DT	SBAR	PP	NP
+fancy	JJ	SBAR	PP	NP
+finger	NN	SBAR	PP	NP
+swipes	VBZ	SBAR	VP
+--	:
+I	PRP	NP
+just	RB	VP	VP	ADVP
+gave	VBD	VP	VP
+up	RP	VP	VP	PRT
+and	CC	VP
+attached	VBD	VP	VP
+a	DT	VP	VP	NP
+mouse	NN	VP	VP	NP
+.	.
+
+I	PRP	NP
+needed	VBD	VP
+a	DT	VP	NP
+laptop	NN	VP	NP
+with	IN	VP	UCP	PP
+big	JJ	VP	UCP	PP	NP	NP
+storage	NN	VP	UCP	PP	NP	NP
+,	,	VP	UCP	PP	NP
+a	DT	VP	UCP	PP	NP	NP
+nice	JJ	VP	UCP	PP	NP	NP
+screen	NN	VP	UCP	PP	NP	NP
+and	CC	VP	UCP
+fast	RB	VP	UCP	ADVP
+so	IN	VP	UCP	SBAR
+I	PRP	VP	UCP	SBAR	NP
+can	MD	VP	UCP	SBAR	VP
+photoshop	VB	VP	UCP	SBAR	VP	VP
+without	IN	VP	UCP	SBAR	VP	VP	PP
+any	DT	VP	UCP	SBAR	VP	VP	PP	NP
+problem	NN	VP	UCP	SBAR	VP	VP	PP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+coming	VBG	VP	VP
+back	RB	VP	VP	ADVP
+to	TO	VP	VP	PP
+Mac	NNP	VP	VP	PP	NP
+OS	NNP	VP	VP	PP	NP
+but	CC
+this	DT	NP
+laptop	NN	NP
+is	VBZ	VP
+lacking	VBG	VP	VP
+in	IN	VP	VP	PP
+speaker	NN	VP	VP	PP	NP
+quality	NN	VP	VP	PP	NP
+compared	VBN	VP	VP	PP
+to	TO	VP	VP	PP	PP
+my	PRP$	VP	VP	PP	PP	NP
+$	$	VP	VP	PP	PP	NP	ADJP	QP
+400	CD	VP	VP	PP	PP	NP	ADJP	QP
+old	JJ	VP	VP	PP	PP	NP
+HP	NNP	VP	VP	PP	PP	NP
+laptop	NN	VP	VP	PP	PP	NP
+.	.
+
+Shipped	VBN	VP
+very	RB	VP	ADVP	ADVP
+quickly	RB	VP	ADVP	ADVP
+and	CC	VP	ADVP
+safely	RB	VP	ADVP	ADVP
+.	.
+
+The	DT	NP
+thunderbolt	NN	NP
+port	NN	NP
+is	VBZ	VP
+awesome	JJ	VP	ADJP
+!	.
+
+The	DT	NP
+performance	NN	NP
+is	VBZ	VP
+definitely	RB	VP	ADVP
+superior	JJ	VP	ADJP
+to	TO	VP	ADJP	PP
+any	DT	VP	ADJP	PP	NP	NP
+computer	NN	VP	ADJP	PP	NP	NP
+I	PRP	VP	ADJP	PP	NP	SBAR	NP
+'ve	VBP	VP	ADJP	PP	NP	SBAR	VP
+ever	RB	VP	ADJP	PP	NP	SBAR	VP	ADVP
+put	VBN	VP	ADJP	PP	NP	SBAR	VP	VP
+my	PRP$	VP	ADJP	PP	NP	SBAR	VP	VP	NP
+hands	NNS	VP	ADJP	PP	NP	SBAR	VP	VP	NP
+on	IN	VP	ADJP	PP	NP	SBAR	VP	VP	PP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+great	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+streaming	NN	VP	ADJP	PP	NP
+video	NN	VP	ADJP	PP	NP
+and	CC	VP	ADJP	PP	NP
+other	JJ	VP	ADJP	PP	NP
+entertainment	NN	VP	ADJP	PP	NP
+uses	NNS	VP	ADJP	PP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP	NP
+design	NN	VP	NP	NP
+and	CC	VP	NP
+its	PRP$	VP	NP	NP
+features	NNS	VP	NP	NP
+but	CC
+there	EX	NP
+are	VBP	VP
+somethings	NNS	VP	NP	NP
+I	PRP	VP	NP	SBAR	NP
+think	VBP	VP	NP	SBAR	VP
+needs	NNS	VP	NP	SBAR	VP	NP
+to	TO	VP	NP	SBAR	VP	VP
+be	VB	VP	NP	SBAR	VP	VP	VP
+improved	VBN	VP	NP	SBAR	VP	VP	VP	VP
+.	.
+
+There	EX	NP
+were	VBD	VP
+small	JJ	VP	NP	NP
+problems	NNS	VP	NP	NP
+with	IN	VP	NP	PP
+Mac	NNP	VP	NP	PP	NP
+office	NN	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+ordered	VBD	VP
+my	PRP$	VP	NP
+2012	CD	VP	NP
+mac	NN	VP	NP
+mini	NNS	VP	NP
+after	IN	VP	PP
+being	VBG	VP	PP	VP
+disappointed	VBN	VP	PP	VP	VP
+with	IN	VP	PP	VP	VP	PP
+spec	NN	VP	PP	VP	VP	PP	NP	NP
+of	IN	VP	PP	VP	VP	PP	NP	PP
+the	DT	VP	PP	VP	VP	PP	NP	PP	NP
+new	JJ	VP	PP	VP	VP	PP	NP	PP	NP
+27	CD	VP	PP	VP	VP	PP	NP	PP	NP
+''	''	VP	PP	VP	VP	PP	NP
+Imacs	NNPS	VP	PP	NP
+.	.
+
+Its	PRP$	NP	NP
+fast	JJ	NP	NP
+,	,	NP
+easy	JJ	NP	ADJP
+to	TO	NP	ADJP	VP
+use	VB	NP	ADJP	VP	VP
+and	CC	NP
+it	PRP	NP	NP
+looks	VBZ	NP	VP
+great	JJ	NP	VP	ADJP
+.	.	NP
+
+Performance	NNP	NP
+is	VBZ	VP
+much	RB	VP	ADJP
+much	RB	VP	ADJP
+better	JJR	VP	ADJP
+on	IN	VP	PP
+the	DT	VP	PP	NP
+Pro	FW	VP	PP	NP
+,	,	VP
+especially	RB	VP	SBAR
+if	IN	VP	SBAR
+you	PRP	VP	SBAR	NP
+install	VBP	VP	SBAR	VP
+an	DT	VP	SBAR	VP	NP	NP
+SSD	NN	VP	SBAR	VP	NP	NP
+on	IN	VP	SBAR	VP	NP	PP
+it	PRP	VP	SBAR	VP	NP	PP	NP
+.	.
+
+Note	VB	VP
+,	,	VP	PRN
+however	RB	VP	PRN	ADVP
+,	,	VP	PRN
+that	IN	VP	SBAR
+any	DT	VP	SBAR	NP	NP
+existing	VBG	VP	SBAR	NP	NP
+MagSafe	NNP	VP	SBAR	NP	NP
+accessories	NNS	VP	SBAR	NP	NP
+you	PRP	VP	SBAR	NP	SBAR	NP
+have	VBP	VP	SBAR	NP	SBAR	VP
+will	MD	VP	SBAR	VP
+not	RB	VP	SBAR	VP
+work	VB	VP	SBAR	VP	VP
+with	IN	VP	SBAR	VP	VP	PP
+the	DT	VP	SBAR	VP	VP	PP	NP
+MagSafe	NNP	VP	SBAR	VP	VP	PP	NP
+2	CD	VP	SBAR	VP	VP	PP	NP
+connection	NN	VP	SBAR	VP	VP	PP	NP
+.	.
+
+The	DT	NP	NP
+only	JJ	NP	NP
+thing	NN	NP	NP
+I	PRP	NP	SBAR	NP
+dislike	VBP	NP	SBAR	VP
+is	VBZ	VP	VP
+the	DT	VP	VP	NP	NP
+touchpad	NN	VP	VP	NP	NP
+,	,	VP	VP	NP
+alot	NN	VP	VP	NP	NP	NP	NP
+of	IN	VP	VP	NP	NP	NP	PP
+the	DT	VP	VP	NP	NP	NP	PP	NP
+times	NNS	VP	VP	NP	NP	NP	PP	NP
+its	PRP$	VP	VP	NP	NP	NP
+unresponsive	JJ	VP	VP	NP	NP	NP
+and	CC	VP
+does	VBZ	VP	VP
+things	NNS	VP	VP	NP	NP
+I	PRP	VP	VP	NP	SBAR	NP
+dont	VBP	VP	VP	NP	SBAR	VP
+want	VB	VP	VP	NP	SBAR	VP	VP
+it	PRP	VP	VP	NP	SBAR	VP	VP	NP
+too	RB	VP	VP	NP	SBAR	VP	VP	ADVP
+,	,
+I	PRP	NP
+would	MD	VP
+recommend	VB	VP	VP
+using	VBG	VP	VP	VP
+a	DT	VP	VP	VP	NP
+mouse	NN	VP	VP	VP	NP
+with	IN	VP	VP	VP	PP
+it	PRP	VP	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+Mac	NNP	NP
+mini	NN	NP
+is	VBZ	VP
+about	IN	VP	PP
+8x	NN	VP	PP	NP	NP
+smaller	JJR	VP	PP	NP	ADJP
+than	IN	VP	PP	NP	ADJP	PP
+my	PRP$	VP	PP	NP	ADJP	PP	NP	NP
+old	JJ	VP	PP	NP	ADJP	PP	NP	NP
+computer	NN	VP	PP	NP	ADJP	PP	NP	NP
+which	WDT	VP	PP	NP	ADJP	PP	NP	SBAR	WHNP
+is	VBZ	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP
+a	DT	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP	NP
+huge	JJ	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP	NP
+bonus	NN	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP	NP
+and	CC	VP	PP	NP	ADJP	PP	NP	SBAR	VP
+runs	VBZ	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP
+very	RB	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP	ADJP
+quiet	JJ	VP	PP	NP	ADJP	PP	NP	SBAR	VP	VP	ADJP
+,	,	VP
+actually	RB	VP	ADVP
+the	DT	VP	SBAR	NP
+fans	NNS	VP	SBAR	NP
+are	VBP	VP	SBAR	VP
+n't	RB	VP	SBAR	VP
+audible	JJ	VP	SBAR	VP	ADJP
+unlike	IN	VP	SBAR	VP	ADJP	PP
+my	PRP$	VP	SBAR	VP	ADJP	PP	NP
+old	JJ	VP	SBAR	VP	ADJP	PP	NP
+pc	NN	VP	SBAR	VP	ADJP	PP	NP
+
+I	PRP	NP
+thought	VBD	VP	VP
+the	DT	VP	VP	SBAR	NP
+transition	NN	VP	VP	SBAR	NP
+would	MD	VP	VP	SBAR	VP
+be	VB	VP	VP	SBAR	VP	VP
+difficult	JJ	VP	VP	SBAR	VP	VP	ADJP
+at	IN	VP	VP	SBAR	VP	VP	ADJP	PP
+best	JJS	VP	VP	SBAR	VP	VP	ADJP	PP	ADJP
+and	CC	VP
+would	MD	VP	VP
+take	VB	VP	VP	VP
+some	DT	VP	VP	VP	NP
+time	NN	VP	VP	VP	NP
+to	TO	VP	VP	VP	NP	VP
+fully	RB	VP	VP	VP	NP	VP	VP	ADVP
+familiarize	VB	VP	VP	VP	NP	VP	VP
+myself	PRP	VP	VP	VP	NP	VP	VP	NP
+with	IN	VP	VP	VP	NP	VP	VP	PP
+the	DT	VP	VP	VP	NP	VP	VP	PP	NP
+new	JJ	VP	VP	VP	NP	VP	VP	PP	NP
+Mac	NNP	VP	VP	VP	NP	VP	VP	PP	NP
+ecosystem	NN	VP	VP	VP	NP	VP	VP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+absolutely	RB	VP	NP	ADJP
+wonderful	JJ	VP	NP	ADJP
+and	CC	VP	NP	ADJP
+worth	JJ	VP	NP	ADJP
+the	DT	VP	NP
+price	NN	VP	NP
+!	.
+
+I	PRP	NP
+am	VBP	VP
+please	VB	VP	VP
+with	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP	NP	NP
+products	NNS	VP	VP	PP	NP	NP	NP
+ease	NN	VP	VP	PP	NP	NP	NP
+of	IN	VP	VP	PP	NP	NP	PP
+use	NN	VP	VP	PP	NP	NP	PP	NP
+;	:	VP	VP	PP	NP
+out	IN	VP	VP	PP	NP	ADJP
+of	IN	VP	VP	PP	NP	ADJP	PP
+the	DT	VP	VP	PP	NP	ADJP	PP	ADJP	NP
+box	NN	VP	VP	PP	NP	ADJP	PP	ADJP	NP
+ready	JJ	VP	VP	PP	NP	ADJP	PP	ADJP
+;	:	VP	VP	PP	NP
+appearance	NN	VP	VP	PP	NP	NP
+and	CC	VP	VP	PP	NP
+functionality	NN	VP	VP	PP	NP	NP
+.	.
+
+Perfect	NNP	NP	NP
+for	IN	NP	PP	PP
+all	DT	NP	PP	PP	ADVP
+my	PRP$	NP	PP	PP	NP
+graphic	JJ	NP	PP	PP	NP
+design	NN	NP	PP	PP	NP
+classes	NNS	NP	PP	PP	NP
+I	PRP	NP	PP	PRN	NP
+'m	VBP	NP	PP	PRN	VP
+taking	VBG	NP	PP	PRN	VP	VP
+this	DT	NP	PP	PRN	VP	VP	NP-TMP
+year	NN	NP	PP	PRN	VP	VP	NP-TMP
+in	IN	NP	PP	PRN	VP	VP	PP
+college	NN	NP	PP	PRN	VP	VP	PP	NP	NP
+:	:	NP	PP	PRN	VP	VP	PP	NP
+-	:	NP	PP	PRN	VP	VP
+)	-RRB-	NP	PP	PRN
+
+I	PRP	NP
+will	MD	VP
+not	RB	VP
+be	VB	VP	VP
+using	VBG	VP	VP	VP
+that	IN	VP	VP	VP	PP
+slot	NN	VP	VP	VP	PP	NP
+again	RB	VP	VP	VP	ADVP
+.	.
+
+The	DT	NP
+OS	NNP	NP
+is	VBZ	VP
+fast	RB	VP	ADVP
+and	CC
+fluid	NN	NP	NP
+,	,	NP
+everything	NN	NP	NP
+is	VBZ	VP
+organized	VBN	VP	VP
+and	CC
+it	PRP	NP
+'s	VBZ	VP
+just	RB	VP	ADJP
+beautiful	JJ	VP	ADJP
+.	.
+
+They	PRP	NP
+are	VBP	VP
+simpler	JJR	VP	ADJP
+to	TO	VP	ADJP	VP
+use	VB	VP	ADJP	VP	VP
+.	.
+
+!	.	NP	NP
+so	RB	NP	NP	ADJP
+nice	JJ	NP	NP	ADJP
+..	NN	NP	NP
+stable	JJ	NP	ADJP
+..	NN	NP	ADJP
+fast	RB	ADVP
+..	RB	ADVP
+now	RB	ADVP
+i	FW	NP
+got	VBD	VP
+my	PRP$	VP	NP
+SSD	NN	VP	NP
+!	.
+
+I	PRP	NP
+love	VBP	VP
+the	DT	VP	NP
+quick	JJ	VP	NP
+start	NN	VP	NP
+up	RB	VP	ADVP
+.	.
+
+You	PRP	NP
+just	RB	ADVP
+can	MD	VP
+not	RB	VP
+beat	VB	VP	VP
+the	DT	VP	VP	NP	NP
+functionality	NN	VP	VP	NP	NP
+of	IN	VP	VP	NP	PP
+an	DT	VP	VP	NP	PP	NP
+Apple	NNP	VP	VP	NP	PP	NP
+device	NN	VP	VP	NP	PP	NP
+.	.
+
+Yet	CC
+my	PRP$	NP
+mac	NN	NP
+continues	VBZ	VP
+to	TO	VP	VP
+function	VB	VP	VP	VP
+properly	RB	VP	VP	VP	ADVP
+.	.
+
+Graphics	NNS	NP
+are	VBP	VP
+much	JJ	VP	ADVP
+improved	VBN	VP	VP
+.	.
+
+Here	RB	NP
+are	VBP	VP
+the	DT	VP	NP	NP
+things	NNS	VP	NP	NP
+that	WDT	VP	NP	SBAR	WHNP
+made	VBD	VP	NP	SBAR	VP
+me	PRP	VP	NP	SBAR	VP	NP
+confident	JJ	VP	NP	SBAR	VP	ADJP
+with	IN	VP	NP	SBAR	VP	ADJP	PP
+my	PRP$	VP	NP	SBAR	VP	ADJP	PP	NP
+purchase	NN	VP	NP	SBAR	VP	ADJP	PP	NP
+:	:	VP	NP
+Build	VB	VP	NP	VP
+Quality	JJ	VP	NP	VP	NP
+-	:
+Seriously	RB	ADVP
+,	,
+you	PRP	NP
+ca	MD	VP
+n't	RB	VP
+beat	VB	VP	VP
+a	DT	VP	VP	NP
+unibody	JJ	VP	VP	NP
+construction	NN	VP	VP	NP
+.	.
+
+It	PRP	NP
+provides	VBZ	VP
+much	RB	VP	NP	NP	ADJP
+more	RBR	VP	NP	NP	ADJP
+flexibility	NN	VP	NP	NP
+for	IN	VP	NP	PP
+connectivity	NN	VP	NP	PP	NP
+.	.
+
+Mac	NNP	NP
+tutorials	NNS	NP
+do	VBP	VP
+help	VB	VP	VP
+.	.
+
+The	DT	NP
+technical	JJ	NP
+support	NN	NP
+was	VBD	VP
+not	RB	VP
+helpful	JJ	VP	ADJP
+as	RB	VP	ADJP	ADVP
+well	RB	VP	ADJP	ADVP
+.	.
+
+I	PRP	NP
+got	VBD	VP
+the	DT	VP	NP
+new	JJ	VP	NP
+adapter	NN	VP	NP
+and	CC
+there	EX	NP
+was	VBD	VP
+no	DT	VP	NP
+change	NN	VP	NP
+.	.
+
+Logic	NN	NP
+board	NN	NP
+utterly	RB	ADVP
+fried	VBD	VP	VP	VP
+,	,	VP	VP
+cried	VBD	VP	VP	VP
+,	,	VP	VP
+and	CC	VP	VP
+laid	VBN	VP	VP	VP
+down	RB	VP	VP	VP	ADVP
+and	CC	VP
+died	VBD	VP	VP
+.	.
+
+The	DT	NP
+sound	NN	NP
+was	VBD	VP
+crappy	JJ	VP	ADJP
+even	RB	VP	ADJP
+when	WRB	VP	ADJP	SBAR	WHADVP
+you	PRP	VP	ADJP	SBAR	NP
+turn	VBP	VP	ADJP	SBAR	VP
+up	RP	VP	ADJP	SBAR	VP	PRT
+the	DT	VP	ADJP	SBAR	VP	NP	NP
+volume	NN	VP	ADJP	SBAR	VP	NP	NP
+still	RB	VP	ADJP	SBAR	VP	NP	ADVP
+the	DT	VP	ADJP	SBAR	VP	NP	ADVP	NP
+same	JJ	VP	ADJP	SBAR	VP	NP	ADVP	NP
+results	NNS	VP	ADJP	SBAR	VP	NP	ADVP	NP
+.	.
+
+OSX	NNP	NP
+Lion	NNP	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+great	JJ	VP	NP	NP	ADJP
+performer..extremely	JJ	VP	NP	NP	ADJP
+fast	JJ	VP	NP	ADJP
+and	CC	VP	NP	ADJP
+reliable	JJ	VP	NP	ADJP
+.	.
+
+Having	VBG	VP
+heard	VBN	VP	VP
+from	IN	VP	VP	PP
+friends	NNS	VP	VP	PP	NP
+and	CC	VP	VP	PP	NP
+family	NN	VP	VP	PP	NP
+about	IN	VP	VP	PP
+how	WRB	VP	VP	PP	NP
+reliable	JJ	VP	VP	PP	NP
+a	DT	NP
+Mac	NNP	NP
+product	NN	NP
+is	VBZ	VP
+,	,	VP
+I	PRP	VP	SBAR	NP
+never	RB	VP	SBAR	ADVP
+expected	VBD	VP	SBAR	VP
+to	TO	VP	SBAR	VP	VP
+have	VB	VP	SBAR	VP	VP	VP
+an	DT	VP	SBAR	VP	VP	VP	NP	NP
+application	NN	VP	SBAR	VP	VP	VP	NP	NP
+crash	NN	VP	SBAR	VP	VP	VP	NP	NP
+within	IN	VP	SBAR	VP	VP	VP	NP	PP
+the	DT	VP	SBAR	VP	VP	VP	NP	PP	NP
+first	JJ	VP	SBAR	VP	VP	VP	NP	PP	NP
+month	NN	VP	SBAR	VP	VP	VP	NP	PP	NP
+,	,
+but	CC
+I	PRP	NP
+did	VBD	VP
+.	.
+
+The	DT	NP	NP
+Macbook	NNP	NP	NP
+pro	NN	NP	NP
+'s	POS	NP	NP
+physical	JJ	NP
+form	NN	NP
+is	VBZ	VP
+wonderful	JJ	VP	ADJP
+.	.
+
+The	DT	NP	NP
+Mini	NNP	NP	NP
+'s	POS	NP	NP
+body	NN	NP
+has	VBZ	VP
+n't	RB	VP
+changed	VBN	VP	VP
+since	IN	VP	VP	PP	PP
+late	JJ	VP	VP	PP	PP	NP
+2010-	CD	VP	VP	PP	PP	NP
+and	CC	VP	VP	PP
+for	IN	VP	VP	PP	PP
+a	DT	VP	VP	PP	PP	NP
+good	JJ	VP	VP	PP	PP	NP
+reason	NN	VP	VP	PP	PP	NP
+.	.
+
+The	DT	NP
+unibody	JJ	NP
+construction	NN	NP
+really	RB	ADVP
+does	VBZ	VP
+feel	VB	VP	VP
+lot	RB	VP	VP	NP	NP
+more	JJR	VP	VP	NP	NP
+solid	JJ	VP	VP	NP	ADJP
+than	IN	VP	VP	NP	ADJP	PP
+Apple	NNP	VP	VP	NP	ADJP	PP	NP	NP
+'s	POS	VP	VP	NP	ADJP	PP	NP	NP
+previous	JJ	VP	VP	NP	ADJP	PP	NP
+laptops	NNS	VP	VP	NP	ADJP	PP	NP
+.	.
+
+3D	NN	NP
+rendering	NN	NP
+slows	VBZ	VP
+it	PRP	VP	NP
+down	RP	VP	ADVP
+considerably	RB	VP	ADVP
+.	.
+
+fast	RB	ADVP
+,	,
+great	JJ	NP	NP
+screen	NN	NP	NP
+,	,	NP
+beautiful	JJ	NP	NP	NP
+apps	NNS	NP	NP	NP
+for	IN	NP	NP	PP
+a	DT	NP	NP	PP	NP
+laptop	NN	NP	NP	PP	NP
+;	:
+priced	VBN	VP
+at	IN	VP	PP
+1100	CD	VP	PP	NP
+on	IN	VP	PP
+the	DT	VP	PP	NP
+apple	NN	VP	PP	NP
+website	NN	VP	PP	NP
+;	:
+amazon	NN	NP
+had	VBD	VP
+it	PRP	VP	NP	NP	NP
+for	IN	VP	NP	NP	PP
+1098+	JJ	VP	NP	NP	PP	NP
+tax	NN	VP	NP	NP	PP	NP
+-	:	VP	NP
+plus	CC	VP	NP
+i	FW	VP	NP	NP	NP
+had	VBD	VP	NP	NP	VP
+a	DT	VP	NP	NP	VP	NP	NP
+10	CD	VP	NP	NP	VP	NP	NP	ADVP	NP
+%	NN	VP	NP	NP	VP	NP	NP	ADVP	NP
+off	IN	VP	NP	NP	VP	NP	NP	ADVP
+coupon	NN	VP	NP	NP	VP	NP	NP
+from	IN	VP	NP	NP	VP	NP	PP
+amazon-cost	JJ	VP	NP	NP	VP	NP	PP	NP
+me	PRP	VP	NP	NP	VP	NP	SBAR	NP
+998	CD	VP	NP	NP	VP	NP
+plus	CC	VP	NP	NP	VP	PP
+tax-	JJ	VP	NP	NP	VP	PP	NP
+1070-	CD	VP	NP	NP	VP	PP	NP
+OTD	NN	VP	NP	NP	VP	PP	NP
+!	.
+
+All	PDT	NP
+the	DT	NP
+ports	NNS	NP
+are	VBP	VP
+much	JJ	VP	ADVP
+needed	VBN	VP	VP
+since	IN	VP	VP	SBAR
+this	DT	VP	VP	SBAR	NP
+is	VBZ	VP	VP	SBAR	VP
+my	PRP$	VP	VP	SBAR	VP	NP
+main	JJ	VP	VP	SBAR	VP	NP
+computer	NN	VP	VP	SBAR	VP	NP
+.	.
+
+The	DT	NP	NP
+Like	IN	NP	NP	ADJP
+New	NNP	NP	NP	ADJP
+condition	NN	NP	NP
+of	IN	NP	PP
+the	DT	NP	PP	NP	NP
+iMac	NNP	NP	PP	NP	NP
+MC309LL/A	NN	NP	PP	NP	NP
+on	IN	NP	PP	NP	PP
+Amazon	NNP	NP	PP	NP	PP	NP
+is	VBZ	VP
+at	IN	VP	NP	QP
+$	$	VP	NP	QP
+900+	CD	VP	NP	QP
+level	NN	VP	NP
+only	RB	VP	ADVP
+,	,
+and	CC
+it	PRP	NP
+is	VBZ	VP
+a	DT	VP	NP	NP
+Quad-Core	JJ	VP	NP	NP	ADJP
+2.5	CD	VP	NP	NP
+GHz	NNP	VP	NP	NP
+CPU	NNP	VP	NP	NP
+(	-LRB-	VP	NP	PRN
+similar	JJ	VP	NP	PRN	ADJP
+to	TO	VP	NP	PRN	ADJP	PP
+the	DT	VP	NP	PRN	ADJP	PP	NP	NP
+$	$	VP	NP	PRN	ADJP	PP	NP	NP
+799	CD	VP	NP	PRN	ADJP	PP	NP	NP
+Mini	NNP	VP	NP	PRN	ADJP	PP	NP	NP
+)	-RRB-	VP	NP	PRN
+,	,	VP	NP
+with	IN	VP	NP	PP	PP
+Radeon	NNP	VP	NP	PP	PP	NP
+HD	NNP	VP	NP	PP	PP	NP
+6750M	NNP	VP	NP	PP	PP	NP
+512MB	NN	VP	NP	PP	PP	NP
+graphic	JJ	VP	NP	PP	PP	NP
+card	NN	VP	NP	PP	PP	NP
+(	-LRB-	VP	NP	PP	PRN
+this	DT	VP	NP	PP	PRN	NP
+mini	NN	VP	NP	PP	PRN	NP
+is	VBZ	VP	NP	PP	PRN	VP
+integrated	VBN	VP	NP	PP	PRN	VP	VP
+Intel	NNP	VP	NP	PP	PRN	VP	VP	NP
+4000	CD	VP	NP	PP	PRN	VP	VP	NP
+card	NN	VP	NP	PP	PRN	VP	VP	NP
+)	-RRB-	VP	NP	PP	PRN
+,	,
+and	CC
+it	PRP	NP
+even	RB	ADVP
+comes	VBZ	VP
+with	IN	VP	PP
+wireless	JJ	VP	PP	NP
+Apple	NNP	VP	PP	NP
+Keyboard	NNP	VP	PP	NP
+and	CC	VP	PP	NP
+Mouse	NNP	VP	PP	NP
+,	,	VP
+all	DT	VP	NP
+put	VBN	VP	VP
+together	RB	VP	VP	ADVP
+in	IN	VP	VP	PP
+neat	JJ	VP	VP	PP	NP	ADJP
+and	CC	VP	VP	PP	NP	ADJP
+nice	JJ	VP	VP	PP	NP	ADJP
+package	NN	VP	VP	PP	NP
+.	.
+
+Put	VB	VP	VP
+a	DT	VP	VP	NP
+cover	NN	VP	VP	NP
+on	IN	VP	VP	PP
+it	PRP	VP	VP	PP	NP
+and	CC	VP
+is	VBZ	VP	VP
+a	DT	VP	VP	ADJP	ADJP	NP
+little	JJ	VP	VP	ADJP	ADJP	NP
+better	JJR	VP	VP	ADJP	ADJP
+but	CC	VP	VP	ADJP	SBAR
+that	DT	VP	VP	ADJP	SBAR	WHNP
+is	VBZ	VP	VP	ADJP	SBAR	VP
+my	PRP$	VP	VP	ADJP	SBAR	VP	NP
+only	JJ	VP	VP	ADJP	SBAR	VP	NP
+complaint	NN	VP	VP	ADJP	SBAR	VP	NP
+.	.	VP	VP	ADJP	SBAR
+
+Within	IN	PP
+a	DT	PP	NP
+few	JJ	PP	NP
+hours	NNS	PP	NP
+I	PRP	NP
+was	VBD	VP
+using	VBG	VP	VP
+the	DT	VP	VP	NP
+gestures	NNS	VP	VP	NP
+unconsciously	RB	VP	VP	ADVP
+.	.
+
+This	DT	NP
+mac	NN	NP
+does	VBZ	VP
+come	VB	VP	VP
+with	IN	VP	VP	PP
+an	DT	VP	VP	PP	NP
+extender	JJ	VP	VP	PP	NP
+cable	NN	VP	VP	PP	NP
+and	CC
+I	PRP	NP
+'m	VBP	VP
+using	VBG	VP	VP
+mine	PRP	VP	VP	NP
+right	RB	VP	VP	ADVP
+now	RB	VP	VP	ADVP
+hoping	VBG	VP	VP	VP
+the	DT	VP	VP	VP	SBAR	NP
+cable	NN	VP	VP	VP	SBAR	NP
+will	MD	VP	VP	VP	SBAR	VP
+stay	VB	VP	VP	VP	SBAR	VP	VP
+nice	JJ	VP	VP	VP	SBAR	VP	VP	ADJP
+for	IN	VP	VP	VP	SBAR	VP	VP	PP
+the	DT	VP	VP	VP	SBAR	VP	VP	PP	NP	NP
+many	JJ	VP	VP	VP	SBAR	VP	VP	PP	NP	NP
+years	NNS	VP	VP	VP	SBAR	VP	VP	PP	NP	NP
+I	PRP	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	NP
+plan	VBP	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	VP
+on	IN	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	VP	PP
+using	VBG	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	VP	PP	VP
+this	DT	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	VP	PP	VP	NP
+mac	NN	VP	VP	VP	SBAR	VP	VP	PP	NP	SBAR	VP	PP	VP	NP
+.	.
+
+The	DT	NP
+2.9ghz	JJ	NP
+dual-core	NN	NP
+i7	NN	NP
+chip	NN	NP
+really	RB	ADVP
+out	RB	VP	ADVP
+does	VBZ	VP
+itself	PRP	VP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP	VP
+pretty	RB	VP	VP	ADJP
+snappy	JJ	VP	VP	ADJP
+and	CC	VP
+starts	VBZ	VP	VP
+up	RP	VP	VP	ADVP
+in	IN	VP	VP	ADVP	PP
+about	IN	VP	VP	ADVP	PP	PP
+30	CD	VP	VP	ADVP	PP	PP	NP	NP
+seconds	NNS	VP	VP	ADVP	PP	PP	NP	NP
+which	WDT	VP	VP	ADVP	PP	PP	NP	SBAR	WHNP
+is	VBZ	VP	VP	ADVP	PP	PP	NP	SBAR	VP
+good	JJ	VP	VP	ADVP	PP	PP	NP	SBAR	VP	ADJP
+enough	RB	VP	VP	ADVP	PP	PP	NP	SBAR	VP	ADJP
+for	IN	VP	VP	ADVP	PP	PP	NP	SBAR	VP	PP
+me	PRP	VP	VP	ADVP	PP	PP	NP	SBAR	VP	PP	NP
+.	.
+
+Not	RB	FRAG
+sure	JJ	FRAG	ADJP
+on	IN	FRAG	ADJP	PP
+Windows	NNP	FRAG	ADJP	PP	NP
+8	CD	FRAG	ADJP	PP	NP
+.	.	FRAG
+
+My	PRP$	NP
+one	CD	NP
+complaint	NN	NP
+is	VBZ	VP
+that	IN	VP	SBAR
+there	EX	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+no	DT	VP	SBAR	VP	NP
+internal	JJ	VP	SBAR	VP	NP
+CD	NNP	VP	SBAR	VP	NP
+drive	NN	VP	SBAR	VP	NP
+.	.
+
+This	DT	NP
+newer	JJR	NP
+netbook	NN	NP
+has	VBZ	VP
+no	DT	VP	NP	NP
+hard	JJ	VP	NP	NP
+drive	NN	VP	NP	NP
+or	CC	VP	NP
+network	NN	VP	NP	NP
+lights	NNS	VP	NP	NP
+.	.
+
+Not	RB
+too	RB	NP
+expense	NN	NP	NX	NX
+and	CC	NP	NX
+has	VBZ	VP
+enough	RB	VP	NP	NP
+storage	NN	VP	NP	NP
+for	IN	VP	NP	PP
+most	JJS	VP	NP	PP	NP	NP
+users	NNS	VP	NP	PP	NP	NP
+and	CC	VP	NP	PP	NP
+many	JJ	VP	NP	PP	NP	NP
+ports	NNS	VP	NP	PP	NP	NP
+.	.
+
+The	DT	NP
+audio	JJ	NP
+volume	NN	NP
+is	VBZ	VP
+quite	RB	VP	ADJP	ADJP
+low	JJ	VP	ADJP	ADJP
+and	CC	VP	ADJP
+virtually	RB	VP	ADJP	ADJP
+unusable	JJ	VP	ADJP	ADJP
+in	IN	VP	PP
+a	DT	VP	PP	NP	NP
+room	NN	VP	PP	NP	NP
+with	IN	VP	PP	NP	PP
+any	DT	VP	PP	NP	PP	NP
+background	NN	VP	PP	NP	PP	NP
+activity	NN	VP	PP	NP	PP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP	VP
+lightweight	JJ	VP	VP	ADJP
+and	CC	VP
+the	DT	VP	VP	NP
+perfect	JJ	VP	VP	NP
+size	NN	VP	VP	NP
+to	TO	VP	VP	VP
+carry	VB	VP	VP	VP	VP
+to	TO	VP	VP	VP	VP	PP
+class	NN	VP	VP	VP	VP	PP	NP
+.	.
+
+The	DT	NP
+MBP	NN	NP
+is	VBZ	VP
+beautiful	JJ	VP	ADJP
+has	VBZ	VP	ADJP	SBAR	VP
+many	JJ	VP	ADJP	SBAR	VP	NP
+wonderful	JJ	VP	ADJP	SBAR	VP	NP
+capabilities	NNS	VP	ADJP	SBAR	VP	NP
+.	.
+
+I	PRP	NP
+thought	VBD	VP
+that	IN	VP	SBAR
+it	PRP	VP	SBAR	NP
+will	MD	VP	SBAR	VP
+be	VB	VP	SBAR	VP	VP
+fine	JJ	VP	SBAR	VP	VP	ADJP
+,	,	VP	SBAR	VP	VP
+if	IN	VP	SBAR	VP	VP	SBAR
+i	FW	VP	SBAR	VP	VP	SBAR	NP
+do	VBP	VP	SBAR	VP	VP	SBAR	VP
+some	DT	VP	SBAR	VP	VP	SBAR	VP	NP
+settings	NNS	VP	SBAR	VP	VP	SBAR	VP	NP
+.	.
+
+Runs	VBZ	VP
+very	RB	VP	ADVP
+smoothly	RB	VP	ADVP
+.	.
+
+Boot-up	JJ	NP
+slowed	VBD	VP
+significantly	RB	VP	ADVP
+after	IN	VP	SBAR
+all	DT	VP	SBAR	NP
+Windows	NNP	VP	SBAR	NP
+updates	NNS	VP	SBAR	NP
+were	VBD	VP	SBAR	VP
+installed	VBN	VP	SBAR	VP	VP
+.	.
+
+It	PRP	NP
+was	VBD	VP
+important	JJ	VP	ADJP
+that	IN	VP	SBAR
+it	PRP	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+powerful	JJ	VP	SBAR	VP	ADJP
+enough	JJ	VP	SBAR	VP	ADJP
+to	TO	VP	SBAR	VP	ADJP	VP
+do	VB	VP	SBAR	VP	ADJP	VP	VP
+all	DT	VP	SBAR	VP	ADJP	VP	VP	NP	NP
+of	IN	VP	SBAR	VP	ADJP	VP	VP	NP	PP
+the	DT	VP	SBAR	VP	ADJP	VP	VP	NP	PP	NP
+tasks	NNS	VP	SBAR	VP	ADJP	VP	VP	NP	PP	NP
+he	PRP	NP
+needed	VBD	VP
+on	IN	VP	PP
+the	DT	VP	PP	NP	NP
+internet	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+word	NN	VP	PP	NP	NP
+processing	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+graphic	JJ	VP	PP	NP	NP
+design	NN	VP	PP	NP	NP
+and	CC	VP	PP	NP
+gaming	NN	VP	PP	NP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP	NP
+Mini	NNP	VP	NP	NP
+Mac	NNP	VP	NP	NP
+it	PRP	VP	NP	SBAR	NP
+was	VBD	VP	NP	SBAR	VP	VP
+easy	JJ	VP	NP	SBAR	VP	VP	ADJP
+to	TO	VP	NP	SBAR	VP	VP	PP
+setup	NN	VP	NP	SBAR	VP	VP	PP	NP
+and	CC	VP	NP	SBAR	VP
+install	VB	VP	NP	SBAR	VP	VP
+,	,
+but	CC
+I	PRP	NP
+am	VBP	VP
+learning	VBG	VP	VP
+as	IN	VP	VP	SBAR
+I	PRP	VP	VP	SBAR	NP
+go	VBP	VP	VP	SBAR	VP	VP
+and	CC	VP	VP	SBAR	VP
+could	MD	VP	VP	SBAR	VP	VP
+use	VB	VP	VP	SBAR	VP	VP	VP
+a	DT	VP	VP	SBAR	VP	VP	VP	NP
+tutorial	NN	VP	VP	SBAR	VP	VP	VP	NP
+to	TO	VP	VP	SBAR	VP	VP	VP	NP	VP
+learn	VB	VP	VP	SBAR	VP	VP	VP	NP	VP	VP
+how	WRB	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	WHADVP
+to	TO	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP
+use	VB	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP	VP
+some	DT	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP	VP	NP	NP
+of	IN	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP	VP	NP	PP
+the	DT	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP	VP	NP	PP	NP
+features	NNS	VP	VP	SBAR	VP	VP	VP	NP	VP	VP	SBAR	VP	VP	NP	PP	NP
+I	PRP	VP	VP	SBAR	VP	VP	VP	SBAR	NP
+was	VBD	VP	VP	SBAR	VP	VP	VP	SBAR	VP
+use	NN	VP	VP	SBAR	VP	VP	VP	SBAR	VP	NP
+to	TO	VP	VP	SBAR	VP	VP	VP	SBAR	VP	PP
+on	IN	VP	VP	SBAR	VP	VP	VP	SBAR	VP	PP	PP
+the	DT	VP	VP	SBAR	VP	VP	VP	SBAR	VP	PP	PP	NP
+PC	NN	VP	VP	SBAR	VP	VP	VP	SBAR	VP	PP	PP	NP
+especially	RB	VP	VP	SBAR	VP	VP	VP	SBAR
+the	DT	VP	VP	SBAR	VP	VP	VP	SBAR	NP
+right	JJ	VP	VP	SBAR	VP	VP	VP	SBAR	NP
+mouse	NN	VP	VP	SBAR	VP	VP	VP	SBAR	NP
+click	VBP	VP	VP	SBAR	VP	VP	VP	SBAR	VP
+menu	NN	VP	VP	SBAR	VP	VP	VP	SBAR	VP	NP
+.	.
+
+Runs	VBZ	VP
+real	JJ	VP	NP
+quick	JJ	VP	ADJP
+.	.
+
+Since	IN	SBAR
+the	DT	SBAR	NP	NP
+machine	NN	SBAR	NP	NP
+'s	POS	SBAR	NP	NP
+slim	JJ	SBAR	NP
+profile	NN	SBAR	NP
+is	VBZ	SBAR	VP
+critical	JJ	SBAR	VP	ADJP
+to	TO	SBAR	VP	ADJP	PP
+me	PRP	SBAR	VP	ADJP	PP	NP
+,	,
+that	DT	NP
+was	VBD	VP
+a	DT	VP	NP
+problem	NN	VP	NP
+.	.
+
+WiFi	NN	NP	NP
+capability	NN	NP	NP
+,	,	NP
+disk	NN	NP	NP
+drive	NN	NP	NP
+and	CC	NP
+multiple	JJ	NP	NP
+USB	JJ	NP	NP
+ports	NNS	NP	NP
+to	TO	VP
+connect	VB	VP	VP
+scale	NN	VP	VP	NP
+and	CC
+printers	NNS	NP
+was	VBD	VP
+all	DT	VP	NP	NP
+that	DT	VP	NP	SBAR	WHNP
+was	VBD	VP	NP	SBAR	VP
+required	VBN	VP	NP	SBAR	VP	VP
+.	.
+
+The	DT	NP
+SD	NN	NP
+card	NN	NP
+reader	NN	NP
+is	VBZ	VP
+slightly	RB	VP	UCP	ADJP
+recessed	VBN	VP	UCP	ADJP
+and	CC	VP	UCP
+upside	RB	VP	UCP	ADVP
+down	RB	VP	UCP	ADVP
+(	-LRB-	PRN
+the	DT	PRN	NP	NP
+nail	NN	PRN	NP	NP
+slot	NN	PRN	NP	NP
+on	IN	PRN	NP	PP
+the	DT	PRN	NP	PP	NP
+card	NN	PRN	NP	PP	NP
+can	MD	PRN	VP
+not	RB	PRN	VP
+be	VB	PRN	VP	VP
+accessed	VBN	PRN	VP	VP	VP
+)	-RRB-	PRN
+,	,
+if	IN	SBAR
+this	DT	SBAR	NP
+was	VBD	SBAR	VP
+a	DT	SBAR	VP	NP	NP
+self	NN	SBAR	VP	NP	NP
+ejecting	VBG	SBAR	VP	NP	NP
+slot	NN	SBAR	VP	NP	NP
+this	DT	SBAR	VP	NP	SBAR	NP
+would	MD	SBAR	VP	NP	SBAR	VP
+not	RB	SBAR	VP	NP	SBAR	VP
+be	VB	SBAR	VP	NP	SBAR	VP	VP
+an	DT	SBAR	VP	NP	SBAR	VP	VP	NP	NP
+issue	NN	SBAR	VP	NP	SBAR	VP	VP	NP	NP
+,	,	SBAR	VP	NP	SBAR	VP	VP	NP
+but	CC	SBAR	VP	NP	SBAR	VP	VP	NP	PP
+its	PRP$	SBAR	VP	NP	SBAR	VP	VP	NP	PP	NP
+not	RB	SBAR	VP	NP	SBAR	VP	VP	NP	PP	NP
+.	.
+
+Soft	JJ	NP	NP
+touch	NN	NP	NP
+,	,	NP
+anodized	VBN	NP	VP
+aluminum	NN	NP	VP	NP
+with	IN	NP	VP	PP
+laser	NN	NP	VP	PP	NP	NP
+cut	NN	NP	VP	PP	NP	NP
+precision	NN	NP	VP	PP	NP	NP
+and	CC	NP	VP	PP	NP
+no	DT	NP	VP	PP	NP	NP
+flaws	NNS	NP	VP	PP	NP	NP
+.	.	NP
+
+Simple	JJ	NP	NP
+details	NNS	NP	NP
+,	,	NP
+crafted	VBN	NP	VP
+aluminium	NN	NP	VP	NP	NP
+and	CC	NP	VP	NP
+real	JJ	NP	VP	NP	NP
+glass	NN	NP	VP	NP	NP
+make	VB	VP
+this	DT	VP	NP
+laptop	NN	VP	NP
+blow	NN	VP	NP
+away	RB	VP	PP
+the	DT	VP	PP	NP
+other	JJ	VP	PP	NP
+plastic	NN	VP	PP	NP
+ridden	NN	VP	PP	NP
+,	,	VP
+bulky	JJ	VP	NP	NP
+sticker	NN	VP	NP	NP
+filled	VBN	VP	NP	VP
+laptops	NNS	VP	NP	VP	NP
+.	.
+
+First	NNP	NP	NP
+of	IN	NP	PP
+all	DT	NP	PP	NP	NP
+yes	RB	NP	PP	NP	NP
+this	DT	NP	PP	NP	NP
+is	VBZ	VP
+a	DT	VP	NP
+mac	NN	VP	NP
+and	CC
+it	PRP	NP
+has	VBZ	VP
+that	DT	VP	NP	NP
+nice	JJ	VP	NP	NP
+brushed	VBN	VP	NP	VP
+aluminum	NN	VP	NP	VP	NP
+.	.
+
+No	DT	NP	NP
+HDMI	NN	NP	NP
+port	NN	NP	NP
+.	.	NP
+
+Customization	NN	NP	NP
+on	IN	NP	PP
+mac	NN	NP	PP	NP
+is	VBZ	VP
+impossible	JJ	VP	ADJP
+.	.
+
+Plus	CC
+two	CD	NP	NP
+finger	NN	NP	NP
+clicking	VBG	NP	VP
+as	IN	NP	VP	PP
+a	DT	NP	VP	PP	NP	NP
+replacement	NN	NP	VP	PP	NP	NP
+for	IN	NP	VP	PP	NP	PP
+the	DT	NP	VP	PP	NP	PP	NP
+right	JJ	NP	VP	PP	NP	PP	NP
+click	NN	NP	VP	PP	NP	PP	NP
+button	NN	NP	VP	PP	NP	PP	NP
+is	VBZ	VP
+surprisingly	RB	VP	ADJP
+intuitive	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+SuperDrive	NNP	NP
+is	VBZ	VP
+quiet	JJ	VP	ADJP
+.	.
+
+The	DT	NP
+battery	NN	NP
+was	VBD	VP
+completely	RB	VP	ADJP
+dead	JJ	VP	ADJP
+,	,	VP
+in	IN	VP	PP
+fact	NN	VP	PP	NP	NP
+it	PRP	VP	PP	NP	SBAR	NP
+had	VBD	VP	PP	NP	SBAR	VP
+grown	VBN	VP	PP	NP	SBAR	VP	VP
+about	IN	VP	PP	NP	SBAR	VP	VP	PP
+a	DT	VP	PP	NP	SBAR	VP	VP	PP	NP	NP
+quarter	NN	VP	PP	NP	SBAR	VP	VP	PP	NP	NP
+inch	NN	VP	PP	NP	SBAR	VP	VP	PP	NP	NP
+thick	JJ	VP	PP	NP	SBAR	VP	VP	PP	NP	NP
+lump	NN	VP	PP	NP	SBAR	VP	VP	PP	NP	NP
+on	IN	VP	PP	NP	SBAR	VP	VP	PP	NP	PP
+the	DT	VP	PP	NP	SBAR	VP	VP	PP	NP	PP	NP
+underside	NN	VP	PP	NP	SBAR	VP	VP	PP	NP	PP	NP
+.	.
+
+if	IN	PP
+yo	NN	PP	NP	NP
+like	IN	PP	NP	PP
+practicality	NN	PP	NP	PP	NP
+this	DT	NP
+is	VBZ	VP
+the	DT	VP	NP	NP
+laptop	NN	VP	NP	NP
+for	IN	VP	NP	PP
+you	PRP	VP	NP	PP	NP
+.	.
+
+The	DT	NP
+OS	NNP	NP
+is	VBZ	VP
+great	JJ	VP	ADJP
+.	.
+
+CONS	NNS	NP	NP
+:	:	NP
+Price	NN	NP	NP	NP	NP
+is	VBZ	NP	NP	NP	SBAR	VP
+a	DT	NP	NP	NP	SBAR	VP	ADJP	NP
+bit	NN	NP	NP	NP	SBAR	VP	ADJP	NP
+ridiculous	JJ	NP	NP	NP	SBAR	VP	ADJP
+,	,	NP	NP
+kinda	NN	NP	NP	NP
+heavy	NN	NP	NP	NP
+.	.	NP
+
+Which	WDT	FRAG	SBAR	WHNP
+it	PRP	FRAG	SBAR	NP
+did	VBD	FRAG	SBAR	VP	VP
+not	RB	FRAG	SBAR	VP	VP
+have	VB	FRAG	SBAR	VP	VP	VP
+,	,	FRAG	SBAR	VP
+only	RB	FRAG	SBAR	VP	NP	QP
+3	CD	FRAG	SBAR	VP	NP	QP
+USB	JJ	FRAG	SBAR	VP	NP
+2	CD	FRAG	SBAR	VP	NP
+ports	NNS	FRAG	SBAR	VP	NP
+.	.	FRAG
+
+No	DT	NP
+startup	NN	NP
+disk	NN	NP
+was	VBD	VP
+not	RB	VP
+included	VBN	VP	VP
+but	CC
+that	WDT	NP
+may	MD	VP
+be	VB	VP	VP
+my	PRP$	VP	VP	NP
+fault	NN	VP	VP	NP
+.	.
+
+It	PRP	NP
+is	VBZ	VP	VP
+very	RB	VP	VP	ADJP
+fast	JJ	VP	VP	ADJP
+and	CC	VP
+has	VBZ	VP	VP
+everything	NN	VP	VP	NP
+that	IN	VP	VP	SBAR
+I	PRP	VP	VP	SBAR	NP
+need	VBP	VP	VP	SBAR	VP
+except	IN	VP	VP	SBAR	VP	PP
+for	IN	VP	VP	SBAR	VP	PP	PP
+a	DT	VP	VP	SBAR	VP	PP	PP	NP
+word	NN	VP	VP	SBAR	VP	PP	PP	NP
+program	NN	VP	VP	SBAR	VP	PP	PP	NP
+.	.
+
+Needs	NNS	NP	NP
+a	DT	NP	NP	NP
+CD/DVD	NN	NP	NP	NP
+drive	NN	NP	NP	NP
+and	CC	NP	NP
+a	DT	NP	NP	NP
+bigger	JJR	NP	NP	NP
+power	NN	NP	NP	NP
+switch	NN	NP	NP	NP
+.	.	NP
+
+My	PRP$	NP	NP
+laptop	NN	NP	NP
+with	IN	NP	PP
+Windows	NNP	NP	PP	NP
+7	CD	NP	PP	NP
+crashed	VBD	VP
+and	CC
+I	PRP	NP
+did	VBD	VP
+not	RB	VP
+want	VB	VP	VP
+Windows	NNP	VP	VP	NP-TMP
+8	CD	VP	VP	NP-TMP
+.	.
+
+Easy	NNP	NP
+to	TO	VP
+install	VB	VP	VP
+also	RB	VP	VP	ADJP	ADJP	ADVP
+small	JJ	VP	VP	ADJP	ADJP
+to	TO	VP	VP	ADJP	ADJP	VP
+leave	VB	VP	VP	ADJP	ADJP	VP	VP
+anywhere	RB	VP	VP	ADJP	ADJP	VP	VP	ADVP
+at	IN	VP	VP	ADJP	ADJP	VP	VP	ADVP	PP
+your	PRP$	VP	VP	ADJP	ADJP	VP	VP	ADVP	PP	NP
+bedroom	NN	VP	VP	ADJP	ADJP	VP	VP	ADVP	PP	NP
+also	RB	VP	VP	ADJP	ADJP	VP	VP	ADVP
+very	RB	VP	VP	ADJP	FRAG	ADJP
+easy	JJ	VP	VP	ADJP	FRAG	ADJP
+to	TO	VP	VP	ADJP	FRAG	ADJP	VP
+configure	VB	VP	VP	ADJP	FRAG	ADJP	VP	VP
+for	IN	VP	VP	ADJP	FRAG	ADJP	VP	VP	PP
+ADSl	NNP	VP	VP	ADJP	FRAG	ADJP	VP	VP	PP	NP
+cable	NN	VP	VP	NP
+or	CC	VP	VP	NP
+wifi	NN	VP	VP	NP
+.	.
+
+Nice	JJ	NP
+packing	NN	NP
+.	.	NP
+
+I	PRP	NP
+switched	VBD	VP
+to	TO	VP	PP
+this	DT	VP	PP	NP
+because	IN	VP	SBAR
+I	PRP	VP	SBAR	NP
+wanted	VBD	VP	SBAR	VP
+something	NN	VP	SBAR	VP	NP
+different	JJ	VP	SBAR	VP	ADJP
+,	,	VP	SBAR	VP
+even	RB	VP	SBAR	VP	SBAR
+though	IN	VP	SBAR	VP	SBAR
+I	PRP	VP	SBAR	VP	SBAR	NP
+miss	VBP	VP	SBAR	VP	SBAR	VP
+windows	NNS	VP	SBAR	VP	SBAR	VP	NP
+.	.
+
+Apple	NNP	NP
+no	RB	ADVP
+longer	RB	ADVP
+includes	VBZ	VP
+iDVD	NN	VP	NP
+with	IN	VP	PP
+the	DT	VP	PP	NP
+computer	NN	VP	PP	NP
+and	CC
+furthermore	RB	ADVP
+,	,
+Apple	NNP	NP
+does	VBZ	VP
+n't	RB	VP
+even	RB	VP	ADVP
+offer	VB	VP	VP
+it	PRP	VP	VP	NP
+anymore	RB	VP	VP	ADVP
+!	.
+
+I	PRP	NP
+also	RB	ADVP
+wanted	VBD	VP
+Windows	NNP	VP	NP-TMP
+7	CD	VP	NP-TMP
+,	,	VP
+which	WDT	VP	SBAR	WHNP
+this	DT	VP	SBAR	NP
+one	CD	VP	SBAR	NP
+has	VBZ	VP	SBAR	VP
+.	.
+
+At	IN	PP
+first	RB	PP	ADVP
+,	,
+I	PRP	NP
+feel	VBP	VP
+a	DT	VP	NP
+little	JJ	VP	NP
+bit	NN	VP	NP
+uncomfortable	JJ	VP	ADJP
+in	IN	VP	ADJP	PP
+using	VBG	VP	ADJP	PP	VP
+the	DT	VP	ADJP	PP	VP	NP
+Mac	NNP	VP	ADJP	PP	VP	NP
+system	NN	VP	ADJP	PP	VP	NP
+.	.
+
+It	PRP	NP
+just	RB	ADVP
+works	VBZ	VP
+out	IN	VP	PRT
+of	IN	VP	PP
+the	DT	VP	PP	NP
+box	NN	VP	PP	NP
+and	CC
+you	PRP	NP
+have	VBP	VP
+a	DT	VP	NP	NP
+lot	NN	VP	NP	NP
+of	IN	VP	NP	PP
+cool	JJ	VP	NP	PP	NP
+software	NN	VP	NP	PP	NP
+included	VBD	VP	NP	SBAR	VP
+with	IN	VP	NP	SBAR	VP	PP
+the	DT	VP	NP	SBAR	VP	PP	NP
+OS	NNP	VP	NP	SBAR	VP	PP	NP
+.	.
+
+its	PRP$	NP
+as	IN	VP	ADVP
+advertised	VBN	VP
+on	IN	VP	PP
+here	RB	VP	PP	NP
+...	:
+..	VB	VP
+it	PRP	VP	SBAR	NP
+works	VBZ	VP	SBAR	VP	VP
+great	JJ	VP	SBAR	VP	VP	ADJP
+and	CC	VP	SBAR	VP
+is	VBZ	VP	SBAR	VP	VP
+not	RB	VP	SBAR	VP	VP
+a	DT	VP	SBAR	VP	VP	NP	NP
+waste	NN	VP	SBAR	VP	VP	NP	NP
+of	IN	VP	SBAR	VP	VP	NP	PP
+money	NN	VP	SBAR	VP	VP	NP	PP	NP
+!	.
+
+Premium	NNP	FRAG	ADVP	ADVP	NP	NP
+price	NN	FRAG	ADVP	ADVP	NP	NP
+for	IN	FRAG	ADVP	ADVP	NP	PP
+the	DT	FRAG	ADVP	ADVP	NP	PP	NP
+OS	NNP	FRAG	ADVP	ADVP	NP	PP	NP
+more	JJR	FRAG	ADVP	ADVP
+than	IN	FRAG	ADVP	PP
+anything	NN	FRAG	ADVP	PP	NP
+else	RB	FRAG
+.	.	FRAG
+
+I	PRP	NP
+was	VBD	VP
+a	DT	VP	ADJP	NP
+little	JJ	VP	ADJP	NP
+concerned	JJ	VP	ADJP
+about	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+touch	NN	VP	ADJP	PP	NP
+pad	NN	VP	ADJP	PP	NP
+based	VBN	VP	PP
+on	IN	VP	PP	PP
+reviews	NNS	VP	PP	PP	NP
+,	,
+but	CC
+I	PRP	NP
+'ve	VBP	VP
+found	VBN	VP	VP
+it	PRP	VP	VP	NP
+fine	JJ	VP	VP	ADJP
+to	TO	VP	VP	ADJP	VP
+work	VB	VP	VP	ADJP	VP	VP
+with	IN	VP	VP	ADJP	VP	VP	PP
+.	.
+
+However	RB	ADVP
+,	,
+the	DT	NP
+experience	NN	NP
+was	VBD	VP
+great	JJ	VP	ADJP
+since	IN	VP	SBAR
+the	DT	VP	SBAR	NP
+OS	NN	VP	SBAR	NP
+does	VBZ	VP	SBAR	VP
+not	RB	VP	SBAR	VP
+become	VB	VP	SBAR	VP	VP
+unstable	JJ	VP	SBAR	VP	VP	ADJP
+and	CC
+the	DT	NP
+application	NN	NP
+will	MD	VP
+simply	RB	VP	VP	VP	ADVP
+shutdown	NN	VP	VP	VP	NP
+and	CC	VP	VP
+reopen	VB	VP	VP	VP
+.	.
+
+The	DT	NP
+battery	NN	NP
+is	VBZ	VP
+not	RB	VP
+as	IN	VP	VP	ADVP
+shown	VBN	VP	VP
+in	IN	VP	VP	PP
+the	DT	VP	VP	PP	NP
+product	NN	VP	VP	PP	NP
+photos	NNS	VP	VP	PP	NP
+.	.
+
+Shipping	VBG	VP
+was	VBD	VP	SBAR	SBAR	VP
+quick	JJ	VP	SBAR	SBAR	VP	ADJP
+and	CC	VP	SBAR
+product	NN	VP	SBAR	SBAR	NP
+described	VBD	VP	SBAR	SBAR	VP
+was	VBD	VP	SBAR	SBAR	VP	SBAR	VP
+the	DT	VP	SBAR	SBAR	VP	SBAR	VP	NP	NP	NP
+product	NN	VP	SBAR	SBAR	VP	SBAR	VP	NP	NP	NP
+sent	VBN	VP	SBAR	SBAR	VP	SBAR	VP	NP	NP	VP
+and	CC	VP	SBAR	SBAR	VP	SBAR	VP	NP
+so	RB	VP	SBAR	SBAR	VP	SBAR	VP	NP	ADVP	NP
+much	RB	VP	SBAR	SBAR	VP	SBAR	VP	NP	ADVP	NP
+more	RBR	VP	SBAR	SBAR	VP	SBAR	VP	NP	ADVP
+...	:
+
+the	DT	NP
+retina	NN	NP
+display	NN	NP
+display	NN	NP
+make	VBP	VP
+pictures	NNS	VP	NP	NP
+i	FW	VP	NP	SBAR	NP
+took	VBD	VP	NP	SBAR	VP
+years	NNS	VP	NP	SBAR	VP	ADVP	NP
+ago	IN	VP	NP	SBAR	VP	ADVP
+jaw	NN	VP	NP	SBAR	VP	NP
+dropping	VBG	VP	NP	SBAR	VP	NP
+.	.
+
+The	DT	NP
+Mac	NNP	NP
+Mini	NNP	NP
+is	VBZ	VP
+probably	RB	VP	ADVP
+the	DT	VP	NP	NP
+simplest	JJS	VP	NP	NP
+example	NN	VP	NP	NP
+of	IN	VP	NP	PP
+compact	JJ	VP	NP	PP	NP
+computing	NN	VP	NP	PP	NP
+out	IN	VP	PP
+there	RB	VP	PP	NP
+.	.
+
+Additionally	RB	ADVP
+,	,
+there	EX	NP
+is	VBZ	VP
+barely	RB	VP	ADVP
+a	DT	VP	NP	NP
+ventilation	NN	VP	NP	NP
+system	NN	VP	NP	NP
+in	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+computer	NN	VP	NP	PP	NP
+,	,
+and	CC
+even	RB	NP	NP
+the	DT	NP	NP
+simple	JJ	NP	NP
+activity	NN	NP	NP
+of	IN	NP	PP
+watching	VBG	NP	PP	VP
+videos	NNS	NP	PP	VP	NP	NP
+let	VB	NP	PP	VP	NP	ADVP
+alone	JJ	NP	PP	VP	NP	ADVP
+playing	NN	NP
+steam	NN	NP
+games	NNS	NP
+causes	VBZ	VP
+the	DT	VP	NP
+laptop	NN	VP	NP
+to	TO	VP	NP	VP
+get	VB	VP	NP	VP	VP
+very	RB	VP	NP	VP	VP	UCP	ADJP
+very	RB	VP	NP	VP	VP	UCP	ADJP
+hot	JJ	VP	NP	VP	VP	UCP	ADJP
+,	,	VP	NP	VP	VP	UCP
+and	CC	VP	NP	VP	VP	UCP
+in	IN	VP	NP	VP	VP	UCP	PP
+fact	NN	VP	NP	VP	VP	UCP	PP	NP	NP
+impossible	JJ	VP	NP	VP	VP	UCP	PP	NP	ADJP
+to	TO	VP	NP	VP	VP	UCP	PP	NP	ADJP	VP
+keep	VB	VP	NP	VP	VP	UCP	PP	NP	ADJP	VP	VP
+on	IN	VP	NP	VP	VP	UCP	PP	NP	ADJP	VP	VP	PP
+lap	NN	VP	NP	VP	VP	UCP	PP	NP	ADJP	VP	VP	PP	NP
+.	.
+
+Chatting	VBG	VP
+with	IN	VP	PP
+Acer	NNP	VP	PP	NP
+support	NN	VP	PP	NP
+,	,
+I	PRP	NP
+was	VBD	VP
+advised	VBN	VP	VP
+the	DT	VP	VP	SBAR	NP
+problem	NN	VP	VP	SBAR	NP
+was	VBD	VP	VP	SBAR	VP
+corrupted	VBN	VP	VP	SBAR	VP	VP
+operating	VBG	VP	VP	SBAR	VP	VP	VP
+system	NN	VP	VP	SBAR	VP	VP	VP	NP
+files	NNS	VP	VP	SBAR	VP	VP	VP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+been	VBN	VP	VP
+a	DT	VP	VP	NP	NP
+couple	NN	VP	VP	NP	NP
+weeks	NNS	VP	VP	NP	NP
+since	IN	VP	VP	NP	PP
+the	DT	VP	VP	NP	PP	NP
+purchase	NN	VP	VP	NP	PP	NP
+and	CC
+I	PRP	NP
+'m	VBP	VP
+struggle	NN	VP	NP	NP
+with	IN	VP	NP	PP
+finding	VBG	VP	NP	PP	VP	VP
+the	DT	VP	NP	PP	VP	VP	NP
+correct	JJ	VP	NP	PP	VP	VP	NP
+keys	NNS	VP	NP	PP	VP	VP	NP
+(	-LRB-	VP	NP	PP	VP
+but	CC	VP	NP	PP	VP	SBAR
+that	DT	VP	NP	PP	VP	SBAR	NP
+was	VBD	VP	NP	PP	VP	SBAR	VP
+expected	VBN	VP	NP	PP	VP	SBAR	VP	VP
+)	-RRB-	VP	NP	PP	VP
+.	.
+
+Many	JJ	NP
+people	NNS	NP
+complain	VBP	VP
+about	IN	VP	PP
+the	DT	VP	PP	NP
+new	JJ	VP	PP	NP
+OS	NNP	VP	PP	NP
+,	,
+and	CC
+it	PRP	NP
+'s	VBZ	VP
+urgent	JJ	VP	ADJP
+for	IN	VP	ADJP	PP
+Apple	NNP	VP	ADJP	PP	NP
+to	TO	VP	VP
+fix	VB	VP	VP	VP
+it	PRP	VP	VP	VP	NP
+asap	RB	VP	VP	VP	ADVP
+!	.
+
+Now	RB	ADVP	ADVP
+that	IN	ADVP	SBAR
+I	PRP	ADVP	SBAR	NP
+have	VBP	ADVP	SBAR	VP
+upgraded	VBN	ADVP	SBAR	VP	VP
+to	TO	ADVP	SBAR	VP	VP	PP
+Lion	NNP	ADVP	SBAR	VP	VP	PP	NP
+I	PRP	NP
+am	VBP	VP
+much	JJ	VP	ADVP
+happier	JJR	VP	VP	VP	ADJP
+about	IN	VP	VP	VP	PP
+MAC	NNP	VP	VP	VP	PP	NP
+OS	NNP	VP	VP	VP	PP	NP
+and	CC	VP	VP
+have	VB	VP	VP	VP
+just	RB	VP	VP	VP	VP	ADVP
+bought	VBD	VP	VP	VP	VP
+an	DT	VP	VP	VP	VP	NP	NP
+iMac	NNP	VP	VP	VP	VP	NP	NP
+for	IN	VP	VP	VP	VP	NP	PP
+office	NN	VP	VP	VP	VP	NP	PP	NP
+.	.
+
+User	NN	NP	NP
+upgradeable	JJ	NP	NP	NP
+RAM	NNP	NP	NP	NP
+and	CC	NP	NP
+HDD	NNP	NP	NP	NP
+.	.	NP
+
+But	CC
+I	PRP	NP
+wanted	VBD	VP
+the	DT	VP	NP	NP
+Pro	FW	VP	NP	NP
+for	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+CD/DVD	NN	VP	NP	PP	NP
+player	NN	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+a	DT	VP	NP	NP
+little	JJ	VP	NP	NP
+worry	NN	VP	NP	NP
+at	IN	VP	NP	PP
+first	JJ	VP	NP	PP	NP
+because	IN	VP	SBAR
+I	PRP	VP	SBAR	NP
+do	VBP	VP	SBAR	VP
+n't	RB	VP	SBAR	VP
+have	VB	VP	SBAR	VP	VP
+a	DT	VP	SBAR	VP	VP	NP	NP
+lot	NN	VP	SBAR	VP	VP	NP	NP
+of	IN	VP	SBAR	VP	VP	NP	PP
+experience	NN	VP	SBAR	VP	VP	NP	PP	NP
+with	IN	VP	SBAR	VP	VP	PP
+os.x	NN	VP	SBAR	VP	VP	PP	NP
+and	CC
+windows	NNS	NP
+has	VBZ	VP
+always	RB	VP	ADVP
+been	VBN	VP	VP
+second	JJ	VP	VP	NP
+nature	NN	VP	VP	NP
+to	TO	VP	VP	PP
+me	PRP	VP	VP	PP	NP
+after	IN	VP	VP	PP
+many	JJ	VP	VP	PP	NP	NP
+years	NNS	VP	VP	PP	NP	NP
+of	IN	VP	VP	PP	NP	PP
+using	VBG	VP	VP	PP	NP	PP	VP
+windows	NNS	VP	VP	PP	NP	PP	VP	NP
+.	.
+
+With	IN	PP
+the	DT	PP	NP
+softwares	NNS	PP	NP
+supporting	VBG	VP
+the	DT	VP	NP	NP
+use	NN	VP	NP	NP
+of	IN	VP	NP	PP
+other	JJ	VP	NP	PP	NP
+OS	NNP	VP	NP	PP	NP
+makes	VBZ	VP
+it	PRP	VP	NP
+much	RB	VP	ADJP
+better	RBR	VP	ADJP
+.	.
+
+I	PRP	NP
+was	VBD	VP
+considering	VBG	VP	VP
+buying	VBG	VP	VP	VP
+the	DT	VP	VP	VP	NP
+Air	NNP	VP	VP	VP	NP
+,	,
+but	CC
+in	IN	PP
+reality	NN	PP	NP
+,	,
+this	DT	NP
+one	CD	NP
+has	VBZ	VP	VP
+a	DT	VP	VP	NP
+more	RBR	VP	VP	NP	ADJP
+powerful	JJ	VP	VP	NP	ADJP
+performance	NN	VP	VP	NP
+and	CC	VP
+seems	VBZ	VP	VP
+much	RB	VP	VP	ADJP
+more	RBR	VP	VP	ADJP
+convenient	JJ	VP	VP	ADJP
+,	,	VP
+even	RB	VP	SBAR
+though	IN	VP	SBAR
+it	PRP	VP	SBAR	NP
+'s	VBZ	VP	SBAR	VP
+about	IN	VP	SBAR	VP	PP
+.20	CD	VP	SBAR	VP	PP	ADJP	ADJP	NP
+inch	NN	VP	SBAR	VP	PP	ADJP	ADJP	NP
+thicker	JJR	VP	SBAR	VP	PP	ADJP	ADJP
+and	CC	VP	SBAR	VP	PP	ADJP
+2	CD	VP	SBAR	VP	PP	ADJP	ADJP	NP
+lbs	NNS	VP	SBAR	VP	PP	ADJP	ADJP	NP
+heavier	JJR	VP	SBAR	VP	PP	ADJP	ADJP
+.	.
+
+At	IN	PP
+home	NN	PP	NP	NP
+and	CC	PP	NP
+the	DT	PP	NP	NP
+office	NN	PP	NP	NP
+it	PRP	NP
+gets	VBZ	VP
+plugged	VBN	VP	SBAR	VP
+into	IN	VP	SBAR	VP	PP
+an	DT	VP	SBAR	VP	PP	NP	NP	NP
+external	JJ	VP	SBAR	VP	PP	NP	NP	NP
+24	CD	VP	SBAR	VP	PP	NP	NP	NP
+''	''	VP	SBAR	VP	PP	NP	NP	NP
+LCD	NNS	VP	SBAR	VP	PP	NP	NP	NP
+screen	NN	VP	SBAR	VP	PP	NP	NP	NP
+,	,	VP	SBAR	VP	PP	NP	NP
+so	RB	VP	SBAR	VP	PP	NP	NP	ADVP
+built	VBN	VP	SBAR	VP	PP	NP	VP
+in	IN	VP	SBAR	VP	PP	NP	VP	PP
+screen	NN	VP	SBAR	VP	PP	NP	VP	PP	NP
+size	NN	VP	SBAR	VP	PP	NP	VP	PP	NP
+is	VBZ	VP	SBAR	VP
+not	RB	VP	SBAR	VP
+terribly	RB	VP	SBAR	VP	ADJP
+important	JJ	VP	SBAR	VP	ADJP
+.	.
+
+Just	RB	SBAR
+beware	VB	SBAR	VP
+no	DT	SBAR	VP	NP
+DVD	NN	SBAR	VP	NP
+slot	NN	SBAR	VP	NP
+so	RB	SBAR	VP	ADVP
+when	WRB	SBAR	VP	SBAR	WHADVP
+I	PRP	SBAR	VP	SBAR	NP
+went	VBD	SBAR	VP	SBAR	VP
+to	TO	SBAR	VP	SBAR	VP	VP
+install	VB	SBAR	VP	SBAR	VP	VP	VP
+software	NN	SBAR	VP	SBAR	VP	VP	VP	NP	NP
+I	PRP	SBAR	VP	SBAR	VP	VP	VP	NP	SBAR	NP
+had	VBD	SBAR	VP	SBAR	VP	VP	VP	NP	SBAR	VP
+on	IN	SBAR	VP	SBAR	VP	VP	VP	NP	SBAR	VP	PP
+CD	NNP	SBAR	VP	SBAR	VP	VP	VP	NP	SBAR	VP	PP	NP
+I	PRP	NP
+could	MD	VP
+n't	RB	VP
+.	.
+
+No	DT	NP	NP
+Cd	NN	NP	NP
+Rom	NN	NP	NP
+in	IN	NP	PP
+the	DT	NP	PP	NP	NP
+new	JJ	NP	PP	NP	NP
+version	NN	NP	PP	NP	NP
+there	EX	NP	PP	NP	SBAR	NP
+'s	VBZ	NP	PP	NP	SBAR	VP
+no	DT	NP	PP	NP	SBAR	VP	NP	NP
+way	NN	NP	PP	NP	SBAR	VP	NP	NP
+I	PRP	NP	PP	NP	SBAR	VP	NP	SBAR	NP
+'m	VBP	NP	PP	NP	SBAR	VP	NP	SBAR	VP
+spending	VBG	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP
+that	DT	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	NP	NP
+kind	NN	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	NP	NP
+of	IN	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	NP	PP
+money	NN	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	NP	PP	NP
+on	IN	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	PP
+something	NN	NP	PP	NP	SBAR	VP	NP	SBAR	VP	VP	PP	NP
+has	VBZ	VP
+less	JJR	VP	NP	NP
+features	NNS	VP	NP	NP
+than	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+older	JJR	VP	NP	PP	NP
+version	NN	VP	NP	PP	NP
+.	.
+
+the	DT	NP
+volume	NN	NP
+is	VBZ	VP
+really	RB	VP	ADJP
+low	JJ	VP	ADJP
+to	TO	VP	ADJP	PP
+low	JJ	VP	ADJP	PP	VP	ADVP
+for	IN	VP	ADJP	PP	VP	ADVP	PP
+a	DT	VP	ADJP	PP	VP	ADVP	PP	NP
+laptopwas	NN	VP	ADJP	PP	VP	ADVP	PP	NP
+not	RB	VP	ADJP	PP	VP
+expectin	NN	VP	ADJP	PP	VP	NP
+t	NN	VP	ADJP	PP	VP	NP
+volume	NN	VP	ADJP	PP	VP	NP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+so	RB	VP	VP	VP	ADJP
+lowan	JJ	VP	VP	VP	ADJP
+i	FW	VP	VP	VP	ADJP	SBAR	NP
+hate	VBP	VP	VP	VP	ADJP	SBAR	VP
+that	IN	VP	VP	VP	ADJP	SBAR	VP	ADVP
+about	IN	VP	VP	VP	ADJP	SBAR	VP	PP
+this	DT	VP	VP	VP	ADJP	SBAR	VP	PP	NP
+computer	NN	VP	VP	VP	ADJP	SBAR	VP	PP	NP
+
+and	CC
+its	PRP$	ADVP	NP	NP
+not	RB	ADVP	NP	NP	ADJP
+hard	JJ	ADVP	NP	NP	ADJP
+to	TO	ADVP	NP	NP	ADJP	PP
+accidentally	RB	ADVP	NP	NP	ADJP	PP	ADVP
+bang	NN	ADVP	NP	NP
+it	PRP	ADVP	NP	PP	NP
+against	IN	ADVP	NP	PP
+something	NN	ADVP	NP	PP	NP
+so	RB	ADVP
+i	FW	NP
+recommend	VB	VP
+getting	VBG	VP	VP
+a	DT	VP	VP	NP
+case	NN	VP	VP	NP
+to	TO	VP	VP	NP	VP
+protect	VB	VP	VP	NP	VP	VP
+it	PRP	VP	VP	NP	VP	VP	NP
+.	.
+
+I	PRP	NP
+got	VBD	VP
+this	DT	VP	NP
+at	IN	VP	PP
+an	DT	VP	PP	NP
+amazing	JJ	VP	PP	NP
+price	NN	VP	PP	NP
+from	IN	VP	PP
+Amazon	NNP	VP	PP	NP
+and	CC
+it	PRP	NP
+arrived	VBD	VP
+just	RB	VP	ADVP
+in	IN	VP	PP
+time	NN	VP	PP	NP
+.	.
+
+Every	DT	NP-TMP
+time	NN	NP-TMP
+I	PRP	NP
+log	VBP	VP
+into	IN	VP	PP
+the	DT	VP	PP	NP
+system	NN	VP	PP	NP
+after	IN	VP	PP
+a	DT	VP	PP	NP
+few	JJ	VP	PP	NP
+hours	NNS	VP	PP	NP
+,	,
+there	EX	NP
+is	VBZ	VP
+this	DT	VP	NP
+endlessly	RB	VP	NP	ADJP	ADVP
+frustrating	JJ	VP	NP	ADJP
+process	NN	VP	NP
+that	IN	VP	SBAR
+I	PRP	VP	SBAR	NP
+have	VBP	VP	SBAR	VP
+to	TO	VP	SBAR	VP	VP
+go	VB	VP	SBAR	VP	VP	VP
+through	IN	VP	SBAR	VP	VP	VP	PP
+.	.
+
+Put	VB	VP	VP
+a	DT	VP	VP	NP
+SSD	NN	VP	VP	NP
+and	CC	VP
+use	VB	VP	VP
+a	DT	VP	VP	NP	NP
+21	CD	VP	VP	NP	NP
+''	''	VP	VP	NP
+LED	VBD	VP	VP	NP	SBAR	VP
+screen	NN	VP	VP	NP	SBAR	VP	NP
+,	,
+this	DT	NP	NP
+set	VBN	NP	VP
+up	RP	NP	VP	PRT
+is	VBZ	VP
+silky	JJ	VP	ADJP	NP
+smooth	JJ	VP	ADJP
+!	.
+
+The	DT	NP
+case	NN	NP
+is	VBZ	VP
+now	RB	VP	ADVP
+slightly	RB	VP	ADJP	ADJP
+larger	JJR	VP	ADJP	ADJP
+than	IN	VP	ADJP	PP
+the	DT	VP	ADJP	PP	NP
+previous	JJ	VP	ADJP	PP	NP
+generation	NN	VP	ADJP	PP	NP
+,	,
+but	CC
+the	DT	NP	NP
+lack	NN	NP	NP
+of	IN	NP	PP
+an	DT	NP	PP	NP
+external	JJ	NP	PP	NP
+power	NN	NP	PP	NP
+supply	NN	NP	PP	NP
+justifies	VBZ	VP
+the	DT	VP	NP	NP
+small	JJ	VP	NP	NP
+increase	NN	VP	NP	NP
+in	IN	VP	NP	PP
+size	NN	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+had	VBD	VP	VP
+to	TO	VP	VP	VP
+buy	VB	VP	VP	VP	VP
+a	DT	VP	VP	VP	VP	NP
+wireless	JJ	VP	VP	VP	VP	NP
+mouse	NN	VP	VP	VP	VP	NP
+to	TO	VP	VP	VP	VP	VP
+go	VB	VP	VP	VP	VP	VP	VP	VP
+with	IN	VP	VP	VP	VP	VP	VP	VP	PP
+it	PRP	VP	VP	VP	VP	VP	VP	VP	PP	NP
+,	,	VP	VP	VP	VP	VP	VP	VP
+as	IN	VP	VP	VP	VP	VP	VP	VP	SBAR
+I	PRP	VP	VP	VP	VP	VP	VP	VP	SBAR	NP
+am	VBP	VP	VP	VP	VP	VP	VP	VP	SBAR	VP
+old	JJ	VP	VP	VP	VP	VP	VP	VP	SBAR	VP	NP
+school	NN	VP	VP	VP	VP	VP	VP	VP	SBAR	VP	NP
+and	CC	VP	VP	VP	VP	VP	VP
+hate	VB	VP	VP	VP	VP	VP	VP	VP
+the	DT	VP	VP	VP	VP	VP	VP	VP	NP
+pad	NN	VP	VP	VP	VP	VP	VP	VP	NP
+,	,	VP
+but	CC	VP
+knew	VBD	VP	VP
+that	IN	VP	VP	SBAR
+before	IN	VP	VP	SBAR	SBAR
+I	PRP	VP	VP	SBAR	SBAR	NP
+bought	VBD	VP	VP	SBAR	SBAR	VP
+it	PRP	VP	VP	SBAR	SBAR	VP	NP
+,	,	VP	VP	SBAR	SBAR	VP
+now	RB	VP	VP	SBAR	SBAR	VP	ADVP
+it	PRP	VP	VP	SBAR	NP
+works	VBZ	VP	VP	SBAR	VP
+great	JJ	VP	VP	SBAR	VP	ADJP
+,	,	VP	VP	SBAR	VP	PRN
+need	VB	VP	VP	SBAR	VP	PRN	VP
+to	TO	VP	VP	SBAR	VP	PRN	VP	VP
+get	VB	VP	VP	SBAR	VP	PRN	VP	VP	VP
+adjusted	VBN	VP	VP	SBAR	VP	PRN	VP	VP	VP	ADJP
+to	TO	VP	VP	SBAR	VP	PRN	VP	VP	VP	ADJP	PP
+the	DT	VP	VP	SBAR	VP	PRN	VP	VP	VP	ADJP	PP	NP
+key	JJ	VP	VP	SBAR	VP	PRN	VP	VP	VP	ADJP	PP	NP
+board	NN	VP	VP	SBAR	VP	PRN	VP	VP	VP	ADJP	PP	NP
+,	,	VP	VP	SBAR	VP	PRN
+as	IN	VP	VP	SBAR	VP	SBAR
+I	PRP	VP	VP	SBAR	VP	SBAR	NP
+am	VBP	VP	VP	SBAR	VP	SBAR	VP
+used	VBN	VP	VP	SBAR	VP	SBAR	VP	VP
+to	TO	VP	VP	SBAR	VP	SBAR	VP	VP	PP
+a	DT	VP	VP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+bigger	JJR	VP	VP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+one	CD	VP	VP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+and	CC	VP	VP	SBAR	VP	SBAR	VP	VP	PP	NP
+pounding	VBG	VP	VP	SBAR	VP	SBAR	VP	VP	PP	NP	NP
+.	.
+
+Has	VBZ	VP
+all	PDT	VP	NP
+the	DT	VP	NP
+other	JJ	VP	NP
+features	NNS	VP	NP
+I	PRP	NP
+wanted	VBD	VP
+including	VBG	VP	PP
+a	DT	VP	PP	NP	NP
+VGA	NNP	VP	PP	NP	NP
+port	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+HDMI	NN	VP	PP	NP	NP
+,	,	VP	PP	NP
+ethernet	NN	VP	PP	NP	NP
+and	CC	VP	PP	NP
+3	CD	VP	PP	NP	NP
+USB	JJ	VP	PP	NP	NP
+ports	NNS	VP	PP	NP	NP
+.	.
+
+The	DT	NP	NP
+only	JJ	NP	NP
+thing	NN	NP	NP
+I	PRP	NP	SBAR	NP
+dislike	VBP	NP	SBAR	VP
+about	IN	NP	SBAR	VP	PP
+this	DT	NP	SBAR	VP	PP	NP
+laptop	NN	NP	SBAR	VP	PP	NP
+are	VBP	VP
+the	DT	VP	NP	NP
+rubber	NN	VP	NP	NP
+pads	NNS	VP	NP	NP
+found	VBN	VP	NP	VP
+on	IN	VP	NP	VP	PP
+the	DT	VP	NP	VP	PP	NP	NP
+bottom	NN	VP	NP	VP	PP	NP	NP
+of	IN	VP	NP	VP	PP	NP	PP
+the	DT	VP	NP	VP	PP	NP	PP	NP	NP
+computer	NN	VP	NP	VP	PP	NP	PP	NP	NP
+for	IN	VP	NP	VP	PP	NP	PP	NP	PP
+grip	NN	VP	NP	VP	PP	NP	PP	NP	PP	NP
+.	.
+
+It	PRP	NP
+'s	VBZ	VP
+a	DT	VP	NP	NP
+decent	JJ	VP	NP	NP
+computer	NN	VP	NP	NP
+for	IN	VP	NP	PP
+the	DT	VP	NP	PP	NP
+price	NN	VP	NP	PP	NP
+and	CC
+hopefully	RB	ADVP
+it	PRP	NP
+will	MD	VP
+last	VB	VP	VP
+a	DT	VP	VP	NP
+long	JJ	VP	VP	NP
+time	NN	VP	VP	NP
+.	.
+
+The	DT	NP
+nicest	JJS	NP
+part	NN	NP
+is	VBZ	VP
+the	DT	VP	NP
+low	JJ	VP	NP
+heat	NN	VP	NP
+output	NN	VP	NP
+and	CC	VP	NP
+ultra	NN	VP	NP
+quiet	JJ	VP	NP
+operation	NN	VP	NP
+.	.
+
+this	DT	NP
+Mac	NNP	NP
+Mini	NNP	NP
+does	VBZ	VP
+not	RB	VP
+have	VB	VP	VP
+a	DT	VP	VP	NP
+built-in	JJ	VP	VP	NP
+mic	JJ	VP	VP	NP
+,	,
+and	CC
+it	PRP	NP
+would	MD	VP
+seem	VB	VP	VP
+that	IN	VP	VP	SBAR
+its	PRP$	VP	VP	SBAR	NP	NP
+Mac	NNP	VP	VP	SBAR	NP	NP
+OS	NNP	VP	VP	SBAR	NP	NP-TMP
+10.9	CD	VP	VP	SBAR	NP	NP-TMP
+does	VBZ	VP	VP	SBAR	VP
+not	RB	VP	VP	SBAR	VP
+handle	VB	VP	VP	SBAR	VP	VP
+external	JJ	VP	VP	SBAR	VP	VP	NP
+microphones	NNS	VP	VP	SBAR	VP	VP	NP
+properly	RB	VP	VP	SBAR	VP	VP	ADVP
+.	.
+
+A	DT	NP	NP
+lot	NN	NP	NP
+of	IN	NP	PP
+features	NNS	NP	PP	NP	NP
+and	CC	NP	PP	NP	NP
+shortcuts	NNS	NP	PP	NP	NP
+on	IN	NP	PP	NP	PP
+the	DT	NP	PP	NP	PP	NP	NP
+MBP	NN	NP	PP	NP	PP	NP	NP
+that	IN	NP	PP	NP	PP	NP	SBAR
+I	PRP	NP	PP	NP	PP	NP	SBAR	NP
+was	VBD	NP	PP	NP	PP	NP	SBAR	VP
+never	RB	NP	PP	NP	PP	NP	SBAR	VP	ADVP
+exposed	VBN	NP	PP	NP	PP	NP	SBAR	VP	VP
+to	TO	NP	PP	NP	PP	NP	SBAR	VP	VP	VP
+on	IN	NP	PP	NP	PP	NP	SBAR	VP	VP	PP
+a	DT	NP	PP	NP	PP	NP	SBAR	VP	VP	PP	NP
+normal	JJ	NP	PP	NP	PP	NP	SBAR	VP	VP	PP	NP
+PC	NN	NP	PP	NP	PP	NP	SBAR	VP	VP	PP	NP
+.	.	NP
+
+Was	VBD	VP
+n't	RB	VP
+sure	JJ	VP	ADJP
+if	IN	VP	SBAR
+I	PRP	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+going	VBG	VP	SBAR	VP	VP
+to	TO	VP	SBAR	VP	VP	VP
+like	VB	VP	SBAR	VP	VP	VP	VP
+it	PRP	VP	SBAR	VP	VP	VP	VP	NP
+much	RB	VP	SBAR	VP	VP	VP	VP	ADJP
+less	RBR	VP	SBAR	VP	VP	VP	VP	ADJP
+love	VB	VP	SBAR	VP	VP	VP	VP	VP
+it	PRP	VP	SBAR	VP	VP	VP	VP	VP	NP
+so	IN	VP	SBAR	VP	VP	VP	VP	VP	SBAR
+I	PRP	VP	SBAR	VP	VP	VP	VP	VP	SBAR	NP
+went	VBD	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP
+to	TO	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP
+a	DT	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+local	JJ	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	ADJP
+best	JJS	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	ADJP
+buy	NN	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+and	CC	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP
+played	VBD	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP
+around	RP	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PRT
+with	IN	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP
+the	DT	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+IOS	NN	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+system	NN	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+on	IN	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP
+a	DT	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+Mac	NNP	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+Pro	FW	VP	SBAR	VP	VP	VP	VP	VP	SBAR	VP	NP
+and	CC
+it	PRP	NP
+was	VBD	VP
+totally	RB	VP	ADJP
+unique	JJ	VP	ADJP
+and	CC	VP	ADJP
+different	JJ	VP	ADJP
+.	.
+
+air	NN	NP
+has	VBZ	VP
+higher	JJR	VP	NP
+resolution	NN	VP	NP
+but	CC
+the	DT	NP
+fonts	NNS	NP
+are	VBP	VP
+small	JJ	VP	ADJP
+.	.
+
+working	VBG	VP
+with	IN	VP	PP
+Mac	NNP	VP	PP	NP
+is	VBZ	VP
+so	RB	VP	ADJP	ADJP
+much	RB	VP	ADJP	ADJP
+easier	JJR	VP	ADJP	ADJP
+,	,	VP	ADJP
+so	RB	VP	ADJP	ADJP
+many	JJ	VP	ADJP	ADJP
+cool	JJ	VP	ADJP	NP
+features	NNS	VP	ADJP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+the	DT	VP	NP	NP
+brightness	NN	VP	NP	NP
+and	CC	VP	NP
+adjustments	NNS	VP	NP	NP
+.	.
+
+I	PRP	NP
+only	RB	ADVP
+wish	VBP	VP
+this	DT	VP	SBAR	NP
+mac	NN	VP	SBAR	NP
+had	VBD	VP	SBAR	VP
+a	DT	VP	SBAR	VP	NP	NP
+CD/DVD	NN	VP	SBAR	VP	NP	NP
+player	NN	VP	SBAR	VP	NP	NP
+built	VBN	VP	SBAR	VP	NP	VP
+in	IN	VP	SBAR	VP	NP	VP	PP
+.	.
+
+The	DT	NP	NP
+only	JJ	NP	NP
+thing	NN	NP	NP
+I	PRP	NP	SBAR	NP
+miss	VBP	NP	SBAR	VP
+is	VBZ	VP
+that	IN	VP	SBAR
+my	PRP$	VP	SBAR	NP
+old	JJ	VP	SBAR	NP
+Alienware	NNP	VP	SBAR	NP
+laptop	NN	VP	SBAR	NP
+had	VBD	VP	SBAR	VP
+backlit	JJ	VP	SBAR	VP	NP
+keys	NNS	VP	SBAR	VP	NP
+.	.
+
+So	RB	ADJP
+happy	JJ	ADJP
+with	IN	ADJP	PP
+this	DT	ADJP	PP	NP
+purchase	NN	ADJP	PP	NP
+,	,
+I	PRP	NP
+just	RB	ADVP
+wish	VBP	VP
+it	PRP	VP	SBAR	NP
+came	VBD	VP	SBAR	VP
+with	IN	VP	SBAR	VP	PP
+Microsoft	NNP	VP	SBAR	VP	PP	NP
+Word	NNP	VP	SBAR	VP	PP	NP
+.	.
+
+It	PRP	NP
+has	VBZ	VP
+enough	RB	VP	NP
+memory	NN	VP	NP
+and	CC	VP	NP
+speed	NN	VP	NP
+to	TO	VP	VP
+run	VB	VP	VP	VP
+my	PRP$	VP	VP	VP	NP
+business	NN	VP	VP	VP	NP
+with	IN	VP	VP	VP	PP
+all	PDT	VP	VP	VP	PP	NP	NP
+the	DT	VP	VP	VP	PP	NP	NP
+flexibility	NN	VP	VP	VP	PP	NP	NP
+that	WDT	VP	VP	VP	PP	NP	SBAR	WHNP
+comes	VBZ	VP	VP	VP	PP	NP	SBAR	VP
+with	IN	VP	VP	VP	PP	NP	SBAR	VP	PP
+a	DT	VP	VP	VP	PP	NP	SBAR	VP	PP	NP
+laptop	NN	VP	VP	VP	PP	NP	SBAR	VP	PP	NP
+.	.
+
+The	DT	NP
+battery	NN	NP
+life	NN	NP
+is	VBZ	VP
+excellent	JJ	VP	ADJP
+,	,	PRN
+the	DT	PRN	NP
+display	NN	PRN	NP
+is	VBZ	PRN	VP
+excellent	JJ	PRN	VP	ADJP
+,	,	PRN
+and	CC
+downloading	VBG	NP
+apps	NNS	NP
+is	VBZ	VP
+a	DT	VP	NP
+breeze	NN	VP	NP
+.	.
+
+The	DT	NP	NP
+screen	NN	NP	NP
+,	,	NP
+the	DT	NP	NP	NP
+software	NN	NP	NP	NP
+and	CC	NP	NP
+the	DT	NP	NP	NP	NP
+smoothness	NN	NP	NP	NP	NP
+of	IN	NP	NP	NP	PP
+the	DT	NP	NP	NP	PP	NP
+operating	NN	NP	NP	NP	PP	NP
+system	NN	NP	NP	NP	PP	NP
+.	.	NP
+
+But	CC
+with	IN	PP
+this	DT	PP	NP
+laptop	NN	PP	NP
+,	,
+the	DT	NP
+bass	NN	NP
+is	VBZ	VP
+very	RB	VP	ADJP
+weak	JJ	VP	ADJP
+and	CC
+the	DT	NP
+sound	NN	NP
+comes	VBZ	VP
+out	RP	VP	PRT
+sounding	VBG	VP	VP
+tinny	JJ	VP	VP	ADJP
+.	.
+
+The	DT	NP
+built	VBN	NP	ADJP
+quality	NN	NP
+is	VBZ	VP
+really	RB	VP	ADJP
+good	JJ	VP	ADJP
+,	,
+I	PRP	NP
+was	VBD	VP
+so	RB	VP	ADJP
+Happy	JJ	VP	ADJP
+and	CC	VP	ADJP
+excited	JJ	VP	ADJP
+about	IN	VP	PP
+this	DT	VP	PP	NP
+Product	NN	VP	PP	NP
+.	.
+
+I	PRP	NP
+am	VBP	VP
+loving	VBG	VP	VP
+the	DT	VP	VP	NP
+fast	JJ	VP	VP	NP
+performance	NN	VP	VP	NP
+also	RB	VP	VP	ADVP
+.	.
+
+Further	RB	ADVP
+,	,
+this	DT	NP
+Mac	NNP	NP
+Mini	NNP	NP
+has	VBZ	VP
+a	DT	VP	NP	NP
+sloppy	JJ	VP	NP	NP
+Bluetooth	NNP	VP	NP	NP
+interface	NN	VP	NP	NP
+(	-LRB-	VP	NP	PRN
+courtesy	NN	VP	NP	PRN	NP	NP
+of	IN	VP	NP	PRN	NP	PP
+the	DT	VP	NP	PRN	NP	PP	NP
+Mac	NNP	VP	NP	PRN	NP	PP	NP
+OS	NNP	VP	NP	PRN	NP	PP	NP
+)	-RRB-	VP	NP	PRN
+and	CC
+the	DT	NP
+range	NN	NP
+is	VBZ	VP
+poor	JJ	VP	ADJP
+.	.
+
+My	PRP$	NP
+only	JJ	NP
+gripe	NN	NP
+would	MD	VP
+be	VB	VP	VP
+the	DT	VP	VP	NP
+need	NN	VP	VP	NP
+to	TO	VP	VP	NP	VP
+add	VB	VP	VP	NP	VP	VP
+more	JJR	VP	VP	NP	VP	VP	NP
+RAM	NNP	VP	VP	NP	VP	VP	NP	NX
+.	.
+
+Fine	JJ	FRAG	ADJP
+if	IN	FRAG	SBAR
+you	PRP	FRAG	SBAR	NP
+have	VBP	FRAG	SBAR	VP
+a	DT	FRAG	SBAR	VP	NP
+touch	NN	FRAG	SBAR	VP	NP
+screen	NN	FRAG	SBAR	VP	NP
+.	.	FRAG
+
+This	DT	NP
+by	IN	ADVP
+far	RB	ADVP
+beats	VBZ	VP
+any	DT	VP	NP
+computer	NN	VP	NP
+out	RP	VP	PRT
+on	IN	VP	PP
+the	DT	VP	PP	NP	NP	NP
+market	NN	VP	PP	NP	NP	NP
+today	NN	VP	PP	NP	NP	NP
+built	VBN	VP	PP	NP	NP	VP
+well	RB	VP	PP	NP	NP	VP	ADVP
+,	,	VP	PP	NP
+battery	NN	VP	PP	NP	NP
+life	NN	VP	PP	NP	NP
+AMAZING	NNP	VP	PP	NP	NP
+.	.
+
+The	DT	NP
+OS	NNP	NP
+is	VBZ	VP	VP
+easy	JJ	VP	VP	ADJP
+,	,	VP
+and	CC	VP
+offers	VBZ	VP	VP
+all	DT	VP	VP	NP	NP
+kinds	NNS	VP	VP	NP	NP
+of	IN	VP	VP	NP	PP
+surprises	NNS	VP	VP	NP	PP	NP
+.	.
+
+A	DT	NP
+veryimportant	JJ	NP
+feature	NN	NP
+is	VBZ	VP
+Firewire	NNP	VP	NP	NP
+800	CD	VP	NP	NP
+which	WDT	VP	NP	SBAR	WHNP
+in	IN	VP	NP	SBAR	PP
+my	PRP$	VP	NP	SBAR	PP	NP
+experience	NN	VP	NP	SBAR	PP	NP
+works	VBZ	VP	NP	SBAR	VP
+better	RBR	VP	NP	SBAR	VP	ADVP
+then	RB	VP	NP	SBAR	VP	ADVP
+USB3	NN	VP	NP	SBAR	VP	NP	NP
+(	-LRB-	VP	NP	SBAR	VP	NP	PRN
+in	IN	VP	NP	SBAR	VP	NP	PRN	SBAR
+PC	NN	VP	NP	SBAR	VP	NP	PRN	SBAR	NP
+enabled	VBD	VP	NP	SBAR	VP	NP	PRN	SBAR	VP
+with	IN	VP	NP	SBAR	VP	NP	PRN	SBAR	VP	PP
+USB3	NN	VP	NP	SBAR	VP	NP	PRN	SBAR	VP	PP	NP
+)	-RRB-	VP	NP	SBAR	VP	NP	PRN
+I	PRP	VP	NP	SBAR	VP	NP	SBAR	NP
+was	VBD	VP	NP	SBAR	VP	NP	SBAR	VP
+not	RB	VP	NP	SBAR	VP	NP	SBAR	VP
+originally	RB	VP	NP	SBAR	VP	NP	SBAR	VP	VP	ADVP
+sold	VBN	VP	NP	SBAR	VP	NP	SBAR	VP	VP
+on	IN	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP
+the	DT	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP	NP
+MAC	NNP	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP	NP
+OS	NN	VP	NP	SBAR	VP	NP	SBAR	VP	VP	PP	NP
+I	PRP	NP
+felt	VBD	VP
+it	PRP	VP	SBAR	NP
+was	VBD	VP	SBAR	VP
+inferior	JJ	VP	SBAR	VP	ADJP
+in	IN	VP	SBAR	VP	ADJP	PP
+many	JJ	VP	SBAR	VP	ADJP	PP	NP
+ways	NNS	VP	SBAR	VP	ADJP	PP	NP
+To	TO	VP	SBAR	VP	PP
+Windows	NNP	VP	SBAR	VP	PP	NP
+7	CD	VP	SBAR	VP	PP	NP
+.	.
+
+I	PRP	NP
+like	VBP	VP
+iTunes	NNP	VP	NP	NP
+,	,	VP	NP
+the	DT	VP	NP	NP
+apparent	JJ	VP	NP	NP
+security	NN	VP	NP	NP
+,	,	VP	NP
+the	DT	VP	NP	NP
+Mini	NNP	VP	NP	NP
+form	NN	VP	NP	NP
+factor	NN	VP	NP	NP
+,	,	VP	NP
+all	PDT	VP	NP	NP	NP
+the	DT	VP	NP	NP	NP
+nice	JJ	VP	NP	NP	NP
+graphics	NNS	VP	NP	NP	NP
+stuff	NN	VP	NP	NP	NP
+.	.
+
+After	IN	PP
+replacing	VBG	PP	VP
+the	DT	PP	VP	NP	NP
+spinning	VBG	PP	VP	NP	NP
+hard	JJ	PP	VP	NP	NP
+disk	NN	PP	VP	NP	NP
+with	IN	PP	VP	NP	PP
+an	DT	PP	VP	NP	PP	NP
+ssd	NN	PP	VP	NP	PP	NP
+drive	NN	PP	VP	NP	PP	NP
+,	,
+my	PRP$	NP
+mac	NN	NP
+is	VBZ	VP
+just	RB	VP	ADVP
+flying	VBG	VP	VP
+.	.
+
+I	PRP	NP
+know	VBP	VP
+some	DT	VP	SBAR	NP
+people	NNS	VP	SBAR	NP
+complained	VBD	VP	SBAR	VP
+about	IN	VP	SBAR	VP	PP
+HDMI	NN	VP	SBAR	VP	PP	NP
+issues	NNS	VP	SBAR	VP	PP	NP
+but	CC
+they	PRP	NP
+released	VBD	VP
+a	DT	VP	NP
+firmware	NN	VP	NP
+patch	NN	VP	NP
+to	TO	VP	VP
+address	VB	VP	VP	VP
+that	DT	VP	VP	VP	NP
+issue	NN	VP	VP	VP	NP
+.	.
+
+With	IN	PP
+the	DT	PP	NP	NP
+needs	NNS	PP	NP	NP
+of	IN	PP	NP	PP
+a	DT	PP	NP	PP	NP
+professional	JJ	PP	NP	PP	NP
+photographer	NNP	PP	NP	PP	NP
+I	PRP	NP
+generally	RB	ADVP
+need	VBP	VP
+to	TO	VP	VP
+keep	VB	VP	VP	VP
+up	RP	VP	VP	VP	PRT
+with	IN	VP	VP	VP	PP
+the	DT	VP	VP	VP	PP	NP
+best	JJS	VP	VP	VP	PP	NP
+specs	NNS	VP	VP	VP	PP	NP
+.	.
+
+packing	NN	NP
+and	CC	NP
+everything	NN	NP
+was	VBD	VP
+perfect	JJ	VP	ADJP
+
+I	PRP	NP
+called	VBD	VP
+Toshiba	NNP	VP	NP	NP
+where	WRB	VP	NP	SBAR	WHADVP
+I	PRP	VP	NP	SBAR	NP
+gave	VBD	VP	NP	SBAR	VP
+them	PRP	VP	NP	SBAR	VP	NP
+the	DT	VP	NP	SBAR	VP	NP
+serial	JJ	VP	NP	SBAR	VP	NP
+number	NN	VP	NP	SBAR	VP	NP
+and	CC
+they	PRP	NP
+informed	VBD	VP
+me	PRP	VP	NP
+that	IN	VP	SBAR
+they	PRP	VP	SBAR	NP
+were	VBD	VP	SBAR	VP
+having	VBG	VP	SBAR	VP	VP
+issues	NNS	VP	SBAR	VP	VP	NP	NP
+with	IN	VP	SBAR	VP	VP	NP	PP
+the	DT	VP	SBAR	VP	VP	NP	PP	NP
+mother	NN	VP	SBAR	VP	VP	NP	PP	NP
+boards	NNS	VP	SBAR	VP	VP	NP	PP	NP
+.	.
+
+I	PRP	NP
+seem	VBP	VP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+having	VBG	VP	VP	VP	VP
+repeat	NN	VP	VP	VP	VP	NP
+problems	NNS	VP	VP	VP	VP	NP
+as	IN	VP	VP	VP	VP	SBAR
+the	DT	VP	VP	VP	VP	SBAR	NP	NP
+Mother	NNP	VP	VP	VP	VP	SBAR	NP	NP
+Board	NNP	VP	VP	VP	VP	SBAR	NP	NP
+in	IN	VP	VP	VP	VP	SBAR	NP	PP
+this	DT	VP	VP	VP	VP	SBAR	NP	PP	NP
+one	CD	VP	VP	VP	VP	SBAR	NP	PP	NP
+is	VBZ	VP	VP	VP	VP	SBAR	VP
+diagnosed	VBN	VP	VP	VP	VP	SBAR	VP	VP
+as	IN	VP	VP	VP	VP	SBAR	VP	VP	PP
+faulty	JJ	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP
+,	,	VP	VP	VP	VP	SBAR	VP	VP	PP	NP
+related	JJ	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP	ADJP
+to	TO	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP	ADJP	PP
+the	DT	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP	ADJP	PP	NP
+graphics	NNS	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP	ADJP	PP	NP
+card	NN	VP	VP	VP	VP	SBAR	VP	VP	PP	NP	NP
+.	.
+
+It	PRP	NP
+also	RB	ADVP
+comes	VBZ	VP
+with	IN	VP	PP
+4G	NN	VP	PP	NP	NP
+of	IN	VP	PP	NP	PP
+RAM	NNP	VP	PP	NP	PP	NP
+but	CC
+if	IN	SBAR
+you	PRP	SBAR	NP
+'re	VBP	SBAR	VP
+like	IN	SBAR	VP	PP
+me	PRP	SBAR	VP	PP	NP
+you	PRP	NP
+want	VBP	VP
+to	TO	VP	VP
+max	VB	VP	VP	VP
+that	DT	VP	VP	VP	NP
+out	RP	VP	VP	VP	PRT
+so	IN
+I	PRP	NP
+immediately	RB	ADVP
+put	VBD	VP
+8G	NN	VP	NP	NP
+of	IN	VP	NP	PP
+RAM	NNP	VP	NP	PP	NP
+in	IN	VP	PP
+her	PRP$	VP	PP	NP
+and	CC
+I	PRP	NP
+'ve	VBP	VP
+never	RB	VP	ADVP
+used	VBN	VP	VP
+a	DT	VP	VP	NP	NP
+computer	NN	VP	VP	NP	NP
+that	WDT	VP	VP	NP	SBAR	WHNP
+performs	VBZ	VP	VP	NP	SBAR	VP
+better	JJR	VP	VP	NP	SBAR	VP	ADJP
+.	.
+
+This	DT	NP
+computer	NN	NP
+is	VBZ	VP
+also	RB	VP	ADVP
+awesome	JJ	VP	NP	ADJP
+for	IN	VP	NP	ADJP	PP
+my	PRP$	VP	NP	ADJP	PP	NP
+sons	NNS	VP	NP	ADJP	PP	NP
+virtual	JJ	VP	NP
+home	NN	VP	NP
+schooling	NN	VP	NP
+.	.
+
+Cost	NN	NP
+is	VBZ	VP
+more	RBR	VP	ADVP
+as	IN	VP	ADVP
+compared	VBN	VP	PP
+to	TO	VP	PP	PP
+other	JJ	VP	PP	PP	NP
+brands	NNS	VP	PP	PP	NP
+.	.
+
+also	RB	NP	NP	FRAG	FRAG	ADVP
+...	:	NP	NP	FRAG	FRAG
+-	:	NP	NP	FRAG
+excellent	JJ	NP	NP	FRAG	FRAG	NP
+operating	NN	NP	NP	FRAG	FRAG	NP
+system	NN	NP	NP	FRAG	FRAG	NP	NP
+--	:	NP	NP	FRAG	FRAG	NP
+size	NN	NP	NP	FRAG	FRAG	NP	NP	NP	NP
+and	CC	NP	NP	FRAG	FRAG	NP	NP	NP	NP
+weight	NN	NP	NP	FRAG	FRAG	NP	NP	NP	NP
+for	IN	NP	NP	FRAG	FRAG	NP	NP	NP	PP
+optimal	JJ	NP	NP	FRAG	FRAG	NP	NP	NP	PP	NP
+mobility	NN	NP	NP	FRAG	FRAG	NP	NP	NP	PP	NP
+--	:	NP	NP	FRAG	FRAG	NP	NP
+excellent	JJ	NP	NP	FRAG	FRAG	NP	NP	NP	NP
+durability	NN	NP	NP	FRAG	FRAG	NP	NP	NP	NP
+of	IN	NP	NP	FRAG	FRAG	NP	NP	NP	PP
+the	DT	NP	NP	FRAG	FRAG	NP	NP	NP	PP	NP
+battery	NN	NP	NP	FRAG	FRAG	NP	NP	NP	PP	NP
+--	:	NP	NP	FRAG	FRAG	NP
+the	DT	NP	NP	FRAG	FRAG	NP	NP
+functions	NNS	NP	NP	FRAG	FRAG	NP	NP
+provided	VBN	NP	PP
+by	IN	NP	PP	PP
+the	DT	NP	PP	PP	NP
+trackpad	NN	NP	PP	PP	NP
+is	VBZ	VP
+unmatched	JJ	VP	ADJP
+by	IN	VP	ADJP	PP
+any	DT	VP	ADJP	PP	NP
+other	JJ	VP	ADJP	PP	NP
+brand-	JJ	VP	ADJP	PP	NP
+
+This	DT	NP
+hardware	NN	NP
+seems	VBZ	VP
+to	TO	VP	VP
+be	VB	VP	VP	VP
+better	JJR	VP	VP	VP	ADJP	ADJP	ADJP
+than	IN	VP	VP	VP	ADJP	ADJP	ADJP	PP
+the	DT	VP	VP	VP	ADJP	ADJP	ADJP	PP	NP
+iMac	NNP	VP	VP	VP	ADJP	ADJP	ADJP	PP	NP
+in	IN	VP	VP	VP	ADJP	ADJP	PP
+that	DT	VP	VP	VP	ADJP	ADJP	PP	SBAR	WHNP
+it	PRP	VP	VP	VP	ADJP	ADJP	PP	SBAR	NP
+is	VBZ	VP	VP	VP	ADJP	ADJP	PP	SBAR	VP
+n't	RB	VP	VP	VP	ADJP	ADJP	PP	SBAR	VP
+$	$	VP	VP	VP	ADJP	ADJP	PP	SBAR	VP	NP
+1400	CD	VP	VP	VP	ADJP	ADJP	PP	SBAR	VP	NP
+and	CC	VP	VP	VP	ADJP
+smaller	JJR	VP	VP	VP	ADJP	ADJP
+.	.
+
+I	PRP	NP
+'ve	VBP	VP	VP
+had	VBD	VP	VP	VP
+it	PRP	VP	VP	VP	NP
+for	IN	VP	VP	VP	PP
+about	IN	VP	VP	VP	PP	PP
+2	CD	VP	VP	VP	PP	PP	ADVP	NP
+months	NNS	VP	VP	VP	PP	PP	ADVP	NP
+now	RB	VP	VP	VP	PP	PP	ADVP
+and	CC	VP
+found	VBD	VP	VP
+no	DT	VP	VP	NP
+issues	NNS	VP	VP	NP
+with	IN	VP	VP	PP
+software	NN	VP	VP	PP	NP
+or	CC	VP	VP	PP	NP
+updates	NNS	VP	VP	PP	NP
+.	.
+
+the	DT	NP
+latest	JJS	NP
+version	NN	NP
+does	VBZ	VP
+not	RB	VP
+have	VB	VP	VP
+a	DT	VP	VP	NP
+disc	NN	VP	VP	NP
+drive	NN	VP	VP	NP
+.	.
+
+Screen	NN	X	NP
+-	:	X
+although	IN	X	FRAG	SBAR
+some	DT	X	FRAG	SBAR	NP
+people	NNS	X	FRAG	SBAR	NP
+might	MD	X	FRAG	SBAR	VP
+complain	VB	X	FRAG	SBAR	VP	VP
+about	RB	X	FRAG	SBAR	VP	VP	NP	NP
+low	JJ	X	FRAG	SBAR	VP	VP	NP	NP
+res	NNS	X	FRAG	SBAR	VP	VP	NP	NP
+which	WDT	X	FRAG	SBAR	VP	VP	NP	SBAR	WHNP
+I	PRP	X	FRAG	SBAR	VP	VP	NP	SBAR	NP
+think	VBP	X	FRAG	SBAR	VP	VP	NP	SBAR	VP
+is	VBZ	X	FRAG	SBAR	VP	VP	NP	SBAR	VP	SBAR	VP
+ridiculous	JJ	X	FRAG	SBAR	VP	VP	NP	SBAR	VP	SBAR	VP	ADJP
+.	.	X
+
