@@ -8,8 +8,8 @@ echo DEVICE="$DEVICE"
 rm -rf model*
 mkdir -p models
 $PYTHON aste/main.py \
-  --names 14lap,14lap,14lap,14lap,14lap,14res,14res,14res,14res,14res,15res,15res,15res,15res,15res,16res,16res,16res,16res,16res \
-  --seeds 0,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,2,3,4\
+  --names 14lap,14res,15res,16res\
+  --seeds 0,0,0,0\
   --trainer__cuda_device "$DEVICE" \
   --trainer__num_epochs 10 \
   --trainer__checkpointer__num_serialized_models_to_keep 1 \
@@ -23,7 +23,7 @@ $PYTHON aste/main.py \
   --model__modules__relation__use_pair_feature_cls False \
   --model__modules__relation__use_span_pair_aux_task False \
   --model__modules__relation__use_span_loss_for_pruners False \
-  --model__loss_weights__ner 0.5 \
+  --model__loss_weights__ner 1.0 \
   --model__modules__relation__spans_per_word 0.5 \
   --model__modules__relation__neg_class_weight -1
 
