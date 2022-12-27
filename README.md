@@ -1,6 +1,6 @@
 ## SBSK-ASTE
 
-Code for our paper [Improving Span-based Aspect Sentiment Triplet Extraction with Abundant Syntax Knowledge](https://link.springer.com/article/10.1007/s11063-022-11115-x)
+Code for our paper [Improving Span-based Aspect Sentiment Triplet Extraction with Abundant Syntax Knowledge](https://link.springer.com/article/10.1007/s11063-022-11115-x).
 
 ### Usage
 
